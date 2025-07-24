@@ -64,6 +64,16 @@ That helps. Later you say:
 > Call out default settings explicitly—don’t assume they know what’s preconfigured.
 > Make escalation criteria easy to skim—use bold.
 
+But just when things seem smooth, the model misfires:
+
+> "The integrated ticketing solution ensures streamlined service operations for end-user satisfaction."
+
+You stop and clarify:
+
+> That sounds like marketing copy. Make it sound like something I’d say to a peer. Focus on *what they’re actually doing*.
+
+That moment of friction matters. It reminds you: cloning isn’t “paste and go.” It’s a coaching process. That’s how your guidance gets sharper.
+
 Little by little, you’re transferring your editorial instincts. The draft gets better. But now you’ve got a different problem: if you move on to the next role guide tomorrow, will you remember everything you just taught the model?
 
 Instead of starting over, you capture it. You ask:
@@ -89,7 +99,11 @@ And the model replies:
 You copy that list into a markdown file:
 `/Documentation/Artifacts/role-guide-style.md`
 
-Now, when you start the Triage Lead Guide next week, you don’t have to re-coach the model from scratch. You drop that file into your prompt in ChatGPT, and the AI picks up where you left off. Your guidance becomes portable. Your standards become repeatable.
+Now, when you start the Triage Lead Guide next week, you don’t have to re-coach the model from scratch. You drop that file into your prompt in ChatGPT:
+
+> Here’s the style guide we used for the Service Desk role. Use this as your baseline when drafting for the Triage Lead.
+
+The AI picks up where you left off. Your guidance becomes portable. Your standards become repeatable.
 
 And when you make new corrections—when you catch something the AI missed—you add those notes, regenerate the list, and update the file. The artifact evolves. You’re not just capturing decisions—you’re curating a reusable asset.
 
@@ -109,6 +123,9 @@ Cloning isn’t about getting perfect results in one prompt. It’s about buildi
 > Cloning is cumulative.
 
 You’re not just adjusting responses—you’re **building a system of thought** the model can carry forward.
+
+> Not sure if something’s worth saving? Here’s a test:
+> *If it made this task easier—and you wish you’d had it earlier—it’s probably a good artifact.*
 
 ---
 
