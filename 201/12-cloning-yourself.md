@@ -1,6 +1,6 @@
 # Cloning Yourself
 
-### The Dilemma of Doug Kinney
+## The Dilemma of Doug Kinney
 
 In the 1996 comedy *Multiplicity*, Michael Keaton plays Doug Kinney, a frazzled construction manager whose life is unraveling under the weight of work, family, and constant demands on his time. When a scientist offers him the chance to clone himself, Doug jumps at the opportunity. Finally, he can be in two places at once. As the story unfolds, Doug doesn’t stop at one clone—he creates multiple. Each new version of himself is a little different, a little more eccentric, and a little less capable than the original. But the motivation behind it is unmistakably human: **he wants help that thinks like he does.**
 
@@ -14,17 +14,7 @@ This chapter is about learning to do just that—**right inside ChatGPT**. You�
 
 ---
 
-### From Piloting a Suit to Mentoring a Team
-
-Up to this point, we’ve talked about using AI like an Iron Man suit: powerful, amplifying, and under your control. You give the commands, and the suit responds. But now the metaphor is shifting. What if, instead of a suit you pilot, you were gaining actual teammates—moldable, trainable, eager-to-please teammates who can learn how to work the way *you* want them to?
-
-That’s what AI offers when you use it well. You’re not just piloting a tool. You’re cloning yourself.
-
-And that shift happens *within ChatGPT*. One message at a time.
-
----
-
-### Virtual Recruits: Eager, Pliable, and Complaint-Free
+## Virtual Recruits: Eager, Pliable, and Complaint-Free
 
 These virtual teammates don’t come with egos or habits of their own. They don’t argue. They don’t forget your style preferences. They want to be shaped. They *want* to follow the playbook you hand them.
 
@@ -32,7 +22,7 @@ If you think of AI as cheap labor that scales endlessly, you might miss the real
 
 ---
 
-### Mentoring Is Specifying Is Training
+## Mentoring Is Specifying Is Training
 
 This is why working with an LLM matters.
 
@@ -46,7 +36,7 @@ That growing familiarity pays off. It’s how you build judgment into your clone
 
 ---
 
-### Example: From One Guide to a Team Toolkit
+## Example: From One Guide to a Team Toolkit
 
 Let’s make this more concrete.
 
@@ -111,13 +101,13 @@ This is what cloning yourself actually looks like. Not a perfect replica of your
 
 ---
 
-### Not Just Good Prompting — This Is Cloning
+## Not Just Good Prompting — This Is Cloning
 
 Let’s be clear: **you haven’t just prompted well**. You’ve done something more strategic. You’ve taught the model how to work like you do—and then captured that guidance so it can be reused. That’s the heart of cloning.
 
 The checklist the model produced isn’t just a summary. It’s an artifact. A portable, repeatable spec that now holds your standards. When you paste it into a future prompt, you're not starting over—you’re *reloading your judgment*. That’s the difference.
 
-Cloning isn’t about getting perfect results in one prompt. It’s about building **tools from your preferences**, then deploying those tools again and again.
+Cloning isn’t about getting perfect results in one prompt. It’s about building **teammates from your preferences**, then deploying those teammates again and again.
 
 > Good prompting is reactive.
 > Cloning is cumulative.
@@ -129,7 +119,7 @@ You’re not just adjusting responses—you’re **building a system of thought*
 
 ---
 
-### Yes, You’re Still in the Loop—And That’s the Point
+## Yes, You’re Still in the Loop—And That’s the Point
 
 Now, you might be wondering: if I’m still directing every step—telling the model when to switch roles or apply a guide—have I really cloned myself?
 
@@ -139,15 +129,13 @@ And that’s exactly where you should be right now.
 
 Because if you can understand how to break the process apart and run it manually—**as a series of deliberate, structured exchanges inside ChatGPT**—then you’re already on the path to automation. You're already learning which parts could be wired together later. Which connections are stable. Which specs are strong enough to stand on their own.
 
-The shift from manual to automatic doesn’t start with agents. It starts with *you*, running the playbook by hand. Building clarity. Testing the steps. Proving that your standards can travel from one stage to the next.
-
 Later—yes—you could string those roles together. Hand off one AI’s output to another. Add conditional logic, review gates, even tool access. But that’s orchestration. That’s 301 material.
 
 Right now, you’re doing something just as powerful: **training your system, one reusable spec at a time—right in the chat**.
 
 ---
 
-### Now Scale It: What a Pro Team Looks Like
+## Now Scale It
 
 Imagine you had a massive department. Unlimited resources. Your job is to produce next-level internal guides that set the bar for clarity, utility, and audience alignment. How would you run it?
 
