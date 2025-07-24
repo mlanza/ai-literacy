@@ -20,9 +20,9 @@ A waypoint might be a messy outline, a tone guide, a first-pass summary, or a cr
 
 Waypoints are checkpoints for quality and alignment. Each one is a chance to:
 
-- Shape outcomes intentionally
-- Halt missteps before they become entrenched
-- Capture your standards as reusable artifacts
+* Shape outcomes intentionally
+* Halt missteps before they become entrenched
+* Capture your standards as reusable artifacts
 
 This is the hidden value of process: not just throughput, but **thought visibility**. Each stage creates space for waypoints, and each waypoint gives you leverage.
 
@@ -30,23 +30,51 @@ That’s how structured collaboration works—not by skipping ahead, but by know
 
 ---
 
-## SOPs Are Not for Bots — They’re for Workers
+## SOPs: For Workers Of All Flavors
 
-It’s tempting to rewrite everything around AI. To build special procedures for “virtual teammates.” To treat chatbots like a new species of employee that demands custom processes.
+Most workplaces already use SOPs—**standard operating procedures**—to keep things consistent. Whether you're onboarding a new employee, drafting a report, or handling a system outage, SOPs describe what needs to happen, in what order, and to what standard. They're checklists for doing the work right.
 
-But that’s backwards.
+Traditionally, SOPs were written for humans: concise, easy to follow, and clear enough to keep a team aligned. The point wasn’t creativity—it was **reliability**. A well-written SOP reduced errors, made training easier, and ensured predictable quality across people, projects, and time.
 
-> **SOPs should be worker-agnostic.**
-> Whether the actor is human or virtual shouldn’t matter—what matters is that they can understand the step and perform it to standard.
+That hasn’t changed.
 
-A good SOP describes the *what* and the *why*. It outlines what quality looks like. But it doesn’t prescribe *who* performs it. And it definitely doesn’t wrap itself around the quirks of a specific tool.
+But now, something subtle has:
+**The exact same SOP you wrote for your team can now be *run* by a machine.**
 
-That’s not to say AI is invisible. Some steps benefit greatly from virtual teammates—ones who can synthesize, transform, or iterate rapidly. But the point is this:
+And that makes all the difference.
 
-> **When you learn how to pilot AI well, you stop needing AI-specific processes.**
-> You start seeing work as modular. You delegate by skill, not species.
+You don’t need to rewrite it in a different format. You don’t need to create a separate “AI workflow.” You simply hand it to the model—just as you would a new employee—and say, *“We’re going to follow this together.”* The AI reads the steps. It listens for your cues. And it performs the work, one stage at a time.
 
-And when you understand how to delegate to AI, you can **slot it seamlessly into your process**—without having to rewrite that process around it.
+This is what we mean when we say your SOPs now have **runtime**.
+They don’t just sit in a folder. They *do work*—because the model can read them, follow them, and help execute each step in real time.
+
+---
+
+## SOPs Are Not for Bots
+
+SOPs have always been written for people—clear, action-oriented steps that help workers perform a task reliably and consistently. They’re written in plain language. They assume no special access to your brain. And they avoid tool-specific instructions unless absolutely necessary.
+
+That same approach works beautifully for AI.
+
+In fact, **you shouldn’t write AI-specific SOPs at all.** Not unless you’re building automation scripts. For now, your goal is simple: **keep SOPs worker-agnostic.**
+
+Whether the actor is human or virtual doesn’t matter—what matters is that the work gets done to spec.
+
+The old style of SOP writing still applies:
+
+* Describe *what* needs to happen
+* Explain *why* it matters
+* Define what “good” looks like
+* Leave room for different actors to carry it out
+
+That’s exactly what makes SOPs so effective when AI enters the picture. A virtual teammate doesn’t need special instructions or a new format. It just needs access to the same clear, thoughtful SOP you’d give a colleague.
+
+> **Well-written SOPs don’t need to name the worker. They name the work.**
+
+And that’s the point: when you understand how to delegate well—human or virtual—you don’t have to change your process. You don’t build around the actor. You build around the outcome.
+
+What changes is *who can run the steps*.
+And increasingly, that includes the model sitting in your chat window.
 
 ---
 
@@ -167,35 +195,44 @@ You are building a well-oiled machine. And every part of it runs on the specs yo
 
 ---
 
-## Clones Can Review Each Other
+## Bots Can Review Each Other
 
-And it gets even better: your clones can *critique* each other.
+In the last chapter, we talked about **cloning yourself**—building reusable specifications that let the model act more like a trained version of you. But now that we’re working at the process level, it’s time to shift the metaphor.
+
+You’re no longer just shaping clones of your own judgment.
+You’re **assigning bots to specific roles**—modular, goal-oriented workers that slot into your process and carry out defined tasks.
+
+These bots aren’t characters or personalities. They’re seat-fillers. Specialists. Helpers trained to do *just this part* of the work, *in this way*, to *this standard*. And that makes them interchangeable, inspectable, and—most importantly—**reviewable by each other**.
 
 People often talk about AI’s weaknesses—hallucinations, misfires, overconfidence. And those are real. But here’s the twist: people have those weaknesses too. That’s why process exists. It creates **stages**. It defines **roles**. It introduces **checks**. The whole point of a well-structured SOP is to embed those controls into the flow of work.
 
-What’s remarkable is that AI doesn’t just participate in that structure—it *thrives* in it.
+What’s remarkable is that bots don’t just fit into that structure—they *thrive* in it.
 
-The same AI that makes a mistake in one role can be told to put on a different hat—to check facts, to question assumptions, to search for support—and it does. Not because it “feels bad,” but because it’s following the system you designed.
+The same bot that makes a mistake in one role can be reassigned to another—to check facts, to question assumptions, to flag inconsistencies—and it does. Not because it "feels bad," but because it’s following the system you designed.
 
-> It’s kind of funny, honestly. The same knucklehead that hallucinated the problem is now the one catching it—because the process told them to.
+> It’s kind of funny, honestly. The same bot that hallucinated the problem is now the one catching it—because the process told them to.
 
 Imagine this:
 
-- One clone drafts a summary.
-- A second clone fact-checks it against policy or source material.
-- A third applies tone and formatting rules.
+* One bot drafts a summary
+* A second bot fact-checks it against policy or source material
+* A third bot applies tone and formatting rules
 
-That’s not magic. That’s *structured reuse of intelligence*. Each clone running a different version of your spec, performing a role in your system.
+That’s not magic. That’s **structured reuse of intelligence**. Each bot runs a different version of your spec, performing a specific function inside your system.
 
-And if one messes up? The system catches it—because your waypoints are designed to make the invisible visible.
+And if one slips up? Another catches it. Because your waypoints are designed to make the invisible visible.
 
-Even better? You can have the model critique *itself* from another angle. With just a prompt, it can switch modes:
+Even better, the same bot can switch roles midstream. With just a prompt, it changes hats:
 
 > "Now review that summary for unsupported claims. Highlight anything that might require citation."
 
 It can even run a web search to confirm facts—if you ask it to.
 
-The point is, process enables that. Not faith in the model, but confidence in the **system** you’ve built around it.
+That’s not just flexibility. It’s **role awareness**.
+And it only works because your process is sound.
+
+The takeaway: these bots aren’t sidekicks. They’re workers.
+And if your SOPs are clear, they know exactly what seat to fill.
 
 ---
 
@@ -226,9 +263,9 @@ Everything you’ve seen in this chapter—delegating by step, reviewing interme
 
 At the core, every AI-assisted workflow you’ve run so far is powered by three ingredients:
 
-- **Brain**: the large language model (LLM) doing the reasoning and generation
-- **Memory**: the prompt, SOPs, style guides, and uploaded artifacts you’ve provided
-- **Tools**: optional add-ons that let the AI take direct action—searching files, querying systems, triggering automations
+* **Brain**: the large language model (LLM) doing the reasoning and generation
+* **Memory**: the prompt, SOPs, style guides, and uploaded artifacts you’ve provided
+* **Tools**: optional add-ons that let the AI take direct action—searching files, querying systems, triggering automations
 
 In this book, we’ve mostly stayed in the first two zones: brain and memory. You’ve learned how to prompt deliberately, structure inputs, and create reusable artifacts like SOPs and tone guides. That’s been the focus—**working manually but meaningfully**.
 
