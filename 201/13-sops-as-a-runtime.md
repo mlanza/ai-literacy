@@ -80,7 +80,6 @@ You begin the session by pasting in the SOP:
 
 > **Prompt:**
 > *Here’s our SOP for drafting product docs. You’re to follow it with me as I build documentation for our identity platform. Wait for my cue before each step. Let me know once you’ve read it.*
->
 > \[uploads SOP]
 
 ChatGPT replies:
@@ -164,7 +163,7 @@ You are building a well-oiled machine. And every part of it runs on the specs yo
 
 ---
 
-## Bots Can Review Each Other
+## Multiple Hats, Fewer Blind Spots
 
 In the last chapter, we talked about **cloning yourself**—building reusable specifications that let the model act more like a trained version of you. But now that we’re working at the process level, it’s time to shift the metaphor.
 
@@ -177,9 +176,9 @@ People often talk about AI’s weaknesses—hallucinations, misfires, overconfid
 
 What’s remarkable is that bots don’t just fit into that structure—they *thrive* in it.
 
-The same bot that makes a mistake in one role can be reassigned to another—to check facts, to question assumptions, to flag inconsistencies—and it does. Not because it "feels bad," but because it’s following the system you designed.
+The same bot that makes a mistake in one role can be reassigned to another—to check facts, to question assumptions, to flag inconsistencies—and it does. Not because it “feels bad,” but because it’s following the system you designed.
 
-> It’s kind of funny, honestly. The same bot that hallucinated the problem is now the one catching it—because the process told them to.
+Funny thing, really: the same model that introduced the issue often catches it a few moments later. All it took was asking it to wear a different hat.
 
 Imagine this:
 
