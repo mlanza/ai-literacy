@@ -51,7 +51,8 @@ Most issues people experience with large language models aren't technical — th
 
 Large language models are remarkably good at reorganizing, reframing, and rephrasing. In fact, they’re tailor-made for shaping messy input into something cleaner, more useful, and easier to work with.
 
-That’s what makes context engineering so powerful: **the same tool that struggles with overloaded memory is also the best tool for cleaning it up**.
+That’s what makes context engineering so powerful:
+> The same tool that struggles with overloaded memory is also the best tool for cleaning it up.
 
 The heart of most context problems isn’t just size — it’s structure. What’s in memory may be incomplete, disorganized, repetitive, or off-topic. The model doesn’t know what to keep or discard unless you help shape it.
 
