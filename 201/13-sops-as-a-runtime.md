@@ -30,51 +30,21 @@ That’s how structured collaboration works—not by skipping ahead, but by know
 
 ---
 
-## SOPs: For Workers Of All Flavors
+## SOPs Are for Workers
 
-Most workplaces already use SOPs—**standard operating procedures**—to keep things consistent. Whether you're onboarding a new employee, drafting a report, or handling a system outage, SOPs describe what needs to happen, in what order, and to what standard. They're checklists for doing the work right.
+Standard operating procedures were always designed for people—clear, step-by-step guides to help workers produce consistent, reliable outcomes. What’s changed is not the format, but the scope of who counts as a “worker.”
 
-Traditionally, SOPs were written for humans: concise, easy to follow, and clear enough to keep a team aligned. The point wasn’t creativity—it was **reliability**. A well-written SOP reduced errors, made training easier, and ensured predictable quality across people, projects, and time.
+Today, that includes the AI sitting in your chat window.
 
-That hasn’t changed.
+You don’t need a special AI playbook. The same SOP that guides a new teammate through drafting internal docs can now guide ChatGPT through the same process. Paste it in, give cues, and proceed step by step. The model doesn’t need translation. It needs structure—and SOPs already provide it.
 
-But now, something subtle has:
-**The exact same SOP you wrote for your team can now be *run* by a machine.**
+That’s the shift: your SOPs now have **runtime**. They don’t just describe what should happen; they **execute** when you walk the model through them.
 
-And that makes all the difference.
+And the format still works. The best SOPs don’t name the worker—they name the work. They define what needs to be done, why it matters, and what “good” looks like, without assuming who—or what—is doing it.
 
-You don’t need to rewrite it in a different format. You don’t need to create a separate “AI workflow.” You simply hand it to the model—just as you would a new employee—and say, *“We’re going to follow this together.”* The AI reads the steps. It listens for your cues. And it performs the work, one stage at a time.
+This isn’t about writing for bots. It’s about designing systems that any worker—human or virtual—can step into. That’s how you scale not just output, but quality. You’re not building around personalities. You’re building around **outcomes**.
 
-This is what we mean when we say your SOPs now have **runtime**.
-They don’t just sit in a folder. They *do work*—because the model can read them, follow them, and help execute each step in real time.
-
----
-
-## SOPs Are Not for Bots
-
-SOPs have always been written for people—clear, action-oriented steps that help workers perform a task reliably and consistently. They’re written in plain language. They assume no special access to your brain. And they avoid tool-specific instructions unless absolutely necessary.
-
-That same approach works beautifully for AI.
-
-In fact, **you shouldn’t write AI-specific SOPs at all.** Not unless you’re building automation scripts. For now, your goal is simple: **keep SOPs worker-agnostic.**
-
-Whether the actor is human or virtual doesn’t matter—what matters is that the work gets done to spec.
-
-The old style of SOP writing still applies:
-
-* Describe *what* needs to happen
-* Explain *why* it matters
-* Define what “good” looks like
-* Leave room for different actors to carry it out
-
-That’s exactly what makes SOPs so effective when AI enters the picture. A virtual teammate doesn’t need special instructions or a new format. It just needs access to the same clear, thoughtful SOP you’d give a colleague.
-
-> **Well-written SOPs don’t need to name the worker. They name the work.**
-
-And that’s the point: when you understand how to delegate well—human or virtual—you don’t have to change your process. You don’t build around the actor. You build around the outcome.
-
-What changes is *who can run the steps*.
-And increasingly, that includes the model sitting in your chat window.
+An AI isn’t a sidekick. It’s a seat-filler. And with the right SOP, it can sit down and get to work.
 
 ---
 
@@ -100,7 +70,7 @@ Here’s what it includes:
 Now, for your latest doc—an internal guide to the identity platform—you decide to enlist help from ChatGPT.
 
 Not because the SOP says to.
-But because **you know how to pilot a chatbot well.**
+But because **you know how to pilot a chatbot well**.
 
 ---
 
@@ -173,8 +143,7 @@ You decide it’s time to update the process.
 You prompt:
 
 > Insert this line into Step 1:
->
-> > “Prompt for common confusions around lifecycle events (e.g. team transfers, departures) that affect access.”
+> “Prompt for common confusions around lifecycle events (e.g. team transfers, departures) that affect access.”
 
 ChatGPT returns the updated markdown. You save it to:
 
