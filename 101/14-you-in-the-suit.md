@@ -2,7 +2,7 @@
 
 Think about Tony Stark.
 
-Without the Iron Man suit, he’s brilliant, resourceful, maybe a little reckless — but still just a guy. And without Tony Stark inside, the suit is just a machine. It can fly around, sure. It can run autopilot routines, maybe even save the day in a pinch. But it's not the same. The real power comes from the **combination** — a skilled human using a powerful tool.
+Without the Iron Man suit[^1], he’s brilliant, resourceful, maybe a little reckless — but still just a guy. And without Tony Stark inside, the suit is just a machine. It can fly around, sure. It can run autopilot routines, maybe even save the day in a pinch. But it's not the same. The real power comes from the **combination** — a skilled human using a powerful tool.
 
 That’s what it’s like working with an LLM.
 
@@ -25,3 +25,5 @@ It’s “How do I leverage Will Hunting's mind?” or “What can I do in the s
 Because when you suit up — thoughtfully, deliberately, with both eyes open — you’re not being replaced.
 
 You’re becoming something stronger.
+
+[^1]: Andrej Karpathy uses the Iron Man suit analogy in [Software is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ), though Andrew Ng may have first used it.
