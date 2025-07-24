@@ -8,25 +8,21 @@ You wouldn’t just bark an order to AI to “write a book about our ticketing s
 
 That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine a shortcut scenario—one that skips all the effort real-world deliverables require.
 
----
-
 ### What People Miss
 
-What people often miss when they dismiss AI-generated work is that they picture the *leap*—not the *path*. They imagine someone shouting “make a deliverable!” and the AI spitting something out. But real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
-
----
+What people often miss when they dismiss AI-generated work is that they picture the *leap* — not the *path*. They imagine someone shouting “make a deliverable!” and the AI spitting something out. But real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
 
 ### Waypoints: The Real Path
 
 Let’s introduce the missing ingredient: **waypoints**.
 
-Waypoints are the intermediate outputs that emerge when you stop hiding the process. They’re not the final product, but they’re not filler either. They’re the working drafts, outlines, critiques, and tone guides that give shape to the journey from idea to result. They are **artifacts**—real, inspectable pieces of work that make your thinking visible.
+Waypoints are the intermediate outputs that emerge when you stop hiding the process. They’re not the final product, but they’re not filler either. They’re the working drafts, outlines, critiques, and tone guides that give shape to the journey from idea to result. They are **artifacts** — real, inspectable pieces of work that make your thinking visible.
 
 And here’s the important distinction: these artifacts come in two broad forms.
 
 #### **Work Artifacts**
 
-These are tied directly to the **project at hand**—the specific content you're trying to produce. A rejected analogy. A first-pass outline. A cleaned-up stakeholder summary. They’re useful within the current context, but not necessarily beyond it.
+These are tied directly to the **project at hand** — the specific content you're trying to produce. A rejected analogy. A first-pass outline. A cleaned-up stakeholder summary. They’re useful within the current context, but not necessarily beyond it.
 
 #### **Workflow Artifacts**
 
@@ -36,8 +32,6 @@ You might call them **product artifacts** and **process artifacts**, but we’ll
 
 This is why *waypoints matter*. Waypoints are the artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
 
----
-
 ### Why Waypoints Appear
 
 Imagine the process of creating a deliverable as a kind of petri net: a bead moves from one cup to the next, following defined steps. The more distinct stages you introduce—cups, in this metaphor—the more paths emerge between them. More checkpoints. More opportunities for insight.
@@ -45,8 +39,6 @@ Imagine the process of creating a deliverable as a kind of petri net: a bead mov
 When you stretch the process—when you stop trying to leap from input to output in a single bound—you force the **connections** into being. And those connections leave **byproducts**. Waypoints appear because the process is no longer compressed; it’s reified. Each step creates an opening for something new to form—a list, a rule, a reusable insight.
 
 This is how skepticism turns to clarity. People doubt AI because they only see the leap. But once they see the steps—the waypoints, the artifacts, the evolving judgment—they understand where AI fits in. They start to see it not as a shortcut, but as a capable partner, walking alongside them.
-
----
 
 ### Don’t Skip the Byproducts
 
@@ -61,13 +53,11 @@ And along the way, you accumulate artifacts:
 
 Both matter. But only one set needs to be carried forward. That’s why it’s worth knowing the difference.
 
----
-
 ### Optimize for Reuse
 
 Earlier, we talked about the power of structure—not just to impose order, but to let you manipulate entire *labeled boxes* of thinking. The same applies here.
 
-As you create byproducts—waypoints—in your process, think about **which ones are worth saving**:
+As you create byproducts—waypoints—in your process, it’s worth asking: **which ones are worth saving**?
 
 #### Examples of Work Artifacts:
 
@@ -75,17 +65,25 @@ As you create byproducts—waypoints—in your process, think about **which ones
 * A cleaned-up diagram for one stakeholder group
 * A feature list adapted for a specific team
 
+These may be useful within the project, but often have limited shelf life. They serve immediate needs, shaped by the expectations of your stakeholders and the specificity of the deliverable.
+
+But the real leverage comes from a different kind of artifact—the ones that transcend the project.
+
 #### Examples of Workflow Artifacts:
 
 * A reusable prompt for calibrating tone
 * A checklist for writing with second-person voice
 * A decision log format you can drop into future projects
 
-You might group waypoints differently depending on the task—by topic, by audience, by format, by phase of work. But whatever method you use, **reusability is the driver**. You’re not organizing for its own sake—you’re doing it so you can find, adapt, and deploy the most valuable parts of your thinking again later.
+These are **meta-byproducts**: insights about how you work, not just what you made. They’re reusable not because they’re flashy, but because they encode *judgment*. That’s what turns experience into scale.
 
-Each time you ask the model to create a list, label a pattern, or separate ideas into categories, you’re commanding thinking into *new piles*. That’s not just structure—it’s **strategy**.
+So here’s the shift: **don’t just look for reuse in the obvious outputs.** Look in the fallout. In the notes you left behind. In the moments where you coached the model, sharpened a list, or rephrased a prompt to land better.
 
----
+Reuse isn’t about keeping everything. It’s about **learning to sift**—to spot the patterns, fragments, and formats that will serve you again later. That’s how you improve every time you repeat a kind of project. Not just by doing the same thing faster, but by harvesting what you’ve learned—and carrying it forward.
+
+That’s the value proposition: not just faster work, but smarter systems.
+
+Your stakeholders may only want the final deliverable. But your job—the one that pays long-term dividends—is to quietly gather the **infrastructure** behind the scenes. That’s what builds your library. That’s how you scale your standards. And that’s how you grow into someone who gets better with every loop, because **you’re watching for what’s worth keeping**.
 
 ### This Is Not a Shortcut—It’s Training in Disguise
 
@@ -96,8 +94,6 @@ In fact, what you’re really doing is **training your collaborator**.
 Each time you push back on phrasing, explain why one outline is clearer than another, or mark a tone as off-brand, you’re shaping the model’s next move. It may not learn across sessions, but *within* a session, it responds and adapts to the standards you set. You’re treating it the same way you would treat a newly onboarded teammate: giving it early tasks, reviewing its output, offering correction, and gradually entrusting it with more responsibility.
 
 This isn’t a shortcut—it’s mentorship. And mentorship leaves behind evidence: notes, checklists, examples. Those are your workflow artifacts. That’s the **real value**.
-
----
 
 ### Collaboration Means Seeing the Work
 
