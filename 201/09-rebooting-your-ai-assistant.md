@@ -13,8 +13,6 @@ Before we begin, let’s borrow an everyday metaphor:
 
 That’s exactly what this technique does for a ChatGPT session. You're not starting over. You're just clearing temporary clutter so you can reload what matters and move forward cleanly.
 
----
-
 ### Who's at the Keyboard
 
 **Role:** Technical Enablement Lead
@@ -28,8 +26,6 @@ The user starts a chat with:
 > “I need to build a short onboarding presentation for our new cohort of entry-level systems engineers. Can you help me structure it?”
 
 They don’t have a clear direction—just a goal: the talk should be useful, welcoming, and leave new hires feeling like they belong. But they’re uncertain about tone, structure, and how deep to go technically.
-
----
 
 ## What Happens Next: A Realistic, Messy Middle
 
@@ -69,8 +65,6 @@ The user thinks:
 
 > “This thread is too bloated. I want a clean slate, but I don’t want to lose the work.”
 
----
-
 ## Wiping the Slate—Without Losing the Progress
 
 This is where the skill comes in.
@@ -95,8 +89,6 @@ By explicitly defining categories like *accepted ideas* or *tone preferences*, y
 
 Each group becomes a reusable part of the whole. You can reference it, rearrange it, even delete it—and that gives you fine-grained control over how the AI continues.
 
----
-
 ## Reboot the Chat, Intentionally
 
 Once the checkpoint looks solid, it’s time to move forward. But don’t copy it just yet.
@@ -120,15 +112,11 @@ This is **context engineering** in action. You’re judging how much information
 4. **Open a new chat window.**
    Paste the checkpoint in first. Then, type your new prompt *above* it—the instruction that tells the AI what to do next.
 
----
-
 ## Why This Works
 
 * **You regain control** – the thread resets, but your progress stays intact
 * **You define the scope** – by grouping ideas and shaping the structure, you control what the AI works with next
 * **You reduce drift** – starting in a new session avoids accidental callbacks to rejected or outdated ideas
-
----
 
 ## Wrapping Up: You’re Driving the Collaboration Now
 
