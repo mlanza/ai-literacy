@@ -8,15 +8,11 @@ You wouldn’t just bark an order to AI to “write a book about our ticketing s
 
 That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine a shortcut scenario—one that skips all the effort real-world deliverables require.
 
----
-
 ### What People Miss
 
 What people often miss when they scoff at AI-generated work is that they imagine only the leap—not the journey. They picture someone barking, “Make a deliverable!” and AI obliging, poorly. But real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—waypoints on the path to a final result.
 
 AI *can* take shortcuts, but shortcuts show. The output often lands somewhere around a C-grade. Not terrible—but not special. And in today’s world of content saturation, why add another mediocre piece to the pile?
-
----
 
 ### Waypoints: The Real Path
 
@@ -26,8 +22,6 @@ Waypoints are the intermediate steps you’d naturally pass through when doing t
 
 If you skip these steps—if you ask AI to go from zero to final product in one move—you’re skipping the very work that gives creative output its quality.
 
----
-
 ### Don’t Skip the Byproducts
 
 Here’s the irony: the real value of AI emerges *when you make it do the intermediate work*. When you say, “Help me plan the process,” and then walk it step-by-step through that plan. When you react to each draft, course-correct, revise, and refine.
@@ -35,8 +29,6 @@ Here’s the irony: the real value of AI emerges *when you make it do the interm
 That’s collaboration. You bring your taste and discernment. The model brings speed, fluency, and structure. You work together—and you get something stronger than either of you could produce alone.
 
 Waypoints are more than just tasks. They are **artifacts**—pieces of work that carry meaning, context, and decision history. Some are ephemeral (chat turns that disappear after the session ends). Others should be saved and shaped into reusable assets.
-
----
 
 ### Optimize for Reuse
 
@@ -61,8 +53,6 @@ Examples:
 
 Each time you ask the model to create a list, label a pattern, or separate ideas into categories, you’re commanding thinking into *new piles*. That’s not just organization—that’s how you extract value. You’re building a toolkit you can bring into the next conversation, the next system, the next team.
 
----
-
 ### This Is Not a Shortcut—It’s Training in Disguise
 
 When you work with AI this way—directly, repeatedly, with feedback at every step—you’re not cutting corners. You’re doing the real work: scrutinizing, refining, and making judgment calls. The only difference is that you’re no longer doing it alone.
@@ -72,8 +62,6 @@ In fact, what you’re really doing is **training your collaborator**.
 Each time you push back on phrasing, explain why one outline is clearer than another, or mark a tone as off-brand, you’re shaping the model’s next move. It may not learn across sessions, but *within* a session, it responds and adapts to the standards you set. You’re treating it the same way you would treat a newly onboarded teammate: giving it early tasks, reviewing its output, offering correction, and gradually entrusting it with more responsibility.
 
 This isn’t a shortcut—it’s mentorship. You’re helping the AI internalize what “good” looks like for *this* project, *this* audience, *this* goal. That’s not the easy path. But it is the one that leads to outcomes you can be proud of.
-
----
 
 ### Collaboration Means Seeing the Work
 

@@ -29,8 +29,6 @@ ChatGPT responded:
 
 Now there was a handle. Not just a pile of ideas, but *named bins*. And that changed everything.
 
----
-
 ### Why Buckets Matter
 
 Once labeled, each part of the conversation became easier to act on. Want to refine the tone? There’s a section for that. Want to make sure past decisions don’t resurface? Just scan the “rejected” list. Want to review the structure before building slides? It’s already boxed up.
@@ -53,8 +51,6 @@ They’re not guessing—they’re reaching into a labeled bin, and adjusting wi
 
 **Prompting is commanding**—but commands work best when your raw material is cleanly sorted. Structure isn’t about documentation; it’s about *control*.
 
----
-
 ### From Buckets to Boxes
 
 Let’s stretch the metaphor.
@@ -68,8 +64,6 @@ Knowledge work is the same.
 That onboarding presentation? It turns out the user builds several of those a year. Which means it’s worth preserving what worked—the structure, the voice, the talking points. If those elements are compartmentalized, they can be saved as distinct, reusable artifacts: “Presentation Structure,” “Tone Guidelines,” “Welcome Slide Copy,” and so on.
 
 Stored this way—in a folder, a doc, a versioned file—they’re not just reference material. They’re *fuel* for your next session. You can paste them back into a prompt. Upload them. Reuse them. And this time, you skip the wandering and get to results faster.
-
----
 
 ### Reuse Starts With Respect
 
