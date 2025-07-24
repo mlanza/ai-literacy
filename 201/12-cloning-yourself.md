@@ -86,8 +86,10 @@ And the model replies:
 
 ---
 
+That list isn’t just a nice-to-have—it’s a **workflow artifact**. A reusable spec you can drop into any future prompt to restore the standards you taught here.
+
 You copy that list into a markdown file:
-`/Documentation/Artifacts/role-guide-style.md`
+`/Documents/Artifacts/role-guide-style.md`
 
 Now, when you start the Triage Lead Guide next week, you don’t have to re-coach the model from scratch. You drop that file into your prompt in ChatGPT:
 
