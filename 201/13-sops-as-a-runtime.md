@@ -244,7 +244,7 @@ When you start feeding those artifacts back into your process—checklists, styl
 
 ---
 
-## 🌎 What Comes Next: From Manual Process to Intelligent Systems
+## 🌎 Repeatability Before Systemization
 
 If this chapter feels like a turning point, that’s because it is.
 
