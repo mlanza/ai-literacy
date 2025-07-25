@@ -123,5 +123,7 @@ As you practice this, the AI stops being a magic box and starts becoming what it
 > A tool that follows your lead.
 
 You’re steering.
+
 You’re deciding what matters.
+
 That’s how you stay in charge—and get better results, faster.
