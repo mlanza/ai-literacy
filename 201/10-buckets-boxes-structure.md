@@ -68,15 +68,22 @@ Stored this way—in a folder, a doc, a versioned file—they’re not just refe
 ---
 
 ### Boxing Experience
+Here’s a lightly reshaped version of the **“Reuse Starts With Respect”** section, retitled as **“Boxing Experience.”** It keeps the heart of your original message but reframes it with your updated narrative about iteration, lessons learned, and reuse as a value play for routine work.
 
-Every iteration is experience gained. When you fumble through a project—testing metaphors, tweaking tone, circling back to better ideas—you’re not just progressing. You’re *learning*. But unless that learning gets captured, you risk repeating it. And not in a good way.
+---
 
-That’s the rub with reuse: it only works if you *box the experience*. Not just the end result, but the decisions, the structure, the rationale. Otherwise, next time around, you’re starting from scratch. Again.
+### Boxing Experience
 
-And maybe that’s fine for a one-off. If it’s something you do once a year, or never again, you can afford to wander. But most knowledge work isn’t like that. You build another onboarding. Another report. Another proposal. And the more routine the task, the more valuable it becomes to preserve the learning around it.
+Every iteration is experience gained. When you fumble through a project—bumping into bad metaphors, refining tone, circling back to better ideas—you’re not just moving forward. You’re learning. And if you’re learning, there’s value there. But that value is fragile. Left uncaptured, it fades. Worse, it repeats.
 
-Remember the earlier example—**the box labeled “Winter Clothes”**. That wasn’t just a metaphor for labeling ideas. It was about preparation for a known cycle. Seasonal changes are predictable, so it makes sense to store what you’ll need when that season returns. Knowledge work has seasons too. And the more often you return to the same kind of problem, the more sense it makes to label the box, store the learnings, and make them easy to retrieve.
+To truly reuse past work, you have to respect what that work *taught* you. You have to box the experience—store the lessons, label the decisions, preserve the structure. That’s how you avoid re-solving the same problem twice.
 
-Because reuse isn’t just about convenience—it’s about *compounding*. Every time you capture what worked and why, you’re not just saving time later. You’re building leverage. You’re learning how to get results faster, cleaner, and with less thrash.
+This isn’t about over-engineering your creative process. If it’s a one-off? Let it breathe. Skip the boxes. But if it’s something you do often—like onboarding presentations, status reports, quarterly recaps—it pays to box up what worked.
 
-Structure makes that possible. Labels make it discoverable. And boxing your experience? That’s what makes it reusable.
+Remember the earlier example—the box labeled “Winter Clothes”. That wasn’t just a metaphor for labeling ideas. It was about preparation for a known cycle. Seasonal changes are predictable, so it makes sense to store what you’ll need when that season returns. Knowledge work has seasons too. And the more often you return to the same kind of problem, the more sense it makes to label the box, store the learnings, and make them easy to retrieve.
+
+Reuse has a value proposition which can only be leveraged when experience is captured. If your ideas live only in the fog of past conversations or scattered notes, they won’t show up when you need them. But if they’re boxed—named, framed, and findable—they become tools. Tools that shorten the path to results.
+
+That’s the deeper promise of structured prompting. It’s not about saving time once. It’s about building *momentum* across projects. Each box you fill becomes a stepping stone. And over time, your toolkit grows—not just in content, but in capability.
+
+Reuse begins with respecting your own experience. Boxing it makes it reusable.
