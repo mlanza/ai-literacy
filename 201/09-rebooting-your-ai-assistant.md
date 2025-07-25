@@ -118,12 +118,10 @@ Calling for summaries is blackbelt stuff. Not just because you can keep working 
 
 You’re treating the AI’s memory like a workspace: editable, resettable, compressible, intentional. You’re collaborating like a builder—not a backseat driver.
 
-As you practice this, the AI stops being a magic box and starts becoming what it really is:
-
-> A tool that follows your lead.
+As you practice this, you realize AI’s not doing everything.  It can’t.  It’s a tool and it follows your lead.
 
 You’re steering.
 
 You’re deciding what matters.
 
-That’s how you stay in charge—and get better results, faster.
+It’s just helping you get better results, faster.
