@@ -12,15 +12,11 @@ And the best part? You can do it all in a single chat window.
 
 This chapter is about learning to do just that—**right inside ChatGPT**. You’re not writing code, building an app, or deploying agents. You’re sitting in a conversation, managing tasks, handing off artifacts, and teaching the model how to think more like you with each turn.
 
----
-
 ## Virtual Recruits: Eager, Pliable, and Complaint-Free
 
 These virtual teammates don’t come with egos or habits of their own. They don’t argue. They don’t forget your style preferences. They want to be shaped. They *want* to follow the playbook you hand them.
 
 If you think of AI as cheap labor that scales endlessly, you might miss the real opportunity: **not just more hands, but more *versions of you*.** Versions that are happy to be mentored, reviewed, and corrected. That improve over time as your specifications become more precise. And that don’t push back when you ask them to change.
-
----
 
 ## Mentoring Is Specifying Is Training
 
@@ -33,8 +29,6 @@ Every prompt becomes a training moment. Every correction becomes a code update. 
 You can’t learn an LLM’s strengths by skimming a capabilities list. You have to experience them. Prompt by prompt, across different parts of a real project—**often across different turns in the same chat**—you’ll start to absorb what it’s genuinely good at, and where it needs structure or oversight.
 
 That growing familiarity pays off. It’s how you build judgment into your clones. It’s how you guide their behavior without micromanaging every line. It’s how you clone not just your outputs, but your **standards**.
-
----
 
 ## Example: From One Guide to a Team Toolkit
 
@@ -84,8 +78,6 @@ And the model replies:
 – Clarify what’s new, optional, or customized for this role
 ```
 
----
-
 A **spec** like this isn’t just a nice-to-have.  It’s a reusable **workflow artifact** which can be dropped into future prompts to restore the standards you taught here.
 
 You copy that list into a markdown file:
@@ -100,8 +92,6 @@ The AI picks up where you left off. Your guidance becomes portable. Your standar
 And when you make new corrections—when you catch something the AI missed—you add those notes, regenerate the list, and update the file. The artifact evolves. You’re not just capturing decisions—you’re curating a reusable asset.
 
 This is what cloning yourself actually looks like. Not a perfect replica of your thinking, but a growing library of artifacts that lets the model perform like someone who’s been trained by you, coached by you, and guided by your values.
-
----
 
 ## Not Just Good Prompting — This Is Cloning
 
@@ -119,8 +109,6 @@ You’re not just adjusting responses—you’re **building a system of thought*
 > Not sure if something’s worth saving? Here’s a test:
 > *If it made this task easier—and you wish you’d had it earlier—it’s probably a good artifact.*
 
----
-
 ## Yes, You’re Still in the Loop—And That’s the Point
 
 Now, you might be wondering: if I’m still directing every step—telling the model when to switch roles or apply a guide—have I really cloned myself?
@@ -134,8 +122,6 @@ Because if you can understand how to break the process apart and run it manually
 Later—yes—you could string those roles together. Hand off one AI’s output to another. Add conditional logic, review gates, even tool access. But that’s orchestration. That’s 301 material.
 
 Right now, you’re doing something just as powerful: **training your system, one reusable spec at a time—right in the chat**.
-
----
 
 ## Now Scale It
 
