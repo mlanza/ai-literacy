@@ -231,11 +231,11 @@ Every pass through the SOP—by hand, with AI in the loop—is a test run that s
 
 ## 🧭 AI Resonates With Process-Minded People
 
-If you’re someone who thinks in stages—who naturally breaks work into steps, captures drafts as you go, or reflects on how the work gets done—then this idea of exposing and enriching waypoints tends to click.
+If you’re someone who thinks in stages—who naturally breaks work into steps, captures drafts as you go, or reflects on how the work gets done—then this idea of exposing and enriching waypoints and improving SOPs tends to click.
 
 The visibility it creates—the ability to pause, steer, and adjust midstream—really jibes with people who already operate this way. When the messy middle becomes material, there's something to work with, react to, and improve. It’s not about over-engineering. It’s about noticing what usually stays invisible.
 
-If that’s not your instinct, that’s okay. But it might be worth trying. Stretching out the process—even just once—can reveal a kind of leverage you didn’t know you had.
+If that’s not your instinct, that’s okay. But it might be worth trying. Working out a repeatable process whose stages are laid bare—even just once—can reveal a kind of leverage you didn’t know you had.
 
 ---
 
