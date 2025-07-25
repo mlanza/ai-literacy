@@ -58,7 +58,7 @@ Each payload sharpens the outcome.
 
 ### Looking Ahead
 
-Later in this book, you’ll learn how to decompose big projects into coordinated steps using chaining and multi-prompt workflows (in Chapter 301). But for now, keep your focus here:
+Later in this book, you’ll learn how to decompose big projects into coordinated steps using chaining and multi-prompt workflows (in Section 301). But for now, keep your focus here:
 
 > One task. One prompt. One meaningful outcome.
 
