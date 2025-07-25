@@ -223,7 +223,8 @@ No matter the topic, the goal is the same: run a complete system. Define the goa
 
 ---
 
-🌎 Repeatability Before Systemization
+## 🌎 Repeatability Before Systemization
+
 If this chapter feels like a turning point, that’s because it is.
 
 You’re no longer just asking ChatGPT to “help with a task.” You’re designing a repeatable workflow. You’re managing a system.
