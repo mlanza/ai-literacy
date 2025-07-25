@@ -15,9 +15,9 @@ That’s exactly what this technique does for a ChatGPT session. You're not star
 
 ### Who's at the Keyboard
 
-**Role:** Technical Enablement Lead
-**Org:** University IT Department
-**Task:** Create an 8–10 minute onboarding presentation for newly hired systems engineers
+**Role:** Technical Enablement Lead<br>
+**Org:** University IT Department<br>
+**Task:** Create an 8–10 minute onboarding presentation for newly hired systems engineers<br>
 
 ### The Ask
 
@@ -48,13 +48,13 @@ The AI suggests the “airport control tower” idea. The user tries it, then dr
 
 The user now reacts more strongly:
 
-> “Stop giving me long paragraphs. Use bullet points so I can shape this.”
-> “Don’t use clipart or jokes. This is IT—not a marketing deck.”
-> “Tone should be plainspoken and optimistic.”
+> “Stop giving me long paragraphs. Use bullet points so I can shape this.”<br>
+> “Don’t use clipart or jokes. This is IT—not a marketing deck.”<br>
+> “Tone should be plainspoken and optimistic.”<br>
 
 They also say:
 
-> “I like the ‘What You’ll Be Doing, Why It Matters, and How We Work Here’ framing. Let’s build on that.”
+> “I like the ‘What You’ll Be Doing, Why It Matters, and How We Work Here’ framing.<br> Let’s build on that.”
 
 They've clarified tone, format, and structure—but it took several zigzags to get there.
 
