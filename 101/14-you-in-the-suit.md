@@ -4,7 +4,7 @@ Think about Tony Stark.
 
 Without the Iron Man suit[^1], he’s brilliant, resourceful, maybe a little reckless — but still just a guy. And without Tony Stark inside, the suit is just a machine. It can fly around, sure. It can run autopilot routines, maybe even save the day in a pinch. But it's not the same. The real power comes from the **combination** — a skilled human using a powerful tool.
 
-That’s what it’s like working with an LLM.
+That’s what it’s like using ChatGPT.
 
 On its own, it can generate language, suggest ideas, write code, summarize complex topics. It’s fast. It’s capable. Sometimes, it feels like magic. But it doesn’t *know* what matters. It doesn’t understand your goals, your context, your values. That’s your job.
 
