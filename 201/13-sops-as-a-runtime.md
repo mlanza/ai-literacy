@@ -42,7 +42,7 @@ This isn’t about writing for bots. It’s about designing systems that any wor
 
 An AI isn’t a sidekick. It’s a seat-filler. And with the right SOP, it can sit down and get to work.
 
-## 🧭 Running the SOP Manually — With a Virtual at the Table
+## 🧽 Running the SOP Manually — With a Virtual at the Table
 
 Let’s make this real.
 
@@ -65,6 +65,8 @@ Now, for your latest doc—an internal guide to the identity platform—you deci
 
 Not because the SOP says to.
 But because **you know how to pilot a chatbot well**.
+
+> **Note:** While the SOP "executes" when stepped through with ChatGPT, it does *not* run autonomously. You are the runtime. In constrained chat environments like this, the model has no memory of prior files or state unless you supply it. You may need to upload files, paste content, or repeat intermediate outputs to carry them forward. The bot can help do the work, but *you have to orchestrate it*.
 
 ### 📥 Step 1: Delegating Intelligently
 
@@ -103,7 +105,7 @@ You respond:
 
 ChatGPT updates the list.
 
-📅 Step 1 complete—*and better than it would’ve been alone.*
+🗓️ Step 1 complete—*and better than it would’ve been alone.*
 
 You move on:
 
