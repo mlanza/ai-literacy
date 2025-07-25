@@ -18,14 +18,14 @@ And just like that, the buckets appeared—not from a grand plan, but from neces
 
 ChatGPT responded:
 
-> **Accepted So Far**
-> – “What You’ll Be Doing / Why It Matters / How We Work Here” framing – clear and purposeful
-> – Tone: plainspoken, optimistic
-> – Format: bullets, not paragraphs
-> **Rejected (and why)**
-> – Airport control tower metaphor – too abstract
-> – City infrastructure metaphor – felt forced
-> – Clipart and humor – didn’t match IT culture
+> **Accepted So Far**<br>
+> – “What You’ll Be Doing / Why It Matters / How We Work Here” framing – clear and purposeful<br>
+> – Tone: plainspoken, optimistic<br>
+> – Format: bullets, not paragraphs<br>
+> **Rejected (and why)**<br>
+> – Airport control tower metaphor – too abstract<br>
+> – City infrastructure metaphor – felt forced<br>
+> – Clipart and humor – didn’t match IT culture<br>
 
 Now there was a handle. Not just a pile of ideas, but *named bins*. And that changed everything.
 
