@@ -235,7 +235,7 @@ If you’re someone who thinks in stages—who naturally breaks work into steps,
 
 The visibility it creates—the ability to pause, steer, and adjust midstream—really jibes with people who already operate this way. When the messy middle becomes material, there's something to work with, react to, and improve. It’s not about over-engineering. It’s about noticing what usually stays invisible.
 
-If that’s not your instinct, that’s okay. But it might be worth trying. Working out a repeatable process whose stages are laid bare—even just once—can reveal a kind of leverage you didn’t know you had.
+If that’s not your instinct, that’s okay. But it’s worth trying. Working out a repeatable process whose stages are laid bare—even just once—can reveal a kind of leverage you didn’t know you had.
 
 ---
 
