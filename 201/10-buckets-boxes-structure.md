@@ -68,11 +68,6 @@ Stored this way—in a folder, a doc, a versioned file—they’re not just refe
 ---
 
 ### Boxing Experience
-Here’s a lightly reshaped version of the **“Reuse Starts With Respect”** section, retitled as **“Boxing Experience.”** It keeps the heart of your original message but reframes it with your updated narrative about iteration, lessons learned, and reuse as a value play for routine work.
-
----
-
-### Boxing Experience
 
 Every iteration is experience gained. When you fumble through a project—bumping into bad metaphors, refining tone, circling back to better ideas—you’re not just moving forward. You’re learning. And if you’re learning, there’s value there. But that value is fragile. Left uncaptured, it fades. Worse, it repeats.
 
