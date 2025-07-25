@@ -8,7 +8,7 @@ You wouldn’t just bark an order to AI to “write a book about our ticketing s
 
 That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine a shortcut scenario—one that skips all the effort real-world deliverables require.
 
-They dismiss the work because they picture the *leap* — not the *path*. They imagine someone shouting “make a deliverable!” and the AI spitting something out. But real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
+They dismiss it because they picture the *leap* and not the *path*. The order “make a deliverable!” is too tall even for AI, because — to be fair — real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
 
 ---
 
