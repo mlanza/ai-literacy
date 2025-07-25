@@ -13,11 +13,9 @@ Before we begin, let’s borrow an everyday metaphor:
 
 That’s exactly what this technique does for a ChatGPT session. You're not starting over. You're just clearing temporary clutter so you can reload what matters and move forward cleanly.
 
----
-
 ## Onboarding Presentation
 
-Let’s zoom in on a real scenario—messy, realistic, and all too common.
+Let’s zoom in on a real scenario.
 
 You’re tasked with creating an 8–10 minute onboarding presentation for a new cohort of entry-level systems engineers. It needs to be welcoming, practical, and ideally give these new hires a sense that they belong. You’re not totally sure about the structure yet, or how deep to go technically. You open ChatGPT and type:
 
@@ -59,8 +57,6 @@ The AI starts reintroducing previously rejected ideas. The thread is getting lon
 
 > “This is bloated. I want a clean slate—but I don’t want to lose the work.”
 
----
-
 ## Wiping the Slate—Without Losing the Progress
 
 This is where the real skill shows up.
@@ -83,8 +79,6 @@ You didn’t have to do it that way. You could’ve just said, “Give me a reca
 
 You choose the granularity of your control. The more intentional you are, the more you get things your way. In this instance, you organized it in a way that suited how you wanted to carry things forward, continue the work.
 
----
-
 ## Reboot the Chat, Intentionally
 
 Once the summary looks solid, it’s time to move forward. But don’t copy it over just yet.
@@ -101,22 +95,18 @@ Before jumping into a new chat, take a moment to think strategically:
 
    > “Trim this down to just the purpose, structure, and tone preferences. Leave out anything we’ve ruled out or haven’t decided.”
 
-This is **context engineering** in action. You’re judging how much information is helpful to carry forward—and trimming the rest.
+   This is context engineering in action. You're not just managing space—you’re managing clarity. Too much information can dilute the model’s focus, making it harder for the AI to prioritize what matters most. When everything is included, nothing stands out. Trimming helps sharpen the AI’s attention so it zeroes in on the work you actually want to do next.
 
 3. **Copy the summary.**
 
 4. **Open a new chat window.**
    Paste the summary in first. Then, type your new prompt *above* it—the instruction that tells the AI what to do next.
 
----
-
 ## Why This Works
 
-* **You regain control** – the thread resets, but your progress stays intact
-* **You define the scope** – by grouping ideas and shaping the structure, you control what the AI works with next
-* **You reduce drift** – starting in a new session avoids accidental callbacks to rejected or outdated ideas
-
----
+* You regain control – the thread resets, but your progress stays intact
+* You define the scope – by grouping ideas and shaping the structure, you control what the AI works with next
+* You reduce drift – starting in a new session avoids accidental callbacks to rejected or outdated ideas
 
 ## Wrapping Up: You’re Driving the Collaboration Now
 
@@ -127,13 +117,13 @@ You learned how to:
 * Capture your progress in a flexible, modular way
 * Step back, decide what matters, and carry it forward with purpose
 
-**That’s practical context engineering.**
+That’s practical context engineering.
 
 You’re treating the AI’s memory like a workspace—something you can edit, organize, and reset with intention. You’re learning to collaborate like a builder, not a backseat driver.
 
 As you practice this, you’ll stop thinking of ChatGPT as a magic box and start treating it as what it really is:
 
-> **A tool that follows your lead.**
+> A tool that follows your lead.
 
 You’re the one keeping the task on track. You’re the one deciding what’s relevant.
 
