@@ -83,6 +83,10 @@ You choose the granularity of your control. The more intentional you are, the mo
 
 Once the summary looks solid, it’s time to move forward. But don’t copy it over just yet.
 
+Got it — surgical strike, not demolition. Here's the corrected version of that section with just the sentence about context engineering removed, while preserving the rest of the paragraph:
+
+---
+
 ### Look Ahead Before You Copy
 
 Before jumping into a new chat, take a moment to think strategically:
@@ -95,14 +99,12 @@ Before jumping into a new chat, take a moment to think strategically:
 
    > “Trim this down to just the purpose, structure, and tone preferences. Leave out anything we’ve ruled out or haven’t decided.”
 
-   This is context engineering in action. You're not just managing space—you’re managing clarity. Too much information can dilute the model’s focus, making it harder for the AI to prioritize what matters most. When everything is included, nothing stands out. Trimming helps sharpen the AI’s attention so it zeroes in on the work you actually want to do next.
+   You’re not just managing space—you’re managing clarity. Too much information can dilute the model’s focus, making it harder for the AI to prioritize what matters most. When everything is included, nothing stands out. Trimming helps sharpen the AI’s attention so it zeroes in on the work you actually want to do next.
 
 3. **Copy the summary.**
 
 4. **Open a new chat window.**
    Paste the summary in first. Then, type your new prompt *above* it—the instruction that tells the AI what to do next.
-
-Absolutely. Here’s the fully revised **“Wrapping Up”** section with the original "Why This Works" insights embedded as past-tense reflections, integrated smoothly into the narrative:
 
 ---
 
@@ -116,7 +118,7 @@ In shaping how that summary came back—what to include, how to group it—you d
 
 And by pasting that summary into a clean session, you reduced drift. No more callbacks to rejected metaphors or bloated paragraphs. You gave the AI just enough context to move forward, without dragging yesterday’s baggage into today’s task.
 
-That’s practical context engineering.
+That’s practical **context engineering**.
 
 You’re treating the AI’s memory like a workspace—something you can edit, organize, and reboot with intention. You’re learning to collaborate like a builder, not a backseat driver.
 
