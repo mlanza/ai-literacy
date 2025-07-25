@@ -2,11 +2,11 @@
 
 ## No Shortcuts Here
 
-It’s easy to imagine AI as a magical assistant that can create complete deliverables from just a few instructions. Say you wanted to write a book about your area of expertise—for example, *how to write effective product documentation*. Let’s say your team just built a custom ticketing solution for your organization’s IT helpdesk. You want to create a guide that helps new team members understand how it works, why certain design decisions were made, and how to use it effectively across roles.
+It’s easy to imagine AI as a automated assistant that can create complete deliverables from just a few instructions. Say your expertise is writing effective product documentation and your team just built a custom ticketing solution for your organization’s IT helpdesk. You want to create a guide that helps new team members understand how it works, why certain design decisions were made, and how to use it effectively across roles.
 
 You wouldn’t just bark an order to AI to “write a book about our ticketing system” and provide a few paragraphs about what it should cover. That’s too simplistic. While AI might give you a book that technically fits your request, it would likely be messy and inconsistent—even if you asked it to be thoughtfully organized. It can only do so much. It lacks human judgment, taste, and aesthetic. You might get something passable, but not publishable. Not the kind of reference you’d actually want new hires to read.
 
-That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine a shortcut scenario—one that skips all the effort real-world deliverables require.
+That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine the shortcut scenario—the one that skips all the effort that'd normally require.
 
 They dismiss it because they picture the *leap* and not the *path*. The order “make a deliverable!” is too tall even for AI, because — to be fair — real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
 
