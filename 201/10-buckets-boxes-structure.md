@@ -65,14 +65,18 @@ That onboarding presentation? It turns out the user builds several of those a ye
 
 Stored this way—in a folder, a doc, a versioned file—they’re not just reference material. They’re *fuel* for your next session. You can paste them back into a prompt. Upload them. Reuse them. And this time, you skip the wandering and get to results faster.
 
-### Reuse Starts With Respect
+---
 
-To reuse something well, you have to treat it as worth reusing. That means giving your thinking *shape*. Saving it. Labeling it. Choosing to manage it.
+### Boxing Experience
 
-And that brings us full circle: **context engineering isn’t just what you type into the prompt**. It’s the entire payload—including every file, outline, note, or artifact you choose to bring into the chat. Each one extends the model’s understanding. Each one shapes its behavior. Each one is a memory *you* control.
+Every iteration is experience gained. When you fumble through a project—testing metaphors, tweaking tone, circling back to better ideas—you’re not just progressing. You’re *learning*. But unless that learning gets captured, you risk repeating it. And not in a good way.
 
-When you design your work this way—in modular, labeled chunks—you’re building a toolkit that grows with you. And that’s not just productivity. It’s progress.
+That’s the rub with reuse: it only works if you *box the experience*. Not just the end result, but the decisions, the structure, the rationale. Otherwise, next time around, you’re starting from scratch. Again.
 
-Because no process is ever really finished. Every onboarding you deliver teaches you something. Every draft you revise sharpens your sense of what works. When you capture those lessons, version them, and carry them forward, you’re not just getting better results—you’re getting better at getting results.
+And maybe that’s fine for a one-off. If it’s something you do once a year, or never again, you can afford to wander. But most knowledge work isn’t like that. You build another onboarding. Another report. Another proposal. And the more routine the task, the more valuable it becomes to preserve the learning around it.
 
-Structure is what makes that possible.
+Remember the earlier example—**the box labeled “Winter Clothes”**. That wasn’t just a metaphor for labeling ideas. It was about preparation for a known cycle. Seasonal changes are predictable, so it makes sense to store what you’ll need when that season returns. Knowledge work has seasons too. And the more often you return to the same kind of problem, the more sense it makes to label the box, store the learnings, and make them easy to retrieve.
+
+Because reuse isn’t just about convenience—it’s about *compounding*. Every time you capture what worked and why, you’re not just saving time later. You’re building leverage. You’re learning how to get results faster, cleaner, and with less thrash.
+
+Structure makes that possible. Labels make it discoverable. And boxing your experience? That’s what makes it reusable.
