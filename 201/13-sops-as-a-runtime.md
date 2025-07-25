@@ -42,7 +42,7 @@ This isn’t about writing for bots. It’s about designing systems that any wor
 
 An AI isn’t a sidekick. It’s a seat-filler. And with the right SOP, it can sit down and get to work.
 
-## 🧽 Running the SOP Manually — With a Virtual at the Table
+## 🧹 Running the SOP Manually — With a Virtual at the Table
 
 Let’s make this real.
 
@@ -203,66 +203,41 @@ Let that sink in:
 
 ---
 
-## 🔍 Capstone: Pick a Real Project. Run the System.
+## 🌍 Capstone: Plan an International Trip
 
-You’ve seen the architecture. You’ve learned the moves. Now it’s time to try them—not in theory, but in the wild.
+You’re ready to run a real-world capstone project—not a theoretical exercise, but a meaningful process that produces useful byproducts and tests your ability to work iteratively with AI.
 
-Pick a real project. Not a brainstorm or a draft, but a **real, consequential deliverable**—something that might take a few focused days or even a full workweek.
+To keep the example focused and relatable, we’ll anchor it around a common but rich scenario: **planning an international trip**.
 
-This is your capstone.
+Why this?
 
-Choose something where success matters. Maybe it’s:
+* **It’s personal** — Everyone brings preferences, constraints, and goals.
+* **It’s practical** — There’s real research, coordination, and decision-making involved.
+* **It’s repeatable** — You might do it again, and your system will evolve with each try.
 
-* A new onboarding experience
-* A stakeholder-facing strategy doc
-* A technical how-to guide or policy rollout
-* A knowledge repo refactor
-* A cross-functional playbook
+If international travel feels too ambitious, scale it down. Plan a simple vacation, a long weekend, or even a staycation with some structured activities. The core skills—defining scope, breaking work into steps, generating artifacts, reusing assets—apply at every level.
 
-Don’t just use AI to write drafts. Use it to:
+Or, if you're eager to apply this to your actual job, go for it. You could redesign a training experience, build a stakeholder deck, roll out a change communication plan—anything that matters to you and would benefit from a clear, iterative process.
 
-* Frame the problem
-* Test tones and formats
-* Generate artifacts (style guides, tone checklists, outlines)
-* Track decisions and rejected ideas
-* Capture waypoints along the way
-* Create a structured summary at each milestone
-* Run a clean reboot midstream, if needed
-
-Treat the project like a live pilot of everything you’ve learned.
-
-And when you're done—not just when the deliverable is finished, but when the *system* behind it is clear—take a moment to reflect:
-
-> “What did I build here—beyond the content?”
-> “What changed about how I work?”
-> “Which artifacts should I save for next time?”
-
-This isn’t just about one project.
-It’s about building a **personal process** you can trust—one turn at a time.
-
-The value isn’t just in having done the work. It’s in **seeing the shape of the system that carried you through**. A well-orchestrated process should’ve demanded iterative refinement, strategic restarts, thoughtful reuse. The byproducts you produce along the way aren’t clutter—they’re the scaffolding for your future.
-
-When you start feeding those artifacts back into your process—checklists, style guides, summaries, house rules—you’ll start to see the forest, not just the trees. That’s when the vision really clicks: this isn’t just about being good at chat. It’s about being **deliberate, reusable, and scalable** in how you think.
+No matter the topic, the goal is the same: run a complete system. Define the goal, walk through it in steps, capture waypoints, reuse artifacts, and refine as you go.
 
 ---
 
-## 🌎 Repeatability Before Systemization
-
+🌎 Repeatability Before Systemization
 If this chapter feels like a turning point, that’s because it is.
 
-You’re no longer just asking ChatGPT to “help with a task.”
-You’re designing a repeatable workflow. You’re managing a system.
+You’re no longer just asking ChatGPT to “help with a task.” You’re designing a repeatable workflow. You’re managing a system.
 
 And here’s the most important thing: you’re still doing it by hand—on purpose.
 
-You’ve learned to delegate step-by-step. To pass files, track decisions, update specs, and reuse artifacts across sessions. Each action you take is a form of **orchestration**: directing a flow of work between roles, rules, and results.
+You’ve learned to delegate step-by-step. To pass files, track decisions, update specs, and reuse artifacts across sessions. Each action you take is a form of orchestration: directing a flow of work between roles, rules, and results.
 
 This hands-on, button-by-button approach is not a fallback. It’s the groundwork for something bigger. It’s a rite of passage.
 
-Because unless you *build the process* with your own hands, you’ll never fully understand what can be automated. You won’t see which steps are stable, which specs are reusable, which connections matter. You’ll mistake tinkering for transformation.
+Because unless you build the process with your own hands, you’ll never fully understand what can be automated. You won’t see which steps are stable, which specs are reusable, which connections matter. Without a significant project in your rearview mirror, you’ll mistake tinkering for transformation.
 
 The next tier of this book explores those intelligent systems. It adds tools. It introduces automations. It teaches you how to orchestrate multiple agents, structure handoffs, and scale workflows that run without you.
 
 But those systems will only serve you if they’re built on the lessons you earned here.
 
-**This is the way forward.**
+This is the way forward.
