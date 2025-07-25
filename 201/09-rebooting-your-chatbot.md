@@ -1,3 +1,7 @@
+Here’s the revised full draft of **“Rebooting Your Chatbot”** with the **compression paragraph moved** into the “granularity of control” section and **removed from the wrap-up**:
+
+---
+
 # Rebooting Your Chatbot
 
 ## A Skill You’ll Actually Use: Rebooting a Murky Chat
@@ -41,9 +45,9 @@ You're figuring out what doesn’t work by trial and error.
 
 You're more direct now:
 
-> “Stop giving me long paragraphs. Use bullet points so I can shape this.”<br>
-> “Don’t use clipart or jokes. This is IT—not a marketing deck.”<br>
-> “Tone should be plainspoken and optimistic.”<br>
+> “Stop giving me long paragraphs. Use bullet points so I can shape this.”
+> “Don’t use clipart or jokes. This is IT—not a marketing deck.”
+> “Tone should be plainspoken and optimistic.”
 
 You land on a framing that resonates:
 
@@ -78,6 +82,8 @@ This gives you a fresh copy of the work so far—but not only that, it goes furt
 You didn’t have to do it that way. You could’ve just said, “Give me a recap,” and let the AI decide what to include and how to frame it. You might still get a decent result.
 
 You choose the granularity of your control. The more intentional you are, the more you get things your way. In this instance, you organized it in a way that suited how you wanted to carry things forward, continue the work.
+
+That same idea—how you *frame* the ask—also determines how much information the AI gives back. This is where **compression** comes in. You can ask for an outline instead of a full summary. You can distill a 300-page book into a one-page list of takeaways. That’s not just helpful for reflection—it’s also strategic. When you’re working with a long input (like a book), a well-shaped summary becomes the delivery vehicle for meaning. It gives the AI the *gist* without bogging it down. Compression scales the signal without overwhelming the context window.
 
 ## Reboot the Chat, Intentionally
 
@@ -114,11 +120,11 @@ Then you pasted that summary into a clean session.
 
 Now you're not dragging yesterday’s half-baked metaphors or bloated paragraphs into today’s task. You’re giving the AI only what it needs to move forward. That’s **context engineering** in action.
 
-Calling for summaries is blackbelt stuff. Not just because you can keep working across sessions—but because it gives you compression. Where a chatbot might choke if handed several books you felt it needed to guide work, it could easily swallow the pill if each were summarized in an outline. Compression gives you a way to zoom out and scale meaning without overloading the context window, to pass the **gist** without the weight. Obviously, granularity matters. Sometimes details are needed, sometimes not.
+You’re treating the AI’s memory like a workspace: editable, resettable, compressible, intentional.
 
-You’re treating the AI’s memory like a workspace: editable, resettable, compressible, intentional. You’re collaborating like a builder—not a backseat driver.
+You’re collaborating like a builder—not a backseat driver.
 
-As you practice this, you realize AI’s not doing everything.  It can’t.  It’s a tool and it follows your lead.
+As you practice this, you realize AI’s not doing everything. It can’t. It’s a tool and it follows your lead.
 
 You’re steering.
 
