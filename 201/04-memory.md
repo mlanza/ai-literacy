@@ -38,7 +38,7 @@ Even a simple chat thread functions as a kind of memory — just a fragile, temp
 
 That’s why **intentional memory packaging** becomes more important the longer your task runs.
 
-### Working Documents Are Long-Term Memory
+### Documents as Long-term Memory
 
 One of the most reliable ways to carry memory forward is by creating artifacts — documents that store your thinking, structure your project, or summarize past collaboration. These are the building blocks that let you pick up where you left off.
 
@@ -46,9 +46,9 @@ They don’t have to be complex. Markdown or plain text is ideal: they’re port
 
 These documents *are* your long-term memory. The more thoughtfully you maintain them, the more continuity and depth you’ll bring into each session.
 
-### Memory Is What Makes Large Tasks Possible
+### Memory Makes Large Tasks Possible
 
-This is the real unlock: when you start thinking of your work with AI as a *series of coordinated steps* supported by a growing memory base, you’ll realize that you’re not limited to one-shot prompts or lightweight chats. You can tackle deeper, broader, more meaningful tasks — as long as you bring the right context back into play.
+When you recognize your work with AI is a *series of coordinated steps* supported by a growing memory base, you’ll realize that you’re not limited to one-shot prompts or lightweight chats. You can tackle deeper, broader, more meaningful tasks — as long as you bring the right context back into play.
 
 Once you understand how memory works — and how much of it is yours to manage — you stop being limited by the chat window. You start collaborating on real work.
 
