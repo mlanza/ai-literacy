@@ -36,7 +36,7 @@ You might also call them **product artifacts** and **process artifacts**.
 
 This is why waypoints matter. Waypoints are artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
 
-When we first discussed **context engineering** we lacked the framing to expose it in its full glory.  It’s not just barking the right command to get the right outcome. It’s also carrying memory forward—both the memory of *what* was made and *how* it was made.
+When we first discussed **context engineering** we lacked the framing to explain it in its full glory.  It’s not just barking the right command to get the right outcome. It’s also carrying memory forward—both the memory of *what* was made and *how* it was made.
 
 One kind of memory is the product: the deliverable, the draft, the thing you're trying to build. The other kind is the process: the tone guides, the prompts that worked, the refinements that mattered. Both are vital. Together, the perfect payload includes not only a prompt, but data in the form of product and process artifacts.
 
