@@ -184,6 +184,8 @@ And it only works because your process is sound.
 The takeaway: these bots aren’t sidekicks. They’re workers.
 And if your SOPs are clear, they know exactly what seat to fill.
 
+---
+
 ## SOPs Are Code
 
 I don’t want you to miss what’s happening here:
@@ -198,16 +200,44 @@ And the results are shockingly reliable—if the spec is good.
 You’re no longer just writing instructions to align humans.
 You’re writing instructions that *get executed*.
 
-Let that sink in:
-**Your SOPs now have runtime.**
+That’s what makes this moment different: the same SOP that once trained a junior teammate can now run an AI worker in the loop. Your documents don’t just describe—they *do*.
+
+You’ve crossed a line: from writing about work to actually running it.
+And that opens the door to something bigger.
+
+---
+
+## 🌎 Repeatability Before Systemization
+
+An SOP isn’t just a checklist. It’s a *design space*—where you shape and test the logic of your process before locking anything in.
+
+And before that design becomes a system, it needs to be **repeated**.
+
+Why? Two big reasons.
+
+First: **understanding**.
+You can’t automate what you don’t fully grasp. Running the SOP manually forces you to clarify every step, outcome, and dependency. It exposes the seams. It teaches you what “good” really looks like—so you don’t end up encoding confusion into the system itself.
+
+Second: **adaptability**.
+SOPs are malleable. Systems are not.
+Once you start plugging in tools, triggers, or agents, you’re locking in choices—some of which you haven’t fully tested yet. Systemization is just SOPs with machines plugged in. And if you do it too early, you risk freezing flaws into place.
+
+That’s why we don’t rush. We repeat.
+Every pass through the SOP—by hand, with AI in the loop—is a test run that sharpens your process and prepares it for scale.
 
 ---
 
 ## 🌍 Capstone: Plan an International Trip
 
-You’re ready to run a real-world capstone project—not a theoretical exercise, but a meaningful process that produces useful byproducts and tests your ability to work iteratively with AI.
+If this chapter feels like a turning point, that’s because it is.
 
-To keep the example focused and relatable, we’ll anchor it around a common but rich scenario: **planning an international trip**.
+You’re no longer just asking ChatGPT to “help with a task.”
+You’re ready to design a repeatable workflow, and to manage that system, for real.
+
+This isn’t a toy example or a one-step demo.
+It’s a full-cycle project that demands real coordination, structure, and iteration.
+
+The scenario: **planning an international trip**.
 
 Why this?
 
@@ -215,30 +245,21 @@ Why this?
 * **It’s practical** — There’s real research, coordination, and decision-making involved.
 * **It’s repeatable** — You might do it again, and your system will evolve with each try.
 
-If international travel feels too ambitious, scale it down. Plan a simple vacation, a long weekend, or even a staycation with some structured activities. The core skills—defining scope, breaking work into steps, generating artifacts, reusing assets—apply at every level.
+If international travel feels too ambitious, scale it down. Plan a simple vacation, a long weekend, or even a staycation with structured activities. The same skills apply: define the goal, break work into steps, generate artifacts, reuse assets, refine as you go.
 
-Or, if you're eager to apply this to your actual job, go for it. You could redesign a training experience, build a stakeholder deck, roll out a change communication plan—anything that matters to you and would benefit from a clear, iterative process.
+Or, if you're eager to apply this to your actual job, go for it.
+Redesign a training experience. Build a stakeholder deck. Roll out a change communication plan. Any multi-step project will do—so long as it demands deliberate structure.
 
-No matter the topic, the goal is the same: run a complete system. Define the goal, walk through it in steps, capture waypoints, reuse artifacts, and refine as you go.
+Because this isn’t just a practice run. It’s a *proving ground*.
 
----
+Unless you’ve run an entire process by hand—with clear outcomes, visible artifacts, and deliberate iteration—you’re not ready to systemize. This capstone ensures you’ve internalized the lessons. It’s the minimum threshold for readiness.
 
-## 🌎 Repeatability Before Systemization
-
-If this chapter feels like a turning point, that’s because it is.
-
-You’re no longer just asking ChatGPT to “help with a task.” You’re designing a repeatable workflow. You’re managing a system.
-
-And here’s the most important thing: you’re still doing it by hand—on purpose.
-
-You’ve learned to delegate step-by-step. To pass files, track decisions, update specs, and reuse artifacts across sessions. Each action you take is a form of orchestration: directing a flow of work between roles, rules, and results.
-
-This hands-on, button-by-button approach is not a fallback. It’s the groundwork for something bigger. It’s a rite of passage.
-
-Because unless you build the process with your own hands, you’ll never fully understand what can be automated. You won’t see which steps are stable, which specs are reusable, which connections matter. Without a significant project in your rearview mirror, you’ll mistake tinkering for transformation.
+Each run is a rehearsal.
+Each artifact is a building block.
+Each update moves you closer to a version that’s worth scaling.
 
 The next tier of this book explores those intelligent systems. It adds tools. It introduces automations. It teaches you how to orchestrate multiple agents, structure handoffs, and scale workflows that run without you.
 
-But those systems will only serve you if they’re built on the lessons you earned here.
+But none of that matters if you can't stand up and run systems you can own (and modify!) start to finish.
 
-This is the way forward.
+**This is the way forward.**
