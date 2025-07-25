@@ -10,13 +10,19 @@ That’s what people miss. When they scoff at AI’s abilities, it’s often bec
 
 They dismiss the work because they picture the *leap* — not the *path*. They imagine someone shouting “make a deliverable!” and the AI spitting something out. But real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
 
+Here’s an edit that adds your teacher analogy to the **“Waypoint: The Real Path”** section, preserving the tone and flow of the original:
+
+---
+
 ### Waypoints: The Real Path
 
 Let’s introduce the missing ingredient: **waypoints**.
 
 Waypoints are the intermediate outputs that emerge when you stop hiding the process. They’re not the final product, but they’re not filler either. They’re the working drafts, outlines, critiques, and tone guides that give shape to the journey from idea to result. They are **artifacts** — real, inspectable pieces of work that make your thinking visible.
 
-Waypoints aren’t just clutter on the path. They’re proof that the path exists. Each one captures a moment where the work could be reviewed, refined, or redirected—by you or by the AI. And they’re only possible when the steps are made explicit.
+**It’s like when a teacher asks students to show their work—not because the answer alone is useless, but because the *process* reveals the reasoning, effort, and opportunities for feedback. That’s what waypoints are. They make thinking visible, teachable, and steerable.**
+
+They aren’t just clutter on the path. They’re proof that the path exists. Each one captures a moment where the work could be reviewed, refined, or redirected—by you or by the AI. They're the steps made explicit.
 
 ### Why Waypoints Appear
 
