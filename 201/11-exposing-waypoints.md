@@ -10,8 +10,6 @@ That’s what people miss. When they scoff at AI’s abilities, it’s often bec
 
 They dismiss the work because they picture the *leap* — not the *path*. They imagine someone shouting “make a deliverable!” and the AI spitting something out. But real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
 
-Here’s an edit that adds your teacher analogy to the **“Waypoint: The Real Path”** section, preserving the tone and flow of the original:
-
 ---
 
 ### Waypoints: The Real Path
