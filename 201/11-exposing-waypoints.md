@@ -32,15 +32,13 @@ These are tied directly to the project at hand—the specific content you're try
 
 These emerge from the process you used to produce the work. They’re the reusable parts: the checklist you made after coaching the AI, the tone guide you wrote for future drafts, the SOP you updated after seeing what was missing. These are meta-level artifacts—reflections of how you work, not just what you’re working on.
 
-You might call them product artifacts and process artifacts, but we’ll use the terms work artifacts and workflow artifacts to keep the emphasis on action and repeatability.
+You might call them **product artifacts** and **process artifacts**, but we’ll use the terms work artifacts and workflow artifacts to keep the emphasis on action and repeatability.
 
 This is why waypoints matter. Waypoints are artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
 
-Now we can name what all this adds up to: **context engineering**.
+When we first discussed **context engineering** we lacked the framing to expose it in its full glory.  It’s not just barking the right command to get the right outcome. It’s also carrying memory forward—both the memory of *what* was made and *how* it was made.
 
-Earlier, we didn’t have quite enough framing to say it plainly, but this is what context engineering really means. It’s not just barking the right command in anticipation of a desired outcome. It’s also carrying memory forward—both the memory of *what* was made and *how* it was made.
-
-One kind of memory is the product: the deliverable, the draft, the thing you're trying to build. The other kind is the process: the tone guides, the prompts that worked, the refinements that mattered. Both are vital. Together, they shape the perfect payload—not just by stating a goal, but by anchoring it in real, inspectable evidence of judgment.
+One kind of memory is the product: the deliverable, the draft, the thing you're trying to build. The other kind is the process: the tone guides, the prompts that worked, the refinements that mattered. Both are vital. Together, the perfect payload includes not only a prompt, but data in the form of product and process artifacts.
 
 Waypoints make that possible. They’re not just detours. They’re deposits of memory. They’re how you build smarter prompts, sharper expectations, and better tools for your next round.
 
