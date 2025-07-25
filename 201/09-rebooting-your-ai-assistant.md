@@ -83,10 +83,6 @@ You choose the granularity of your control. The more intentional you are, the mo
 
 Once the summary looks solid, it’s time to move forward. But don’t copy it over just yet.
 
-Got it — surgical strike, not demolition. Here's the corrected version of that section with just the sentence about context engineering removed, while preserving the rest of the paragraph:
-
----
-
 ### Look Ahead Before You Copy
 
 Before jumping into a new chat, take a moment to think strategically:
@@ -108,7 +104,7 @@ Before jumping into a new chat, take a moment to think strategically:
 
 ---
 
-### Wrapping Up: You’re Driving the Collaboration Now
+## Wrapping Up: You’re Driving the Collaboration Now
 
 This scenario modeled more than just a cleanup trick—it showcased a strategic mindset shift.
 
