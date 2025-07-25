@@ -8,7 +8,11 @@ The **Elephant** is your gut — your instincts, emotions, moral reflexes, your 
 
 The **Rider** likes to *think* he's in charge. He makes charts, writes arguments, sets alarms, builds philosophies — but in most moments when the Elephant leans and then veers in a direction, the Rider finds the reason it makes sense to go that way.
 
-That's what humans do. We’re not cold, calculating logic machines. We’re **meaning-makers** who lead with intuition and then bolt on a clean explanation afterward.
+That’s not a flaw — it’s a feature of being human. The mind often justifies what the heart wants. We’re not cold, calculating logic machines. We’re **meaning-makers** who lead with intuition and then bolt on a clean explanation afterward.
+
+Psychologists call this dynamic **cognitive dissonance** — the tension we feel when our beliefs, values, or actions come into conflict. That tension is uncomfortable. And because no one likes living in a state of internal contradiction, the mind works to restore harmony. We rationalize not just to persuade others, but to make peace with ourselves.
+
+And that instinct serves us — because life isn’t simple. It’s full of nuance, edge cases, and changing contexts. We’re constantly navigating situations where the “right” answer depends on more than just the rule. Black-and-white thinking breaks down fast.
 
 Think about lying.
 
@@ -19,19 +23,3 @@ But what if you were hiding someone in your home? When the shooter bursts in dem
 You lie, of course.
 
 See? The principle didn’t change — *your Elephant just moved*. The emotional stakes shifted, the context changed, and your internal justifications caught up. Your Rider kicked in with logic about protection, greater harm, and moral responsibility. It’s not just an exception to the rule — it’s a reminder that **the rule always had caveats**, whether you were aware of them or not.
-
-Now LLMs have some sense of those caveats baked in — as probabilities. But as with all probabilities, they're not certainties. And since the LLM isn't perfect, and randomization is a factor, pucks can fall into outlier slots.
-
-They were trained on mountains of human thought — and all of it carries the fingerprints of this same mental dance. We don’t just write what’s true; we write what feels justifiable. That means the model learns, just like we do, how to make something *make sense*, even if it’s counterintuitive — because someone, somewhere, has already done that legwork.
-
-So yes, LLMs can rationalize almost anything. Not because they’re schemers or rebels, but because they’ve ingested billions of human examples.
-
-This is where it gets tricky. LLMs don’t have an inner compass. They don’t “believe” in anything. But they do reflect *probabilistic patterns* of what people say in similar situations. And most of the time, with the right guardrails, that means they give you a reasonable, justifiable answer.
-
-But not always.
-
-Because just like people, LLMs are only as reliable as the context they’re given — and the context they were trained on is full of contradiction, exception, moral complexity, and clever justifications. They’re remixing the same stuff we use to make our own decisions.
-
-So when an LLM gives you an answer that sounds eerily persuasive — or uncomfortably “off” — remember this: **it’s not channeling truth, it’s channeling us**. Our values. Our rationalizations. Our Elephants.
-
-And like us, it's doing its best to sound sure… even when the ground underneath is slippery.
