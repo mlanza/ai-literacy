@@ -79,9 +79,9 @@ Instead of scrolling back through the thread or starting from scratch, you ask t
 
 This gives you a fresh copy of the work so far—but not only that, it goes further. By listing out sensible groupings like *accepted ideas*, *tone preferences*, and *open questions*, you’ve essentially sorted the stack of loose papers on your desk into labeled manila folders. You didn’t just ask for a summary—you shaped how the information would come back to you.
 
-You didn’t have to do it that way. You could’ve just said, “Give me a recap,” and let the AI decide what to include and how to frame it. But that leaves the organization to chance.
+You didn’t have to do it that way. You could’ve just said, “Give me a recap,” and let the AI decide what to include and how to frame it. You might still get a decent result.
 
-By choosing the structure yourself, you’re not only preserving what matters—you’re organizing it in a way that suits how you want to carry things forward, continue the work.
+You choose the granularity of your control. The more intentional you are, the more you get things your way. In this instance, you organized it in a way that suited how you wanted to carry things forward, continue the work.
 
 ---
 
