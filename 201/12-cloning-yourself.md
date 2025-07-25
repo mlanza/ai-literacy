@@ -6,7 +6,9 @@ In the 1996 comedy *Multiplicity*, Michael Keaton plays Doug Kinney, a frazzled 
 
 That’s the fantasy AI now makes real—up to a point.
 
-Unlike Doug’s literal clones, AI doesn’t actually replicate your intelligence. It doesn’t share your goals, retain your memory over time, or understand your values. But with the right input—well-structured specs, examples, tone guides—you *can* shape it to behave like a highly attentive, always-on version of yourself. Not a clone of your mind, but a clone of your methods.
+Unlike Doug’s literal clones, AI doesn’t actually replicate your intelligence. It doesn’t share your goals, retain your memory over time, or understand your values. But with the right input—well-structured **specs**, examples, tone guides—you *can* shape it to behave like a highly attentive, always-on version of yourself. Not a clone of your mind, but a clone of your methods.
+
+> These **specs** aren’t just instructions—they’re **workflow artifacts**: reusable assets that carry your judgment forward and let the AI act like a trained member of your team.
 
 And the best part? You can do it all in a single chat window.
 
