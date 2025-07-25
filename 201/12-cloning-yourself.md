@@ -73,7 +73,6 @@ Instead of starting over, you capture it. You ask:
 And the model replies:
 
 ```text
-
 **Role Guide Authoring Guidelines**
 
 – Use second person (“you”) to speak directly to the reader
