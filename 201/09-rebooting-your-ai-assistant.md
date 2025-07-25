@@ -101,7 +101,7 @@ Before jumping into a new chat, take a moment to think strategically:
 
    > “Trim this down to just the purpose, structure, and tone preferences. Leave out anything we’ve ruled out or haven’t decided.”
 
-This is **context engineering** in action. You’re judging how much information is helpful to carry forward—and trimming the rest.
+   This is **context engineering** in action. You’re judging how much information is helpful to carry forward—and trimming the rest.
 
 3. **Copy the summary.**
 
