@@ -28,7 +28,7 @@ This is the hidden value of process: not just throughput, but **thought visibili
 
 ## SOPs Are for Workers
 
-Standard operating procedures were always designed for people—clear, step-by-step guides to help workers produce consistent, reliable outcomes. What’s changed is not the format, but the scope of who counts as a “worker.”
+Standard operating procedures—perhaps the most popular kind of **workflow artifact**—were always designed for people.  They're clear, step-by-step guides to help workers produce consistent, reliable outcomes. What’s changed is not the format, but the scope of who counts as a “worker.”
 
 Today, that includes the AI sitting in your chat window.
 
