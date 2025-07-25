@@ -114,7 +114,7 @@ Then you pasted that summary into a clean session.
 
 Now you're not dragging yesterday’s half-baked metaphors or bloated paragraphs into today’s task. You’re giving the AI only what it needs to move forward. That’s **context engineering** in action.
 
-Calling for summaries is blackbelt stuff. Not just because you can keep working across sessions—but because it gives you compression. Where a chatbot might choke if handed it all of several books you felt it needed for some work, it could easily swallow the pill if each were compressed into an outline. This’d give it the **gist** without the weight. Compression gives you a way to zoom out and scale meaning without overloading the context window.
+Calling for summaries is blackbelt stuff. Not just because you can keep working across sessions—but because it gives you compression. Where a chatbot might choke if handed it all of several books you felt it needed for some work, it could easily swallow the pill if each were summarized as an outline. Compression gives you a way to zoom out and scale meaning without overloading the context window, to pass the **gist** without the weight.
 
 You’re treating the AI’s memory like a workspace: editable, resettable, compressible, intentional. You’re collaborating like a builder—not a backseat driver.
 
