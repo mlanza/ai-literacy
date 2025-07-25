@@ -12,7 +12,7 @@ They dismiss the work because they picture the *leap* — not the *path*. They i
 
 ---
 
-### Waypoints: The Real Path
+## Waypoints: The Real Path
 
 Let’s introduce the missing ingredient: **waypoints**.
 
@@ -22,7 +22,21 @@ It’s like when a teacher asks students to show their work—not because the an
 
 They aren’t just clutter on the path. They’re proof that the path exists. Each one captures a moment where the work could be reviewed, refined, or redirected—by you or by the AI. They're the steps made explicit.
 
-### Why Waypoints Appear
+The distinction is these artifacts come in two broad forms.
+
+### Work Artifacts
+
+These are tied directly to the project at hand—the specific content you're trying to produce. A rejected analogy. A first-pass outline. A cleaned-up stakeholder summary. They’re useful within the current context, but not necessarily beyond it.
+
+### Workflow Artifacts
+
+These emerge from the process you used to produce the work. They’re the reusable parts: the checklist you made after coaching the AI, the tone guide you wrote for future drafts, the SOP you updated after seeing what was missing. These are meta-level artifacts—reflections of how you work, not just what you’re working on.
+
+You might call them product artifacts and process artifacts, but we’ll use the terms work artifacts and workflow artifacts to keep the emphasis on action and repeatability.
+
+This is why waypoints matter. Waypoints are the artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
+
+## Why Waypoints Appear
 
 Imagine the process of creating a deliverable as a kind of petri net: a bead moves from one cup to the next, following defined steps. The more distinct stages you introduce—cups, in this metaphor—the more paths emerge between them. More checkpoints. More opportunities for insight.
 
