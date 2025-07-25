@@ -1,10 +1,10 @@
 # Exposing Waypoints — The Path to Meaningful Collaboration
 
-### No Shortcuts Here
+## No Shortcuts Here
 
 It’s easy to imagine AI as a magical assistant that can create complete deliverables from just a few instructions. Say you wanted to write a book about your area of expertise—for example, *how to write effective product documentation*. Let’s say your team just built a custom ticketing solution for your organization’s IT helpdesk. You want to create a guide that helps new team members understand how it works, why certain design decisions were made, and how to use it effectively across roles.
 
-You wouldn’t just bark an order to AI to “write a book about our ticketing system” and provide a few paragraphs about what it should cover. That’s too simplistic. While AI might give you a book that technically fits your request, it would likely be messy and inconsistent—even if you asked it to be thoughfully organized. It can only do so much. It lacks human judgment, taste, and aesthetic. You might get something passable, but not publishable. Not the kind of reference you’d actually want new hires to read.
+You wouldn’t just bark an order to AI to “write a book about our ticketing system” and provide a few paragraphs about what it should cover. That’s too simplistic. While AI might give you a book that technically fits your request, it would likely be messy and inconsistent—even if you asked it to be thoughtfully organized. It can only do so much. It lacks human judgment, taste, and aesthetic. You might get something passable, but not publishable. Not the kind of reference you’d actually want new hires to read.
 
 That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine a shortcut scenario—one that skips all the effort real-world deliverables require.
 
@@ -34,7 +34,17 @@ These emerge from the process you used to produce the work. They’re the reusab
 
 You might call them product artifacts and process artifacts, but we’ll use the terms work artifacts and workflow artifacts to keep the emphasis on action and repeatability.
 
-This is why waypoints matter. Waypoints are the artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
+This is why waypoints matter. Waypoints are artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
+
+Now we can name what all this adds up to: **context engineering**.
+
+Earlier, we didn’t have quite enough framing to say it plainly, but this is what context engineering really means. It’s not just barking the right command in anticipation of a desired outcome. It’s also carrying memory forward—both the memory of *what* was made and *how* it was made.
+
+One kind of memory is the product: the deliverable, the draft, the thing you're trying to build. The other kind is the process: the tone guides, the prompts that worked, the refinements that mattered. Both are vital. Together, they shape the perfect payload—not just by stating a goal, but by anchoring it in real, inspectable evidence of judgment.
+
+Waypoints make that possible. They’re not just detours. They’re deposits of memory. They’re how you build smarter prompts, sharper expectations, and better tools for your next round.
+
+---
 
 ## Why Waypoints Appear
 
