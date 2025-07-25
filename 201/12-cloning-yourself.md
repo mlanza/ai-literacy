@@ -6,7 +6,7 @@ In the 1996 comedy *Multiplicity*, Michael Keaton plays Doug Kinney, a frazzled 
 
 That’s the fantasy AI now makes real—up to a point.
 
-Unlike Doug’s literal clones, AI doesn’t actually replicate your intelligence. It doesn’t share your goals, retain your memory over time, or understand your values. But with the right input—well-structured specs, examples, tone guides—you *can* shape it to behave like a highly attentive, always-on version of yourself. Not a clone of your mind, but a clone of your methods.
+Unlike Doug’s literal clones, AI doesn’t actually replicate your intelligence. It doesn’t share your goals, retain your memory over time, or understand your values. But with the right input—well-structured **specs**, examples, tone guides—you *can* shape it to behave like a highly attentive, always-on version of yourself. Not a clone of your mind, but a clone of your methods.
 
 And the best part? You can do it all in a single chat window.
 
@@ -72,7 +72,7 @@ Instead of starting over, you capture it. You ask:
 
 And the model replies:
 
----
+```text
 
 **Role Guide Authoring Guidelines**
 
@@ -83,10 +83,11 @@ And the model replies:
 – Spell out default configurations and common assumptions
 – Avoid vague phrases like “the system helps streamline tasks”—name the task
 – Clarify what’s new, optional, or customized for this role
+```
 
 ---
 
-That list isn’t just a nice-to-have—it’s a **workflow artifact**. A reusable spec you can drop into any future prompt to restore the standards you taught here.
+A **spec** like the list isn’t just a nice-to-have.  It’s a reusable **workflow artifact** which can be dropped into future prompts to restore the standards you taught here.
 
 You copy that list into a markdown file:
 `/Documents/Artifacts/role-guide-style.md`
