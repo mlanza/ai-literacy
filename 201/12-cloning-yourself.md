@@ -86,7 +86,7 @@ And the model replies:
 
 ---
 
-A **spec** like the list isn’t just a nice-to-have.  It’s a reusable **workflow artifact** which can be dropped into future prompts to restore the standards you taught here.
+A **spec** like this isn’t just a nice-to-have.  It’s a reusable **workflow artifact** which can be dropped into future prompts to restore the standards you taught here.
 
 You copy that list into a markdown file:
 `/Documents/Artifacts/role-guide-style.md`
