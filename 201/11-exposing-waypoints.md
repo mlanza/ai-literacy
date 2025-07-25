@@ -32,7 +32,7 @@ These are tied directly to the project at hand—the specific content you're try
 
 These emerge from the process you used to produce the work. They’re the reusable parts: the checklist you made after coaching the AI, the tone guide you wrote for future drafts, the SOP you updated after seeing what was missing. These are meta-level artifacts—reflections of how you work, not just what you’re working on.
 
-You might call them **product artifacts** and **process artifacts**, but we’ll use the terms work artifacts and workflow artifacts to keep the emphasis on action and repeatability.
+You might also call them **product artifacts** and **process artifacts**.
 
 This is why waypoints matter. Waypoints are artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
 
