@@ -1,4 +1,4 @@
-# Rebooting Your AI Assistant
+# Rebooting Your Chatbot
 
 ## A Skill You’ll Actually Use: Rebooting a Murky Chat
 
