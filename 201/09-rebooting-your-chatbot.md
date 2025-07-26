@@ -1,7 +1,3 @@
-Here’s the revised full draft of **“Rebooting Your Chatbot”** with the **compression paragraph moved** into the “granularity of control” section and **removed from the wrap-up**:
-
----
-
 # Rebooting Your Chatbot
 
 ## A Skill You’ll Actually Use: Rebooting a Murky Chat
