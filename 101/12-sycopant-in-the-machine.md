@@ -30,4 +30,4 @@ Don’t just ask a model to solve your problem. Ask it to challenge your assumpt
 
 When AI assures you, “you’re the only one who gets it,” that’s your cue to play devil’s advocate. Expose your blind spots. Then consider the pushback.
 
-AI will take you wherever you want to go. Just remember to look both ways before crossing the road.
+AI will take you wherever you want to go. You have to remember to look both ways before crossing the road.
