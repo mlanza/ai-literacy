@@ -2,19 +2,66 @@
 
 ## No Shortcuts Here
 
-It’s easy to imagine AI as a automated assistant that can create complete deliverables from just a few instructions. Say your expertise is writing effective product documentation and your team just built a custom ticketing solution for your organization’s IT helpdesk. You want to create a guide that helps new team members understand how it works, why certain design decisions were made, and how to use it effectively across roles.
+People say it all the time:
+*“Sure, AI can write a book—but would you want to read it?”*
 
-You wouldn’t just bark an order to AI to “write a book about our ticketing system” and provide a few paragraphs about what it should cover. That’s too simplistic. While AI might give you a book that technically fits your request, it would likely be messy and inconsistent—even if you asked it to be thoughtfully organized. It can only do so much. It lacks human judgment, taste, and aesthetic. You might get something passable, but not publishable. Not the kind of reference you’d actually want new hires to read.
+They’re not wrong.
 
-That’s what people miss. When they scoff at AI’s abilities, it’s often because they imagine the shortcut scenario—the one that skips all the effort that'd normally require.
+If you treat a book like a task—like something a model can generate from a single prompt—you’ll get something that reads like it. Disjointed. Shallow. Full of guesses.
 
-They dismiss it because they picture the *leap* and not the *path*. The order “make a deliverable!” is too tall even for AI, because — to be fair — real work doesn’t work like that. Every polished outcome is the product of countless steps, insights, and revisions—connections that only appear when the process is stretched and made visible.
+And when people see that, they scoff.
+Not because they’re wrong to be skeptical—because they *know*, instinctively, that it doesn’t work that way.
 
----
+You can’t just tell a machine to write something complex and expect it to come back polished, coherent, and worth reading.
+
+They’re right, of course.
+The work can’t be skipped.
+
+The real delusion isn’t trusting AI.
+It’s thinking you can leap from idea to outcome without putting in the effort.
+
+That’s what the shortcut misses.
+A deliverable isn’t a one-step command. It’s a sequence. A structure. A series of revisions and refinements—none of which happen if you expect the model to leap straight to the finish.
+
+But there’s another way.
+
+Not “AI writes the book.”
+
+*AI helps you write the book.*
+
+That’s what you’ve been learning to do.
+
+You’ve practiced rebooting when things get murky.
+
+You’ve started naming ideas, bucketing decisions, boxing what’s worth keeping.
+
+You’ve learned how to compress large inputs and scale signal.
+
+Those are more than clever tricks.
+
+They’re working methods. Repeatable. Reliable. Sharpened through use.
+
+And something else starts to happen when you use them.
+
+You stop thinking only about the outcome—and start noticing the steps.
+
+The summaries. The outlines. The rejected versions. The tone notes.
+
+Pieces of the process that aren’t just helpful in the moment.
+
+They’re valuable on their own.
+
+This chapter is about those pieces.
+
+Not just artifacts, but **waypoints**—concrete markers of how good work gets made.
+
+Not scraps. Not leftovers.
+
+Evidence. Structure. Memory.
+
+And the better you get at spotting them, the more power you have to reuse what works—and leave the noise behind.
 
 ## Waypoints: The Real Path
-
-Let’s introduce the missing ingredient: **waypoints**.
 
 Waypoints are the intermediate outputs that emerge when you stop hiding the process. They’re not the final product, but they’re not filler either. They’re the working drafts, outlines, critiques, and tone guides that give shape to the journey from idea to result. They are **artifacts** — real, inspectable pieces of work that make your thinking visible.
 
