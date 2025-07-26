@@ -22,8 +22,8 @@ But here’s the real danger: the better the AI gets at mimicking confidence, th
 
 Remember when Will met the therapist that saw past his confident facade? He didn’t need another person to tell him how brilliant he was. He needed someone to call him out.
 
-Sometimes, that’s what we need from AI too. It leans chummy. You have to invite pushback; ask for criticism. Wise is the one who doesn't surround himself with only yes-men.
+Sometimes, that’s what we need from AI too. It leans chummy. Remember to invite pushback; ask for criticism.
 
 Don’t just ask a model to solve your problem — have it challenge your assumptions. Give it a role: a skeptical peer, a tough critic, a rival expert. Ask: “Where could I be wrong?” or “What would the opposition say?”
 
-When AI assures you, “you’re the only one who gets it,” remember to invoke *devil's advocate* to expose your blind spots.  Then consider the pushback.
+When AI assures you, “you’re the only one who gets it,” invoke *devil's advocate* to expose your blind spots.  Then consider the pushback.  AI will take you wherever you want to go.  You're responsible to look both ways before crossing the road.
