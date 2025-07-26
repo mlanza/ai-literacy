@@ -41,9 +41,9 @@ You're figuring out what doesn’t work by trial and error.
 
 You're more direct now:
 
-> “Stop giving me long paragraphs. Use bullet points so I can shape this.”
-> “Don’t use clipart or jokes. This is IT—not a marketing deck.”
-> “Tone should be plainspoken and optimistic.”
+> “Stop giving me long paragraphs. Use bullet points so I can shape this.”<br>
+> “Don’t use clipart or jokes. This is IT—not a marketing deck.”<br>
+> “Tone should be plainspoken and optimistic.”<br>
 
 You land on a framing that resonates:
 
