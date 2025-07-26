@@ -81,4 +81,14 @@ Reuse has a value proposition which can only be leveraged when experience is cap
 
 That’s the deeper promise of structured prompting. It’s not about saving time once. It’s about building *momentum* across projects. Each box you fill becomes a stepping stone. And over time, your toolkit grows—not just in content, but in capability.
 
-Reuse begins with respecting your own experience. Boxing it makes it reusable.
+Reuse begins with respecting your own experience. **Boxing it makes it reusable.**
+
+But the more you reuse, the more you collect. Each session, each project, each insight adds another box to the shelf. Before long, you're not just sorting ideas—you’re managing a growing archive of working knowledge.
+
+That’s a gift—but it’s also a challenge. Structure creates abundance. And abundance demands new techniques.
+
+You can curate, yes. Edit, yes. But you’ll also need a way to **work with plenty**—to **pull from the right boxes**, combine what matters, and compress it all into something the AI can still reason with.
+
+That’s the next skill: **scaling signal**.
+
+When your ideas outgrow the context window, you don’t shrink back—you learn to focus the lens.
