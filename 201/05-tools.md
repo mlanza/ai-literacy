@@ -134,7 +134,7 @@ Developers are continually adding new capabilities — like Q showing Bond the l
 
 They shrink the gap between idea and action.
 
-## Almost Any File(s). Almost Any Language.
+## Almost Any File. Multiple Even. Almost Any Language.
 
 We’ve already seen what **File Handling** and **Data Inspection** can do — upload a spreadsheet, ask a question, and watch the AI sift through rows, charts, and formulas with ease. But that’s just scratching the surface.
 
