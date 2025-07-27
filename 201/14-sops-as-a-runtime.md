@@ -186,7 +186,7 @@ That’s the point. The fix didn’t come from talent or intuition—it came fro
 
 Ironic that the same bot that made the error in a **different seat**—a different role, a different spec—caught it?
 
-Not really.  The leverage of systems is not that they’re perfect.  It’s that they make recovery routine.
+Maybe.  But the leverage of systems is not that they’re perfect.  It’s that they make recovery routine.
 
 ## SOPs Are Code
 
