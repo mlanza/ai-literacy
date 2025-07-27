@@ -6,8 +6,8 @@ You’ve compressed a photo before. Probably without thinking about it.
 
 You clicked "Export as JPEG," dragged the slider toward "Smaller File Size," and lost a little sharpness. Fuzzy edges. Muted colors. You weren’t just shrinking an image—you were deciding how much of it mattered.
 
-High compression = small file, fast load, fuzzy details.
-Low compression = crisp image, heavy file, full fidelity.
+High compression = small file, fast load, fuzzy details.<br>
+Low compression = crisp image, heavy file, full fidelity.<br>
 
 You’re used to that tradeoff with pictures. You probably accept it. What you might not realize is: **you’re doing the same thing with words.**
 
