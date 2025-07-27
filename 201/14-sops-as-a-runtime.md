@@ -184,9 +184,9 @@ And it only works because your process is sound.
 
 That’s the point. The fix didn’t come from talent or intuition—it came from process.
 
-Even when the same bot made the error, it was a **different seat**—a different role, a different spec—that caught it.
+Ironic that the same bot that made the error in a **different seat**—a different role, a different spec—caught it?
 
-That’s the leverage of systems: not perfection, but structure that makes recovery routine.
+Not really.  The leverage of systems is not that they’re perfect.  It’s that they make recovery routine.
 
 ## SOPs Are Code
 
