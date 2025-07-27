@@ -65,8 +65,6 @@ That onboarding presentation? It turns out the user builds several of those a ye
 
 Stored this way—in a folder, a doc, a versioned file—they’re not just reference material. They’re *fuel* for your next session. You can paste them back into a prompt. Upload them. Reuse them. And this time, you skip the wandering and get to results faster.
 
----
-
 ### Boxing Experience
 
 Every iteration is experience gained. When you fumble through a project—bumping into bad metaphors, refining tone, circling back to better ideas—you’re not just moving forward. You’re learning. And if you’re learning, there’s value there. But that value is fragile. Left uncaptured, it fades. Worse, it repeats.
