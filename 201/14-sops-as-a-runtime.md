@@ -207,7 +207,7 @@ That’s what makes this moment different: the same SOP that once trained a juni
 You’ve crossed a line: from writing about work to actually running it.
 And that opens the door to something bigger.
 
-## 🌎 Repeatability Before Systemization
+## 💻 Repeatability Before Systemization
 
 An SOP isn’t just a checklist. It’s a *design space*—where you shape and test the logic of your process before locking anything in.
 
