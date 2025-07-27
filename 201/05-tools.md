@@ -186,10 +186,8 @@ Now it listens to your words.
 When AI has access to tools, you don’t need to hunt for buttons or memorize workflows.
 You say what you want — and it handles the rest.
 
-That’s the real shift.
-
 Not just smarter responses, but delegated action.
 
-**Tools make that possible.**
+*Tools grant the AI the agency to act.*
 
 They’re the hinge between thought and execution.
