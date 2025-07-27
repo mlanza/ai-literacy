@@ -148,9 +148,6 @@ And the best part? **You already know how to upload a file.** You don’t need a
 
 Let’s look at what that actually feels like in practice.
 
-**“What are the top issues mentioned in these meeting notes?”**<br>
-Drop in a Word doc, a PDF, or a plaintext export from OneNote. The AI reads through pages of loosely organized text and distills a bulleted list of key problems, decisions, and action items. Suddenly the clutter is gone, and you're left with clarity.
-
 **“Can you summarize this 60-page PowerPoint for an exec briefing?”**<br>
 Upload the deck as-is. The AI scans slide titles, notes, and content, then returns a tight 1-pager organized by themes or topics. No more slogging through every slide — just the narrative you need, ready to share.
 
@@ -162,9 +159,6 @@ Upload both the original and the revised version. The AI performs a structured d
 
 **“Analyze this year’s budget vs. last year’s. What changed the most?”**<br>
 Two spreadsheets in, one story out. The AI calculates year-over-year shifts, flags the biggest deltas, and highlights categories with the most volatility. It might even draft bullet points for your next team slide. It’s not just a formula engine — it’s a financial analyst.
-
-**“Do these two project proposals overlap? Could we merge them?”**<br>
-Feed in two different docs — a PDF from marketing and a Word doc from IT. The AI parses goals, timelines, and scope, then returns a synthesis: what’s redundant, what’s distinct, and whether collaboration makes sense. You catch duplication *before* it costs time.
 
 **“This log file and this error report came from the same system. Tell me what went wrong.”**<br>
 Upload a messy debug log and a plain-language support ticket. The AI connects user frustration to backend tracebacks, offering a plausible root cause. For ops teams, it’s like merging intuition with instrumentation.
