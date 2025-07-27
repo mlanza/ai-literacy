@@ -150,6 +150,7 @@ For most of computing history, getting software to do something meant writing co
 You needed a developer to express the task in the right syntax, for the right system.
 
 But large language models can understand and produce not only human languages — but also machine languages: SQL, JSON, HTML, regex, YAML, and more.
+
 That means they can take your request in plain language, and translate it into something machines can execute.
 
 That’s why AI is showing up in calendars, browsers, documents, inboxes, and apps — not to replace them, but to **operate them**. On your behalf. Through your words.
@@ -157,8 +158,9 @@ That’s why AI is showing up in calendars, browsers, documents, inboxes, and ap
 We’re entering a new phase where **language becomes the interface**.
 
 When AI is equipped with tools, you no longer have to find the settings, learn the menus, or execute the steps yourself.
+
 You describe the outcome — and the AI carries it out.
 
-**That’s not just prompting anymore. That’s delegating.**
+That’s not just prompting anymore. That’s delegating.
 
-And it’s a superpower.
+Without tools, none of this would be possible.
