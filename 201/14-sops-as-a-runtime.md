@@ -6,9 +6,7 @@
 
 AI doesn’t just let you divide work into tasks. It lets you **design processes** that would’ve been too costly or complicated before. That’s a shift every team—large or small—should be thinking about.
 
-As W. Edwards Deming put it, *“If you can’t describe what you are doing as a process, you don’t know what you’re doing.”*
-
-> *“A bad system will beat a good person every time.”* — Deming
+> *“If you can’t describe what you are doing as a process, you don’t know what you’re doing.”* — W. Edwards Deming
 
 That applies to AI too. If the system isn’t sound—if the specs are vague, or the stages aren’t defined—you’ll get unpredictable results, no matter how capable the AI is. What changes everything is **deliberate process design**, using AI as a teammate at each stage.
 
@@ -28,7 +26,7 @@ This is the hidden value of process: not just throughput, but **thought visibili
 
 ## SOPs Are for Workers
 
-Standard operating procedures—perhaps the most popular kind of **workflow artifact**—were always designed for people.  They're clear, step-by-step guides to help workers produce consistent, reliable outcomes. What’s changed is not the format, but the scope of who counts as a “worker.”
+Standard operating procedures—perhaps the most popular kind of **workflow artifact**—were always designed for people. They're clear, step-by-step guides to help workers produce consistent, reliable outcomes. What’s changed is not the format, but the scope of who counts as a “worker.”
 
 Today, that includes the AI sitting in your chat window.
 
@@ -48,8 +46,8 @@ Let’s make this real.
 
 You have a process file called:
 
-> `SOP: Drafting Internal Product Docs`
-> (stored at `/Documents/SOPs/drafting-product-docs.md`)
+> `SOP: Drafting Internal Product Docs`<br>
+> (stored at `/Documents/SOPs/drafting-product-docs.md`)<br>
 
 This is your standard operating procedure for creating IT-facing documentation—system overviews, onboarding guides, feature explainers. It’s used by human teammates across multiple departments.
 
@@ -72,9 +70,9 @@ But because **you know how to pilot a chatbot well**.
 
 You begin the session by pasting in the SOP:
 
-> **Prompt:**
-> *Here’s our SOP for drafting product docs. You’re to follow it with me as I build documentation for our identity platform. Wait for my cue before each step. Let me know once you’ve read it.*
-> \[uploads SOP]
+> **Prompt:**<br>
+> *Here’s our SOP for drafting product docs. You’re to follow it with me as I build documentation for our identity platform. Wait for my cue before each step. Let me know once you’ve read it.*<br>
+> \[uploads SOP]<br>
 
 ChatGPT replies:
 
@@ -86,16 +84,16 @@ You reply:
 
 ### 🛠️ Step 1 Output: Identify the Target Audience
 
-> **Audience Summary:**
-> – First 90 days on the job
-> – Working through onboarding modules
-> – High urgency for role-based access clarity
+> **Audience Summary:**<br>
+> – First 90 days on the job<br>
+> – Working through onboarding modules<br>
+> – High urgency for role-based access<br> clarity
 >
-> **Common Questions:**
-> – What does this platform manage?
-> – Why do I have access to things I didn’t request?
-> – How do I change my access?
-> – What’s expected of me re: MFA, password changes, etc.?
+> **Common Questions:**<br>
+> – What does this platform manage?<br>
+> – Why do I have access to things I didn’t request?<br>
+> – How do I change my access?<br>
+> – What’s expected of me re: MFA, password changes, etc.?<br>
 
 You review the output and realize something’s missing.
 
@@ -152,6 +150,7 @@ You are building a well-oiled machine. And every part of it runs on the specs yo
 In the last chapter, we talked about **cloning yourself**—building reusable specifications that let the model act more like a trained version of you. But now that we’re working at the process level, it’s time to shift the metaphor.
 
 You’re no longer just shaping clones of your own judgment.
+
 You’re **assigning bots to specific roles**—modular, goal-oriented workers that slot into your process and carry out defined tasks.
 
 These bots aren’t characters or personalities. They’re seat-fillers. Specialists. Helpers trained to do *just this part* of the work, *in this way*, to *this standard*. And that makes them interchangeable, inspectable, and—most importantly—**reviewable by each other**.
@@ -181,10 +180,9 @@ It can even run a web search to confirm facts—if you ask it to.
 That’s not just flexibility. It’s **role awareness**.
 And it only works because your process is sound.
 
-The takeaway: these bots aren’t sidekicks. They’re workers.
-And if your SOPs are clear, they know exactly what seat to fill.
+> *“A bad system will beat a good person every time.”* — W. Edwards Deming
 
----
+This is why SOP design matters so much. If your outcomes depend on heroics—or on catching errors by instinct alone—you’ll lose. A well-crafted process catches those things automatically, often with help from the very same bots that made the mistake. The system, not the seat, is what ensures quality.
 
 ## SOPs Are Code
 
@@ -205,8 +203,6 @@ That’s what makes this moment different: the same SOP that once trained a juni
 You’ve crossed a line: from writing about work to actually running it.
 And that opens the door to something bigger.
 
----
-
 ## 🌎 Repeatability Before Systemization
 
 An SOP isn’t just a checklist. It’s a *design space*—where you shape and test the logic of your process before locking anything in.
@@ -225,10 +221,6 @@ Once you start plugging in tools, triggers, or agents, you’re locking in choic
 That’s why we don’t rush. We repeat.
 Every pass through the SOP—by hand, with AI in the loop—is a test run that sharpens your process and prepares it for scale.
 
-🤖 Here's a new insertable section for the **Repeatability** portion of your chapter, just after introducing the idea of SOPs as design spaces and before the capstone. It builds gently on the idea of exposing work via waypoints and speaks directly (but kindly) to the process-minded reader—while also acknowledging that not everyone sees the world this way:
-
----
-
 ## 🧭 AI Resonates With Process-Minded People
 
 If you’re someone who thinks in stages—who naturally breaks work into steps, captures drafts as you go, or reflects on how the work gets done—then this idea of exposing and enriching waypoints and improving SOPs tends to click.
@@ -236,8 +228,6 @@ If you’re someone who thinks in stages—who naturally breaks work into steps,
 The visibility it creates—the ability to pause, steer, and adjust midstream—really jibes with people who already operate this way. When the messy middle becomes material, there's something to work with, react to, and improve. It’s not about over-engineering. It’s about noticing what usually stays invisible.
 
 If that’s not your instinct, that’s okay. But it’s worth trying. Working out a repeatable process whose stages are laid bare—even just once—can reveal a kind of leverage you didn’t know you had.
-
----
 
 ## 🌍 Capstone: Plan an International Trip
 
@@ -267,10 +257,16 @@ Because this isn’t just a practice run. It’s a *proving ground*.
 Unless you’ve run an entire process by hand—with clear outcomes, visible artifacts, and deliberate iteration—you’re not ready to systemize. This capstone ensures you’ve internalized the lessons. It’s the minimum threshold for readiness.
 
 Each run is a rehearsal.
+
 Each artifact is a building block.
+
 Each update moves you closer to a version that’s worth scaling.
 
-The next tier of this book explores those intelligent systems. It adds tools. It introduces automations. It teaches you how to orchestrate multiple agents, structure handoffs, and scale workflows that run without you.
+The next tier of this book explores those intelligent systems.
+
+It adds tools. It introduces automations.
+
+It teaches you how to orchestrate multiple agents, structure handoffs, and scale workflows that run without you.
 
 But none of that matters if you can't stand up and run systems you can own (and modify!) start to finish.
 
