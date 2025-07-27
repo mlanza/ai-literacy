@@ -191,6 +191,7 @@ When AI has access to tools, you don’t need to hunt for buttons or memorize wo
 You say what you want — and it handles the rest.
 
 Not just smarter responses, but delegated action.
+
 **Tools make that possible.**
 
 They’re the hinge between thought and execution.
