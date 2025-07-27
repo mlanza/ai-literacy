@@ -1,4 +1,6 @@
-# The JPEG in Your Brain
+# Scaling Signal
+
+## Compression as a Knob: Framing the Shot With AI
 
 You’ve compressed a photo before. Probably without thinking about it.
 
@@ -23,7 +25,7 @@ When you use compression, you make space. You make room for clearer answers. You
 
 Let’s see what that looks like in action.
 
-## Scenario: Building a Behavior Toolkit from Multiple Sources
+### Scenario: Building a Behavior Toolkit from Multiple Sources
 
 You’re tasked with creating a lightweight behavioral toolkit for team leads. Something that gives them strategies for coaching new hires, running more effective one-on-ones, and recognizing small signals that might hint at friction or disengagement.
 
@@ -37,7 +39,7 @@ Each one offers something useful—but none of them can be loaded in at full len
 
 So instead, you compress them. One by one. And you treat each compression as an artifact: a lightweight, structured asset you can reuse later. Think of it as converting a giant raw photo into a clean thumbnail—something the model can work with, quickly and effectively.
 
-### 📕 Lens 1: *Atomic Habits* Summary Artifact
+#### 📕 Lens 1: *Atomic Habits* Summary Artifact
 
 **Prompt:**
 *"Summarize* Atomic Habits *in under 300 words. Focus on the key takeaways and practical coaching insights."*
@@ -46,7 +48,7 @@ This gives you a compressed view of James Clear’s most important ideas—ident
 
 You save this summary as a standalone artifact. Not just for reference—but to upload alongside other summaries later. You’re compressing the asset now so you can synthesize across it later.
 
-### 📘 Lens 2: *The Power of Moments* Summary Artifact
+#### 📘 Lens 2: *The Power of Moments* Summary Artifact
 
 **Prompt:**
 *"Summarize* The Power of Moments *in under 300 words. Focus on insights that help team leads create more memorable or meaningful experiences."*
@@ -55,14 +57,14 @@ You run the exact same pattern here—same prompt shape, different book. The res
 
 These two summaries now live as their own files—small enough to feed back into a larger prompt. You’ve dropped the file size. You’ve preserved the signal.
 
-### 📄 Lens 3: Internal Guide Summary Artifact
+#### 📄 Lens 3: Internal Guide Summary Artifact
 
 **Prompt:**
 *"From this team norms document, extract only the sections related to psychological safety and early warning signs of misalignment. Summarize them in bullet points with examples where possible."*
 
 You don’t need the whole 70-page policy doc. You need the pieces that will help a manager spot when a new hire is silently struggling. This prompt gives you exactly that—tight bullet points, targeted insights, no fluff. You compress selectively.
 
-### 🎛️ Putting It Together: Context Engineering in Action
+#### 🎛️ Putting It Together: Context Engineering in Action
 
 You upload all three artifacts—your summary of *Atomic Habits*, your summary of *The Power of Moments*, and your curated notes from the internal guide.
 
@@ -85,7 +87,7 @@ Compression isn’t just about fitting inside today’s limits. It’s about lea
 
 That’s not a compromise—that’s craft.
 
-## 🧭 Another Use Case: Designing for Better Defaults
+### 🧭 Another Use Case: Designing for Better Defaults
 
 **Prompt:**
 *"Extract all mentions of environment design from* Atomic Habits. *Summarize how surroundings—digital or physical—can be shaped to encourage better behavior. Include examples, and focus on practical applications relevant to workplace settings."*
