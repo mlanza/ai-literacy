@@ -28,12 +28,19 @@ This approach forces the model to **materialize its thinking**. When you break t
 
 That’s not just about output — it’s about collaboration. Once a thought is materialized, you can *see* it. You can react to it. You can change its tone, clarify its message, or add missing context before moving on to the next stage. This is what makes working with an LLM a true back-and-forth. You’re not just issuing commands — you’re shaping the work together.
 
-### Why It Works
+Let’s look more closely at why this step-by-step approach works so well.
 
-* **Sharper results** – Small prompts reduce ambiguity, which improves quality.
-* **Tighter feedback loops** – You can correct tone, structure, or focus early, before it snowballs.
-* **Traceable missteps** – If the final answer isn’t quite right, you can isolate which step needs tweaking.
-* **Deeper engagement** – Intermediate prompts force the model to work through the problem, not just summarize it.
+**Smaller prompts yield sharper results.**
+When you give the model one focused task at a time, it doesn’t have to guess what matters most. There’s less ambiguity, which leads to more specific, polished output. Each instruction is like a spotlight, helping the model zero in and deliver exactly what you asked for.
+
+**You get tighter feedback loops.**
+By splitting the work into stages, you’re not locked into the final answer from the start. You can check tone, adjust phrasing, or clarify structure early—before problems compound. This means mistakes or misunderstandings can be fixed at the source, not retroactively.
+
+**Errors are easier to trace.**
+If the end result isn’t working, you can walk it back step by step and figure out where things went off course. Each piece of the process is visible and self-contained, which makes troubleshooting more concrete and actionable.
+
+**The model stays more mentally engaged.**
+Breaking things into steps forces the model to think out loud. It has to generate interim ideas, rather than skipping ahead to the finish line. That extra layer of articulation creates better reasoning—and gives you something to shape along the way.
 
 This isn't inefficient — it’s how meaningful work happens. You’re not just moving slowly. You’re moving *intentionally*.
 
