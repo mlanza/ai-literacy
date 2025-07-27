@@ -25,8 +25,6 @@ When you use compression, you make space. You make room for clearer answers. You
 
 Let’s see what that looks like in action.
 
----
-
 ## Scenario: Building a Behavior Toolkit from Multiple Sources
 
 You’re tasked with creating a lightweight behavioral toolkit for team leads. Something that gives them strategies for coaching new hires, running more effective one-on-ones, and recognizing small signals that might hint at friction or disengagement.
@@ -35,13 +33,11 @@ You’ve got three substantial resources on hand:
 
 1. *Atomic Habits* by James Clear — rich with habit-building models.
 2. *The Power of Moments* by Chip and Dan Heath — focused on making small experiences meaningful.
-3. A 50-page internal document outlining your company’s approach to team norms and psychological safety.
+3. A 70-page internal document outlining your company’s approach to team norms and psychological safety.
 
 Each one offers something useful—but none of them can be loaded in at full length. Not if you expect ChatGPT to do anything intelligent with them. That’s the constraint: the **context window**. You can’t upload entire books or long guides and expect clarity.
 
 So instead, you compress them. One by one. And you treat each compression as an artifact: a lightweight, structured asset you can reuse later. Think of it as converting a giant raw photo into a clean thumbnail—something the model can work with, quickly and effectively.
-
----
 
 ### 📕 Lens 1: *Atomic Habits* Summary Artifact
 
@@ -51,8 +47,6 @@ So instead, you compress them. One by one. And you treat each compression as an 
 This gives you a compressed view of James Clear’s most important ideas—identity-based habits, the Four Laws, and examples that are perfect for a manager trying to help someone nudge a new behavior into place.
 
 You save this summary as a standalone artifact. Not just for reference—but to upload alongside other summaries later. You’re compressing the asset now so you can synthesize across it later.
-
----
 
 ### 📘 Lens 2: *The Power of Moments* Summary Artifact
 
@@ -68,13 +62,11 @@ These two summaries now live as their own files—small enough to feed back into
 ### 📄 Lens 3: Internal Guide Summary Artifact
 
 **Prompt:**
-"From this 50-page internal team norms document, extract only the sections related to psychological safety and early warning signs of misalignment. Summarize them in bullet points with examples where possible."
+"From this team norms document, extract only the sections related to psychological safety and early warning signs of misalignment. Summarize them in bullet points with examples where possible."
 
-You don’t need the whole policy doc. You need the pieces that will help a manager spot when a new hire is silently struggling. This prompt gives you exactly that—tight bullet points, targeted insights, no fluff. You compress selectively.
+You don’t need the whole 70-page policy doc. You need the pieces that will help a manager spot when a new hire is silently struggling. This prompt gives you exactly that—tight bullet points, targeted insights, no fluff. You compress selectively.
 
 Now you’ve got three artifacts—three compressed, context-ready assets—that together represent a complete knowledge base. And unlike the full versions, they **fit**.
-
----
 
 ### 🎛️ Putting It Together: Context Engineering in Action
 
