@@ -150,7 +150,6 @@ You are building a well-oiled machine. And every part of it runs on the specs yo
 In the last chapter, we talked about **cloning yourself**—building reusable specifications that let the model act more like a trained version of you. But now that we’re working at the process level, it’s time to shift the metaphor.
 
 You’re no longer just shaping clones of your own judgment.
-
 You’re **assigning bots to specific roles**—modular, goal-oriented workers that slot into your process and carry out defined tasks.
 
 These bots aren’t characters or personalities. They’re seat-fillers. Specialists. Helpers trained to do *just this part* of the work, *in this way*, to *this standard*. And that makes them interchangeable, inspectable, and—most importantly—**reviewable by each other**.
@@ -178,11 +177,16 @@ Even better, the same bot can switch roles midstream. With just a prompt, it cha
 It can even run a web search to confirm facts—if you ask it to.
 
 That’s not just flexibility. It’s **role awareness**.
+
 And it only works because your process is sound.
 
 > *“A bad system will beat a good person every time.”* — W. Edwards Deming
 
-This is why SOP design matters so much. If your outcomes depend on heroics—or on catching errors by instinct alone—you’ll lose. A well-crafted process catches those things automatically, often with help from the very same bots that made the mistake. The system, not the seat, is what ensures quality.
+That’s the point. The fix didn’t come from talent or intuition—it came from process.
+
+Even when the same bot made the error, it was a **different seat**—a different role, a different spec—that caught it.
+
+That’s the leverage of systems: not perfection, but structure that makes recovery routine.
 
 ## SOPs Are Code
 
