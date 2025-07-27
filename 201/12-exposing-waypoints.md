@@ -7,20 +7,22 @@ People say it all the time:
 
 They’re not wrong.
 
-If you treat a book like a task—like something a model can generate from a single prompt—you’ll get something that reads like it. Disjointed. Shallow. Full of guesses.
+If you treat a book like a task—like something a model can generate from a single prompt—you’ll get something that reads like it.  Shortchanged in too many ways to count.
 
-And when people see that, they scoff.
-Not because they’re wrong to be skeptical—because they *know*, instinctively, that it doesn’t work that way.
+That’s what they scoff at.  They *know*, instinctively, it won’t work.  Not well anyway.
 
 You can’t just tell a machine to write something complex and expect it to come back polished, coherent, and worth reading.
 
 They’re right, of course.
+
 The work can’t be skipped.
 
 The real delusion isn’t trusting AI.
+
 It’s thinking you can leap from idea to outcome without putting in the effort.
 
 That’s what the shortcut misses.
+
 A deliverable isn’t a one-step command. It’s a sequence. A structure. A series of revisions and refinements—none of which happen if you expect the model to leap straight to the finish.
 
 But there’s another way.
