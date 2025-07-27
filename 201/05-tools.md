@@ -188,6 +188,7 @@ Software used to wait for your clicks.
 Now it listens to your words.
 
 When AI has access to tools, you don’t need to hunt for buttons or memorize workflows.
+
 You say what you want — and it handles the rest.
 
 Not just smarter responses, but delegated action.
