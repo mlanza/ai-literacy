@@ -188,6 +188,6 @@ You say what you want — and it handles the rest.
 
 Not just smarter responses, but delegated action.
 
-**Tools grant the AI the agency to act.**
+**Tools make that possible.**
 
 They’re the hinge between thought and execution.
