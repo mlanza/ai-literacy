@@ -57,8 +57,6 @@ You run the exact same pattern here—same prompt shape, different book. The res
 
 These two summaries now live as their own files—small enough to feed back into a larger prompt. You’ve dropped the file size. You’ve preserved the signal.
 
----
-
 ### 📄 Lens 3: Internal Guide Summary Artifact
 
 **Prompt:**
