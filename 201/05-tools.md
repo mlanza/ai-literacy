@@ -155,12 +155,18 @@ That means they can take your request in plain language, and translate it into s
 
 That’s why AI is showing up in calendars, browsers, documents, inboxes, and apps — not to replace them, but to **operate them**. On your behalf. Through your words.
 
-We’re entering a new phase where **language becomes the interface**.
+Software used to wait for your clicks.
 
-When AI is equipped with tools, you no longer have to find the settings, learn the menus, or execute the steps yourself.
+Now it listens to your words.
 
-You describe the outcome — and the AI carries it out.
+When AI has access to tools, you don’t need to hunt for buttons or memorize workflows.
 
-That’s not just prompting anymore. That’s delegating.
+You say what you want — and it handles the rest.
 
-Without tools, none of this would be possible.
+That’s the real shift.
+
+Not just smarter responses, but delegated action.
+
+Tools make that possible.
+
+They’re the hinge between thought and execution.
