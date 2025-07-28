@@ -151,7 +151,7 @@ That’s the point.
 
 It’s not just complexity for complexity’s sake — it’s exposure. By stretching the process out, by making every phase explicit, we’re forcing the structure into view. And suddenly, you can see how many moving parts there are. How each step leaves something behind. How earlier outputs feed later decisions. How this isn’t a task. It’s a *system in waiting*.
 
-The sheer scale is meant to feel a little overwhelming. Because that’s what most systems look like when you fully expose them.
+The sheer scale is meant to overwhelm. Because that’s what most systems look like when you fully expose them.
 
 And the truth is, we don’t normally do this. Not at this level. Not outside of formal organizations. Not without tooling.
 
@@ -163,7 +163,7 @@ Because you’re still holding the wrench.
 
 Most people plan trips with a notepad and a browser tab. Maybe a travel app. Maybe a calendar. They do it all manually because they’re carrying the memory in their head. No SOP. No versioning. No intermediate files. Just thoughts and clicks.
 
-It works. Barely. But it works because humans are incredible at absorbing friction — especially when the alternative feels even worse. Hiring a travel agent feels expensive. Managing 12 artifacts and a planning SOP feels cumbersome. So we tolerate the mess, live in the tabs, scribble in the margins, and brute-force our way to a plan.
+You see, humans are incredible at absorbing friction — especially when the alternative feels even worse. Hiring a travel agent feels expensive. Managing 12 artifacts and a planning SOP feels cumbersome. So we tolerate the mess, live in the tabs, scribble in the margins, and brute-force our way to a plan.
 
 You do all the orchestration. You do all the remembering. Because there isn’t a system doing it for you.
 
