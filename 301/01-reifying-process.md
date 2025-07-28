@@ -41,72 +41,102 @@ Before you systemize a process, you need to understand what success actually loo
 In the case of planning an international trip, those artifacts are easy to imagine. You’ll want:
 
 1. **Trip Brief**
-   A short summary of the plan — where you're going, when, and why. Include key constraints: budget, travel pace, personal needs (like dietary restrictions or allergies). This gives everything else a frame.
+   A short summary of the plan — where you're going, when, and why. Includes key constraints: budget, travel pace, personal needs.
 
 2. **Final Itinerary**
-   A day-by-day outline with times, locations, activities, and confirmation codes or links. Format it so it works offline or prints easily — you don’t want to dig through emails on a spotty connection.
+   A day-by-day outline with times, locations, activities, confirmation codes, transit details, and backup options.
 
-3. **Booking Checklist**
-   A running list of all bookings: flights, hotels, trains, activities. Include what’s done, what’s pending, and links or codes to access each one quickly.
+3. **Booking Tracker**
+   A running list of all bookings: flights, hotels, trains, activities. Tracks what’s done and what’s pending.
 
 4. **Travel Document Packet**
-   A single file (PDF or folder) with your passport copy, visa info (if needed), emergency contacts, and lodging details. Something you can keep offline or in cloud storage.
+   A single file or folder with passport copies, visa info (if needed), emergency contacts, and lodging details.
 
-5. **Pre-Trip Tasks Checklist**
-   A practical to-do list: check passport expiry, get travel insurance, prep your phone for roaming, notify your bank, pack adapters.
+5. **Pre-Trip Checklist**
+   A to-do list covering document checks, insurance, phone prep, banking, and packing.
 
-These are the kinds of artifacts that give shape to a successful outcome. They’re not everything — but they’re enough to reverse-engineer a solid process.
+6. **Trip Review Notes**
+   A short write-up of what worked and what you’d change.
 
-Could you have asked ChatGPT to help define these? Of course. In fact, you should. But we’re skipping ahead to save time — anchoring the process in something already concrete.
+7. **Reusable Templates or Prompts** 🤖
+   Prompts, checklists, or patterns that worked well enough to save.
 
-Once you know what good outputs look like, it’s easier to map backward:
-* What steps produce these?
-* What inputs do those steps need?
-* What roles can the AI play along the way?
+8. **Booking Windows Guide** 🤖
+   Reference sheet that outlines when to book flights, trains, lodging, and activities for optimal pricing and availability.
 
-That’s what comes next.
+9. **Readiness Criteria** 🤖
+   A repeatable checklist to confirm logistical, personal, and administrative preparedness before departure.
 
-## 🧩 From Outcomes to Process
+Some artifacts — like personal preferences or logistics — are now treated as structured fields within larger artifacts (e.g. Trip Brief, Final Itinerary). This makes the SOP more compact, while keeping process clarity intact.
 
-Once you know your destination — not the country, but the **artifacts you want in hand** — the question becomes: *How do I get there?*
-
-That’s what a process gives you. It turns vague ambition into a defined path.
-
-Of course, you don’t have to invent that process from scratch. A chatbot could help you outline the steps, prompt by prompt. And in real life, that’s exactly what you’d do.
-
-But to save time here, we’ll work from a ready-made version — one designed with those five outcome artifacts in mind. It’s deliberately lightweight. Enough structure to deliver quality results, not so much that it feels like overhead.
+Artifacts marked with 🤖 are **process artifacts**: reusable elements that describe *how* the work is done, not just what was done.
 
 ## 🧳 SOP: Plan an International Trip
 
-### 1. **Define the Trip**
+Each step below describes a phase of planning and follows it with a bullet list of **artifacts**. Artifacts are marked with two icons:
 
-Clarify your basic parameters — who’s going, where, when, and under what constraints.
+* ➡️ = input to this step
+* ⬅️ = output from this step
+  And either:
+* 📄 = product artifact (specific to this trip)
+* 🤖 = process artifact (generic or reusable)
 
-**Primary Artifact:**
-*Trip Brief*
+### 1. **Define the trip**
 
-### 2. **Sketch the Plan**
+Clarify the scope: who’s going, when, for how long, and under what constraints.
 
-Outline what you want to do, day by day. Include major activities, pacing, and cost estimates.
+* ⬅️ 📄 Trip Brief
+* ⬅️ 📄 Constraint List
 
-**Primary Artifact:**
-*Final Itinerary (initial draft)*
+### 2. **Pick a destination**
 
-### 3. **Book the Essentials**
+Shortlist and select based on fit, season, constraints, and goals.
 
-Secure travel, lodging, and any must-reserve experiences.
+* ➡️ 📄 Trip Brief
+* ➡️ 📄 Constraint List
+* ⬅️ 📄 Destination Shortlist (with pros/cons and rationale)
+* ⬅️ 📄 Final Destination Decision
 
-**Primary Artifact:**
-*Booking Checklist*
+### 3. **Rough out the plan**
 
-### 4. **Prep the Logistics**
+Build a high-level plan of what to do, what it might cost, and how it’ll feel.
 
-Assemble key documents and tie up any loose ends before departure.
+* ➡️ 📄 Final Destination Decision
+* ⬅️ 📄 Experience Bucket List
+* ⬅️ 📄 Itinerary Sketch
+* ⬅️ 📄 Budget Sketch (can be folded into itinerary)
 
-**Primary Artifacts:**
-*Travel Document Packet*
-*Pre-Trip Tasks Checklist*
+### 4. **Book the essentials**
 
-This is a process you can run manually — or with AI in the loop. The point isn’t automation (yet). It’s **clarity**. Every step exists to create or refine something tangible. No fluff. No dead ends.
+Secure the elements that are time-sensitive or supply-limited.
 
-That’s how you get repeatable outcomes. And that’s the kind of process worth refining.
+* ➡️ 📄 Itinerary Sketch
+* ➡️ 📄 Budget Sketch
+* ⬅️ 📄 Booking Tracker
+* ⬅️ 📄 Confirmed Bookings Summary
+* ➡️ 🤖 Booking Windows Guide
+
+### 5. **Fill in the details**
+
+Build the full itinerary with logistics and backup planning built-in.
+
+* ➡️ 📄 Confirmed Bookings Summary
+* ➡️ 📄 Experience Bucket List
+* ⬅️ 📄 Final Daily Itinerary (includes transit/access and contingency options)
+
+### 6. **Prep logistics**
+
+Make sure you’re document-ready, physically prepped, and packed.
+
+* ➡️ 📄 Final Daily Itinerary
+* ➡️ 🤖 Readiness Criteria
+* ⬅️ 📄 Travel Document Packet
+* ⬅️ 📄 Pre-Trip Checklist
+
+### 7. **Review and reuse**
+
+Reflect on what worked and capture reusable patterns.
+
+* ➡️ 📄 Final Daily Itinerary
+* ⬅️ 📄 Trip Review Notes
+* ⬅️ 🤖 Reusable Templates or Prompts
