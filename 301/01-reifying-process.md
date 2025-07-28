@@ -140,3 +140,75 @@ Reflect on what worked and capture reusable patterns.
 * ➡️ 📄 Final Daily Itinerary
 * ⬅️ 📄 Trip Review Notes
 * ⬅️ 🤖 Reusable Templates or Prompts
+
+## Wait—Are We Really Doing This?
+
+Let’s pause for a moment and acknowledge what just happened.
+
+We started with a single outcome in mind: plan an international trip. A pretty common scenario. But as we walked through what that entails — not just the destination, but all the research, the decisions, the bookings, the readiness checks — the list of artifacts ballooned. Not theoretically. Tangibly. PDFs, checklists, trackers, summaries. Some are product-specific, some reusable process assets, all real outputs that pile up fast.
+
+That’s the point.
+
+It’s not just complexity for complexity’s sake — it’s exposure. By stretching the process out, by making every phase explicit, we’re forcing the structure into view. And suddenly, you can see how many moving parts there are. How each step leaves something behind. How earlier outputs feed later decisions. How this isn’t a task. It’s a *system in waiting*.
+
+The sheer scale is meant to feel a little overwhelming. Because that’s what most systems look like when you fully expose them.
+
+And the truth is, we don’t normally do this. Not at this level. Not outside of formal organizations. Not without tooling.
+
+Why?
+
+Because you’re still holding the wrench.
+
+## Manual Labor: The Hidden Cost of “Good Enough”
+
+Most people plan trips with a notepad and a browser tab. Maybe a travel app. Maybe a calendar. They do it all manually because they’re carrying the memory in their head. No SOP. No versioning. No intermediate files. Just thoughts and clicks.
+
+It works. Barely. But it works because humans are incredible at absorbing friction — especially when the alternative feels even worse. Hiring a travel agent feels expensive. Managing 12 artifacts and a planning SOP feels cumbersome. So we tolerate the mess, live in the tabs, scribble in the margins, and brute-force our way to a plan.
+
+You do all the orchestration. You do all the remembering. Because there isn’t a system doing it for you.
+
+That’s the limiting factor — not intelligence, but *infrastructure*.
+
+Today’s tools still leave you turning the wrench manually. They don’t carry memory forward well. They don’t hold state across steps. They don’t trigger one another. Which means that as soon as you expose a process this large, it collapses under its own weight. Not because the work is impossible, but because the logistics are.
+
+## LLMs Change the Math
+
+That’s what’s shifting. Not because we’re suddenly building virtual travel agents — we’re not — but because we now have a machine that can *read*, *reason*, and *act* with words. That changes how we think about tasks like this.
+
+The reason we’re not yet handing this over to bots is because **we haven’t built the scaffolding**. We haven’t delegated the steps. We haven’t turned the waypoints into interfaces. We’re still building the bridges.
+
+But you can feel what’s coming.
+
+We’re starting to see processes as systems. And when you expose a system — fully, artifact by artifact — you also expose the opportunity. You start to imagine virtual teammates seated at each step. Not to create some monolithic all-knowing bot, but to split the work: one agent for shortlisting destinations, one for scanning visa requirements, one for checking flight prices, one for updating the itinerary file. That’s not science fiction. That’s orchestration waiting for infrastructure.
+
+And no, we’re not building that here.
+
+But we *are* going to use this process to think clearly about how it *could* be built.
+
+## The Bead and the Petri Net
+
+Zoom out. Imagine the entire SOP as a **petri net** — a series of cups, each holding a portion of the work. The “ticket” — your client’s request, your planning brief — is the bead. It moves from one cup to the next as each step is completed.
+
+That bead is the thing you’re actually tracking. It’s the locus of progress. The artifacts, the decisions, the handoffs — all of it exists to help that bead move. And that’s the game we’re playing: **get the bead to the next cup**.
+
+That’s what context engineering is about.
+
+It’s about giving the AI the right window into the bead’s state — the right context — so it can perform the next microtask. Nothing more. Nothing less. You’re not asking it to plan the trip in one leap. You’re asking it to move the bead one cup forward. One step. One artifact. One meaningful contribution.
+
+Because when you break it down that way, the work becomes tractable.
+
+You’re not facing the whole elephant. You’re taking one bite.
+
+## What’s Next
+
+That’s where we’re headed now.
+
+First, we’ll revisit the principle of **One Volley at a Time** — because this is the rhythm that makes complex systems possible. Then we’ll get sharper about **Context Engineering**, which is how you keep each handoff clean.
+
+But before we move on, take one last look at the process we just exposed.
+
+That wasn’t busywork. It was *the work* — reifying a process, mapping its phases, identifying its artifacts. Now you know what success looks like. Now you know what needs to exist. Now you can start imagining what it would take to make the machine move the bead on its own.
+
+We’re not doing that yet.
+
+But we’re ready to start thinking like someone who might.
