@@ -5,7 +5,7 @@ This is an AI literacy course aimed at helping someone with a passing understand
 The course ascends 3 incremental stages:
 * [101: Large Language Models](./101/)
 * [201: Practical Application](./201/)
-* 301: Systems Thinking
+* [301: Systems Thinking](./301/)
 
 It's not meant to provide a replete understanding of everything one might use an AI to do, nor all the advanced prompting techniques one might use.  That can be learned independently.  Rather, it aims to build a wholistic mental framework for understanding AI and, more importantly, how to think about leveraging it.
 
