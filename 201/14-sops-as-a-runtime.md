@@ -215,56 +215,76 @@ And before that design becomes a system, it needs to be **repeated**.
 
 Why? Two big reasons.
 
-First: **understanding**.
+First: **understanding**.<br>
 You can’t automate what you don’t fully grasp. Running the SOP manually forces you to clarify every step, outcome, and dependency. It exposes the seams. It teaches you what “good” really looks like—so you don’t end up encoding confusion into the system itself.
 
-Second: **adaptability**.
-SOPs are malleable. Systems are not.
-Once you start plugging in tools, triggers, or agents, you’re locking in choices—some of which you haven’t fully tested yet. Systemization is just SOPs with machines plugged in. And if you do it too early, you risk freezing flaws into place.
+Second: **adaptability**.<br>
+SOPs are malleable. Systems are not. Once you start plugging in tools, triggers, or agents, you’re locking in choices—some of which you haven’t fully tested yet. Systemization is just SOPs with machines plugged in. And if you do it too early, you risk freezing flaws into place.
 
 That’s why we don’t rush. We repeat.
 
 Every pass through the SOP—by hand, with AI in the loop—is a test run that sharpens your process and prepares it for scale.
 
-## 🌍 Capstone: Plan an International Trip
+## 🧪 From One Run to Many
 
-If this chapter feels like a turning point, that’s because it is.
+If you’ve made it this far, you’re already running experiments—using a chatbot to walk through a process, step by step. That’s not trivial. That’s a rehearsal. It’s a real-world loop, with real byproducts, that gives you something to improve next time.
 
-You’re no longer just asking ChatGPT to “help with a task.”
-You’re ready to design a repeatable workflow, and to manage that system, for real.
+And that’s the seed of something bigger.
 
-This isn’t a toy example or a one-step demo.
-It’s a full-cycle project that demands real coordination, structure, and iteration.
+Not a system yet. But a pattern. A rhythm.
+One you can repeat. One that reveals friction. One that gets better with every pass.
 
-The scenario: **planning an international trip**.
+You’re not automating yet—but you are **making things visible**. And that’s how process becomes design.
 
-Why this?
+## 💡 What Makes a Process Worth Keeping?
 
-* **It’s personal** — Everyone brings preferences, constraints, and goals.
-* **It’s practical** — There’s real research, coordination, and decision-making involved.
-* **It’s repeatable** — You might do it again, and your system will evolve with each try.
+Not every process needs to be formalized. But some will **prove themselves** through use.
 
-If international travel feels too ambitious, scale it down. Plan a simple vacation, a long weekend, or even a staycation with structured activities. The same skills apply: define the goal, break work into steps, generate artifacts, reuse assets, refine as you go.
+The signs:
 
-Or, if you're eager to apply this to your actual job, go for it.
-Redesign a training experience. Build a stakeholder deck. Roll out a change communication plan. Any multi-step project will do—so long as it demands deliberate structure.
+* You’ve run it more than once
+* Each run leaves behind a set of useful artifacts
+* You’ve refined how it works—tweaked prompts, added checks, clarified steps
+* Others could benefit from using it too
 
-Because this isn’t just a practice run. It’s a *proving ground*.
+That’s when it’s worth turning the corner. From “something I do” to “something we can run.” From ad hoc to asset.
 
-Unless you’ve run an entire process by hand—with clear outcomes, visible artifacts, and deliberate iteration—you’re not ready to systemize. This capstone ensures you’ve internalized the lessons. It’s the minimum threshold for readiness.
+## 🪑 A Chatbot Is a Seat at the Table
 
-Each run is a rehearsal.
+You don’t need a full orchestration engine or a scriptable bot framework to get started. If you can describe a process, and if it leaves visible traces behind, you can walk a chatbot through it.
 
-Each artifact is a building block.
+That might look like:
 
-Each update moves you closer to a version that’s worth scaling.
+* Generating a first-pass outline for a guide
+* Reviewing that outline for tone or structure
+* Reworking it after feedback
+* Turning those changes into a reusable prompt or SOP
 
-The next tier of this book explores those intelligent systems.
+Each of those steps? Repeatable. Reviewable. Learnable.
 
-It adds tools. It introduces automations.
+The chatbot doesn’t remember—but you do.
+And every time you loop through, the process gets sharper.
 
-It teaches you how to orchestrate multiple agents, structure handoffs, and scale workflows that run without you.
+## 🧭 The Next Threshold
 
-But none of that matters if you can't stand up and run systems you can own (and modify!) start to finish.
+Don’t think about automation yet.
+Don’t reach for agents.
+Don’t systemize what you haven’t lived through.
 
-**This is the way forward.**
+But do notice what’s working.
+
+Do notice what leaves behind structure.
+
+Do notice what feels like it could be **run again**.
+
+That’s the threshold that matters: when something becomes steady enough to hold its shape.
+That’s when systemization becomes a real option—not a buzzword, but a next step.
+
+For now?
+Just get good at running things through.
+
+You’ve already got a chatbot.
+You’ve already got a want.
+And you’ve already got a process—at least the beginnings of one.
+
+That’s enough to begin.
