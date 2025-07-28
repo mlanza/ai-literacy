@@ -6,9 +6,7 @@ You’ve seen what it looks like to work step by step, running a process with Ch
 
 This chapter kicks off a new tier — not just working *in* a process, but working *on* one.
 
-We’re going to start by imagining something real: a project you want to run end-to-end, with AI in the loop. Maybe it’s planning a trip, launching a comms campaign, or rolling out a new onboarding flow. Doesn’t matter what — what matters is that it has **steps**, and those steps need **structure**.
-
-This chapter won’t build the full system. Instead, it offers a scaffolding — a way to start thinking through what a process actually *looks* like when you run it, and what it takes to make that process repeatable.
+We’re going to anchor the discussion with a specific scenario. Not because we’re choosing it, but because real examples make abstract thinking easier. It helps us reason more clearly about structure, handoffs, and system design when we have something tangible in front of us.
 
 To stay grounded, we’re going to start with a scenario that’s personal, practical, and rich with moving parts.
 
@@ -22,14 +20,16 @@ Why this?
 * **It’s practical** — There’s real research, coordination, and decision-making involved.
 * **It’s repeatable** — You might do it again, and your system will evolve with each try.
 
-If international travel feels like too much, scale it down. Plan a long weekend. Or a staycation with structured activities. The point is to work through something real — with inputs, steps, handoffs, and deliverables.
+The point is to work through something real — with inputs, steps, handoffs, and deliverables.
 
 The goal here isn’t a perfect system. It’s **visible structure**. You’ll define waypoints. Track outputs. Spot friction. And in doing so, start to see what parts of the process are ripe for automation — and what still needs human judgment.
 
 We’re not diving into full orchestration yet. But unless you’ve run a process — with artifacts, feedback loops, and deliberate iteration — you’re not ready to systemize. This is how you get there.
 
 Each pass is a rehearsal.
+
 Each artifact is a building block.
+
 Each refinement moves you closer to something you can trust.
 
 Let’s get moving.
@@ -60,9 +60,9 @@ These are the kinds of artifacts that give shape to a successful outcome. They�
 Could you have asked ChatGPT to help define these? Of course. In fact, you should. But we’re skipping ahead to save time — anchoring the process in something already concrete.
 
 Once you know what good outputs look like, it’s easier to map backward:
-What steps produce these?
-What inputs do those steps need?
-What roles can the AI play along the way?
+* What steps produce these?
+* What inputs do those steps need?
+* What roles can the AI play along the way?
 
 That’s what comes next.
 
