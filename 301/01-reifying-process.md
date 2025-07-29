@@ -24,15 +24,9 @@ The point is to work through something real — with inputs, steps, handoffs, an
 
 The goal here isn’t a perfect system. It’s **visible structure**. You’ll define waypoints. Track outputs. Spot friction. And in doing so, start to see what parts of the process are ripe for automation — and what still needs human judgment.
 
-We’re not diving into full orchestration yet. In fact, we're not even going to fully build it out. But we are going to look at what that would entail.  Because unless run a process through, iterate on it a few times, your understanding will be shallow. Thinking through a process, and using it more than one, is how you get a sense of what's really involved.
+We’re not diving into full orchestration yet. In fact, we're not even going to fully build it out. But we are going to look at what that would entail.  Because unless run a process through, iterate on it a few times, your understanding will be shallow. Thinking through a process, and using it more than once is how you get a sense of what's really involved.
 
-Each pass is a rehearsal.
-
-Each artifact is a building block.
-
-Each refinement moves you closer to something you can trust.
-
-Now I want you to slow down and picture it. Not the trip itself, but the process. The system you’d build if you had to do this well — not once, but over and over.
+I want you to picture it. Not the trip itself, but the process. The system you’d build if you had to do this well — not once, but over and over.
 
 Imagine writing it up like an SOP. You’re still in the driver’s seat. You’d do most of what you already do when planning a trip, but now you’ve got a chatbot riding shotgun. You can pull it in at any point — for drafting, searching, rewording, comparing — whatever makes the job easier. The goal here isn’t automation. Not yet. The goal is **awareness**. Capturing just enough of the structure and decisions that, next time through, you’d be better off. More prepared. Less scattered.
 
@@ -95,7 +89,7 @@ Artifacts marked with 🤖 are **process artifacts**: reusable elements that des
 
 ## 🧳 SOP: Plan an International Trip
 
-Each step below describes a phase of planning and follows it with a bullet list of **artifacts**. Artifacts are marked with two icons:
+Each step below describes a phase of planning and follows it with its **artifacts** marked by these icons:
 
 * ➡️ = input to this step<br>
 * ⬅️ = output from this step<br>
@@ -210,6 +204,22 @@ We’re starting to see processes as systems. And when you expose a system — f
 And no, we’re not building that here.
 
 But we *are* going to use this process to think clearly about how it *could* be built.
+
+## Why Hasn’t This Worked Yet?
+
+If you’ve tried to get a chatbot to plan a trip — or anything even remotely as complex — you already know how it goes.
+
+You feed it a prompt. You get a list. You clarify. It forgets. You correct. It guesses. You give up.
+
+It’s not that the model is dumb. It’s that the **infrastructure is missing**. There’s no memory, no persistent state, no agent watching the bead as it moves. You’re trying to delegate to something that doesn’t yet have a seat.
+
+That’s why this chapter stops where it does. We’re not showing you how to build the whole machine. Not yet. But we are starting to name what’s needed.
+
+Later, we’ll walk through how to hire and manage **virtuals** — modular AI workers that don’t just answer questions, but fill a role. They show up in context. They produce tangible outputs. They can take a waypoint and move the bead.
+
+That’s where things get interesting.
+
+Because what used to take a full dev team, a custom backend, and months of planning… starts to look tractable. If you know what seat needs filling — and how to hand it the work.
 
 ## The Bead and the Petri Net
 
