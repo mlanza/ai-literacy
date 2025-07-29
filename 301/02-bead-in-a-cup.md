@@ -118,7 +118,7 @@ None of that was guessed. It was derived — from the prompt and the payload.
 
 From data in the cup.
 
-That’s the bead-in-a-cup metaphor, made real.
+That’s the bead-in-a-cup metaphor, made real, the epitome of **atomicity**.
 
 Incidentally, this is also what a **function** in a computer program looks like in practice:
 
