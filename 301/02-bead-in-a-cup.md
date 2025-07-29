@@ -32,7 +32,7 @@ Our goal now is to build a clear, human-friendly itinerary — one that reflects
 This document captures all locked-in reservations. For this trip, that includes:
 
 * Hotels in Kyoto, Kiso Valley, and Osaka
-* Timed entries for:
+* Planned excursions for:
 
   * **Kiyomizu-dera Temple** (Kyoto)
   * **Nakasendo Trail Hike** (Kiso Valley)
@@ -55,6 +55,7 @@ UX is for humans. AX is for AI.
 When you enrich your documents with structured, machine-readable cues — GPS coordinates, clean dates, standardized names — you’re improving not the *feel*, but the *function* of the document from an AI’s perspective.
 
 It’s not about writing in JSON. You’re still writing for people.
+
 But you’re also **writing with machines in mind**.
 
 That’s the shift. We’re not the only reader anymore.
@@ -93,7 +94,9 @@ This prompt didn’t work in a vacuum. It worked because earlier steps produced 
 These aren’t fancy. They’re markdown files, tables, bullet lists — whatever captured the state of the work.
 
 But that’s the point.
+
 They made the prompt possible.
+
 They *enabled* the AI to perform real labor.
 
 That’s what most people miss.
@@ -101,6 +104,7 @@ That’s what most people miss.
 They want the chatbot to “plan their trip” — but without the scaffolding, the model is guessing in the dark. The groundwork has to be there.
 
 And once it is? You’re not asking it to plan the whole trip.
+
 You’re asking it to move the bead.
 
 ## Meeting the Fork
@@ -143,6 +147,7 @@ It’s not magic. It’s not command-only.
 It’s **prompt + artifact** — the instruction *and* the materials.
 
 It’s recognizing that AI can’t pull from your mind — it can only work with what’s in view.
+
 Context engineering is how we decide *what* to show it, and *how*.
 
 The more visible your process becomes, the more useful your AI gets.
@@ -169,4 +174,4 @@ We’re not all the way there yet.
 
 But the infrastructure is coming.
 
-And now, you’ll know what to feed it.
+And now, you know what and how to feed it.
