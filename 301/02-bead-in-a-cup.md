@@ -266,7 +266,11 @@ You chose the documents. You wrote the formatting rules. You issued the prompt.
 
 That work matters. It’s what made the AI useful — not because the model is guessing well, but because you shaped the moment so clearly that guessing wasn’t needed.
 
-But the goal isn’t to keep doing that manually forever.
+**The goal isn’t to keep doing that manually forever.**
+
+The goal is to shift more of that work to the right — to let the system carry more of the memory, structure, and sequencing that you’ve been managing by hand.
+
+That’s the real promise of leaning right: not just passing artifacts into a prompt, but building an environment where the prompt itself becomes structural — where intelligence isn’t added at the end, but embedded throughout.
 
 The goal is to **build systems where more of that thinking happens inside the loop**.
 
