@@ -199,19 +199,19 @@ Now we have one.
 
 And when we let that brain operate in a system that exposes the work — through structured memory, repeatable artifacts, and prompts shaped by purpose — it can help us actually get things done.
 
-The AI doesn’t have arms. It can’t move the bead on its own.
+The AI is a brain in a jar. It can’t move the bead on its own.
 
 But it can tell you what to do next. It can write the next artifact.
 
 It can surface the options. Propose a plan. Spot a conflict.
 
-If — and only if — the inputs are there.
+If — and only if — the necessary inputs are there.
 
 ## 🧠 That’s Context Engineering
 
 It’s not magic. It’s not command-only.
 
-It’s **prompt + artifact** — the instruction *and* the materials.
+It’s **prompt + artifacts** — the instruction *and* the materials.
 
 It’s recognizing that AI can’t pull from your mind — it can only work with what’s in view.
 
