@@ -260,20 +260,32 @@ That’s how you move the bead.
 
 ## 👀 What’s Next
 
-So far, we’ve assumed you’re still holding the wrench.
+So far, you’ve been the one holding the wrench.
 
-Still the one pasting files, managing context, pulling the strings.
+You chose the documents. You wrote the formatting rules. You issued the prompt.
 
-But that’s starting to change.
+That work matters. It’s what made the AI useful — not because the model is guessing well, but because you shaped the moment so clearly that guessing wasn’t needed.
 
-You’re about to meet tools — and agents — that can do more of that *for you*.
+But the goal isn’t to keep doing that manually forever.
 
-Because once you’ve built artifacts, you can start building handoffs.
+The goal is to **build systems where more of that thinking happens inside the loop**.
 
-And that’s how you shift from chatbot to teammate.
+You’ve seen what happens when a brain joins the process — when it has the right inputs, at the right time, and can reason from them.
 
-We’re not all the way there yet.
+Now imagine that brain sitting *next to the bead*.
 
-But the infrastructure is coming.
+Not off to the side, waiting for you to intervene. Not in a chatbot thread you have to copy everything into.
 
-And now, you know what and how to feed it.
+**Right there in the cup.**
+
+That’s what’s starting to happen.
+
+Tools are emerging that don’t just carry the data — they carry the *intelligence*. Agents that can spot what's missing, fill in gaps, reformat, restructure, even route artifacts downstream.
+
+The bead doesn’t just move because you told it to.
+
+It moves because you engineered a system that knows what to do with it.
+
+The next frontier isn’t just asking AI to assist — it’s designing environments where its contribution is built in.
+
+Where moving the bead doesn’t require a prompt, because the system already knows what matters.
