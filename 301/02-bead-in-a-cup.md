@@ -83,6 +83,7 @@ The model came back with a **structured itinerary**:
 Each day mapped out, commitments locked in, optional activities proposed based on proximity and time available. Margin flagged. Opportunities clear.
 
 It was able to move the bead forward — not because the prompt was clever, but because the **inputs were sound**.
+
 The context was there.
 
 And that’s what context engineering is.
