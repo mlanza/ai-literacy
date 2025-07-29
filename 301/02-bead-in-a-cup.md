@@ -183,7 +183,16 @@ Back in the *Reifying Process* chapter, we talked about the spectrum.
 
 In this case, we leaned right — we passed in artifacts, gave it everything at once.
 
-But we could’ve leaned left. You could have had a long chat, describing your hotels, your must-do activities, your preferences. As long as those ideas were exposed — in conversation, not just in your head — the model could’ve done the same thing.
+That only works if *everything at once* already exists.
+
+And that means prior work.
+
+The bookings were already made. The preferences were already collected. The formatting rules were already agreed on.
+
+What made the prompt work wasn’t just the instruction. It was the infrastructure:
+**Artifacts** that captured what mattered, in a way the model could act on.
+
+We could’ve leaned left. You could have had a long chat, describing your hotels, your must-do activities, your preferences. As long as those ideas were exposed — in conversation, not just in your head — the model could’ve done the same thing.
 
 That’s what “context” means. It doesn’t matter whether it lives in a file or in a transcript. It just needs to exist — and be accessible when it’s needed.
 
