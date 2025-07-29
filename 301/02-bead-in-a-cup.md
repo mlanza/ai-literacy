@@ -48,6 +48,10 @@ Each item comes with **GPS coordinates**.
 
 Now, humans don’t think in lat/long. But machines do. And that matters more than you might think.
 
+By capturing coordinates, you give the AI the spatial information it needs to reason through the geography — grouping nearby activities, identifying natural day plans, and using the hotel locations as hubs for exploring the area. It's how the model learns what’s close enough to combine.
+
+This isn’t decoration. It’s what makes routing, clustering, and prioritizing feasible.
+
 ### 🤖 Aside: Designing for AX
 
 UX is for humans. AX is for AI.
