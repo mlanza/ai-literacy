@@ -260,19 +260,15 @@ That’s how you move the bead.
 
 ## 👀 What’s Next
 
-So far, you’ve been the one holding the wrench.
+We all know what it’s like to lean left. To bring in AI when we’re stuck, or when a task feels small and self-contained. We paste in a bit of context, talk through the shape of what we want, maybe try a few rewrites. The help is real — but so is the overhead.
 
-You chose the documents. You wrote the formatting rules. You issued the prompt.
+Because unless we’ve already laid the groundwork, even a smart assist becomes a manual job. We spend time gathering references, restating what we know, walking the model through constraints we’re holding in our heads. It can feel more like narrating than collaborating.
 
-That work matters. It’s what made the AI useful — not because the model is guessing well, but because you shaped the moment so clearly that guessing wasn’t needed.
+So we don’t do it often. We stick to using AI for isolated tasks — things we can hand off in one shot. And we avoid inviting it into the bigger work. Not because the model can’t help, but because the logistics are brutal. The friction is too high. It’s easier to do it ourselves.
 
-**The goal isn’t to keep doing that manually forever.**
+**That’s why we want to shift things to the right.**
 
-The goal is to shift more of that work to the right — to let the system carry more of the memory, structure, and sequencing that you’ve been managing by hand.
-
-That’s the real promise of leaning right: not just passing artifacts into a prompt, but building an environment where the prompt itself becomes structural — where intelligence isn’t added at the end, but embedded throughout.
-
-The goal is to **build systems where more of that thinking happens inside the loop**.
+To do that, to make the whole projects tractable, you need to build scaffolding to carry memory, structure, and priorities forward — not just to make the next prompt easier.  The goal is to **build systems where thinking happens inside the loop**.
 
 You’ve seen what happens when a brain joins the process — when it has the right inputs, at the right time, and can reason from them.
 
