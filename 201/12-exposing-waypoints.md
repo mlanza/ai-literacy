@@ -73,15 +73,15 @@ They aren’t just clutter on the path. They’re proof that the path exists. Ea
 
 The distinction is these artifacts come in two broad forms.
 
-### Work Artifacts
+### Product Artifacts
 
 These are tied directly to the project at hand—the specific content you're trying to produce. A rejected analogy. A first-pass outline. A cleaned-up stakeholder summary. They’re useful within the current context, but not necessarily beyond it.
 
-### Workflow Artifacts
+### Process Artifacts
 
 These emerge from the process you used to produce the work. They’re the reusable parts: the checklist you made after coaching the AI, the tone guide you wrote for future drafts, the SOP you updated after seeing what was missing. These are meta-level artifacts—reflections of how you work, not just what you’re working on.
 
-You might also call them **product artifacts** and **process artifacts**.  The former leans specific, the latter generic.
+You might also call them **work artifacts** and **workflow artifacts**.  The former leans specific, the latter generic.
 
 This is why waypoints matter. Waypoints are artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
 
