@@ -164,6 +164,16 @@ And once it is? You’re not asking it to plan the whole trip.
 
 You’re asking it to move the bead.
 
+And this is what LLMs make possible — not because they’re guessing, but because they can now act on a command *if* the right information is already in view. That’s the real shift:
+
+AIs can write deliverables. They can recommend actions. They can reason through a situation. But only when the inputs are there — right there, piped into the cup at the moment of execution.
+
+The bottleneck isn’t the model. It’s us.
+
+We haven’t built the infrastructure to carry forward the artifacts, decisions, and constraints that make a command actionable. The model is ready to do the work. Our job is to support that moment — to structure what matters, and deliver it when it counts.
+
+That’s the new frontier of systems design.
+
 ## Meeting the Fork
 
 Back in the *Reifying Process* chapter, we talked about the spectrum.
