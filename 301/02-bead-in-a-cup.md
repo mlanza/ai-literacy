@@ -17,15 +17,31 @@ Our goal now is to build a clear, human-friendly itinerary — one that reflects
 
 ### Inputs
 
+* 🤖 **Activity Formatting Rules** — A simple process artifact describing how each day should be written up (clarity, structure, helpful travel cues).
 * 📄 **Confirmed Bookings Summary** — All the purchased tickets and reservations: flights, hotels, and a handful of timed activities.
 * 📄 **Experience Bucket List** — A set of interesting activities the family picked earlier in the planning process.
-* 🤖 **Activity Formatting Rules** — A simple process artifact describing how each day should be written up (clarity, structure, helpful travel cues).
 
 ### Output
 
 * 📄 **Final Daily Itinerary** — A sequenced, structured plan for each day, with confirmed events and optional add-ons.
 
 ## 🔍 The Inputs, Up Close
+
+### 🤖 Activity Formatting Rules
+
+This lightweight guide set the tone for how each day should be written. It covered things like:
+*Structure the day chronologically. Use bold headers for key events. Clearly separate fixed bookings from optional add-ons.*
+
+But it wasn’t just about structure — it also carried **human priorities**.
+
+For example, this particular family had accessibility needs. So the formatting rules included a short instruction:
+*“Flag each activity with accessibility notes when relevant — stairs, ramps, terrain, etc.”*
+
+That one line shaped the entire output. It ensured the itinerary spoke directly to the family's real-world constraints, without needing to be re-edited afterward.
+
+This is what makes the formatting guide special. It’s a **process artifact**, yes — but also a **human artifact**. It allowed the user to **imprint their priorities** into the process and get results that actually fit their life.
+
+Had that instruction not been captured in the document, the model wouldn’t have known. The output would’ve been “fine” — but not *for them*.
 
 ### 📄 Confirmed Bookings Summary
 
