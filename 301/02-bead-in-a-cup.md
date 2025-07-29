@@ -196,25 +196,51 @@ We could’ve leaned left. You could have had a long chat, describing your hotel
 
 That’s what “context” means. It doesn’t matter whether it lives in a file or in a transcript. It just needs to exist — and be accessible when it’s needed.
 
-## 🧠 Brain, Memory, Tools — Now Complete
+## 🧠 The New Piece
 
-For decades, we’ve had **tools**.
+Everything we’ve seen so far — the way the bead moves, the way the model performs — rests on one thing: giving it the right inputs at the right time.
 
-We’ve had **memory** — databases, forms, files.
+That’s not new. Systems have always worked this way.
 
-What we lacked was the **brain**.
+Long before LLMs, developers were already building the infrastructure for continuity.
 
-Now we have one.
+*Databases held decisions.*
 
-And when we let that brain operate in a system that exposes the work — through structured memory, repeatable artifacts, and prompts shaped by purpose — it can help us actually get things done.
+*APIs triggered actions.*
 
-The AI is a brain in a jar. It can’t move the bead on its own.
+*Formats and schemas carried priorities forward.*
 
-But it can tell you what to do next. It can write the next artifact.
+Memory wasn’t a metaphor. It was a backend.
 
-It can surface the options. Propose a plan. Spot a conflict.
+The tools? Not novel either. We’ve had them for decades — browsers, schedulers, scripts, triggers, queues. Systems got things done because we told them what mattered and when.
 
-If — and only if — the necessary inputs are there.
+What’s new isn’t that structure.
+
+It’s that now, at the moment of execution, a brain can join the loop.
+
+That’s the shift.
+
+The memory’s always been there.
+
+The tools have been ready.
+
+Now the brain shows up — and asks how it can help.
+
+But it’s a brain in a jar.
+
+It can’t act. It can’t feel its way forward.
+
+It can only see what you show it.
+
+If the data arrives with the bead — if the pipeline delivers what it needs, just like it always has — then the brain can contribute. Not by guessing, but by reasoning.
+
+And what it reasons from is the payload.
+
+Every artifact, decision, and constraint required to take the next step — already in the cup.
+
+That’s what makes the bead move.
+
+That’s the handoff.
 
 ## 🧠 That’s Context Engineering
 
@@ -224,9 +250,9 @@ It’s **prompt + artifacts** — the instruction *and* the materials.
 
 It’s recognizing that AI can’t pull from your mind — it can only work with what’s in view.
 
-Context engineering is how we decide *what* to show it, and *how*.
+**Context engineering is putting enough integrity into what's been captured and communicated in your prompt — and its payload — that one can reasonably anticipate a good output.**
 
-The more visible your process becomes, the more useful your AI gets.
+The more visible your process becomes, the better you get at exposing the necessary information, the more likely your AI will be able to assist.
 
 That’s the handoff.
 
