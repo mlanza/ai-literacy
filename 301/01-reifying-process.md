@@ -207,11 +207,17 @@ But we *are* going to use this process to think clearly about how it *could* be 
 
 ## Why Hasn’t This Worked Yet?
 
-If you’ve tried to get a chatbot to plan a trip — or anything even remotely as complex — you already know how it goes.
+If you’ve ever tried to get a chatbot to plan a trip — or anything with this many moving parts — you already know the dance.
 
-You feed it a prompt. You get a list. You clarify. It forgets. You correct. It guesses. You give up.
+You bring it a prompt. It offers a list. You nudge it forward. It forgets something. You bring context again. It tries to help. You do most of the work.
 
-It’s not that the model is dumb. It’s that the **infrastructure is missing**. There’s no memory, no persistent state, no agent watching the bead as it moves. You’re trying to delegate to something that doesn’t yet have a seat.
+It’s not that the model isn’t capable of doing the work. It is. But it’s a brain in a jar — helpful, responsive, even insightful at times. What it lacks is agency.
+
+So you’re still cranking the wrench.
+
+You’re the one figuring out what to bring into view, what to hand it next, how to stitch it all together. Sometimes that works. But often, it’s more overhead than it’s worth. Not because the model can’t help — but because making the help *practical* requires too much of *you*.
+
+And that’s the real drag. You feel the potential, but the lift is still too high.
 
 That’s why this chapter stops where it does. We’re not showing you how to build the whole machine. Not yet. But we are starting to name what’s needed.
 
