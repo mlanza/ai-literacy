@@ -84,25 +84,61 @@ Adding small details like coordinates, booking references, or even travel time e
 
 The result? Better output, less back-and-forth, and a process that starts to feel like a system.
 
-## ⚙️ Why This Works
+## ⚙️ The Moment of Traction
 
-Let’s step back.
+Let’s zoom in on the moment the bead moved.
 
-All we did was give the AI two things:
+This wasn’t a vibe check. It wasn’t magic. It was a **command** — supported by real data.
 
-1. The *confirmed bookings* — what’s fixed
-2. The *bucket list* — what’s desired
+The prompt that drove things forward:
 
-Then we added one piece of reusable instruction — a formatting guide — and asked for a plan.
+> “Use these three documents — the Confirmed Bookings Summary, the Experience Bucket List, and the Activity Formatting Rules — to generate a final daily itinerary for the Japan trip, formatted as requested.”
 
-The model came back with a **structured itinerary**:
-Each day mapped out, commitments locked in, optional activities proposed based on proximity and time available. Margin flagged. Opportunities clear.
+That’s the bead moving from one cup to the next.
 
-It was able to move the bead forward — not because the prompt was clever, but because the **inputs were sound**.
+A single, explicit ask.
 
-The context was there.
+With all the materials needed to fulfill it.
 
-And that’s what context engineering is.
+Let’s break it down:
+
+1. 📄 **Confirmed Bookings Summary** — a **product artifact** listing what’s locked in.
+2. 📄 **Experience Bucket List** — a **product artifact** listing what’s desired.
+3. 🤖 **Activity Formatting Rules** — a **process artifact** describing how the result should be shaped.
+
+Together, these formed the full context. Not in the model’s memory. Not implied in conversation.
+
+**Visible. Present. Supplied.**
+
+The result? A clear, structured daily itinerary.
+
+Confirmed events anchored the days. Optional activities clustered by proximity. Accessibility needs respected. Formatting consistent.
+
+None of that was guessed. It was derived — from the prompt and the payload.
+
+From data in the cup.
+
+That’s the bead-in-a-cup metaphor, made real.
+
+Incidentally, this is also what a **function** in a computer program looks like in practice:
+
+* The prompt is the function signature.
+* The artifacts are the parameters.
+* The output is (or can be) deterministic, shaped by inputs alone.
+
+This is **context engineering** at its core.
+
+You’re not “asking ChatGPT to help.”
+
+You’re designing a system moment — a reproducible unit of AI labor, shaped by structure and scope.
+
+You’re building a world the model can see — then asking it to take the next step.
+
+That’s how you move the bead.
+
+That’s the real work.
+
+And now you’ve seen it land.
 
 ## 🧱 The Artifacts Are the Infrastructure
 
@@ -132,8 +168,8 @@ You’re asking it to move the bead.
 
 Back in the *Reifying Process* chapter, we talked about the spectrum.
 
-* **Leaning left** = you steer the conversation, one volley at a time
-* **Leaning right** = the system carries the memory, the baton, the state
+* **Lean left** and you steer the conversation, one volley at a time
+* **Lean right** and the system carries the memory, the baton, the state
 
 In this case, we leaned right — we passed in artifacts, gave it everything at once.
 
