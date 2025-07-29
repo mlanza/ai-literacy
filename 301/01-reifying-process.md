@@ -24,7 +24,7 @@ The point is to work through something real — with inputs, steps, handoffs, an
 
 The goal here isn’t a perfect system. It’s **visible structure**. You’ll define waypoints. Track outputs. Spot friction. And in doing so, start to see what parts of the process are ripe for automation — and what still needs human judgment.
 
-We’re not diving into full orchestration yet. But unless you’ve run a process — with artifacts, feedback loops, and deliberate iteration — you’re not ready to systemize. This is how you get there.
+We’re not diving into full orchestration yet. In fact, we're not even going to fully build it out. But we are going to look at what that would entail.  Because unless run a process through, iterate on it a few times, your understanding will be shallow. Thinking through a process, and using it more than one, is how you get a sense of what's really involved.
 
 Each pass is a rehearsal.
 
@@ -32,7 +32,29 @@ Each artifact is a building block.
 
 Each refinement moves you closer to something you can trust.
 
-Let’s get moving.
+Now I want you to slow down and picture it. Not the trip itself, but the process. The system you’d build if you had to do this well — not once, but over and over.
+
+Imagine writing it up like an SOP. You’re still in the driver’s seat. You’d do most of what you already do when planning a trip, but now you’ve got a chatbot riding shotgun. You can pull it in at any point — for drafting, searching, rewording, comparing — whatever makes the job easier. The goal here isn’t automation. Not yet. The goal is **awareness**. Capturing just enough of the structure and decisions that, next time through, you’d be better off. More prepared. Less scattered.
+
+This is how a process becomes real.
+
+You reify it — not with code, but with artifacts.
+
+Now stretch a little further. What if you wanted to flip the balance? Sit back, let the chatbot do most of the heavy lifting? That’s a different kind of process. One where you still shape the goals, steer the decisions, but more of the work flows through AI.
+
+That’s the spectrum.
+
+Lean left — human-led, chatbot-assisted.
+
+Lean right — AI-led, human-guided.
+
+It’s still a partnership. The difference is who's doing the bulk of the work. And unlike a human partner, the machine never tires. That’s the promise — and the problem. Because making that shift isn’t trivial. Historically, it’s been the domain of developers. Not just individuals, but teams. The terrain is technical, the tooling immature, the burden high.
+
+So we’re not going there. Not fully.
+
+But we are going to peek over the edge.
+
+Let’s take a few steps and see what it would really take.
 
 ## 🎯 Start with the End in Mind
 
@@ -75,11 +97,11 @@ Artifacts marked with 🤖 are **process artifacts**: reusable elements that des
 
 Each step below describes a phase of planning and follows it with a bullet list of **artifacts**. Artifacts are marked with two icons:
 
-* ➡️ = input to this step
-* ⬅️ = output from this step
-  And either:
-* 📄 = product artifact (specific to this trip)
-* 🤖 = process artifact (generic or reusable)
+* ➡️ = input to this step<br>
+* ⬅️ = output from this step<br>
+  And either:<br>
+* 📄 = product artifact (specific to this trip)<br>
+* 🤖 = process artifact (generic or reusable)<br>
 
 ### 1. **Define the trip**
 
