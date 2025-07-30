@@ -185,7 +185,7 @@ The difference is just who’s in charge of the environment.
 
 Brains are the new kid on the block — and they’re showing up everywhere. Sometimes they’re center stage. Sometimes they’re backstage. But they’re still shaping the performance.
 
-## AI as a Universal Mediator
+## AI as Universal Mediator
 
 For most of computing history, getting software to do something meant writing code.
 
