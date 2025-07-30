@@ -88,37 +88,29 @@ And a way to help that goes beyond suggestion — into delegation.
 
 That’s what tools do. Whether they’re letting software sense the world, or letting AI act within it, they expand what’s possible — with your permission, and often, with your data.
 
-## Missing Pages and Manual Labor
+## From Prompting to Delegating
 
-Let’s look at two examples:
+Take:
 
-* **Example 1: “How do I update the formatting on every slide in this PowerPoint?”**
+* **“How do I update the formatting on every slide in this PowerPoint?”**
   You ask ChatGPT, and it walks you through the steps. Click this, go here, apply that. Super helpful. But it can’t open your file or make the change. You have to follow the instructions line by line — like reading from a page torn out of a manual.
 
-* **Example 2: “Can you help me block off time on my calendar for deep work this week?”**
-  The AI gives you a thoughtful plan: suggested time blocks, tips for protecting them, maybe even a draft email to notify your team. But it can’t touch your calendar. You still have to open the app and move the blocks around manually.
+The chatbot did its job — it gave you clear, customized guidance.
 
-In both cases, the chatbot did its job — it gave you clear, customized guidance.
 But **you had to realize the effects manually**, because the chatbot had no hands. No access. No way to act.
 
 That’s the limit of pure prompting: the AI thinks with you, but it doesn’t act for you.
 
-## From Prompting to Delegating
+Now give the chatbot tools.
 
-Now let’s take those same examples — but this time, the chatbot has tools.
-
-* **Example 1, with tools:**
-  You say, “Update this slide deck so every title is 36pt bold and aligned left.”
+* **“Update this slide deck so every title is 36pt bold and aligned left.”**
   The AI opens the file, scans the slides, and makes the edits directly. It shows you a before-and-after view. You give a thumbs up. Done.
 
-* **Example 2, with tools:**
-  You say, “Block off 90-minute focus sessions each morning next week and label them ‘Deep Work.’”
-  The AI connects to your calendar, finds available time, checks for conflicts, and creates the events. All you did was describe the goal.
-
 That’s the difference tools make.
-**You’re no longer asking what to do — you’re delegating the doing.**
 
-The lever has moved. What once required human follow-through now flows directly from request to result.
+**You no longer ask what to do — you delegating the doing.**
+
+The lever moves. What once required human follow-through now flows directly from request to result.
 
 ## Tools in ChatGPT: The Suit Gets Upgrades
 
