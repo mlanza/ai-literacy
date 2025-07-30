@@ -160,19 +160,15 @@ And the best part? **You already know how to upload a file.** You don’t need a
 
 Let’s look at what that actually feels like in practice in ChatGPT.
 
-**“Can you summarize this 60-page PowerPoint for an exec briefing?”**<br>
+* **“Can you summarize this 60-page PowerPoint for an exec briefing?”**<br>
 Upload the deck as-is. The AI scans slide titles, notes, and content, then returns a tight 1-pager organized by themes or topics. No more slogging through every slide — just the narrative you need, ready to share.
-
-**“Review this CSV and flag anything that looks off.”**<br>
+* **“Review this CSV and flag anything that looks off.”**<br>
 The AI inspects rows and columns for outliers, missing data, broken formatting, or patterns that don’t align. It might spot that two rows have the same invoice number, or that a subtotal column doesn’t match the line items. It’s like having a second set of eyes — but faster.
-
-**“Compare these two contracts and highlight what’s changed.”**<br>
+* **“Compare these two contracts and highlight what’s changed.”**<br>
 Upload both the original and the revised version. The AI performs a structured diff, calling out added clauses, altered definitions, and even subtle shifts in obligations. What used to take legal review now takes minutes — with a clear trail.
-
-**“Analyze this year’s budget vs. last year’s. What changed the most?”**<br>
+* **“Analyze this year’s budget vs. last year’s. What changed the most?”**<br>
 Two spreadsheets in, one story out. The AI calculates year-over-year shifts, flags the biggest deltas, and highlights categories with the most volatility. It might even draft bullet points for your next team slide. It’s not just a formula engine — it’s a financial analyst.
-
-**“This log file and this error report came from the same system. Tell me what went wrong.”**<br>
+* **“This log file and this error report came from the same system. Tell me what went wrong.”**<br>
 Upload a messy debug log and a plain-language support ticket. The AI connects user frustration to backend tracebacks, offering a plausible root cause. For ops teams, it’s like merging intuition with instrumentation.
 
 It’s easy to overlook how transformative this kind of access is — especially when all it takes is uploading a file you already have. But once granted, that access turns passive documents into active collaborators.
