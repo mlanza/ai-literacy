@@ -1,6 +1,6 @@
 ## Tools: The Invisible Hands of AI
 
-If the Brain is the model and the Memory is your scaffolding, the **Tools** are what give your chatbot hands.
+If the Brain is the model and the Memory is your scaffolding, the **tools** are what give your chatbot hands.
 
 You’ve seen this idea before — not in AI, but in your everyday apps.
 
