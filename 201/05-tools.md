@@ -60,7 +60,7 @@ When you turn on a calendar tool, you’re not just enabling scheduling. You’r
 
 ---
 
-## What That Means in ChatGPT
+## Integrated ChatGPT Tools
 
 That idea shows up in ChatGPT too — and it’s just as permission-based.  Some tools are available by default, some have to be switched on:
 
