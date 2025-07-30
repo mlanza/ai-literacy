@@ -204,11 +204,9 @@ This is where we’re heading next.
 
 We’re standing at the edge of something big — a future where the baton can be passed *without* a developer in the loop. Where the AI isn’t just reading the guidebook, but knows when and how to act on it. Where the infrastructure exists to let a brain in a jar take action *safely*, *modularly*, *on brand*.
 
-That’s what the next chapter explores: how to build generic infrastructure — reusable tools, safe execution environments, built-in affordances — so the model doesn’t just assist the work…
-
-…but *does* the work.
+That’s what the next chapter explores: a generic infrastructure that exposes reusable tools that the model can employ directly on our behalf.
 
 We’re not there yet.
 
-But the right facilities make what has long been far fetched possible.
+But the right facilities make possible what has long been far fetched.
 
