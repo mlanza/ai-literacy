@@ -16,8 +16,6 @@ And that’s worth sitting with.
 
 Because what we just saw wasn’t the product of intelligence. It was the product of prediction.
 
----
-
 ## 🔮 LLMs Are Just Prediction Machines
 
 Large language models don’t plan. They don’t remember what they said. They don’t know what they’re going to say next.
@@ -34,8 +32,6 @@ No awareness. No hindsight. No foresight. Just one word at a time, trying to mak
 
 And what’s astonishing is how often that chain reaction produces something useful.
 
----
-
 ## 🎲 The Illusion of Non-Determinism
 
 This is where things get slippery.
@@ -49,8 +45,6 @@ That’s not an accident. That’s baked into the math.
 But when tools like ChatGPT introduce temperature — a way of softening the model’s certainty and encouraging it to sample from a wider range of plausible options — you start to see variation. You get different runs. Sometimes better. Sometimes worse.
 
 But under the hood? It’s all still probability. You’re just deciding how much randomness to allow in the selection.
-
----
 
 ## 🧪 The Hungry… What?
 
@@ -82,8 +76,6 @@ The fact that it sounds smart? Feels aligned? Matches your values?
 
 That’s the miracle.
 
----
-
 ## 👻 The Hallucination Is the Rule — Not the Exception
 
 People talk about hallucinations like they’re bugs. As if they happen *despite* how the model works.
@@ -97,8 +89,6 @@ That doesn’t mean it can’t be useful. Far from it.
 But the reason it’s useful is because we bring *structure* to the moment. We bring real data. Process artifacts. Clear instructions. Those aren’t just for clarity — they’re *anchors* in the ocean of probability.
 
 They give the model something solid to build from.
-
----
 
 ## 🧠 Brains in Jars
 
@@ -117,8 +107,6 @@ So when we gave it that profile and the flight options, and asked it to choose t
 That’s not AI *solving* the problem.
 
 It’s AI *simulating* someone solving the problem — and often getting it right.
-
----
 
 ## ✈️ Bead vs. Baton
 
@@ -143,8 +131,6 @@ And today? That’s still the domain of developers.
 They’re the ones stringing together the handoffs. Writing the glue code. Injecting the prompts. Executing the calls. Stitching together systems that let a model take action.
 
 It works. But it’s fragile. Expensive. High-overhead.
-
----
 
 ## 🤖 Toward Agentic Infrastructure
 
