@@ -94,7 +94,7 @@ And a way to help that goes beyond suggestion — into delegation.
 
 That’s what tools do. Whether they’re letting software sense the world, or letting AI act within it, they expand what’s possible — with your permission, and often, with your data.
 
-## Tools Aren’t Just Gadgets — They’re Gateways
+## Tools as Gateways
 
 Tools aren’t just extra features bolted onto the AI — they’re **access points** which include both:
 
