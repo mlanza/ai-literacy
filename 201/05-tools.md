@@ -164,7 +164,7 @@ And that’s where it gets interesting. Because the moment you upload two files 
 
 And the best part? **You already know how to upload a file.** You don’t need a new app or workflow. Just drag and drop into the chat, and suddenly, your assistant can see what you see. From there, it works the problem with you — or sometimes, for you.
 
-Let’s look at what that actually feels like in practice.
+Let’s look at what that actually feels like in practice in ChatGPT.
 
 **“Can you summarize this 60-page PowerPoint for an exec briefing?”**<br>
 Upload the deck as-is. The AI scans slide titles, notes, and content, then returns a tight 1-pager organized by themes or topics. No more slogging through every slide — just the narrative you need, ready to share.
