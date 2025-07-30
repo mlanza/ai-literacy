@@ -152,7 +152,7 @@ Let’s look at what that actually feels like in practice in ChatGPT.
 * **“Can you summarize this 60-page PowerPoint for an exec briefing?”**<br>
 Upload the deck as-is. The AI scans slide titles, notes, and content, then returns a tight 1-pager organized by themes or topics. No more slogging through every slide — just the narrative you need, ready to share.
 * **“Review this CSV and flag anything that looks off.”**<br>
-The AI inspects rows and columns for outliers, missing data, broken formatting, or patterns that don’t align. It might spot that two rows have the same invoice number, or that a subtotal column doesn’t match the line items. It’s like having a second set of eyes — but faster.
+The AI inspects rows and columns for outliers, missing data, broken formatting, or patterns that don’t align. It might spot that two rows have the same invoice number, or that a subtotal column doesn’t match the line items. It’s like having a second set of eyes — but faster.  If you ask it, it'll even give you a modified copy for download with the suspect rows flagged in a new column.
 * **“Compare these two contracts and highlight what’s changed.”**<br>
 Upload both the original and the revised version. The AI performs a structured diff, calling out added clauses, altered definitions, and even subtle shifts in obligations. What used to take legal review now takes minutes — with a clear trail.
 * **“Analyze this year’s budget vs. last year’s. What changed the most?”**<br>
