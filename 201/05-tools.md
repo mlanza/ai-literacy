@@ -62,9 +62,15 @@ When you turn on a calendar tool, you’re not just enabling scheduling. You’r
 
 ## What That Means in ChatGPT
 
-That idea shows up in ChatGPT too — and it’s just as permission-based.
+That idea shows up in ChatGPT too — and it’s just as permission-based.  Some tools are available by default, some have to be switched on:
 
-By default, the basic chatbot is like a browser with everything turned off. It can think with you. Help you plan. Improve your writing. But it can’t actually *do* anything. It can’t open your calendar, scan your folders, or manipulate a spreadsheet. You get insight, but you also get homework. The assistant makes a suggestion — but you turn the wrench.
+* **Web Search** – Extends the model’s knowledge beyond its frozen training window
+* **File Handling** – Lets the AI read and analyze your uploaded documents
+* **Calendar Access** – Grants visibility into your schedule and the ability to manage events
+
+And developers are continually adding new ones — like Q showing Bond the latest high-tech gadget. Each one is exciting not because it’s flashy, but because it removes friction and delivers real utility.
+
+By default, the basic chatbot is like a browser with everything turned off. It can think with you. Help you plan. Improve your writing. But with limited tools it can’t actually *do* anything. It can’t open your calendar, scan your folders, or manipulate a spreadsheet. You get insight, but you also get homework. The assistant makes a suggestion — but you turn the wrench.
 
 Turn tools on, and the story changes.
 
@@ -113,18 +119,6 @@ That’s the difference tools make.
 **You no longer ask what to do — you delegating the doing.**
 
 The lever moves. What once required human follow-through now flows directly from request to result.
-
-## Tools in ChatGPT: The Suit Gets Upgrades
-
-In ChatGPT, tools are optional features you can enable. Some of the most useful include:
-
-* **Web Search** – Extends the model’s knowledge beyond its frozen training window
-* **File Handling** – Lets the AI read and analyze your uploaded documents
-* **Calendar Access** – Grants visibility into your schedule and the ability to manage events
-
-Developers are continually adding new capabilities — like Q showing Bond the latest high-tech gadget, or Tony Stark adding a new feature to the Iron Man suit. Each one is exciting not because it’s flashy, but because it removes friction and delivers real utility.
-
-They shrink the gap between idea and action.
 
 ## Tools Aren’t Just Gadgets — They’re Gateways
 
