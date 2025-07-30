@@ -172,21 +172,29 @@ But this is only half the story.
 
 Picking a flight is useful. But not amazing. Why? Because it’s still static. Still stuck in the artifact layer.
 
-Flight data changes minute by minute. If the model picked a great option, but the price changed two hours later, that work has already gone stale.
+Flight data changes minute by minute. If the model picked a great option, but the price jumped two hours later, that work has already gone stale.
 
-The real power — the next frontier — is in letting AI *act*.
+The real power — the next frontier — is letting AI *act*.
 
 It’s one thing to recommend a flight. It’s another to book it.
 
 That’s not bead-moving. That’s baton-passing.
 
-And batons are harder. They involve trust. Handoff. Agency.
+And batons are harder. They require trust. Handoff. Real-world consequences.
 
-To pass the baton, the model has to do more than pick. It has to **read the API docs**, **format the request**, and **initiate the transaction**. That’s not speculative. It’s dynamic. Real.
+To pass the baton, the model has to do more than make a choice. It needs to *run the search* in real time. *Read the API docs.* *Format the request correctly.* *Trigger the transaction.* That’s not storytelling — that’s execution.
 
-And today? That’s still the domain of developers.
+But the model can’t do that on its own.
 
-They’re the ones stringing together the handoffs. Writing the glue code. Injecting the prompts. Executing the calls. Stitching together systems that let a model take action.
+Why? Because tools — like flight APIs — aren’t built into its brain. They're separate. And using them takes coordination. Someone has to wire things up so that what the model *says* it wants to do can actually be *done*.
+
+Right now, that someone is a developer.
+
+They write the glue code. Inject the prompts. Stitch together services. They make sure the system can act on the model’s intent — not just in the story it’s telling, but in the real world.
+
+And let’s be clear: if there’s a program, there’s a programmer.
+
+LLMs can help — they can assist with handoffs, suggest actions, even fill in gaps — but they can’t own the whole process. Not yet. The human has to handle the parts the model isn’t ready to manage.
 
 It works. But it’s fragile. Expensive. High-overhead.
 
