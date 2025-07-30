@@ -35,6 +35,27 @@ All from a single click: *“Allow location access?”*
 That’s not just a convenience. It’s a handoff.
 A small act of permission — and the software takes it from there.
 
+## A Broader Definition
+
+Now take that concept — software acting on your behalf — and zoom out.
+
+Think about desktop software: Word, Excel, Outlook. These too are tools, in a different sense. They handle documents. They give you a way to read, edit, and manage your work. Word doesn’t *own* your content, but it knows how to operate on it. The app becomes the hands that work with the file.
+
+Each one implies access to a particular kind of content: Word for docs, Excel for spreadsheets, Outlook for mail and meetings. You don’t just view these things — you collaborate inside them. The software shapes how the work happens.
+
+So now we have two types of tools:
+
+1. **System instrumentation** — tools that expose real-time signals (like GPS or mic)
+2. **Application scaffolding** — tools that let you open and modify content (like docs or calendars)
+
+Some tools sense the world. Others reshape the work. Both expand what software can *do* — and both require permission to act.
+
+That’s the broader mental model: tools are **capabilities**, granted by you, and designed by developers. They don’t come standard. They’re wired in, one by one, to make a specific kind of action possible.
+
+And they imply access, not just action.
+
+When you turn on a calendar tool, you’re not just enabling scheduling. You’re letting the assistant *see your availability*. A file tool connects to *your* documents. A voice tool listens to *your* questions. The capability and the context come as a pair.
+
 ## From Prompting to Delegating
 
 Take
@@ -60,27 +81,6 @@ That’s the difference tools make.
 **You no longer ask what to do — you delegating the doing.**
 
 The lever moves. What once required human follow-through now flows directly from request to result.
-
-## A Broader Definition of Tools
-
-Now take that concept — software acting on your behalf — and zoom out.
-
-Think about desktop software: Word, Excel, Outlook. These too are tools, in a different sense. They handle documents. They give you a way to read, edit, and manage your work. Word doesn’t *own* your content, but it knows how to operate on it. The app becomes the hands that work with the file.
-
-Each one implies access to a particular kind of content: Word for docs, Excel for spreadsheets, Outlook for mail and meetings. You don’t just view these things — you collaborate inside them. The software shapes how the work happens.
-
-So now we have two types of tools:
-
-1. **System instrumentation** — tools that expose real-time signals (like GPS or mic)
-2. **Application scaffolding** — tools that let you open and modify content (like docs or calendars)
-
-Some tools sense the world. Others reshape the work. Both expand what software can *do* — and both require permission to act.
-
-That’s the broader mental model: tools are **capabilities**, granted by you, and designed by developers. They don’t come standard. They’re wired in, one by one, to make a specific kind of action possible.
-
-And they imply access, not just action.
-
-When you turn on a calendar tool, you’re not just enabling scheduling. You’re letting the assistant *see your availability*. A file tool connects to *your* documents. A voice tool listens to *your* questions. The capability and the context come as a pair.
 
 ## Integrated ChatGPT Tools
 
