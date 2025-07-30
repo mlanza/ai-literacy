@@ -35,8 +35,6 @@ All from a single click: *“Allow location access?”*
 That’s not just a convenience. It’s a handoff.
 A small act of permission — and the software takes it from there.
 
----
-
 ## A Broader Definition of Tools
 
 Now take that concept — software acting on your behalf — and zoom out.
@@ -58,7 +56,31 @@ And they imply access, not just action.
 
 When you turn on a calendar tool, you’re not just enabling scheduling. You’re letting the assistant *see your availability*. A file tool connects to *your* documents. A voice tool listens to *your* questions. The capability and the context come as a pair.
 
----
+## From Prompting to Delegating
+
+Take
+
+> “How do I update the formatting on every slide in this PowerPoint?”
+
+You ask ChatGPT, and it walks you through the steps. Click this, go here, apply that. Super helpful. But it can’t open your file or make the change. You have to follow the instructions line by line — like reading from a page torn out of a manual.
+
+The chatbot did its job — it gave you clear, customized guidance.
+
+But **you had to realize the effects manually**, because the chatbot had no hands. No access. No way to act.
+
+That’s the limit of pure prompting: the AI thinks with you, but it doesn’t act for you.
+
+Now give the chatbot tools.
+
+> “Update this slide deck so every title is 36pt bold and aligned left.”
+
+The AI opens the file, scans the slides, and makes the edits directly. It shows you a before-and-after view. You give a thumbs up. Done.
+
+That’s the difference tools make.
+
+**You no longer ask what to do — you delegating the doing.**
+
+The lever moves. What once required human follow-through now flows directly from request to result.
 
 ## Integrated ChatGPT Tools
 
@@ -110,32 +132,6 @@ A file tool isn’t just a document reader — it’s a connection to *your* doc
 Each tool extends both what the AI can *do* and what it can *know* about your environment.
 
 That’s why tools feel like “giving the AI hands” — but they’re also “giving the AI eyes.”
-
-## From Prompting to Delegating
-
-Take
-
-> “How do I update the formatting on every slide in this PowerPoint?”
-
-You ask ChatGPT, and it walks you through the steps. Click this, go here, apply that. Super helpful. But it can’t open your file or make the change. You have to follow the instructions line by line — like reading from a page torn out of a manual.
-
-The chatbot did its job — it gave you clear, customized guidance.
-
-But **you had to realize the effects manually**, because the chatbot had no hands. No access. No way to act.
-
-That’s the limit of pure prompting: the AI thinks with you, but it doesn’t act for you.
-
-Now give the chatbot tools.
-
-> “Update this slide deck so every title is 36pt bold and aligned left.”
-
-The AI opens the file, scans the slides, and makes the edits directly. It shows you a before-and-after view. You give a thumbs up. Done.
-
-That’s the difference tools make.
-
-**You no longer ask what to do — you delegating the doing.**
-
-The lever moves. What once required human follow-through now flows directly from request to result.
 
 ## Files as Input. Knowledge as Output.
 
