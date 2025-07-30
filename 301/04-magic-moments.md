@@ -16,7 +16,7 @@ And that’s worth sitting with.
 
 Because what we just saw wasn’t the product of intelligence. It was the product of prediction.
 
-## Packaging Your Brand In Magic Moments
+## Packaging Your Brand
 
 The amazing piece is the traveler profile — a process artifact.
 
