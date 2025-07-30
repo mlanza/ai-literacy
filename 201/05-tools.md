@@ -132,6 +132,27 @@ Developers are continually adding new capabilities — like Q showing Bond the l
 
 They shrink the gap between idea and action.
 
+## Where the Brain Lives
+
+There’s one wrinkle worth clearing up.
+
+So far, we’ve described tools as **invisible hands** — optional extensions that let a chatbot act on your behalf. In ChatGPT, this is literally true: the model (the “brain”) lives at the center, and tools are bolted on around it. The LLM hosts the tools.
+
+But the reverse is happening too.
+
+You’ve probably seen LLMs showing up *inside* apps — in Word, Excel, Notion, or even airline websites. In those cases, the tool is the host. The LLM is embedded, often invisibly, to power a smart feature or chat-based assistant.
+
+This can seem like a contradiction — but it’s really a matter of perspective.
+
+Whether the tool hosts the brain or the brain hosts the tools, the outcome is the same: **language becomes the interface.**
+
+The difference is just who’s in charge of the environment.
+
+* In ChatGPT, the LLM is the main actor. Tools extend its reach.
+* In Office or Notion, the app is the main actor. The LLM supports its features.
+
+Brains are the new kid on the block — and they’re showing up everywhere. Sometimes they’re center stage. Sometimes they’re backstage. But they’re still shaping the performance.
+
 ## Tools Aren’t Just Gadgets — They’re Gateways
 
 Tools aren’t just extra features bolted onto the AI — they’re **access points**. A tool includes two things:
