@@ -94,6 +94,23 @@ And a way to help that goes beyond suggestion — into delegation.
 
 That’s what tools do. Whether they’re letting software sense the world, or letting AI act within it, they expand what’s possible — with your permission, and often, with your data.
 
+## Tools Aren’t Just Gadgets — They’re Gateways
+
+Tools aren’t just extra features bolted onto the AI — they’re **access points** which include both:
+
+* **Capability** — what the AI is allowed to *do*
+* **Context** — what the AI is allowed to *see*
+
+Take the calendar tool, for example. It doesn’t just give the AI the ability to schedule events. It also gives it visibility into your actual calendar: your availability, your existing events, even the names of your meetings.
+
+This integration of action + data is what makes tools so valuable.
+
+A file tool isn’t just a document reader — it’s a connection to *your* document.  An email tool isn’t just a way to write — it’s a way to draft and send *your* messages.
+
+Each tool extends both what the AI can *do* and what it can *know* about your environment.
+
+That’s why tools feel like “giving the AI hands” — but they’re also “giving the AI eyes.”
+
 ## From Prompting to Delegating
 
 Take
@@ -120,29 +137,11 @@ That’s the difference tools make.
 
 The lever moves. What once required human follow-through now flows directly from request to result.
 
-## Tools Aren’t Just Gadgets — They’re Gateways
-
-Tools aren’t just extra features bolted onto the AI — they’re **access points**. A tool includes two things:
-
-* **The capability** — what the AI is allowed to *do*
-* **The context** — what the AI is allowed to *see*
-
-Take the calendar tool, for example. It doesn’t just give the AI the ability to schedule events. It also gives it visibility into your actual calendar: your availability, your existing events, even the names of your meetings.
-
-This integration of action + data is what makes tools so valuable.
-
-A file tool isn’t just a document reader — it’s a connection to *your* document.
-An email tool isn’t just a way to write — it’s a way to draft and send *your* messages.
-
-Each tool extends both what the AI can *do* and what it can *know* about your environment.
-
-That’s why tools feel like “giving the AI hands” — but they’re also “giving the AI eyes.”
-
 ## Files as Input. Knowledge as Output.
 
-We’ve already seen what **File Handling** and **Data Inspection** can do — upload a spreadsheet, ask a question, and watch the AI sift through rows, charts, and formulas with ease. But that’s just scratching the surface.
+Let's look at what integrated features like **file handling** and **data inspection**, tools in their own right, enable — upload a spreadsheet, ask a question, and watch the AI sift through rows, charts, and formulas with ease. But that’s just scratching the surface.
 
-What makes this tool so useful isn’t just that it can open files. It’s that it can **understand them.** Docs, decks, logs, CSVs, Markdown, PDFs, JSON configs — even machine languages like HTML, YAML, or SQL. It reads them like text, parses them like code, and talks about them like a teammate.
+What makes tools so useful isn’t just that they open files. It’s that they expose data that the LLM can interpreter, understand, and manipulate. Docs, decks, logs, CSVs, Markdown, PDFs, JSON configs — even machine languages like HTML, YAML, or SQL. It reads them like text, parses them like code, and talks about them like a teammate.
 
 Today’s large language models don’t just speak English or code — they translate one into the other. They sit between human intent and machine syntax, mediating requests, generating structure, and turning goals into action.
 
