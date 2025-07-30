@@ -135,9 +135,9 @@ That’s why tools feel like “giving the AI hands” — but they’re also �
 
 ## Files as Input. Knowledge as Output.
 
-Let's look at what integrated **file handling**, a tool in its own right, enables — upload a spreadsheet, ask a question, and watch the AI sift through rows, charts, and formulas with ease. But that’s just scratching the surface.
+Let's look at what a single tool like integrated **file handling** enables.  You upload a spreadsheet, ask a question, and the AI sifts through rows, charts, and formulas with ease. But that’s just scratching the surface.
 
-What makes tools so useful isn’t just that they open files. It’s that they expose data that the LLM can interpreter, understand, and manipulate. Docs, decks, logs, CSVs, Markdown, PDFs, JSON configs — even machine languages like HTML, YAML, or SQL. It reads them like text, parses them like code, and talks about them like a teammate.
+What makes it so useful is that just by permitting it to open files, the LLM can interpreter, understand, and manipulate their contents. Docs, decks, logs, CSVs, Markdown, PDFs, JSON configs — even machine languages like HTML, YAML, or SQL. It reads them like text, parses them like code, and talks about them like a teammate.
 
 Today’s large language models don’t just speak English or code — they translate one into the other. They sit between human intent and machine syntax, mediating requests, generating structure, and turning goals into action.
 
