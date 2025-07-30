@@ -72,7 +72,7 @@ Now ChatGPT can access documents, edit slides, manage events, draft emails, or a
 
 But it’s not magic. That capability doesn’t come baked in.
 
-Just like Word has to be taught how to open DOCX files, and just like your browser only knows how to query your GPS because someone programmed it — the AI only gains these abilities when developers wire in the knowledge. Tools are not general-purpose. Each one has to be built, permissioned, and integrated.
+Just like Word has to be taught how to open .docx files, and just like your browser only knows how to query your GPS because someone programmed it — the AI only gains these abilities when developers wire in the knowledge. Tools are not general-purpose. Each one has to be built, permissioned, and integrated.
 
 And tools don’t just grant action. They unlock *context*.
 
