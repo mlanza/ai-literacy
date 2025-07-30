@@ -136,7 +136,7 @@ That’s the miracle.
 
 ## 👻 The Hallucination Is the Rule — Not the Exception
 
-People are bothered when they experience hallucinations. The model confidently offers up what they know to be a falsehood.
+People are bothered when they see hallucinations. The model confidently offers up what they know to be a falsehood.
 
 But here's the thing. The model doesn't sometimes hallucinate.  **It always hallucinates.** That is, it never actually knows whether anything it's saying is true because there's no actual thought behind it.  Everything is utter fabrication based on probability, not fact.
 
