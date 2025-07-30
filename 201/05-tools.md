@@ -87,7 +87,7 @@ The lever moves. What once required human follow-through now flows directly from
 That idea shows up in ChatGPT too — and it’s just as permission-based.  Some tools are available by default, some have to be switched on:
 
 * **Web Search** – Extends the model’s knowledge beyond its frozen training window
-* **File Handling** – Lets the AI read and analyze your uploaded documents
+* **File Handling** – Lets the AI natively read and analyze any document you upload
 * **Calendar Access** – Grants visibility into your schedule and the ability to manage events
 
 And developers are continually adding new ones — like Q showing Bond the latest high-tech gadget. Each one is exciting not because it’s flashy, but because it removes friction and delivers real utility.
