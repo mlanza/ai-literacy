@@ -210,5 +210,5 @@ That’s what the next chapter explores: how to build generic infrastructure —
 
 We’re not there yet.
 
-But we’re close enough to start building for it.
+But the right facilities make what has long been far fetched possible.
 
