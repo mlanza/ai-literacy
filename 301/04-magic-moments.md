@@ -136,17 +136,31 @@ That’s the miracle.
 
 ## 👻 The Hallucination Is the Rule — Not the Exception
 
-People talk about hallucinations like they’re bugs. As if they happen *despite* how the model works.
+People are bothered when they experience hallucinations. The model confidently offers up what they know to be a falsehood.
 
-But hallucinations are the default.
+But here's the thing. The model doesn't sometimes hallucinate.  **It always hallucinates.** That is, it never actually knows whether anything it's saying is true because there's no actual thought behind it.  Everything is utter fabrication based on probability, not fact.
 
-Every output from an LLM is a fiction. A best-guess continuation. There’s no truth-checking happening. No validation against a canonical source. If it gets something right, it’s because the prediction machine just happened to line up with reality.
+And yet, when we give it the right materials — structured profiles, clean data, clear instructions — we often get outputs that feel thoughtful. On brand. Aligned with our intent.
 
-That doesn’t mean it can’t be useful. Far from it.
+That’s not luck. It’s weight.
 
-But the reason it’s useful is because we bring *structure* to the moment. We bring real data. Process artifacts. Clear instructions. Those aren’t just for clarity — they’re *anchors* in the ocean of probability.
+When you feed a model a strong payload — one with crisp framing, rich constraints, and specific examples — you’re not giving it magic. You’re giving it *bias*. You're tilting the probability landscape in favor of something useful. That’s what makes context engineering feel like “training” — even though nothing in the model actually changes.
 
-They give the model something solid to build from.
+And this is where the real mental model lives:
+
+**The prompt *is* the system.**
+
+The idea that you can write a traveler profile — or a team playbook, or a guide for responding to customer complaints — and then expect a text generator to *act like it read it* is otherworldly. But it’s not nonsense. That’s what the model was built to do: find continuation patterns that feel plausible in light of what came before.
+
+So the closer your input resembles the right *prior*, the more likely the model will simulate the output you hoped for.
+
+We don’t fully understand why some of this works. The term *emergent behavior* gets thrown around a lot, but:
+
+**The better you frame the input, the better your odds of getting something that makes sense — and is useful.**
+
+That’s not a guarantee. But it’s not random either.
+
+So don’t think of artifacts as “add-ons.” Think of them as *levers*. They don’t just help the model write better. They change the shape of what the model is likely to say next.
 
 ## 🧠 Brains in Jars
 
