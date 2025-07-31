@@ -22,5 +22,5 @@ It’s an unfinished first draft in need of editing. I’ll clearly mark when I 
 
 Thanks for taking the time. I hope what’s here proves useful.
 
-Content authored by Mario Lanza. Shared with permission from the Unified Judicial System of Pennsylvania.
+Content authored by Mario T. Lanza. Shared with permission from the Unified Judicial System of Pennsylvania.
 
