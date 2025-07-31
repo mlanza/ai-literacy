@@ -91,13 +91,17 @@ One kind of memory is the product: the deliverable, the draft, the thing you're 
 
 Waypoints make that possible. They’re not just detours. They’re deposits of memory. They’re how you build smarter prompts, sharper expectations, and better tools for your next round.
 
----
-
 ## Why Waypoints Appear
 
 Imagine the process of creating a deliverable as a kind of petri net: a bead moves from one cup to the next, following defined steps. The more distinct stages you introduce—cups, in this metaphor—the more paths emerge between them. More checkpoints. More opportunities for insight.
 
-When you stretch the process—when you stop trying to leap from input to output in a single bound—you force the **connections** into being. And those connections leave **byproducts**. Waypoints appear because the process is no longer compressed; it’s reified. Each step creates an opening for something new to form—a list, a rule, a reusable insight.
+When you stretch the process—when you stop trying to leap from input to output in a single bound—you force the **connections** into being.
+
+Any project-sized ask, including ChatGPT's deep research, has at its heart always meant decomposing the work. The chain-of-thought effect—where you watch the model reason out loud—is a UI parlor trick that only seems impressive.
+
+The trick isn’t seeing the model think. It’s realizing that serious work has always followed a step-by-step path—and now that path is exposed.  And the work happening in the seams is exposed as **byproducts**.
+
+They appear because the process is no longer compressed; it’s reified. Each step creates an opening for something new to form—a list, a rule, a reusable insight.
 
 This is how skepticism turns to clarity. People doubt AI because they only see the leap. But once they see the steps—the waypoints, the artifacts, the evolving judgment—they understand where AI fits in. They start to see it not as a shortcut, but as a capable partner, walking alongside them.
 
