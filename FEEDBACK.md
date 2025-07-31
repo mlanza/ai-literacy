@@ -1,6 +1,6 @@
 # Feedback
 
-This is a working draft—still in need of editing and likely to change. But the material, and the shape the ideas are starting to take, felt worth sharing. Other priorities are pulling focus right now, so it may be a while before I can return to it. In the meantime, feedback is welcome—with a few caveats.
+This is a working draft—still in need of editing and likely to change, perhaps 2/3rds of what I planned. But the material, and the shape the ideas are starting to take, felt worth sharing. Other priorities are pulling focus right now, so it may be a while before I can return to it. In the meantime, feedback is welcome—with a few caveats.
 
 There are pop culture references throughout, some of them old. I included them to add color. If someone has to look up what a C-3PO is, that’s fine. Not everyone enjoys running into unfamiliar references, and that’s fair. But I made that choice knowingly.
 
