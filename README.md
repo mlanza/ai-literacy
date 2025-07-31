@@ -16,7 +16,7 @@ In the process, I’ve started to see just how remarkable LLMs can be. Some of t
 
 You’ll see ChatGPT referenced throughout, since it’s a widely accessible and concrete entry point. But this isn’t about one tool. The ideas here are meant to be platform-agnostic and useful no matter which system or interface you’re using. The references to ChatGPT are there to help make things easier to imagine. The underlying principles apply broadly — because in the modern era, AI often means anything built on the new underlying primitive: the large language model, or LLM.
 
-This work doesn’t engage with the ethical questions surrounding AI. Its focus is strictly utilitarian.
+This work doesn’t engage the ethical questions surrounding AI. Its focus is strictly utilitarian.
 
 It’s an unfinished first draft in need of editing. I’ll clearly mark when I consider it stable and ready for broader consumption.
 
