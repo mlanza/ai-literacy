@@ -20,7 +20,7 @@ You’ll see ChatGPT referenced throughout, since it’s a widely accessible and
 
 This work doesn’t engage the ethical questions surrounding AI. Its focus is strictly utilitarian.
 
-It’s an unfinished first draft in need of editing. I’ll clearly mark when I consider it stable and ready for broader consumption. [Feedback](./FEEDBACK.md) is welcome.
+This is a work in progress. [Feedback](./FEEDBACK.md) is welcome.
 
 Thanks for taking the time. I hope what’s here proves useful.
 
