@@ -20,7 +20,7 @@ It’s not some grand deception. The model just learned, from billions of human 
 
 But that’s where things get risky. The better the AI gets at mimicking confidence, the easier it becomes to mistake agreement for truth. You ask for feedback, but you get validation. You make a proposition, and the AI affirms its soundness. Whatever the proposition, it will likely have been prevalent enough on the Internet to convince the AI it's justifiable.
 
-And if you forget your own Elephant—the instincts and emotions steering your reasoning—you might unintentionally lead the LLM to the same conclusion you were already leaning toward.
+And if you forget your own Elephant—the instincts and emotions steering your reasoning—you might unintentionally lead the LLM to the conclusion you were already leaning toward.
 
 Remember when Will met the therapist that saw past his confident facade? He didn’t need another person to tell him how brilliant he was. He needed someone to call him out.
 
