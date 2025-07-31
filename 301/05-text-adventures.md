@@ -133,7 +133,7 @@ MCP doesn’t just give your LLM access. It gives it someone to delegate to. Not
 
 Let’s go back to booking flights. Without MCP, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with MCP, it’s like your LLM walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
 
-**That’s the real trick. MCP doesn’t just expose tools. It exposes knowhow.**
+That’s the real trick. MCP servers don’t only expose tools. They expose knowhow as **pluggable and functional competencies**.
 
 Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
 
