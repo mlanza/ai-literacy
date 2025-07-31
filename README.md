@@ -1,6 +1,6 @@
 # AI Literacy Course
 
-This is an AI literacy course aimed at onboarding someone with a passing understanding of AI. The reader is someone who has used ChatGPT or a similar chatbot, but doesn’t have deep AI training. He knows what a prompt is.
+This is a literacy course aimed at onboarding someone so he can begin to leverage AI. He has used a chatbot, is perhaps technical, but is not in the field of AI. He knows what a prompt is.
 
 The course ascends 3 stages:
 
@@ -8,7 +8,7 @@ The course ascends 3 stages:
 * [201: Practical Application](./201/)
 * [301: Systems Thinking](./301/)
 
-It’s not meant to provide a replete understanding of everything one might use an AI to do, nor all the advanced prompting techniques one might explore. That can be pursued independently. Rather, it aims to build a holistic mental framework for understanding AI — and, more importantly, how to think about leveraging it.
+It’s not meant to provide a replete understanding of everything one might use AI to do, nor all the advanced prompting techniques one might explore. That can be pursued independently. Rather, it aims to build a holistic mental framework for understanding AI — and, more importantly, how to think about leveraging it.
 
 Though I am a proficient developer, I’m not an AI expert. What you’ll find here comes after putting a colossal effort into absorbing beginner and intermediate materials.  It attempts to make sense of it in practical terms, to bring others up to a similar understanding, and build on fundamentals that hold up across use cases.
 
