@@ -120,9 +120,9 @@ Internally, the model might assign these probabilities to the next word:
 * `"alien"` → 8%
 * everything else → 16%
 
-If you set **temperature = 0** (i.e., greedy mode), the model always picks the top token. `"dragon"` wins every time.
+If you set **temperature = 0** (i.e., greedy mode), the model always picks the top token. `"dragon"` wins every time, unfettered determinism.
 
-If you set **temperature = 0.9** and **top\_p = 0.9**, the model might pick `"cat"` or `"child"` or `"dragon"` — depending on the random draw.
+However, if crank the **temperature to 0.9** and **top\_p to 0.9**, the model might pick `"cat"` or `"child"` or `"dragon"` — depending on the random draw.
 
 Each word, each token, is another domino. Another decision. Another “next most likely continuation.”
 
