@@ -2,7 +2,7 @@
 
 This is an AI literacy course aimed at helping someone with a passing understanding of AI. The reader is someone who has used ChatGPT or a similar chatbot, but doesn’t have deep training or technical background. He knows what a prompt is.
 
-The course ascends through three incremental stages:
+The course ascends 3 stages:
 
 * [101: Large Language Models](./101/)
 * [201: Practical Application](./201/)
