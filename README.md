@@ -21,3 +21,6 @@ This work doesn’t engage with the ethical questions surrounding AI. Its focus 
 It’s an unfinished first draft in need of editing. I’ll clearly mark when I consider it stable and ready for broader consumption.
 
 Thanks for taking the time. I hope what’s here proves useful.
+
+Content authored by Mario Lanza. Shared with permission from the Unified Judicial System of Pennsylvania.
+
