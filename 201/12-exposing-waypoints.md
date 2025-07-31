@@ -121,7 +121,7 @@ They’re not just scraps along the way. They’re the evidence of thinking. The
 
 You’re not outsourcing the work. You’re sharing it—and gaining visibility in return.
 
-### **Surfacing the Facts**
+### Surfacing the Facts
 
 Not all artifacts emerge naturally. Some have to be *surfaced*.
 
@@ -137,7 +137,7 @@ So when you ask the model to prompt you through a stakeholder brief, or to gener
 
 You’re building clarity on purpose. One prompt at a time.
 
-### **Saving the Machine State**
+### Saving the Machine State
 
 Now zoom out.
 
@@ -157,7 +157,11 @@ You can’t see them in the thread, but they’re always there — the quiet cou
 
 So whether you’re structuring a one-off session or configuring a reusable GPT, the same principle applies: frontloaded thinking isn’t wasted. It’s scaffolding. And it stays with you.
 
-You’re not just prompting. You’re staging an environment.
+You’re not just prompting. You’re staging an environment—loading the facts, shaping the tone, teaching the model what matters.  This is not work you want to start over each and every time.
+
+The mindset behind configuring system prompts, capturing artifacts and creating custom GPTs is reuse.
+
+Every time you invest in building context, it’s not just for now. You’re laying groundwork you hope to carry forward. That’s why we save things—not for nostalgia, but for leverage. To preserve structure. To resume with momentum.
 
 ### Optimize for Reuse
 
