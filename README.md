@@ -20,9 +20,7 @@ You’ll see ChatGPT referenced throughout, since it’s a widely accessible and
 
 This work doesn’t engage the ethical questions surrounding AI. Its focus is strictly utilitarian.
 
-This is a work in progress. [Feedback](./FEEDBACK.md) is welcome.
-
-Thanks for taking the time. I hope what’s here proves useful.
+This is a work in progress.  Thanks for taking the time to read it. I hope it proves useful.  Of course, [feedback](./FEEDBACK.md) is welcome.
 
 Content authored by Mario T. Lanza. Shared with permission from the Unified Judicial System of Pennsylvania.
 
