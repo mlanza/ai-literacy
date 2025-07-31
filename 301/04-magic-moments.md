@@ -210,7 +210,7 @@ They write the glue code. Inject the prompts. Stitch together services. They mak
 
 And let’s be clear: if there’s a program, there’s a programmer.
 
-LLMs can help — they can assist with handoffs, suggest actions, even fill in gaps — but they can’t own the whole process. Not yet. The human has to handle the parts the model isn’t ready to manage.
+LLMs can help — they can assist with handoffs, suggest actions, even fill in gaps — in programs, but they can’t own the whole process. Not yet. The human has to handle the parts the model isn’t ready to manage.
 
 It works. But it’s fragile. Expensive. High-overhead.
 
