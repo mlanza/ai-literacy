@@ -71,7 +71,7 @@ That’s what makes MCP so radical. If you type a query into the in-game browser
 
 Everything it does is storytelling. But when the props in that story are wired to real-world instrumentation, the fiction gains consequence. Every input sets the stage. Every object becomes an opportunity for interaction. And the AI just continues the story — one plausible word at a time — based on the entire narrative so far.
 
-As discussed in earlier chapters, LLMs are brains in jars. They don’t see, touch, or act. All they know is text. That means the world they inhabit is always a kind of Zork. And for them to take action — real action — they need tools. But wiring those tools in has always been costly.
+LLMs are ethereal. They neither see, nor touch, nor act. All they know is text. That means the world they inhabit is always a kind of Zork. And for them to take action — real action — they need tools. But wiring those tools in has always been costly.
 
 Historically, each tool integration required a developer to do all the work — linking app logic, permissions, and intent translation just to make a single instrument work. If you wanted a chatbot to perform a flight search, it had to interpret the user’s request, translate it to an API call (say, via Skyscanner), format the result, and then present options in a coherent way.
 
@@ -100,3 +100,5 @@ As more tools come online through MCP, the processes you care about get easier t
 Now it’s in your back pocket.
 
 You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. MCP is what lets you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
+
+MCP is the answer to the brains-in-jars dilemma.
