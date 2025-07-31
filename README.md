@@ -18,6 +18,6 @@ You’ll see ChatGPT referenced throughout, since it’s a widely accessible and
 
 I know there are deep and ongoing ethical questions surrounding AI. This work doesn’t engage with them. The focus here is strictly utilitarian — how the systems behave, how to reason about their capabilities, and how to use them well.
 
-It’s also a work in progress. Major revisions may still come. I’ll clearly mark when I consider it stable and ready for broader consumption.
+It’s also a work in progress, mostly first-draft material in need of editing. I’ll clearly mark when I consider it stable and ready for broader consumption.
 
 Thanks for taking the time. I hope what’s here proves useful.
