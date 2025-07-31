@@ -10,7 +10,7 @@ The course ascends 3 stages:
 
 It’s not meant to provide a replete understanding of everything one might use an AI to do, nor all the advanced prompting techniques one might explore. That can be pursued independently. Rather, it aims to build a holistic mental framework for understanding AI — and, more importantly, how to think about leveraging it.
 
-Though I am a proficient developer, I’m not an AI expert by trade. What you’ll find here comes from putting in a colossal amount of effort to absorb the beginner and intermediate material and make sense of it in practical terms. This is an attempt to bring others up to a similar understanding — not by translating research papers, but by building an intuitive foundation that holds up across use cases.
+Though I am a proficient developer, I’m not an AI expert. What you’ll find here comes after putting in a colossal effort into absorbing beginner and intermediate materials.  It attempts to make sense of it in practical terms, to bring others up to a similar understanding, and build on fundamentals that hold up across use cases.
 
 In the process, I’ve started to see just how remarkable the technology can be. Some of the use cases are surprising because they challenge how we work and think. What’s been more surprising, though, is how that spark doesn’t always catch. That’s part of why I wrote this. I wanted to help others see why I find it so compelling.
 
