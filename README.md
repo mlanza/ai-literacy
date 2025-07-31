@@ -14,9 +14,9 @@ Though I am a proficient developer, I’m not an AI expert. What you’ll find h
 
 In the process, I’ve started to see just how remarkable the technology can be. Some of the use cases are surprising because they challenge how we work and think. What’s been more surprising, though, is how that spark doesn’t always catch. That’s part of why I wrote this. I wanted to help others see why I find LLMs so compelling.
 
-You’ll see ChatGPT referenced throughout, since it’s a widely accessible and concrete entry point. But this isn’t about one tool. The ideas here are meant to be platform-agnostic and useful no matter which system or interface you’re using. The references to ChatGPT are there to help make things easier to imagine. The underlying principles apply broadly — because in the modern era, AI often means anything built on the new underlying primitive: the large language model, or LLM.
+You’ll see ChatGPT referenced throughout, since itcs a widely accessible and concrete entry point. But this isn’t about one tool. The ideas here are meant to be platform-agnostic and useful no matter which system or interface you’re using. The references to ChatGPT are there to help make things easier to imagine. The underlying principles apply broadly — because in the modern era, AI often means anything built on the new underlying primitive: the large language model, or LLM.
 
-I know there are ethical questions surrounding AI. This work doesn’t engage with them. The focus here is strictly utilitarian — how the systems behave, how to reason about their capabilities, and how to use them well.
+This work doesn’t engage with the ethical questions surrounding AI. Its focus is strictly utilitarian.
 
 It’s also a work in progress, mostly first-draft material in need of editing. I’ll clearly mark when I consider it stable and ready for broader consumption.
 
