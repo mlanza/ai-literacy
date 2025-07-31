@@ -12,7 +12,7 @@ It’s not meant to provide a replete understanding of everything one might use 
 
 Though I am a proficient developer, I’m not an AI expert. What you’ll find here comes after putting a colossal effort into absorbing beginner and intermediate materials.  It attempts to make sense of it in practical terms, to bring others up to a similar understanding, and build on fundamentals that hold up across use cases.
 
-In the process, I’ve started to see just how remarkable the technology can be. Some of the use cases are surprising because they challenge how we work and think. What’s been more surprising, though, is how that spark doesn’t always catch. That’s part of why I wrote this. I wanted to help others see why I find LLMs so compelling.
+In the process, I’ve started to see just how remarkable LLMs can be. Some of the use cases are surprising because they challenge how we work and think. What’s been more surprising, though, is how that spark doesn’t always catch. That’s part of why I wrote this. I wanted to help others see why I find them so compelling.
 
 You’ll see ChatGPT referenced throughout, since itcs a widely accessible and concrete entry point. But this isn’t about one tool. The ideas here are meant to be platform-agnostic and useful no matter which system or interface you’re using. The references to ChatGPT are there to help make things easier to imagine. The underlying principles apply broadly — because in the modern era, AI often means anything built on the new underlying primitive: the large language model, or LLM.
 
