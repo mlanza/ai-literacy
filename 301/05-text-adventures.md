@@ -147,7 +147,7 @@ This is what we wanted. Not access to more tools. Access to more **competence**.
 
 But how does this actually work? Not technically — conceptually.
 
-For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts, but it calls **resources**.
+For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts, but MCP calls **resources**.
 
 Resources are the reference frame — the situational awareness — that lets the LLM use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
 
