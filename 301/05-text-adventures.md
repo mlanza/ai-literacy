@@ -123,3 +123,74 @@ Because in this new kind of text adventure, your Visa card is in the room.
 
 And the window is already open.
 
+## Not Just a USB Stick — A Skyscanner Agent
+
+So far, we’ve described MCP-wrapped tools like USB devices: pluggable, interchangeable, no need to hardwire them every time. That’s still true. But it’s only half the story.
+
+What really matters isn’t the connector — it’s what’s on the other end.
+
+MCP doesn’t just give your LLM access. It gives it someone to delegate to. Not a dumb terminal. A skilled collaborator.
+
+Let’s go back to booking flights. Without MCP, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with MCP, it’s like your LLM walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
+
+**That’s the real trick. MCP doesn’t just expose tools. It exposes knowhow.**
+
+Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
+
+From the LLM’s point of view, it’s still playing Zork. Still progressing the story. Only now it’s wearing a new hat. It’s slipped into a new role, mid-game — and just kept going. That’s what we’ve been setting up all along.
+
+If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
+
+This is what we wanted. Not access to more tools. Access to more **competence**.
+
+## A New Word: Resources
+
+But how does this actually work? Not technically — conceptually.
+
+For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs **resources**.
+
+Resources are the reference frame — the situational awareness — that lets the LLM use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
+
+You've already seen prompts in action. But under MCP, prompts themselves are part of the system — treated as first-class objects. Which means the three pillars of MCP are:
+
+* **Tools = verbs** (what the model can do)
+* **Resources = nouns** (what the model should know)
+* **Prompts = goals** (what you’re asking it to accomplish)
+
+In short: MCP gives your model hands, memory, and mission.
+
+## Link in Hyrule, but with Teeth
+
+Let’s go sideways for a second. Picture The Legend of Zelda.
+
+Link, our hero, explores Hyrule — a world full of towns. Each town has its shops: weapon stores, potion sellers, inns. Outside these buildings are NPCs — non-player characters — who mostly stand still, repeating the same line forever. They’re decorative. Props.
+
+And that suits us. Because Zork was about props too.
+
+Now imagine our LLM as Link. It spots the Skyscanner Travel Agency in a new town. Before heading in, it stops to chat with the NPC outside.
+
+That conversation? It’s not chitchat. It’s *critical*.
+
+In that moment, the NPC does two things:
+
+1. **It hands over the handbook** — everything Link needs to know to operate inside the agency. That’s the **resource**: the process artifact, the contextual download, the kung fu in the Matrix chair.
+2. **It teaches the language** — the special phrases and inputs required to operate the internal machinery. That’s the **prompt template**: the syntax and style for issuing meaningful commands inside the agency.
+
+The whole exchange lasts seconds. But when Link walks through the door, he’s not confused. He’s fluent. He doesn’t just use the system — *he acts like he works there*.
+
+## A Kingdom of Capable Places
+
+Now zoom out. Hyrule isn’t one town. It’s a kingdom.
+
+Everywhere you go, there are new buildings. And outside each one is a helpful NPC, ready to brief you. Every agency, shop, or office you visit becomes a new venue for meaningful work. With MCP, the whole world is explorable. And actionable.
+
+Which means that giant petri net of processes we talked about? The one with the bead tracing its way through complex workflows?
+
+Suddenly, it's navigable. Not with custom orchestration code, but with nothing more than a wandering LLM and a bit of structured text.
+
+Even something as lightweight as ChatGPT can now coordinate serious work — issuing bookings, updating systems, validating records — because the townsfolk have been trained, the buildings are wired, and the LLM knows how to move from one to the next, changing hats each time.
+
+From the model’s perspective, it’s still Zork.
+
+Only now, the props have teeth. The baton is real. And the kingdom is alive.
+
