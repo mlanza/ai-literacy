@@ -16,7 +16,7 @@ In the process, I’ve started to see just how remarkable the technology can be.
 
 You’ll see ChatGPT referenced throughout, since it’s a widely accessible and concrete entry point. But this isn’t about one tool. The ideas here are meant to be platform-agnostic and useful no matter which system or interface you’re using. The references to ChatGPT are there to help make things easier to imagine. The underlying principles apply broadly — because in the modern era, AI often means anything built on the new underlying primitive: the large language model, or LLM.
 
-I know there are deep and ongoing ethical questions surrounding AI. This work doesn’t engage with them. The focus here is strictly utilitarian — how the systems behave, how to reason about their capabilities, and how to use them well.
+I know there are ethical questions surrounding AI. This work doesn’t engage with them. The focus here is strictly utilitarian — how the systems behave, how to reason about their capabilities, and how to use them well.
 
 It’s also a work in progress, mostly first-draft material in need of editing. I’ll clearly mark when I consider it stable and ready for broader consumption.
 
