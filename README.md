@@ -10,7 +10,7 @@ The course ascends 3 stages:
 * [201: Practical Application](./201/)
 * [301: Systems Thinking](./301/)
 
-Though I am a proficient developer, I’m not an AI expert. What you’ll find here comes after putting a colossal effort into absorbing beginner and intermediate materials.  It attempts to make sense of it in practical terms, to bring others up to a similar understanding, and build on fundamentals that hold up across use cases.
+Though I am a professional developer, I’m not an AI expert. What you’ll find here comes after putting a colossal effort into absorbing beginner and intermediate materials.  It attempts to make sense of it in practical terms, to bring others up to a similar understanding, and build on fundamentals that hold up across use cases.
 
 In the process, I’ve started to see just how remarkable LLMs can be. Some of the use cases are surprising because they challenge how we work and think. What’s been more surprising, though, is how that spark doesn’t always catch. That’s part of why I wrote this. I wanted to help others see why I find them so compelling.
 
