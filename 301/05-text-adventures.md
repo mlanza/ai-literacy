@@ -141,7 +141,7 @@ From the LLM’s point of view, it’s still playing Zork. Still progressing the
 
 If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
 
-This is what we wanted. Not access to more tools. Access to more **competence**.
+This is what we wanted. Not tools, but **competencies**.
 
 ## Booting Brains
 
