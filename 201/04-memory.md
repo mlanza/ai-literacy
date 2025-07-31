@@ -52,8 +52,6 @@ When you recognize your work with AI is a *series of coordinated steps* supporte
 
 Once you understand how memory works — and how much of it is yours to manage — you stop being limited by the chat window. You start collaborating on real work.
 
----
-
 ### Versioning Reflects Iteration
 
 If you’re already thinking in terms of capturing artifacts and building continuity, you’re halfway to a powerful habit: versioning. Once your work starts to stretch across multiple sessions and revisions, it’s natural to want a way to preserve history, compare drafts, or experiment without losing your place. That’s what versioning offers.
