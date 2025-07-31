@@ -102,3 +102,24 @@ Now it’s in your back pocket.
 You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. MCP is what lets you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
 
 MCP is the answer to the brains-in-jars dilemma.
+
+## Zork with a Credit Card
+
+**It’s thrilling. And unnerving.**
+
+With MCP, tools become props. Plug them in like peripherals and the brain just—knows what to do. One moment it’s parsing story logic. The next, it’s booking a real flight.
+
+The AI doesn’t feel the difference. It’s still in Zork. Still playing text games. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
+
+That’s the disconcerting part.
+
+The LLM’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. MCP wires that fiction into reality. It gives the hoax teeth.
+
+This doesn’t mean we should slam the brakes. But it does mean we’re on different ground now. Consequences are real. The baton isn’t metaphorical anymore. When you hand something off to the model — especially something with reach — you’re not just prompting. You’re delegating. That deserves care.
+
+As we move from the left side of the spectrum toward the right — from manual nudging to full AI-driven action — we carry more risk. That’s not a reason to stop. It’s a reason to design thoughtfully.
+
+Because in this new kind of text adventure, your Visa card is in the room.
+
+And the window is already open.
+
