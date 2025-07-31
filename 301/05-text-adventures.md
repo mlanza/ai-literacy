@@ -163,7 +163,7 @@ In short: MCP gives your model hands, memory, and mission.
 
 Let’s go sideways for a second. Picture The Legend of Zelda.
 
-Link, our hero, explores Hyrule — a world full of towns. Each town has its shops: weapon stores, potion sellers, inns. Outside these buildings are NPCs — non-player characters — who mostly stand still, repeating the same line forever. They’re decorative. Props.
+Link, our hero, explores Hyrule — a kingdom full of towns. Each town has its shops: weapon stores, potion sellers, inns. Outside these buildings are NPCs — non-player characters — who mostly stand still, repeating the same line forever. They’re decorative. Props.
 
 And that suits us. Because Zork was about props too.
 
