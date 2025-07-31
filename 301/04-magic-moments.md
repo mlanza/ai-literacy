@@ -190,7 +190,7 @@ Flight data changes minute by minute. If the model picked a great option, but th
 
 The real power — the next frontier — is letting AI *act*, treating it as an agent.
 
-> **Agent**: a system that can leverage (or emulate) reasoning (or equivalent processes) to make dynamic decisions in an application flow[^1].
+> **Agent**: a system that can leverage (or emulate) reasoning (or equivalent processes) to make dynamic decisions in an application flow.[^1]
 
 It’s one thing to recommend a flight. It’s another to book it.
 
