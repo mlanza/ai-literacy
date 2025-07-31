@@ -1,4 +1,4 @@
-# AI Literacy Course
+# Moving Beyond the Prompt
 
 This is a literacy course aimed at onboarding someone with a holistic framework for understanding and leveraging AI. It’s not meant to be comprehensive, nor does it explore the many advanced prompting techniques. That can be pursued independently.
 
