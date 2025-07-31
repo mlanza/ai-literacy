@@ -65,7 +65,7 @@ This is the promise of **Model Context Protocol (MCP)**.
 
 MCP is a kind of universal adapter — a way to make in-game props do real-world things. With MCP, a smartphone inside a text adventure can piggyback on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
 
-That’s what makes MCP so radical. If you type a query into the in-game browser — `where am I?` — you might get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
+That’s what makes MCP so radical. If you type a query into the in-game browser — `where am I?` — you get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
 
 **From the LLM’s perspective, this is still just Zork.**
 
@@ -95,7 +95,7 @@ The story advanced. But this time, it wasn’t fiction. The props were wired. Th
 
 That’s the promise.
 
-As more tools come online through MCP, the processes you care about get easier to build. Tool exposure has always been the bottleneck. Implementing the integration is 90% of the work.
+As more tools come online through MCP, the processes you care about get easier to build. Tool exposure has always been the bottleneck. The integration was the serious work.
 
 Now it’s in your back pocket.
 
