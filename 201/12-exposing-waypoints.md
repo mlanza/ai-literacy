@@ -99,7 +99,7 @@ When you stretch the process—when you stop trying to leap from input to output
 
 Any project-sized ask, including ChatGPT's *deep research*, has at its heart always meant decomposing the work. The chain-of-thought effect—where you watch the model reason out loud—is a UI parlor trick that only seems impressive.
 
-The trick isn’t seeing the model think. It’s realizing that serious work has always followed a step-by-step path—and now that path is exposed.  And the work happening in the seams is exposed as **byproducts**.
+The trick isn’t seeing the model think. It’s realizing that serious work has always followed a step-by-step path—and now that path is exposed. Then the work happening in the seams gets exposed as **byproducts** whether that process falling out of that project is driven by the app or by you.
 
 They appear because the process is no longer compressed; it’s reified. Each step creates an opening for something new to form—a list, a rule, a reusable insight.
 
