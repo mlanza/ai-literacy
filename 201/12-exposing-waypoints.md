@@ -97,7 +97,7 @@ Imagine the process of creating a deliverable as a kind of petri net: a bead mov
 
 When you stretch the process—when you stop trying to leap from input to output in a single bound—you force the **connections** into being.
 
-Any project-sized ask, including ChatGPT's deep research, has at its heart always meant decomposing the work. The chain-of-thought effect—where you watch the model reason out loud—is a UI parlor trick that only seems impressive.
+Any project-sized ask, including ChatGPT's *deep research*, has at its heart always meant decomposing the work. The chain-of-thought effect—where you watch the model reason out loud—is a UI parlor trick that only seems impressive.
 
 The trick isn’t seeing the model think. It’s realizing that serious work has always followed a step-by-step path—and now that path is exposed.  And the work happening in the seams is exposed as **byproducts**.
 
