@@ -6,7 +6,9 @@
 
 That rhythm — create, observe, approve — always resonated with me.
 
-There’s something primal about the moment when you look back at what you’ve made and just... know. That it’s right. That it’s worthy. That it’s good.
+There’s something primal about the moment when you look back at what you’ve made and just... know.
+
+That it’s right. That it’s worthy. That it’s good.
 
 I’ve always understood that feeling. Not in an abstract way. In a visceral one.
 
@@ -15,6 +17,7 @@ The deep satisfaction of not just getting something done, but getting it done we
 That quiet inner nod — *yes, this is solid work* — has always meant more to me than praise or performance reviews.
 
 Because for me, it was never just about crossing something off a list.
+
 It was about how the thing got done.
 
 To be fair, I’m not like that with everything. But with certain kinds of work — the ones that matter — I care.
@@ -35,7 +38,7 @@ When I said you needed to stretch it out...
 
 To make the process visible...
 
-To let the seams show\...
+To let the seams show...
 
 That was about craft.
 
@@ -66,6 +69,7 @@ Even just six of them opens up a million permutations.
 And that’s the point.
 
 Take the game *Six Degrees of Kevin Bacon.*
+
 Pick any actor — doesn’t matter who.
 
 You can trace a path to Bacon through other actors they’ve worked with.
@@ -105,9 +109,17 @@ Because attention is spread thin.
 
 Because nobody knows what really matters anymore.
 
+And sometimes, adding more people — more eyes, more hands — doesn’t clarify things. It blurs them.
+
 It’s like a mission statement that tries to say everything.
 
 It winds up standing for nothing.
+
+That’s often why I push back — not out of stubbornness, but out of care.
+
+Resisting a request isn’t always about time or effort.
+
+Sometimes it’s about protecting the shape of the thing.
 
 Craft is choosing your cups — and choosing what not to include.
 
@@ -119,6 +131,7 @@ Ideas aren’t rare. Implementation is.
 You’ve probably seen this yourself:
 
 A great idea, poorly executed, is forgotten.
+
 But an average idea, crafted with care, can resonate for years.
 
 That’s the asymmetry.
@@ -154,7 +167,9 @@ That’s what process-level work with AI enables.
 This doesn’t happen with one-off prompts.
 
 But if you’ve ever used ChatGPT to write something substantial —
+
 Something that took days, not minutes —
+
 Then you know the feeling.
 
 You see the iterations.
