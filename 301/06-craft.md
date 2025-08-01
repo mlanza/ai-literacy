@@ -6,19 +6,19 @@
 
 That rhythm — create, observe, approve — always resonated with me.
 
-There’s something primal about the moment when you look back at what you’ve made and just... know.
-
-That it’s right. That it’s worthy. That it’s good.
+There’s something primal about the moment when you look back at what you’ve made and just... know. That it’s right. That it’s worthy. That it’s good.
 
 I’ve always understood that feeling. Not in an abstract way. In a visceral one.
 
-The deep satisfaction of not just getting something done, but getting it done well. That quiet inner nod — *yes, this is solid work* — has always meant more to me than praise or performance reviews.
+The deep satisfaction of not just getting something done, but getting it done well.
+
+That quiet inner nod — *yes, this is solid work* — has always meant more to me than praise or performance reviews.
 
 Because for me, it was never just about crossing something off a list. It was about how the thing got done.
 
-To be fair, I’m not like that with everything. Just with the work I really care about. The way the little pieces click together.
+To be fair, I’m not like that with everything. Just the work I really care about.  The details matter. The way everything clicks together.
 
-That’s what I mean when I say “craft.” Craft is caring how it comes off.
+That’s what I mean when I say “craft.”  Craft is caring how it comes off.
 
 ## It's Always Been About Craft
 
