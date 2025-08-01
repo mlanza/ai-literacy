@@ -114,7 +114,7 @@ Craft is in the caring.
 
 ## The Vehicle Doesn't Define the Journey
 
-So when people dismiss AI-generated content, as if craft has been lost — I think they’re missing the point.
+So when people dismiss AI-generated content, as if craft has been lost — I think they’re missing how much effort that can still involve.  It's not necessarily a shortcut.
 
 The question isn’t “Was AI used?” The question is “Did someone care enough to shape the work?”
 
