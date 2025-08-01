@@ -39,6 +39,7 @@ Models don’t decide what matters.
 They reflect what they were shaped to prioritize.
 
 And when you step back far enough, you realize that shaping never really stops.
+
 Not during training. Not during prompting. Not even during inference.
 
 What you see is never just the raw model. It’s the model as wrapped, guided, filtered — nudged.
