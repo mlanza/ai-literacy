@@ -36,9 +36,9 @@ You are behind the house. A small window is slightly ajar.
 > open window
 With effort, you open the window wide enough to slip through.
 > enter house
-You are in the kitchen of the white house.<br>A table seems to have been used recently for the preparation of food.<br>A passage leads to the west, and a dark staircase can be seen leading downward.<br>A closed door leads to the east.
+You are in the kitchen of the white house. A table seems to have been used recently for the preparation of food. A passage leads to the west, and a dark staircase can be seen leading downward. A closed door leads to the east.
 
-On the table is a desk.<br>On the desk is a desktop computer.<br>Its screen glows softly.<br>Google Search is open in the browser.<br>Beside it: a modern smartphone.
+On the table is a desk. On the desk is a desktop computer. Its screen glows softly. Google Search is open in the browser. Beside it: a modern smartphone.
 ```
 
 You stare.
