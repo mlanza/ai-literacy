@@ -1,4 +1,4 @@
-# The Sycophant in the Machine
+# Flatterbots
 
 Imagine you're venting to an AI.
 
