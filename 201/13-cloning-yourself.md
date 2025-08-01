@@ -97,7 +97,7 @@ This is what cloning yourself actually looks like. Not a perfect replica of your
 
 Let’s be clear: **you haven’t just prompted well**. You’ve done something more strategic. You’ve taught the model how to work like you do—and then captured that guidance so it can be reused. That’s the heart of cloning.
 
-The checklist the model produced isn’t just a summary. It’s an artifact. A portable, repeatable spec that now holds your standards. When you paste it into a future prompt, you're not starting over—you’re *reloading your judgment*. That’s the difference.
+The checklist the model produced isn’t just a summary. It’s an artifact. A portable, repeatable spec[^1] that now holds your standards. When you paste it into a future prompt, you're not starting over—you’re *reloading your judgment*. That’s the difference.
 
 Cloning isn’t about getting perfect results in one prompt. It’s about building **teammates from your preferences**, then deploying those teammates again and again.
 
@@ -148,3 +148,5 @@ And just like in *Multiplicity*, you get slightly different versions of yourself
 To take this system-wide, though, we need to expand the frame. Not just how to train your clones—but how to wire them into the way work actually moves.
 
 That’s where we go next.
+
+[^1]: Some are saying [Everything is a Spec](https://www.youtube.com/watch?v=8rABwKRsec4).
