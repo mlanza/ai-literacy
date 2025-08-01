@@ -4,7 +4,7 @@ In 1980, on just about every home computer you could find — Apple II, TRS-80, 
 
 The game opened with a scene that still echoes in the minds of early players:
 
-```
+```text
 West of House
 You are standing in an open field west of a white house, with a boarded front door.
 There is a small mailbox here.
@@ -22,7 +22,7 @@ Zork’s world was made of words, but its was always about the objects. The mail
 
 Let’s walk that path.
 
-```
+```text
 > open mailbox
 Opening the mailbox reveals a leaflet.
 > take leaflet
@@ -43,7 +43,7 @@ On the table is a desk. On the desk is a desktop computer. Its screen glows soft
 
 You stare.
 
-```
+```text
 > take phone
 Taken.
 > text 555-394-8812 "Pizza for dinner tonight?"
