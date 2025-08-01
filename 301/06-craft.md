@@ -16,9 +16,7 @@ The deep satisfaction of not just getting something done, but getting it done we
 
 Because for me, it was never just about crossing something off a list. It was about how the thing got done.
 
-To be fair, I’m not like that with everything. Just with the work I really care about.
-
-I care about the feel. The rhythm. The way the little pieces click together. That’s what I mean when I say “craft.”
+To be fair, I’m not like that with everything. Just with the work I really care about. The way the little pieces click together. That’s what I mean when I say “craft.”
 
 Craft is caring how it comes off.
 
