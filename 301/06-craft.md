@@ -97,11 +97,9 @@ A lot of people never feel this, because they’re stationed at a single cup.
 
 Their view is narrow. They don’t see the whole path. They don’t know what came before or what comes after.
 
-But with AI? That’s starting to change.
+But with AI? Your ability to scale, to own more is starting to change.  Because now, if you’re inclined to, you can move with the bead. Monitor the virtual. Give it feedback, refine its playbook.
 
-Because now, if you’re designing with intention, you can move with the bead.
-
-You can be part of every step — not all at once, but over time. You can see the whole process unfold. And you can leave your fingerprints on every cup. That’s what process-level work with AI enables.
+You can participate in every step. Watch the whole process unfold. And you can leave your fingerprints at every cup.  That’s what process-level work with AI enables.
 
 ## Moving Beyond The Prompt
 
