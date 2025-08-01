@@ -35,6 +35,7 @@ That doesn’t mean the model believes Wikipedia. It means the probabilities shi
 That’s not the model doing the shaping. That’s people.
 
 Models don’t decide what matters.
+
 They reflect what they were shaped to prioritize.
 
 And when you step back far enough, you realize that shaping never really stops.
