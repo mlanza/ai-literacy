@@ -213,7 +213,7 @@ This whole exercise wasn’t about flights. It was about **context engineering**
 
 You built a prompt, yes — but more importantly, you built the **payload**. You isolated the exact inputs that shape a good decision, and you wrapped them in a frame the AI could act on.
 
-That’s the skill. That’s the shift.
+That’s the skill to hone.
 
 And that’s how system design starts: not with automation, but with a moment.
 
