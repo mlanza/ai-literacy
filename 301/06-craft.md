@@ -111,15 +111,9 @@ Because nobody knows what really matters anymore.
 
 And sometimes, adding more people — more eyes, more hands — doesn’t clarify things. It blurs them.
 
-It’s like a mission statement that tries to say everything.
+It’s like a mission statement that tries to say everything. It winds up standing for nothing.
 
-It winds up standing for nothing.
-
-That’s often why I push back — not out of stubbornness, but out of care.
-
-Resisting a request isn’t always about time or effort.
-
-Sometimes it’s about protecting the shape of the thing.
+That’s often why I push back — not out of stubbornness, but out of care.  Resisting a request isn’t always about time or effort. Sometimes it’s about protecting the shape of the thing.
 
 Craft is choosing your cups — and choosing what not to include.
 
