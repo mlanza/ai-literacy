@@ -102,7 +102,7 @@ Then you know the feeling. You see the iterations. You make the calls. You wear 
 
 You don’t just issue commands — you curate. You direct. That's the essence of what craft is.
 
-### Craft is Caring
+### Craft is in the Caring
 
 Even something as deceptively simple as writing a blog post shows it.
 
