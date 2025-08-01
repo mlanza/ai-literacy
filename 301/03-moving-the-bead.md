@@ -207,7 +207,7 @@ The form doesn’t matter. The inputs do.
 
 Because once you know what the moment *requires*, building the environment is just infrastructure work.
 
-### 🧭 Prompting Is Not Just for Programmers
+### 🧭 Thinking About Context
 
 This whole exercise wasn’t about flights. It was about **context engineering**.
 
