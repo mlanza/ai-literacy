@@ -32,23 +32,11 @@ Craft is caring how it comes off.
 
 Much of what we’ve covered in this course has been about craft, whether or not we used that word.
 
-When I said you shouldn’t treat a big task as a single leap...
+When I said you shouldn’t treat a big task as a single leap... When I said you needed to stretch it out... To make the process visible... To let the seams show...
 
-When I said you needed to stretch it out...
+That was about craft. Because what we’re doing here isn’t just trying to get to done. We’re designing a way to get there that we can stand behind. A way that reflects the standards we want to be known for.
 
-To make the process visible...
-
-To let the seams show...
-
-That was about craft.
-
-Because what we’re doing here isn’t just trying to get to done.
-
-We’re designing a way to get there that we can stand behind.
-
-A way that reflects the standards we want to be known for.
-
-And that means thinking in terms of structure, not shortcuts.
+And that means thinking about the path.
 
 ## Craft is Choice
 
@@ -58,38 +46,21 @@ Each cup exists because it represents something someone cares about.
 
 A value. A standard. A checkpoint.
 
-And someone watches that cup.
+And someone watches that cup. When the bead arrives, they act.
 
-When the bead arrives, they act.
-
-But which cups? In what order?
-
-Even just six of them opens up a million permutations.
+But which cups? In what order? Even just six of them opens up a million permutations.
 
 And that’s the point.
 
-Take the game *Six Degrees of Kevin Bacon.*
-
-Pick any actor — doesn’t matter who.
-
-You can trace a path to Bacon through other actors they’ve worked with.
-
-But those paths? They vary wildly.
+Take the game *Six Degrees of Kevin Bacon.* Pick any actor — doesn’t matter who. You can trace a path to Bacon through other actors they’ve worked with. But those paths? They vary wildly.
 
 Same with ideas.
 
-You’ll sometimes hear someone say, “Hey, I thought of that!” when they see a product succeed.
-
-As if having the idea deserves the credit.
+You’ll sometimes hear someone say, “Hey, I thought of that!” when they see a product succeed. As if having the idea deserves the credit.
 
 But ideas aren’t endpoints. They’re starting points.
 
-What matters is how the idea moved.
-
-Which cups it passed through.
-
-Who was watching each one.
-
+What matters is how the idea moved. Which cups it passed through. Who was watching each one.
 What decisions they made.
 
 The path is everything.
