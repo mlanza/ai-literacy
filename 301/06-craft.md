@@ -12,19 +12,13 @@ That it’s right. That it’s worthy. That it’s good.
 
 I’ve always understood that feeling. Not in an abstract way. In a visceral one.
 
-The deep satisfaction of not just getting something done, but getting it done well.
+The deep satisfaction of not just getting something done, but getting it done well. That quiet inner nod — *yes, this is solid work* — has always meant more to me than praise or performance reviews.
 
-That quiet inner nod — *yes, this is solid work* — has always meant more to me than praise or performance reviews.
+Because for me, it was never just about crossing something off a list. It was about how the thing got done.
 
-Because for me, it was never just about crossing something off a list.
+To be fair, I’m not like that with everything. Just with the work I really care about.
 
-It was about how the thing got done.
-
-To be fair, I’m not like that with everything. But with certain kinds of work — the ones that matter — I care.
-
-I care about the feel. The rhythm. The way the little pieces click together.
-
-That’s what I mean when I say “craft.”
+I care about the feel. The rhythm. The way the little pieces click together. That’s what I mean when I say “craft.”
 
 Craft is caring how it comes off.
 
@@ -48,20 +42,15 @@ A value. A standard. A checkpoint.
 
 And someone watches that cup. When the bead arrives, they act.
 
-But which cups? In what order? Even just six of them opens up a million permutations.
-
-And that’s the point.
+But which cups? In what order? Even just six of them opens up a million permutations. And that’s the point.
 
 Take the game *Six Degrees of Kevin Bacon.* Pick any actor — doesn’t matter who. You can trace a path to Bacon through other actors they’ve worked with. But those paths? They vary wildly.
 
 Same with ideas.
 
-You’ll sometimes hear someone say, “Hey, I thought of that!” when they see a product succeed. As if having the idea deserves the credit.
+You’ll sometimes hear someone say, “Hey, I thought of that!” when they see a product succeed. As if having the idea deserves the credit. But ideas aren’t endpoints. They’re starting points.
 
-But ideas aren’t endpoints. They’re starting points.
-
-What matters is how the idea moved. Which cups it passed through. Who was watching each one.
-What decisions they made.
+What matters is how the idea moved. Which cups it passed through. Who was watching each one. What decisions they made.
 
 The path is everything.
 
@@ -85,11 +74,11 @@ Craft is choosing your cups — and choosing what not to include. And then ownin
 
 Ideas aren’t rare. Implementation is.
 
-You’ve probably seen this yourself: A great idea, poorly executed, is forgotten.
+You’ve probably seen this yourself: A great idea, poorly executed, is forgotten. But an average idea, crafted with care, can resonate for years.
 
-But an average idea, crafted with care, can resonate for years.
+That’s the asymmetry.
 
-That’s the asymmetry. Execution has leverage. And the real weight is in the process — the judgment calls, the refinements, the paths you *didn’t* take.
+Execution has leverage. And the real weight is in the process — the judgment calls, the refinements, the paths you *didn’t* take.
 
 ## Where Craft Hides
 
@@ -109,9 +98,7 @@ But if you’ve ever used ChatGPT to write something substantial —
 
 Something that took days, not minutes —
 
-Then you know the feeling.
-
-You see the iterations. You make the calls. You wear the hats.
+Then you know the feeling. You see the iterations. You make the calls. You wear the hats.
 
 You don’t just issue commands — you curate. You direct. And in doing so, you start to see the craft return.
 
@@ -129,14 +116,11 @@ Craft is in the caring.
 
 ## The Vehicle Doesn't Define the Journey
 
-So when people dismiss AI-generated content, as if craft has been lost —
-I think they’re missing the point.
+So when people dismiss AI-generated content, as if craft has been lost — I think they’re missing the point.
 
-The question isn’t “Was AI used?”
+The question isn’t “Was AI used?” The question is “Did someone care enough to shape the work?”
 
-The question is “Did someone care enough to shape the work?” Because AI doesn’t erase craft.
-
-It gives us more ways to express it.
+Because AI doesn’t erase craft. It gives us more ways to express it.
 
 You can still direct, revise, refine. You can still wear every hat — editor, critic, coach.
 
@@ -149,15 +133,13 @@ Craft doesn’t scale infinitely.
 
 It doesn’t come from a one-line command. And it never has.
 
-What you’re seeing — if you’re really looking — is the residue of effort.
-
-The judgment calls. The back-and-forths. The forks that were taken — and the ones that weren’t.
+What you’re seeing — if you’re really looking — is the residue of effort. The judgment calls. The back-and-forths. The forks that were taken — and the ones that weren’t.
 
 It’s the product of dozens of checks. Then redirections. Then more checks. Too many to count, honestly.
 
-Not because the work was difficult in some abstract way. But because someone actually cared how it came out.
+Not because the work was difficult. But because someone actually cared how it came out.
 
-That’s what’s visible in the final result — if you care about such things. Not polish for polish’s sake. But evidence of presence. Ownership. Reentry.
+That’s what’s visible in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
 
 And whether AI played a role or not?
 
