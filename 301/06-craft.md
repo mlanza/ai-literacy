@@ -42,7 +42,7 @@ And someone watches that cup. When the bead arrives, they act.
 
 But which cups? In what order? Even just six of them opens up a million permutations. And that’s the point.
 
-Take the game *Six Degrees of Kevin Bacon.* Pick any actor — doesn’t matter who. You can trace a path to Bacon through other actors they’ve worked with. But those paths? They vary wildly.
+Take the game *Six Degrees of Kevin Bacon.* Pick any actor — doesn’t matter who. You can trace a path to Bacon through other actors they’ve worked with. But those paths? Countless.
 
 Same with ideas.
 
