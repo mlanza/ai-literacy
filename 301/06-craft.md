@@ -100,7 +100,7 @@ Something that took days, not minutes —
 
 Then you know the feeling. You see the iterations. You make the calls. You wear the hats.
 
-You don’t just issue commands — you curate. You direct. And in doing so, you start to see the craft return.
+You don’t just issue commands — you curate. You direct. That's the essence of what craft is.
 
 ### Craft is Caring
 
