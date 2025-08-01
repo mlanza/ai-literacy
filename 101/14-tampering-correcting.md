@@ -1,6 +1,7 @@
 # Tampering or Correcting?
 
 When you prompt a chatbot, you’re sending a message.
+
 That much is obvious.
 
 What’s not always obvious is what that message includes.
