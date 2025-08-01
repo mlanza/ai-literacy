@@ -103,11 +103,7 @@ And if you treat every concern as a new priority, you wind up with no priorities
 
 That’s the paradox of overengineering.
 
-Too many cups, and quality degrades.
-
-Because attention is spread thin.
-
-Because nobody knows what really matters anymore.
+Too many cups, and quality degrades. Because attention is spread thin. Because nobody knows what really matters anymore.
 
 And sometimes, adding more people — more eyes, more hands — doesn’t clarify things. It blurs them.
 
@@ -115,9 +111,7 @@ It’s like a mission statement that tries to say everything. It winds up standi
 
 That’s often why I push back — not out of stubbornness, but out of care.  Resisting a request isn’t always about time or effort. Sometimes it’s about protecting the shape of the thing.
 
-Craft is choosing your cups — and choosing what not to include.
-
-And then owning how each one shapes what comes out.
+Craft is choosing your cups — and choosing what not to include. And then owning how each one shapes what comes out.
 
 ## Craft Means Getting Your Hands Dirty
 
