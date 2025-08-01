@@ -120,9 +120,7 @@ The question isn’t “Was AI used?” The question is “Did someone care enou
 
 Because AI doesn’t erase craft. It gives us more ways to express it.
 
-Same way the train, the car, the airplane didn’t erase travel — they expanded its reach. They made possible what was once impractical.
-
-The journey still mattered. The destination still mattered. But now, more people could go.
+Same way the train, the car, the airplane didn’t erase travel — they expanded its reach. They made possible what was once impractical.  People still traveled.  They just did it differently.
 
 You can still direct, revise, refine. You can still wear every hat — editor, critic, coach.
 
