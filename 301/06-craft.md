@@ -128,7 +128,7 @@ The journey still mattered. The destination still mattered. But now, more people
 
 You can still direct, revise, refine. You can still wear every hat — editor, critic, coach.
 
-If you're really invested in getting to “it was good”, you’ll put in the effort to get there.
+If you're really invested in getting to “it is good”, you’ll put in the effort to get there.
 
 ## Nothing Automatic About It
 
