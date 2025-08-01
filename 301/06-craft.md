@@ -67,10 +67,7 @@ The path is everything.
 
 ## Complexity Isn't Craft
 
-Not every checkpoint improves the outcome.
-Eventually, they slow it down.
-
-And if you treat every concern as a new priority, you wind up with no priorities.
+Not every checkpoint improves the outcome. Eventually, they slow it down. And if you treat every concern as a new priority, you wind up with no priorities.
 
 That’s the paradox of overengineering.
 
@@ -87,39 +84,24 @@ Craft is choosing your cups — and choosing what not to include. And then ownin
 ## Craft Means Getting Your Hands Dirty
 
 Ideas aren’t rare. Implementation is.
-You’ve probably seen this yourself:
 
-A great idea, poorly executed, is forgotten.
+You’ve probably seen this yourself: A great idea, poorly executed, is forgotten.
 
 But an average idea, crafted with care, can resonate for years.
 
-That’s the asymmetry.
-
-Execution has leverage.
-
-And the real weight is in the process — the judgment calls, the refinements, the paths you *didn’t* take.
+That’s the asymmetry. Execution has leverage. And the real weight is in the process — the judgment calls, the refinements, the paths you *didn’t* take.
 
 ## Where Craft Hides
 
 A lot of people never feel this, because they’re stationed at a single cup.
 
-Their view is narrow.
-
-They don’t see the whole path.
-
-They don’t know what came before or what comes after.
+Their view is narrow. They don’t see the whole path. They don’t know what came before or what comes after.
 
 But with AI? That’s starting to change.
 
 Because now, if you’re designing with intention, you can move with the bead.
 
-You can be part of every step — not all at once, but over time.
-
-You can see the whole process unfold.
-
-And you can leave your fingerprints on every cup.
-
-That’s what process-level work with AI enables.
+You can be part of every step — not all at once, but over time. You can see the whole process unfold. And you can leave your fingerprints on every cup. That’s what process-level work with AI enables.
 
 ## Moving Beyond The Prompt
 
@@ -131,17 +113,9 @@ Something that took days, not minutes —
 
 Then you know the feeling.
 
-You see the iterations.
+You see the iterations. You make the calls. You wear the hats.
 
-You make the calls.
-
-You wear the hats.
-
-You don’t just issue commands — you curate.
-
-You direct.
-
-And in doing so, you start to see the craft return.
+You don’t just issue commands — you curate. You direct. And in doing so, you start to see the craft return.
 
 ### Craft is Caring
 
@@ -151,15 +125,7 @@ You give it a starter prompt. It comes back with a take.
 
 You respond. You ask for alternatives. You tweak tone. You nudge structure.
 
-You don’t stop until it reads right.
-
-You’re involved.
-
-You’re shaping.
-
-You’re making choices.
-
-And that’s the difference.
+You don’t stop until it reads right. You’re involved. You’re shaping. You’re making choices. And that’s the difference.
 
 Craft is in the caring.
 
@@ -170,15 +136,11 @@ I think they’re missing the point.
 
 The question isn’t “Was AI used?”
 
-The question is “Did someone care enough to shape the work?”
-
-Because AI doesn’t erase craft.
+The question is “Did someone care enough to shape the work?” Because AI doesn’t erase craft.
 
 It gives us more ways to express it.
 
-You can still direct, revise, refine.
-
-You can still wear every hat — editor, critic, coach.
+You can still direct, revise, refine. You can still wear every hat — editor, critic, coach.
 
 And if you want the final output to be something you’d sign your name to,
 Then that’s what you’ll do.
@@ -187,44 +149,20 @@ Then that’s what you’ll do.
 
 Craft doesn’t scale infinitely.
 
-It doesn’t come from a one-line command.
-
-And it never has.
+It doesn’t come from a one-line command. And it never has.
 
 What you’re seeing — if you’re really looking — is the residue of effort.
 
-The judgment calls. The back-and-forths.
+The judgment calls. The back-and-forths. The forks that were taken — and the ones that weren’t.
 
-The forks that were taken — and the ones that weren’t.
+It’s the product of dozens of checks. Then redirections. Then more checks. Too many to count, honestly.
 
-It’s the product of dozens of checks.
+Not because the work was difficult in some abstract way. But because someone actually cared how it came out.
 
-Then redirections. Then more checks.
-
-Too many to count, honestly.
-
-Not because the work was difficult in some abstract way.
-
-But because someone actually cared how it came out.
-
-That’s what’s visible in the final result — if you care about such things.
-
-Not polish for polish’s sake.
-
-But evidence of presence. Ownership. Reentry.
+That’s what’s visible in the final result — if you care about such things. Not polish for polish’s sake. But evidence of presence. Ownership. Reentry.
 
 And whether AI played a role or not?
 
-That’s not the headline.
+That’s not the headline. That’s just the vehicle. The shape of the work — its tone, integrity, structure — those are human fingerprints.
 
-That’s just the vehicle.
-
-The shape of the work — its tone, integrity, structure —
-those are human fingerprints.
-
-So no, it didn’t “just come out like that.”
-
-It was made.
-
-And if it’s worth something,
-it’s because somebody made it matter.
+So no, it didn’t “just come out like that.” It was made. And if it’s worth something, it’s because somebody made it matter.
