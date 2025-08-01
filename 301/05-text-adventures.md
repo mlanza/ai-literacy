@@ -22,7 +22,7 @@ Zork’s world was made of words, but its was always about the objects. The mail
 
 Let’s walk that path.
 
-<pre style="white-space: pre-wrap;">
+```
 > open mailbox
 Opening the mailbox reveals a leaflet.
 > take leaflet
@@ -39,7 +39,7 @@ With effort, you open the window wide enough to slip through.
 You are in the kitchen of the white house. A table seems to have been used recently for the preparation of food. A passage leads to the west, and a dark staircase can be seen leading downward. A closed door leads to the east.
 
 On the table is a desk. On the desk is a desktop computer. Its screen glows softly. Google Search is open in the browser. Beside it: a modern smartphone.
-</pre>
+```
 
 You stare.
 
