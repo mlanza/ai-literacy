@@ -134,7 +134,7 @@ You’re in London. £20,000 on the line. Eighty days to circumnavigate the glob
 
 ## 🎯 Nothing Automatic About It
 
-The better question centers on craft.
+If you’re serious about getting to *“it is good,”* you’ll do what it takes to get there.  And that makes the better question:
 
 > “How much care was put into shaping the work?”
 
@@ -151,5 +151,3 @@ Not because the work is difficult. But because someone actually cares how it tur
 That’s what shows up in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
 
 So no, it doesn’t “just come out like that.” It’s made. And if it’s worth something, it’s because somebody made it matter.
-
-If you’re serious about getting to *“it is good,”* you’ll do what it takes to get there.
