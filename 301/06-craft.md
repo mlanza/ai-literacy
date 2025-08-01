@@ -112,12 +112,6 @@ You don’t stop until it reads right. You’re involved. You’re shaping. You�
 
 Craft is in the caring.
 
-This already *sings* — but yes, it’s working a couple of registers at once. What you’re picking up on is a **tense and tone drift** between the reflective, present-tense discussion and the illustrative narrative metaphor.
-
-Let’s align for **tense consistency**, tighten a few syntactic bolts, and keep the voice clear, confident, and cohesive.
-
----
-
 ## 🚗 The Vehicle Doesn’t Define the Journey
 
 So when people dismiss AI-generated content — as if craft has been lost — I think they’re missing the point. *It’s not necessarily a shortcut.*
