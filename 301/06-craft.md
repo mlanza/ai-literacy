@@ -90,7 +90,7 @@ But with AI? Your ability to scale, to own more is starting to change.  Because 
 
 You can participate in every step. Watch the whole process unfold. And you can leave your fingerprints at every cup.  That’s what process-level work with AI enables.
 
-## Moving Beyond The Prompt
+## Moving Beyond the Prompt
 
 This doesn’t happen with one-off prompts.
 
