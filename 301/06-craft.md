@@ -112,36 +112,50 @@ You don’t stop until it reads right. You’re involved. You’re shaping. You�
 
 Craft is in the caring.
 
-## The Vehicle Doesn't Define the Journey
+This already *sings* — but yes, it’s working a couple of registers at once. What you’re picking up on is a **tense and tone drift** between the reflective, present-tense discussion and the illustrative narrative metaphor.
 
-So when people dismiss AI-generated content, as if craft has been lost — I think they’re missing the point.  *It’s not necessarily a shortcut.*
+Let’s align for **tense consistency**, tighten a few syntactic bolts, and keep the voice clear, confident, and cohesive.
 
-The question isn’t “Was AI used?” The question is “Did someone care enough to shape the work?”
+---
 
-Because AI doesn’t erase craft. It gives us more ways to express it.
+## 🚗 The Vehicle Doesn’t Define the Journey
 
-Same way the train, the car, the airplane didn’t erase travel — they expanded its reach. They made possible what was once impractical.  People still traveled.  They just did it differently.
+So when people dismiss AI-generated content — as if craft has been lost — I think they’re missing the point. *It’s not necessarily a shortcut.*
 
-You can still direct, revise, refine. You can still wear every hat — editor, critic, coach.
+The question isn’t
 
-If you're really invested in getting to “it is good”, you’ll put in the effort to get there.
+> “Was AI used?”
 
-## Nothing Automatic About It
+AI doesn’t erase craft. It just gives us more ways to reach the destination.
 
-Craft doesn’t scale infinitely.
+Same way the train, the car, the airplane didn’t erase travel — they expanded its reach. They made possible what was once impractical. People still traveled. They just did it differently.
 
-It doesn’t come from a one-line command. And it never has.
+Why belabor AI's involvement?
 
-What you’re seeing — if you’re really looking — is the residue of effort. The judgment calls. The back-and-forths. The forks that were taken — and the ones that weren’t.
+That’s not the headline. That’s just the vehicle.
+
+You’re in London. £20,000 on the line. Eighty days to circumnavigate the globe. Any route, any mode of travel.
+
+*Why would you refuse the plane?*
+
+## 🎯 Nothing Automatic About It
+
+The better question centers on craft.
+
+> “How much care was put into shaping the work?”
+
+You were never going to get great from a one-liner.
+
+You still direct. Revise. Refine. You still wear every hat — editor, critic, coach.
+
+What you see — if you’re really looking — is the residue of effort. The judgment calls. The back-and-forths. The forks that were taken — and the ones that weren’t.
 
 It’s the product of dozens of checks. Then redirections. Then more checks. Too many to count, honestly.
 
-Not because the work was difficult. But because someone actually cared how it came out.
+Not because the work is difficult. But because someone actually cares how it turns out.
 
-That’s what’s visible in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
+That’s what shows up in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
 
-And whether AI played a role or not?
+So no, it doesn’t “just come out like that.” It’s made. And if it’s worth something, it’s because somebody made it matter.
 
-That’s not the headline. That’s just the vehicle. The shape of the work — its tone, integrity, structure — those are human fingerprints.
-
-So no, it didn’t “just come out like that.” It was made. And if it’s worth something, it’s because somebody made it matter.
+If you’re serious about getting to *“it is good,”* you’ll do what it takes to get there.
