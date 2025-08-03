@@ -1,0 +1,202 @@
+# Feet on the Ground
+
+In the last chapter, we described the LLM’s world as a kind of text adventure — a Zork-style simulation where the AI navigates rooms, encounters objects, and performs actions by typing verbs. But we also made a subtle shift: those objects aren’t just fictional. They're props with wiring. And when wired through MCP, they become portals to the real world — turning fictional acts into consequential ones.
+
+If there’s a phone in the room, someone built it. If there’s a laptop with a browser open, someone made sure it knows how to behave. And if there’s a travel agency with an NPC outside, someone encoded its rules of engagement. Behind every meaningful object is a developer who breathed life into it — not to simulate reality, but to expose capabilities.
+
+This isn’t light work. Every virtual prop that does something real represents an integration lift. That’s why we aim to reuse them, wrap them, and distribute them in ways that make them easy to plug in — often using something like MCP. The goal is to let the model move fluidly through a world and employ tools, and hopefully not have to implement them all ourselves.
+
+So let’s see that in action. Not as a concept, but as a moment.
+
+## 🚗 The Scenario: “Let the 2pm Meeting Know I’m Running Late”
+
+It’s 1:52 PM. The executive is stuck in traffic. He says:
+
+> “Hey Assist, let the 2pm meeting know I’m running 10 minutes late.”
+
+That’s the intention. It’s not a full plan, not a sequence of steps — just a quick human ask.
+
+From there, the baton passes to the app. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
+
+## 🌀 Loop 1 — Calendar Query
+
+The first prompt includes the user’s request, transcribed from voice and sent into the app. The current time and available tools are in scope.
+
+The app delivers this to the model:
+
+```
+You are an assistant. The user just said:
+“Let the 2pm meeting know I’m running 10 minutes late.”
+It is currently 1:52 PM.
+You may use available tools to look up calendar events.
+```
+
+The model anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2pm meeting is — and who’s attending.
+
+```
+To notify the attendees, I need to check the user’s calendar for the 2:00 PM meeting.
+
+{
+  "tool_request": {
+    "tool": "calendar.query",
+    "start_time": "2025-08-03T14:00:00",
+    "end_time": "2025-08-03T14:30:00"
+  }
+}
+```
+
+This response has two layers: the natural-language explanation for the human and the structured tool call for the system. That duality is exactly what makes the LLM a **universal mediator** — one foot in each world, translating human intention into machine action.
+
+The developer extracts the structured request and relays it to the MCP calendar service, which responds:
+
+```json
+{
+  "tool_response": {
+    "tool": "calendar.query",
+    "results": [
+      {
+        "id": "evt-88aa9b72",
+        "title": "Project Sync",
+        "start_time": "2025-08-03T14:00:00",
+        "end_time": "2025-08-03T14:30:00",
+        "location": "Zoom",
+        "attendees": [
+          { "name": "Ava Bennett", "email": "ava@example.com" },
+          { "name": "Marcus Liu", "email": "marcus@example.com" },
+          { "name": "Leo Vargas", "email": "leo@example.com" }
+        ]
+      }
+    ]
+  }
+}
+```
+
+The app injects that fact into the next prompt:
+
+```
+The 2pm meeting is titled “Project Sync”. The attendees are Ava Bennett, Marcus Liu, and Leo Vargas.
+```
+
+No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the model to keep the thread going.
+
+## 🌀 Loop 2 — Address Book Lookup
+
+The model immediately advances with the next logical step: resolve names into numbers.
+
+```
+To send a message, I need their mobile numbers.
+
+{
+  "tool_request": {
+    "tool": "address_book.lookup",
+    "names": ["Ava Bennett", "Marcus Liu", "Leo Vargas"]
+  }
+}
+```
+
+The app relays the request to the MCP contact service, which replies:
+
+```json
+{
+  "tool_response": {
+    "tool": "address_book.lookup",
+    "results": [
+      {
+        "name": "Ava Bennett",
+        "phone": "+1-555-123-0192",
+        "email": "ava@example.com"
+      },
+      {
+        "name": "Marcus Liu",
+        "phone": "+1-555-388-4421",
+        "email": "marcus@example.com"
+      },
+      {
+        "name": "Leo Vargas",
+        "phone": "+1-555-207-3988",
+        "email": "leo@example.com"
+      }
+    ]
+  }
+}
+```
+
+As before, we don’t extract or interpret — just pass it along. The model continues the chain.
+
+## 🌀 Loop 3 — Text Message Delivery
+
+With everything in hand, the model responds:
+
+```
+Notifying the team.
+
+{
+  "tool_request": {
+    "tool": "text_message",
+    "to": [
+      "+1-555-123-0192",
+      "+1-555-388-4421",
+      "+1-555-207-3988"
+    ],
+    "message": "Hey everyone — running about 10 minutes late. Please feel free to get started without me."
+  }
+}
+```
+
+The app routes that to the MCP texting service, which replies:
+
+```json
+{
+  "tool_response": {
+    "tool": "text_message",
+    "status": "sent",
+    "timestamp": "2025-08-03T13:53:12Z",
+    "message_id": "msg-0093442"
+  }
+}
+```
+
+And finally, the app confirms:
+
+> “Message sent to your 2pm meeting.”
+
+---
+
+Each loop was a single LLM turn. Every tool call was surfaced explicitly — no black boxes, no shell commands, no behind-the-scenes orchestration.
+
+* First, the model queried the calendar
+* Then, it got attendee contact info
+* Finally, it sent a message
+
+All without a prewritten playbook. The model knew what tools were on the desk and how to use them. Likewise, the developer knew because he is the one who set the stage on which the model would perform.
+
+However, for the model to propel itself forward in the story, I like to think of it like Link (the LLM) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's control loop.
+
+That's where the developer is, right there — with the bead. Not choreographing the motion, but present in the loop. Watching each push. Shaping the environment.
+
+Every tool call is routed to the MCP server. That’s the baton pass. The developer sees what the model is trying to do and decides what gets through — not line-by-line, but by designing the set, laying out the props, and observing the turns.
+
+And what gets through isn’t some vague intent. It’s a sequence of clear, Zork-style moves — compact, consequential, and context-aware. Not the original “let them know I’m running late,” but something more like:
+
+```
+> check calendar between ... and ...
+> get attendees for “...”
+> look up numbers for ..., ..., and ...
+> send group text: “...”
+```
+
+Each is a turn. A push of the foot. That’s what the app sees. That’s what the developer vets, because he can't necessarily anticipate the intent.
+
+He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.
+
+Some developers choose to make those steps visible. They expose the model’s thoughts mid-move, using chain-of-thought: little breadcrumbs in text, sometimes surfaced as debug info, sometimes shown to the user.
+
+But that’s not just performance — it’s scaffolding. A way to glimpse what Link is up to.
+
+And if the developer really wanted to lean in, they could render a little town: a calendar shop, a contact booth, a messaging kiosk. You’d see Link scurry from place to place completing his task. You’d see what’s in bounds — where he could go, what he might do.
+
+Of course, that’s just UI.
+
+But it’s a way to watch the bead.
+
+And make sure Link stays on the path.
