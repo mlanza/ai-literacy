@@ -185,18 +185,40 @@ And what gets through isn’t some vague intent. It’s a sequence of clear, Zor
 > send group text: “...”
 ```
 
-Each is a turn. A push of the foot. That’s what the app sees. That’s what the developer vets, because he can't necessarily anticipate the intent.
+Each is a turn. A push of the foot. That’s what the app sees. That’s what the developer vets, because he can't necessarily anticipate the intent, but he does have control over what is permitted inside the control loop.
 
 He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.
 
-Some developers choose to make those steps visible. They expose the model’s thoughts mid-move, using chain-of-thought: little breadcrumbs in text, sometimes surfaced as debug info, sometimes shown to the user.
+Some developers choose to make the model’s steps visible. They show its thoughts mid-move, using chain-of-thought as a UI convention — a running log of reasoning that users can watch unfold.
 
-But that’s not just performance — it’s scaffolding. A way to glimpse what Link is up to.
+And if you wanted to have some fun, you could sketch a little GUI. A calendar shop. A contact booth. A messaging kiosk. The model — Link — darts from place to place, completing the task. You see where it goes. You see what’s in bounds. The work becomes legible.
 
-And if the developer really wanted to lean in, they could render a little town: a calendar shop, a contact booth, a messaging kiosk. You’d see Link scurry from place to place completing his task. You’d see what’s in bounds — where he could go, what he might do.
+Most workflows aren’t like that. They’re not towns. They’re trails. Directed. Linear. A bead moving cup to cup.
 
-Of course, that’s just UI.
+Some of those trails are hand-designed. Others are walked freely. What matters is that the bead advances through stages — and that each stage creates context for the next.
 
-But it’s a way to watch the bead.
+That’s the pattern behind multistep features like ChatGPT’s “deep research.” Not a single move, but a control loop. The model pushes, then waits. Pushes again. Each time, shaped by what’s come before.
 
-And make sure Link stays on the path.
+Because real work doesn’t happen in a single turn. The facts don’t arrive all at once. The structure doesn’t spring up whole. It’s layered. Step by step.
+
+That’s why developers build systems. Why they expose waypoints. Why they separate concerns across turns.
+
+Because structure improves output.
+
+Because each step leaves behind byproducts.
+
+Because serious work is iterative.
+
+But here’s what changes once the model starts pushing — when it keeps moving, turn after turn. We’re no longer just talking about intelligence.
+
+We’re talking about agency.
+
+And that raises the real question: how far do we want it to go?
+
+Is this a guided trail — tightly bounded, low-risk?
+
+Is it a town — open-ended, permissive, built for discovery?
+
+Or is it something else?
+
+The answer depends on what we’re willing to hand off — and how closely we’re willing to stay in the loop.
