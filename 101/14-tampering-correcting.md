@@ -29,7 +29,7 @@ This dynamic shows up earlier too, during **training**.
 
 Large language models are trained on mountains of text — books, blogs, transcripts, documentation, Wikipedia, Reddit. What gets included, how it gets weighted, and what gets excluded are all human choices.
 
-If you decide Wikipedia is trustworthy and 4chan isn’t, you give more weight to the former.
+If you decide Wikipedia is trustworthy and Quora isn’t, you give more weight to the former.
 That doesn’t mean the model believes Wikipedia. It means the probabilities shift — certain ideas become more likely to surface.
 
 That’s not the model doing the shaping. That’s people.
