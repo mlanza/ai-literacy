@@ -160,13 +160,15 @@ And finally, the app confirms:
 
 > “Message sent to your 2pm meeting.”
 
-And that was that. Not because we gave the AI a script. We didn’t. We didn’t hand it a checklist or design a playbook for running late. The prompt was human and loose. No steps, no scaffolding, just intent.
+And that was that.
+
+Not because we gave the AI a script, a checklist or a playbook. We didn’t. The developer just set the stage on which the model would perform.  The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
 
 What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The model saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
 
 That’s not how programs behave. That’s how interns behave — the good ones, the kind who look around, understand the tools, and move. The kind who don’t need constant instruction, because they can reason from the materials at hand.
 
-We didn’t plan for this exact ask. But the system held up anyway. And that, more than any single move, is what made it feel like a [moment](./04-magic-moments.md).
+We didn’t plan for this ask. But the system held up anyway. And that, more than any single move, is what made it feel like a [moment](./04-magic-moments.md).
 
 ## Feet Spur the Loop
 
@@ -176,7 +178,6 @@ Each loop was a single LLM turn. Every tool call was surfaced explicitly:
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-All without a prewritten playbook. The model knew what tools were on the desk and how to use them. Likewise, the developer knew because he is the one who set the stage on which the model would perform.
 
 However, for the model to propel itself forward in the story, I like to think of it like Link (the LLM) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's control loop.
 
