@@ -134,7 +134,7 @@ You’re in London. £20,000 on the line. Eighty days to circumnavigate the glob
 
 ## 🎯 Nothing Automatic About It
 
-If you’re serious about getting to *“it is good,”* you’ll do what it takes to get there.  And that makes the better question:
+If you’re serious about getting to *“it is good,”* you’ll do what it takes to get there. And that makes the better question:
 
 > “How much care was put into shaping the work?”
 
@@ -142,11 +142,15 @@ You were never going to get great from a one-liner.
 
 You still direct. Revise. Refine. You still wear every hat — editor, critic, coach.
 
-What you see — if you’re really looking — is the residue of effort. The judgment calls. The back-and-forths. The forks that were taken — and the ones that weren’t.
+And if the system is built for collaboration — if it shows its turns, if it lets you walk with the bead — then you can be there at every stage. You can weigh the options. You can step in, correct course, leave your fingerprints in every cup.
 
-It’s the product of dozens of checks. Then redirections. Then more checks. Too many to count, honestly.
+But even when you’re not in the loop — even when the system runs without you — there’s still a role to play.
 
-Not because the work is difficult. But because someone actually cares how it turns out.
+You can *review what it did*.
+
+You can treat the output not just as an answer, but as a clue — a signal about how the system thinks, what it assumes, what it missed. And from that, you can tune the playbook. You can improve the reference material. You can rewrite the prompt. You can spot bad habits, clarify the standard, reshape what gets handed to the model next time.
+
+In that way, you become something quieter — not a partner in the moment, but a mentor over time. A system shaper. Still present. Still caring.
 
 That’s what shows up in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
 
