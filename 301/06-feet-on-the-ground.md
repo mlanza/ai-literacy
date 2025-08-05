@@ -1,6 +1,6 @@
 # Feet on the Ground
 
-In the last chapter, we described the LLM’s world as a kind of text adventure — a Zork-style simulation where the AI navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. And when wired through MCP, they become portals to the real world — turning fictional acts into consequential ones.
+In the last chapter, we described the LLM’s world as a kind of text adventure — a Zork-style simulation where the AI navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. When wired into the app’s glue code (ahem, architecture), they become portals to the real world — turning fictional acts into consequential ones.
 
 If there’s a phone in the room, someone built it. If there’s a laptop with a browser open, someone made sure it knows how to behave. And if there’s a travel agency with an NPC outside, someone encoded its rules of engagement. Behind every meaningful object is a developer who breathed life into it — not to simulate reality, but to expose capabilities.
 
@@ -287,6 +287,8 @@ Sometimes the damage doesn’t come from one wrong answer. It builds. A small fl
 
 So the final question is:
 *Can we see where this might lead — and stop it if it goes too far?*
+
+Got it. You’re right — that last section of the original text introduced four clear risk-mitigation strategies: **transparency, auditability, control, and alignment**. That framework deserves to stay visible in the outro, especially since it grounds the lofty language in practical design.
 
 ## The Weight of the Lever
 
