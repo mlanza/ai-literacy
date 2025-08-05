@@ -203,9 +203,7 @@ But I wanted to imagine something a little more fun to watch.  The developer cou
 
 Most workflows aren’t like that. They’re not towns. They’re trails. Directed. Linear. A bead moving cup to cup.
 
-Some of those trails are hand-designed. Others are walked freely. What matters is that the bead advances through stages — and that each stage creates context for the next.
-
-That’s the pattern behind multistep features like ChatGPT’s “deep research.” Not a single move, but a control loop. That's what were talking about now.  How the model gets traction, feet to on the ground, pushing. Then pushing again. Each push, shaped by what’s come before.
+Some of those trails are hand-designed. Others are walked freely. What matters is that the bead advances through stages — and that each stage creates context for the next. That's what were talking about now.  How the model gets traction, feet to on the ground, pushing. Then pushing again. Each push, shaped by what’s come before.
 
 Because real work doesn’t happen in a single turn. The facts don’t arrive all at once. The structure doesn’t spring up whole. It’s layered. Step by step.
 
@@ -283,7 +281,7 @@ This is where the fiction gives way that something more is afoot.
 
 Because when you pick a model — especially in structured apps — you might not be picking just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
 
-Some models follow trails — narrow ones. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
+Some models follow trails — narrow ones, like ChatGPT's Deep Research. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
 
 That’s why this isn’t only a question of intelligence. It’s a question of motion.
 
