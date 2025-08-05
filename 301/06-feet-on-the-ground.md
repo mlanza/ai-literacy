@@ -227,7 +227,7 @@ Is it a town — open-ended, permissive, built for discovery?
 
 Or is it something else?
 
-The answer depends on what we’re willing to hand off — and how closely we’re willing to stay in the loop.
+The answer depends on what we’re willing to hand off — and how closely we want to stay to the loop.
 
 ## Human Proximity Reflects Trust
 
