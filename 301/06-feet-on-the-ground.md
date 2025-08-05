@@ -277,7 +277,7 @@ But others — the kind exposed in chatbot and app dropdowns — come with more 
 
 Such models carry not just a mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
 
-This is where the fiction gives way — that something more is afoot.
+This is where the fiction gives way — because something more is afoot.
 
 Because when you pick a model you may be picking more than just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
 
