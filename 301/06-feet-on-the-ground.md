@@ -263,7 +263,8 @@ So trust expands to meet the risks.
 
 ## Risk Categories
 
-**Mistakes**<br>
+### Mistakes
+
 Language models are predictive machines. They don’t reason like people. They don’t understand. So they guess — and sometimes they guess wrong. Small errors might just be cosmetic. Larger ones can do real harm. They might misstate facts, mislabel diagnoses, or fabricate something that was never true.
 
 And they sound confident while doing it.
@@ -271,7 +272,8 @@ And they sound confident while doing it.
 So the first question is simple:
 *Can this be trusted to behave as expected — and will anyone notice when it doesn’t?*
 
-**Misalignment**<br>
+### Misalignment
+
 Not every system serves your goals. Some optimize for attention. Some quietly serve the priorities of whoever built them. They follow instructions, yes — but they might pursue outcomes you didn’t ask for, or don’t want.
 
 So another question emerges:
@@ -279,7 +281,8 @@ So another question emerges:
 
 As autonomy increases, so does this risk. A helpful agent is one thing. An autonomous one pursuing the wrong objective is something else entirely.
 
-**Unintended Consequences**<br>
+### Unintended Consequences
+
 Sometimes the damage doesn’t come from one wrong answer. It builds. A small flaw compounds. A small nudge shifts the path. A harmless tool, used at scale, drives outcomes no one intended. Maybe it reinforces bias. Maybe it deepens polarization. Maybe it makes the wrong call and acts on it, fast.
 
 So the final question is:
