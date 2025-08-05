@@ -28,7 +28,7 @@ The **app** delivers this to the model:
 You are an assistant. The user just said:
 “Let the 2pm meeting know I’m running 10 minutes late.”
 It is currently 1:52 PM.
-You may use available tools to look up calendar events.
+There is a calendar shop, contact booth, and messaging kiosk in sight.
 ```
 
 The **model** anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2pm meeting is — and who’s attending.
