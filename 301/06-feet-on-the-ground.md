@@ -223,7 +223,7 @@ Or is it something else?
 
 The answer depends on what we’re willing to hand off — and how closely we’re willing to stay in the loop.
 
-## Some Models Walk a Path
+## Some Models Walk
 
 We’ve been treating models like minds in jars — cold, contained, and still. And that’s mostly true. A model is a fixed thing. It doesn’t grow. It doesn’t remember. It doesn’t roam the world collecting facts. It stays where it was trained, answering from a single point in time.
 
