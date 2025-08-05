@@ -12,7 +12,7 @@ So let’s see that in action. Not as a concept, but as a moment.
 
 It’s 1:52 PM. The executive is stuck in traffic. He says:
 
-> “Hey Assist, let the 2pm meeting know I’m running 10 minutes late.”
+> “Hey Quirk, let the 2pm meeting know I’m running 10 minutes late.”
 
 That’s the intention. It’s not a full plan, not a sequence of steps — just a quick human ask.
 
