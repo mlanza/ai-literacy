@@ -47,9 +47,8 @@ To notify the attendees, I need to check the user’s calendar for the 2:00 PM m
 
 This response has two layers: the natural-language explanation for the human and the structured tool call for the system. That duality is exactly what makes the LLM a **universal mediator** — one foot in each world, translating human intention into machine action.
 
-The developer extracts the structured request and relays it to the MCP calendar service, which responds:
+The developer extracts the structured request and relays it to the **MCP calendar service**, which responds:
 
-Tool server:
 ```json
 {
   "tool_response": {
