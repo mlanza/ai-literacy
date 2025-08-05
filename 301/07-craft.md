@@ -156,12 +156,10 @@ Not the doer. The shaper.
 
 Not the engine. The calibration.
 
-Still present. Still caring. Still accountable for what comes out — but now from a higher vantage. Because good managers don’t step away from the work. They step above it, so others can do it well.
+Still present. Still caring. Still accountable for what comes out — but now from a higher vantage. AI stations people above the work, not away from it. They must still mentor the workers, see the work is done well.  Should it matter they're virtuals?
 
 And that’s what shows up in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
 
 So no, it doesn’t “just come out like that.” It’s made. Sometimes by standing beside it, shaping every move. Sometimes by stepping back, tuning the system that shapes it. Either way, it carries the mark of someone who cares about the details.
 
-It shows, when you mean it.
-
-AI can assist. But craft is still a choice — and it still shows.
+AI can assist. But craft is still a choice.  And it shows, when you mean it to.
