@@ -148,7 +148,7 @@ But even when you’re not in the loop — even when the system runs without you
 
 You can *review what it did*.
 
-You can treat the output not just as an answer, but as a clue — a signal about how the system thinks, what it assumes, what it missed. And from that, you can tune the playbook. You can improve the reference material. You can rewrite the prompt. You can spot bad habits, clarify the standard, reshape what gets handed to the model next time.
+You can treat the output not just as an answer, but as a clue — a signal about how the system thinks, what it assumes, what it missed. And from that, you can tune the playbook. You can improve the reference material, tweak the various process artifacts. You can rewrite the prompt. You can spot bad habits, clarify the standard, reshape what gets handed to the model next time.
 
 In that way, you become not a partner in the moment, but a mentor over time. A system shaper. Still present. Still caring.
 
