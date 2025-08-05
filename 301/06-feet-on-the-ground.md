@@ -22,9 +22,8 @@ From there, the baton passes to the app. It spins up the model, hands it a few c
 
 The first prompt includes the user’s request, transcribed from voice and sent into the app. The current time and available tools are in scope.
 
-The app delivers this to the model:
+The **app** delivers this to the model:
 
-App:
 ```
 You are an assistant. The user just said:
 “Let the 2pm meeting know I’m running 10 minutes late.”
@@ -32,9 +31,8 @@ It is currently 1:52 PM.
 You may use available tools to look up calendar events.
 ```
 
-The model anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2pm meeting is — and who’s attending.
+The **model** anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2pm meeting is — and who’s attending.
 
-Model:
 ```
 To notify the attendees, I need to check the user’s calendar for the 2:00 PM meeting.
 
