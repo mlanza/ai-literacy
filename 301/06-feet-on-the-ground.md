@@ -279,7 +279,7 @@ Such models carry not just a mind, but a latent trajectory — a designed behavi
 
 This is where the fiction gives way that something more is afoot.
 
-Because when you pick a model — especially in structured apps — you might not be picking just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
+Because when you pick a model — especially in apps like ChatGPT — you might not be picking just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
 
 Some models follow trails — narrow ones, like ChatGPT's Deep Research. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
 
