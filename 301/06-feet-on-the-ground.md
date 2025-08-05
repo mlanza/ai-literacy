@@ -273,13 +273,11 @@ So trust expands to meet the risks.  We'll get into these risks momentarily; how
 
 We’ve been treating models like minds in jars — snapshots of the minds of great thinkers. And that’s mostly true. A model is a fixed thing. It doesn’t grow. It doesn’t remember. It doesn’t roam the world collecting facts. It stays where it was trained, answering from a single point in time.
 
-But in practice, some problems are elephants, too big to eat in a bite. The problem involves moving, taking steps. A useful model needs to move which implies, whether or not you see it, a control loop. And how it moves depends on the route it was given.
-
 Some models are one-time thinkers — round-trip solvers. You give them a payload, they return a reply. Like tossing a message into a cave and hearing a voice echo back. These are the simplest kinds of models. They don’t walk. They don’t push. They don’t unfold a plan across time.
 
-But others — the kind you choose from a dropdown in ChatGPT or wire into a tool-wielding app — come with more beneath the surface. They may not look like it, but some walk paths.
+But others — the kind you choose from a dropdown in ChatGPT or wire into a tool-wielding app — come with more beneath the surface. They may not look like it, but some walk paths.  That's because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move.  And that implies, whether or not you see it, a control loop. And how it moves depends on the route it was given.
 
-A model can carry with it not just a frozen mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
+Such models carry not just a mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
 
 This is where the fiction gives way that something more is afoot.
 
