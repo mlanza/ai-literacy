@@ -172,7 +172,7 @@ We didn’t plan for this ask. But the system held up anyway. And that, more tha
 
 ## Feet Spur the Loop
 
-Each loop was a single LLM turn.  Every tool call was surfaced explicitly:
+Each loop was a single LLM turn. Every tool call was surfaced explicitly:
 
 * First, the model queried the calendar
 * Then, it got attendee contact info
