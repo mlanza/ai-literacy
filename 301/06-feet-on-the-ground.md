@@ -304,7 +304,7 @@ But the lever cuts both ways.
 
 The same momentum that lets Link glide from shop to kiosk, taking the next step and the next, can also carry him into places we didn’t mean to go. The same fluency that lets him bridge gaps in planning or knowledge can, just as easily, fill them with fiction.
 
-We’ve already seen what machines can do: self driving cars. But sometimes they fail—and the weight of the error is real. Not a mistyped word. A broken body. A life.
+We’ve already seen what machines can do: self-driving cars. But sometimes they fail—and the weight of the error is real. Not a mistyped word. A broken body. A life.
 
 And while knowledge work may seem safer, its effects aren’t soft. A misfiled claim. A biased loan decision. A hallucinated treatment plan. When software does the work, the risk rides with it.
 
