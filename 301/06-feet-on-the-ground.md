@@ -56,7 +56,7 @@ The developer extracts the structured request and relays it to the **MCP calenda
     "results": [
       {
         "id": "evt-88aa9b72",
-        "title": "Project Sync",
+        "title": "Control Layer Governance",
         "start_time": "2025-08-03T14:00:00",
         "end_time": "2025-08-03T14:30:00",
         "location": "Zoom",
@@ -74,7 +74,7 @@ The developer extracts the structured request and relays it to the **MCP calenda
 The app injects that fact into the next prompt:
 
 ```
-The 2pm meeting is titled “Project Sync”. The attendees are Ava Bennett, Marcus Liu, and Leo Vargas.
+The 2pm meeting is titled “Control Layer Governance”. The attendees are Ava Bennett, Marcus Liu, and Leo Vargas.
 ```
 
 No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the model to keep the thread going.
