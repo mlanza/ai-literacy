@@ -150,7 +150,7 @@ You can *review what it did*.
 
 You can treat the output not just as an answer, but as a clue — a signal about how the system thinks, what it assumes, what it missed. And from that, you can tune the playbook. You can improve the reference material. You can rewrite the prompt. You can spot bad habits, clarify the standard, reshape what gets handed to the model next time.
 
-In that way, you become something quieter — not a partner in the moment, but a mentor over time. A system shaper. Still present. Still caring.
+In that way, you become not a partner in the moment, but a mentor over time. A system shaper. Still present. Still caring.
 
 That’s what shows up in the final result — if you care about it. Evidence of presence. Ownership. Reentry.
 
