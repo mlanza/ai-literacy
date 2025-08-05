@@ -61,9 +61,9 @@ The developer extracts the structured request and relays it to the **MCP calenda
         "end_time": "2025-08-03T14:30:00",
         "location": "Zoom",
         "attendees": [
-          { "name": "Ava Bennett", "email": "ava@example.com" },
-          { "name": "Marcus Liu", "email": "marcus@example.com" },
-          { "name": "Leo Vargas", "email": "leo@example.com" }
+          { "name": "Avery Lucas", "email": "avery@charlottesville.com" },
+          { "name": "Grant Denny", "email": "gdenny@militia.com" },
+          { "name": "Eliza Goulding", "email": "egoulding@hayepark.com" }
         ]
       }
     ]
@@ -74,7 +74,7 @@ The developer extracts the structured request and relays it to the **MCP calenda
 The app injects that fact into the next prompt:
 
 ```
-The 2pm meeting is titled “Control Layer Governance”. The attendees are Ava Bennett, Marcus Liu, and Leo Vargas.
+The 2pm meeting is titled “Control Layer Governance”. The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
 ```
 
 No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the model to keep the thread going.
@@ -89,7 +89,7 @@ To send a message, I need their mobile numbers.
 {
   "tool_request": {
     "tool": "address_book.lookup",
-    "names": ["Ava Bennett", "Marcus Liu", "Leo Vargas"]
+    "names": ["Avery Lucas", "Grant Denny", "Eliza Goulding"]
   }
 }
 ```
@@ -102,19 +102,19 @@ The app relays the request to the MCP contact service, which replies:
     "tool": "address_book.lookup",
     "results": [
       {
-        "name": "Ava Bennett",
+        "name": "Avery Lucas",
         "phone": "+1-555-123-0192",
-        "email": "ava@example.com"
+        "email": "avery@charlottesville.com"
       },
       {
-        "name": "Marcus Liu",
+        "name": "Grant Denny",
         "phone": "+1-555-388-4421",
-        "email": "marcus@example.com"
+        "email": "gdenny@militia.com"
       },
       {
-        "name": "Leo Vargas",
+        "name": "Eliza Goulding",
         "phone": "+1-555-207-3988",
-        "email": "leo@example.com"
+        "email": "egoulding@hayepark.com"
       }
     ]
   }
