@@ -30,7 +30,7 @@ That was about craft. Because what we’re doing here isn’t just trying to get
 
 And that means thinking about the path.
 
-## Craft is Choice
+## Craft is Choice Cups...
 
 Let’s revisit that metaphor: a bead moving through cups — a process broken into stages.
 
@@ -52,7 +52,7 @@ What matters is how the idea moved. Which cups it passed through. Who was watchi
 
 The path is everything.
 
-## Craft Constrains, Curates
+## ...But Not Too Many
 
 Not every checkpoint improves the outcome. Eventually, they slow it down. And if you treat every concern as a new priority, you wind up with no priorities.
 
