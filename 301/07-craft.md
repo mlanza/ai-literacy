@@ -30,7 +30,7 @@ That was about craft. Because what we’re doing here isn’t just trying to get
 
 And that means thinking about the path.
 
-## Craft is Choice Cups...
+## Craft is Choosing Your Cups...
 
 Let’s revisit that metaphor: a bead moving through cups — a process broken into stages.
 
