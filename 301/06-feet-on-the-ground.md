@@ -251,7 +251,7 @@ That it won’t cause damage — not because it understands the stakes, but beca
 
 Deciding how close a human must stay — in, on, or out of the loop — is a design question. And that design is shaped by risk.
 
-## Agency vs. Autonomy
+## Agency is a Path, Autonomy a Town
 
 To give a model “feet on the ground” is to let it act, not just reason.
 
