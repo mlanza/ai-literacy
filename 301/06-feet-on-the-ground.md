@@ -172,7 +172,7 @@ All without a prewritten playbook. The model knew what tools were on the desk an
 
 However, for the model to propel itself forward in the story, I like to think of it like Link (the LLM) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's control loop.
 
-That's where the developer is, right there — with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made.  When the surgeon requests "scalpel," the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
+That's where the developer is, right there — with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made.  When the surgeon (the model) requests "scalpel," the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
 Yes, that happened with code, but the developer decides how fine grained to be about checking and granting access.  Since the AI is a brain in a jar, all it can do is speak in text.  Some of those requests will be for tools.  The developer has to vet and enable them, not in the actual moment, but when he's wiring the app together.
 
