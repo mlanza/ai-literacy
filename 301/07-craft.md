@@ -84,7 +84,7 @@ Different cups, different stewards, and the same idea might’ve turned out enti
 
 That’s the part people overlook. They chase the spark, not the structure. They admire what came out, without seeing what went in.
 
-But when something lands — when it really lands — it isn’t because the idea was perfect.
+But when something lands — when it really lands — it isn’t because the idea was perfect.  And it won't matter that AI was involved.
 
 It’s because everything before it did its part.
 
