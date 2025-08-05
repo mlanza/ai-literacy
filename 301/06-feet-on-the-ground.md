@@ -253,7 +253,7 @@ It means giving it **agency** — the ability to push forward, to keep momentum,
 
 That was the 2pm message — the “let them know I’m late” ask. The bead was placed. The trail was laid. The model moved forward step by step.
 
-**Agency** makes that possible.
+Agency makes that possible.
 
 But **autonomy** is looser. It’s not just about movement — it’s about deciding where to go. Sometimes that means letting the model decide the goal entirely. More often, it means giving it a purpose but not a path. You hand Link the quest but not the instructions. He chooses how to proceed.
 
