@@ -52,7 +52,7 @@ What matters is how the idea moved. Which cups it passed through. Who was watchi
 
 The path is everything.
 
-## Complexity Isn't Craft
+## Craft Constrains, Curates
 
 Not every checkpoint improves the outcome. Eventually, they slow it down. And if you treat every concern as a new priority, you wind up with no priorities.
 
