@@ -271,23 +271,23 @@ So trust expands to meet the risks.  We'll get into these risks momentarily; how
 
 We’ve been treating models like minds in jars — snapshots of the minds of great thinkers. And that’s mostly true. A model is a fixed thing. It doesn’t grow. It doesn’t remember. It doesn’t roam the world collecting facts. It stays where it was trained, answering from a single point in time.
 
-Some models are one-time thinkers — round-trip solvers. You give them a payload, they return a reply. Like tossing a message into a cave and hearing a voice echo back. These are the simplest kinds of models. They don’t walk. They don’t push. They don’t unfold a plan across time.
+Most models do one thing. You give them a payload — a question, a prompt, a bit of text to chew on — and they reply. One toss, one echo. A single bead moved from one cup to the next. They're one-trick ponies. They don’t walk. They don’t push. They don’t unfold a plan across time.
 
-But others — the kind you choose from a dropdown in ChatGPT or wire into a tool-wielding app — come with more beneath the surface. They may not look like it, but some walk paths.  That's because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move.  And that implies, whether or not you see it, a control loop. And how it moves depends on the route it was given.
+But others — the kind exposed in chatbot and app dropdowns — come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop. And how it moves depends on the route it was given.
 
 Such models carry not just a mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
 
-This is where the fiction gives way that something more is afoot.
+This is where the fiction gives way — that something more is afoot.
 
-Because when you pick a model — especially in apps like ChatGPT — you might not be picking just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
+Because when you pick a model you may be picking more than just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
 
 Some models follow trails — narrow ones, like ChatGPT's Deep Research. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
 
 That’s why this isn’t only a question of intelligence. It’s a question of motion.
 
-Some models wait for your lead.
+Some models move one bead, take a single step.
 
-Others take the first step. And how far we're willing to let them go is a matter of weighing in on the risks.
+Some models walk. And how far we're willing to let them go is a matter of weighing in on the risks.
 
 ## Risk Categories
 
