@@ -164,5 +164,4 @@ And that’s what shows up in the final result — if you care about it. Evidenc
 
 So no, it doesn’t “just come out like that.” It’s made. Sometimes by standing beside it, shaping every move. Sometimes by stepping back, tuning the system that shapes it. Either way, it carries the mark of someone who cares about the details.
 
-That's craft.
-
+It shows, when you mean it.
