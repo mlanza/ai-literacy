@@ -178,8 +178,7 @@ Each loop was a single LLM turn. Every tool call was surfaced explicitly:
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-
-However, for the model to propel itself forward in the story, I like to think of it like Link (the LLM) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's control loop.
+For the model to propel itself forward in the story, I think of Link (the LLM) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's control loop.
 
 That's where the developer is, right there — with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made.  When the surgeon (the model) requests "scalpel," the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
