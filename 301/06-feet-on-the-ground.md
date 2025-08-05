@@ -285,7 +285,7 @@ Some models follow trails — narrow ones, like ChatGPT's Deep Research. Others 
 
 That’s why this isn’t only a question of intelligence. It’s a question of motion.
 
-Some models move one bead, take a single step.
+Some models move a bead, take a single step.
 
 Some models walk. And how far we're willing to let them go is a matter of weighing in on the risks.
 
