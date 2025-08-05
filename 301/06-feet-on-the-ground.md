@@ -223,32 +223,6 @@ Or is it something else?
 
 The answer depends on what we’re willing to hand off — and how closely we’re willing to stay in the loop.
 
-## Some Models Walk
-
-We’ve been treating models like minds in jars — cold, contained, and still. And that’s mostly true. A model is a fixed thing. It doesn’t grow. It doesn’t remember. It doesn’t roam the world collecting facts. It stays where it was trained, answering from a single point in time.
-
-But in practice, that mind doesn’t just sit there. It moves. And how it moves depends on the route it was given.
-
-Some models are one-time thinkers — round-trip solvers. You give them a payload, they return a reply. Like tossing a message into a cave and hearing a voice echo back. These are the simplest kinds of models. They don’t walk. They don’t push. They don’t unfold a plan across time.
-
-But others — the kind you choose from a dropdown in ChatGPT or wire into a tool-wielding app — come with more beneath the surface. They may not look like it, but some of them are paths.
-
-A model can carry with it not just a frozen mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
-
-This is where the fiction gives way that something more is afoot.
-
-Because when you pick a model — especially in structured apps — you might not be picking just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
-
-Some models follow trails — narrow ones. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
-
-That’s why this isn’t only a question of intelligence. It’s a question of motion.
-
-Some models wait for your lead.
-
-Others take the first step.
-
-And once they do, the rest of the system has to decide how closely it wants to follow.
-
 ## Human Proximity Reflects Trust
 
 With **human out of the loop**, everything has already been decided. The stage is set, the props pre-approved, and Link moves through the world freely. The user offers the quest, and Link takes it from there — pushing forward, making decisions, carrying out the task with no interruptions. No one watches. No one interferes. There may not even be a visible interface showing what he’s doing. That’s maximum trust.
@@ -285,7 +259,33 @@ But **autonomy** is looser. It’s not just about movement — it’s about deci
 
 Autonomy opens more doors. And with that freedom comes more uncertainty.
 
-So trust expands to meet the risks.
+So trust expands to meet the risks.  We'll get into these risks momentarily; however, let's first correct a former generalization about models.
+
+## Some Models Walk
+
+We’ve been treating models like minds in jars — cold, contained, and still. And that’s mostly true. A model is a fixed thing. It doesn’t grow. It doesn’t remember. It doesn’t roam the world collecting facts. It stays where it was trained, answering from a single point in time.
+
+But in practice, that mind doesn’t just sit there. It moves. And how it moves depends on the route it was given.
+
+Some models are one-time thinkers — round-trip solvers. You give them a payload, they return a reply. Like tossing a message into a cave and hearing a voice echo back. These are the simplest kinds of models. They don’t walk. They don’t push. They don’t unfold a plan across time.
+
+But others — the kind you choose from a dropdown in ChatGPT or wire into a tool-wielding app — come with more beneath the surface. They may not look like it, but some of them are paths.
+
+A model can carry with it not just a frozen mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
+
+This is where the fiction gives way that something more is afoot.
+
+Because when you pick a model — especially in structured apps — you might not be picking just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
+
+Some models follow trails — narrow ones. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
+
+That’s why this isn’t only a question of intelligence. It’s a question of motion.
+
+Some models wait for your lead.
+
+Others take the first step.
+
+And once they do, the rest of the system has to decide how closely it wants to follow.
 
 ## Risk Categories
 
