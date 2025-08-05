@@ -78,7 +78,7 @@ And the ones you did — the ones that mattered — they weren’t always planne
 
 Each cup held a moment where hands could shape the bead. A small fork. A chance to steer. Not in grand gestures, but in tweaks — a nudge in tone, a question reframed, a second pass that noticed what the first one missed.
 
-And each of those choices — small as they seemed — folded in a new possibility. The final thing was never fixed. It was bent, bit by bit, by attention.
+And each of those choices — small as they seemed — folded in a new possibility. The shape of the final thing was never fixed. It was bent, bit by bit, by attention.
 
 Different cups, different stewards, and the same idea might’ve turned out entirely different.  *Withered*.
 
