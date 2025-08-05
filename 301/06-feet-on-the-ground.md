@@ -18,7 +18,7 @@ That’s the intention. It’s not a full plan, not a sequence of steps — just
 
 From there, the baton passes to the app. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
 
-## 🌀 Loop 1 — Calendar Query
+### 🌀 Loop 1 — Calendar Query
 
 The first prompt includes the user’s request, transcribed from voice and sent into the app. The current time and available tools are in scope.
 
@@ -79,7 +79,7 @@ The 2pm meeting is titled “Project Sync”. The attendees are Ava Bennett, Mar
 
 No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the model to keep the thread going.
 
-## 🌀 Loop 2 — Address Book Lookup
+### 🌀 Loop 2 — Address Book Lookup
 
 The model immediately advances with the next logical step: resolve names into numbers.
 
@@ -123,7 +123,7 @@ The app relays the request to the MCP contact service, which replies:
 
 As before, we don’t extract or interpret — just pass it along. The model continues the chain.
 
-## 🌀 Loop 3 — Text Message Delivery
+### 🌀 Loop 3 — Text Message Delivery
 
 With everything in hand, the model responds:
 
