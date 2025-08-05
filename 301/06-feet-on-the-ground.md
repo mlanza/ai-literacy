@@ -283,9 +283,7 @@ That’s why this isn’t only a question of intelligence. It’s a question of 
 
 Some models wait for your lead.
 
-Others take the first step.
-
-And once they do, the rest of the system has to decide how closely it wants to follow.
+Others take the first step. And how far we're willing to let them go is a matter of weighing in on the risks.
 
 ## Risk Categories
 
