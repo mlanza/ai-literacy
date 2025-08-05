@@ -233,7 +233,7 @@ With a **human in the loop**, Link’s freedom narrows. He must knock before ent
 
 The scale varies, but the question underneath is steady: how much freedom does the system get before someone steps in?
 
-## Trust Is Confidence in Outcome
+## The Hippocratic Oath
 
 This kind of trust isn’t about sentiment. Machines don’t deserve it. They don’t earn it. They don’t feel responsible. The only oath in play is ours: **first, do no harm.**
 
