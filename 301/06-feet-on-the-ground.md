@@ -288,17 +288,36 @@ Sometimes the damage doesn’t come from one wrong answer. It builds. A small fl
 So the final question is:
 *Can we see where this might lead — and stop it if it goes too far?*
 
-## Strategies for Mitigating Risk
+Got it. You’re right — that last section of the original text introduced four clear risk-mitigation strategies: **transparency, auditability, control, and alignment**. That framework deserves to stay visible in the outro, especially since it grounds the lofty language in practical design.
 
-These risks are why trust must be built, not assumed. And not built once, but maintained over time.
+## The Weight of the Lever
 
-It’s not a feeling. It’s a system design.
+To give Link feet on the ground is to build a lever of unusual size—a way to move more than we otherwise could. And it’s easy to feel the promise. A system that can respond to human intent, operate tools, complete tasks, even carry work forward without needing to be told what to do at each step.
 
-* **Transparency** — Can you see what it’s doing?
-* **Auditability** — Can you trace how it got there?
-* **Control** — Can you intervene or shut it down?
-* **Alignment** — Does it pursue human intent, not just human input?
+That’s not science fiction. That’s the present tense.
 
-These qualities don’t emerge on their own. They’re engineered. They’re governed. And they show up in the details — in what props are placed, in how tightly loops are held, in who gets to click **proceed**.
+The ask is small—“Let them know I’m running late.” The output is precise: the right people, the right message, the right time. And the lift? Offloaded entirely. That’s the lever.
 
-Because AI doesn’t care. It never will. That burden, and that promise, rests with the people who build it, the ones who put feet on the ground.
+Of course we want this. Of course we’re trying. Because if a machine can help shoulder our knowledge work—lighten it, speed it, hand it off—the value is enormous.
+
+But the lever cuts both ways.
+
+The same momentum that lets Link glide from shop to kiosk, taking the next step and the next, can also carry him into places we didn’t mean to go. The same fluency that lets him bridge gaps in planning or knowledge can, just as easily, fill them with fiction.
+
+We’ve already seen what machines can do. They drive cars, mostly. But sometimes they fail—and the weight of the error is real. Not a mistyped word. A broken body. A life.
+
+And while knowledge work may seem safer, its effects aren’t soft. A misfiled claim. A biased loan decision. A hallucinated treatment plan. When software does the work, the risk rides with it.
+
+So while the lever is impressive—and it is—the fulcrum must be strong. That’s where trust comes in. And trust, as we said, is not a feeling. It’s a system design.
+
+One that demands **transparency**—can you see what it’s doing?
+
+One that allows for **auditability**—can you trace how it got there?
+
+One that offers **control**—can you intervene or shut it down?
+
+One that secures **alignment**—does it pursue human intent, not just human input?
+
+These qualities don’t emerge on their own. They’re engineered. They’re governed. And they show up in the details—in what props are placed, in how tightly loops are held, in who gets to click *proceed*.
+
+Because AI doesn’t care. It never will. That burden, and that promise, rests with the people who build it—the ones who put feet on the ground.
