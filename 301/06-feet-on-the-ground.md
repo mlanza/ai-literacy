@@ -160,6 +160,14 @@ And finally, the app confirms:
 
 > “Message sent to your 2pm meeting.”
 
+And that was that. Not because we gave the AI a script. We didn’t. We didn’t hand it a checklist or design a playbook for running late. The prompt was human and loose. No steps, no scaffolding, just intent.
+
+What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The model saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
+
+That’s not how programs behave. That’s how interns behave — the good ones, the kind who look around, understand the tools, and move. The kind who don’t need constant instruction, because they can reason from the materials at hand.
+
+We didn’t plan for this exact ask. But the system held up anyway. And that, more than any single move, is what made it feel like a [moment](./04-magic-moments.md).
+
 ## Feet Spur the Loop
 
 Each loop was a single LLM turn. Every tool call was surfaced explicitly:
