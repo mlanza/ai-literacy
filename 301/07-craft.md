@@ -124,9 +124,7 @@ AI doesn’t erase craft. It just gives us more ways to reach the destination.
 
 Same way the train, the car, the airplane didn’t erase travel — they expanded its reach. They made possible what was once impractical. People still traveled. They just did it differently.
 
-Why belabor AI's involvement?
-
-That’s not the headline. That’s just the vehicle.
+Why get hung up on whether AI was involved? It’s not the headline. It’s the vehicle.
 
 You’re in London. £20,000 on the line. Eighty days to circumnavigate the globe. Any route, any mode of travel.
 
