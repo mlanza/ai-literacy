@@ -68,7 +68,7 @@ That’s often why I push back — not out of stubbornness, but out of care.  Re
 
 Craft is choosing your cups — and choosing what not to include. And then owning how each one shapes what comes out.
 
-## Craft Is More Nuture Than Seed
+## Craft Is Nuture More Than Seed
 
 Ideas aren’t rare. Implementation is.
 
