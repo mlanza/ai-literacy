@@ -22,7 +22,7 @@ From there, the baton passes to the app. It spins up the model, hands it a few c
 
 The first prompt includes the user’s request, transcribed from voice and sent into the app. The current time and available tools are in scope.
 
-The **app** delivers this to the model:
+The **app** delivers this prompt to the model:
 
 ```
 You are an assistant. The user just said:
