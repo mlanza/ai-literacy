@@ -176,7 +176,7 @@ That's where the developer is, right there — with the bead. Not choreographing
 
 Yes, that happened with code, but the developer decides how fine grained to be about checking and granting access.  Since the AI is a brain in a jar, all it can do is speak in text.  Some of those requests will be for tools.  The developer has to vet and enable them, not in the actual moment, but when he's wiring the app together.
 
-While means he's not necessarily thinking about the original “let them know I’m running late.”  It's a little more opaque than that.  He just knows having designed the set and laying out the props the kinds of things the AI will attempt in response to the user's demands.  So, from his perspective, the Zork adventure might unfold something like:
+While there, he's not necessarily thinking about the original “let them know I’m running late.”  It's a little more opaque than that.  He just knows having designed the set and laying out the props the kinds of things the AI will attempt in response to the user's demands.  So, from his perspective, the Zork adventure might unfold something like:
 
 ```
 > check calendar between ... and ...
