@@ -162,7 +162,7 @@ And finally, the app confirms:
 
 And that was that.
 
-Not because we gave the AI a script, a checklist or a playbook. We didn’t. The developer just set the stage on which the model would perform.  The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
+Not because we gave the AI a playbook. We didn’t. The developer just set the stage on which the model would perform.  The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
 
 What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The model saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
 
