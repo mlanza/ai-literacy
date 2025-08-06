@@ -229,7 +229,7 @@ Or is it something else?
 
 The answer depends on what we’re willing to hand off — and how much we want to be kept in the loop.
 
-## Human Proximity Reflects Trust
+## Proximity Reflects Trust
 
 With **human out of the loop**, everything has already been decided. The stage is set, the props pre-approved, and Link moves through the world freely. The user offers the quest, and Link takes it from there — pushing forward, making decisions, carrying out the task with no interruptions. No one watches. No one interferes. There may not even be a visible interface showing what he’s doing. That’s maximum trust.
 
