@@ -4,7 +4,7 @@ In *Good Will Hunting*, Will isn’t impressive because he remembers every math 
 
 LLMs try to do the same thing. They aren’t simply cut-and-pasting bits of the internet. They’re trained to notice patterns across vast amounts of text, so they can respond in flexible, adaptive ways — even to brand-new prompts.
 
-This is why ChatGPT can help write a haiku about black holes or explain how a coffee maker works, even if no one’s ever asked those exact questions before. It’s not recalling; it’s remixing. It’s “seeing the board,” in a language-based way.
+This is why ChatGPT can help write a haiku about black holes or explain how a coffee maker works, even if no one’s ever asked those exact questions before. It’s not recalling; it’s [remixing](https://www.youtube.com/watch?v=nJPERZDfyWc). It’s “seeing the board,” in a language-based way.
 
 But memorization still plays a role. Sometimes, the model repeats things too exactly — especially if a phrase is common or was seen often in its training. In rare cases, it can even reproduce things it shouldn’t. Just like a student who memorized the homework but can’t adapt on the test, LLMs can falter when faced with something unfamiliar or phrased in an unexpected way.
 
