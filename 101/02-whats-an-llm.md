@@ -6,4 +6,4 @@ It doesn’t “know” things the way people do. It doesn’t have beliefs, opi
 
 Think of it like a sophisticated auto-complete — not just finishing your sentence, but continuing your thought in surprisingly coherent and useful ways. And now and then, it’ll carry out a task so thorough or apt you might catch yourself wondering how. Not because it “knows” — it doesn’t — but because it’s working, like a person would, on your behalf.
 
-So when you’re chatting with ChatGPT, you’re really engaging with an LLM behind the scenes. That’s the brain. The rest — the friendly interface, the name, the personality — is just how it gets delivered to you.
+So when you’re chatting with ChatGPT, what you’re really engaging with is the LLM — the brain behind the scenes. The rest — the name, the personality, the friendly interface — is just packaging. It smooths the delivery. But the model is the wizard behind the curtain. Without it, there’s no show. Nothing to see.
