@@ -1,4 +1,4 @@
-# What Exactly Is an LLM?
+# What’s an LLM?
 
 At a high level, a large language model (LLM) is a type of artificial intelligence trained to predict and generate human-like text. You give it a prompt — a question, a sentence, even just a phrase — and it responds based on patterns it learned from analyzing vast amounts of language: books, articles, websites, conversations.
 
