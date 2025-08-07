@@ -12,4 +12,4 @@ You might say it captures, not what Will knows, but how he *thinks*.
 
 This matters because not all minds solve problems the same way. Some are better at clarity. Some at persuasion. Some at rules, or rhythm, or logic. It’s all buried in the shape of their training—what they’ve seen, what they’ve practiced, what kinds of patterns they’re good at completing.
 
-If a model is a blueprint for thought, then prompting is *casting the role*. You want to describe the scene so well that when Will walks out onto the stage, he sees structure in the noise.  That sets him up to give an answer that actually *fits*.
+If a model is a blueprint for thought, then prompting is *casting the role*. You describe the scene so well that when Will walks out onto the stage, he sees structure in the noise.  It sets him up to give an answer that actually *fits*.
