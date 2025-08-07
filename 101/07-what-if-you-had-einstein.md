@@ -10,6 +10,4 @@ They don’t all think the same. It depends on what they were made for.
 
 So don’t just ask *what can this model do?* Ask *what was it built for?*
 
-You’re not conjuring brilliance out of nowhere. You’re choosing the right mind for the work.
-
-And with the way training is going, you may soon be getting a genius-level thinker—a master of a domain—all the same.
+You’re not conjuring brilliance out of nowhere. You’re matching the mind to the work. And picking the right model—like picking the right expert—can be the difference between a decent answer and an outstanding one.
