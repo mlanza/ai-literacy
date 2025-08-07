@@ -18,11 +18,11 @@ The word for it is “inference.” Not the loud kind, not a courtroom or a gues
 
 Training is the furnace, long and hot. But inference is the firelight — the part we see. It’s the answer appearing after the question. The output in your hands. It’s where the machine takes all that training and puts it to good use.
 
-Engineers needed a word for that moment — the hinge between knowing and doing — and they reached for “inference.” It came from logic and philosophy, long before code. It meant deduction. Motion. A mental step. It stayed because it fit. You don’t rename a working part just because the thing it powers is strange.
+Engineers needed a word for that moment — the hinge between knowing and doing — and they reached for “inference.” It came from logic and philosophy, long before code. It meant deduction. Motion. A mental step. It stuck because it fit.
 
-And strange it is. Because what comes out isn’t thinking, but it isn’t random, either. There is structure. There is consequence. The machine makes connections, and those connections can be used. That is the quiet power of it. No spirit, no spark — but still a lever.
+What comes out isn’t thinking, but neither it is it random. There's structure. There's consequence. The machine makes connections, useful ones. That is the quiet power of it. No spirit, no spark — but still a lever.
 
-So we name it. We say inference. We say the model infers, not because it understands, but because the name holds. Because even in the absence of comprehension, there is utility. And with utility comes risk, and value, and consequence. This is the part that matters most: the doing. The part where words appear and work gets done, and it feels like help.
+So we call it inference. We say the model infers because even in the absence of comprehension, there's utility, value, consequence. The words appear and work gets done, and it genuinely feels like help.
 
 It is not a mind. But it is a mechanism. And mechanisms can move things.
 
