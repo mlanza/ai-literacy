@@ -16,7 +16,7 @@ Even knowing all this — that it mimics, not thinks; that it recites, not reaso
 
 The word for it is “inference.” Not the loud kind, not a courtroom or a guess. The older meaning. To carry forward. To take what has been seen — not once, but a thousand thousand times — and let it shape what comes next. A quiet procession from premise to pattern to conclusion. To infer is to act on what you’ve already learned, even if you don’t *know* you’ve learned it.
 
-Training is the furnace, long and hot. But inference is the firelight — the part we see. It’s the answer appearing after the question. The output in your hands. It’s where the machine takes all that training and puts it to good use.
+Training is the furnace, long and hot. But inference is the firelight — the part we see. It’s the answer appearing after the question. The output in your hands. It’s where the machine takes all that training and puts it to use.
 
 Engineers needed a word for that moment — the hinge between knowing and doing — and they reached for “inference.” It came from logic and philosophy, long before code. It meant deduction. Motion. A mental step. It stuck because it fit.
 
