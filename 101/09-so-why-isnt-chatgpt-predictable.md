@@ -34,4 +34,4 @@ The variation comes not from the model. It's introduced after sampling its proba
 
 What if the GPS didn't always choose the fastest route home. Instead, it finds six good ones and rolls a die. Wouldn't that be more interesting? Determinism with a dose of randomness thrown in.
 
-In situations where consistency matters, turning off that randomness is valuable. Some apps expose these settings, some don't. ChatGPT, to brand its UX, has chosen to not.
+In situations where consistency matters, turning off that randomness is valuable. Some apps expose these settings, some don't. ChatGPT, to brand its UX, has chosen not to.
