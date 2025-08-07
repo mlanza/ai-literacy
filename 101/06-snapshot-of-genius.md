@@ -9,3 +9,7 @@ That’s what a model is.
 A large language model (LLM) is, in essence, a *snapshot of a mind*. Not a human mind exactly, but a synthetic one—trained on patterns across vast amounts of text, distilled into a neural network that reflects a way of thinking. It doesn't *remember* facts like a person does. Instead, it forms pathways—connections between words, ideas, and meanings—based on exposure to billions of examples.
 
 You might say it captures, not what Will knows, but how he *thinks*.
+
+This matters because not all minds solve problems the same way. Some are better at clarity. Some at persuasion. Some at rules, or rhythm, or logic. It’s all buried in the shape of their training—what they’ve seen, what they’ve practiced, what kinds of patterns they’re good at completing.
+
+If a model is a blueprint for thought, then prompting *casting the role*. You want to describe the scene so well that when Will walks out onto the stage, he sees structure in the noise.  That sets him up to give an answer that actually *fits*.
