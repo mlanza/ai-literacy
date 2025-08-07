@@ -1,6 +1,6 @@
 # What If You Had Einstein?
 
-Imagine that. Einstein, on call. Not the man himself—but a model shaped by that kind of mind. Tuned to see what most of us miss. If only.
+Now stretch that thought further. What if you had a model that reflected Einstein’s way of seeing the universe? Imagine that. Einstein, on call. Not the man himself—but a model shaped by that kind of mind. Tuned to see what most of us miss. If only.
 
 It’s an audacious idea. My word. But it points to something real. Models aren’t people—they’re built things. Trained to think in certain ways. To notice what others overlook.
 
