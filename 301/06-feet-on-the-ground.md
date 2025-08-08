@@ -275,6 +275,8 @@ Most models do one thing. You give them a payload — a question, a prompt, a bi
 
 But others — they’re exposed by name in chatbot and app dropdowns — come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop. And how it moves depends on the route it was given.
 
+Model vendors have a word for this kind of motion. They call it **thinking** — the internal act of stepping deliberately, taking turns, moving forward with intent. I chose *walk* instead, because I wanted to draw your eye to the loop. Each turn is not spontaneous. It is controlled. The model propels itself — foot down, push — then waits to be granted the next one.
+
 Such models carry not just a mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
 
 This is where the fiction gives way — because something more is afoot.
