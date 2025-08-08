@@ -316,8 +316,6 @@ Sometimes the damage doesn’t come from one wrong answer. It builds. A small fl
 So the final question is:
 *Can we see where this might lead — and stop it if it goes too far?*
 
-Got it. You’re right — that last section of the original text introduced four clear risk-mitigation strategies: **transparency, auditability, control, and alignment**. That framework deserves to stay visible in the outro, especially since it grounds the lofty language in practical design.
-
 ## The Weight of the Lever
 
 To give Link feet on the ground is to build a lever of unusual size—a way to move more than we otherwise could. And it’s easy to feel the promise. A system that can respond to human intent, operate tools, complete tasks, even carry work forward without needing to be told what to do at each step.
