@@ -277,19 +277,17 @@ But others — they’re exposed by name in chatbot and app dropdowns — come w
 
 Model vendors have a word for this kind of motion. They call it **thinking** — the internal act of stepping deliberately, taking turns, moving forward with intent. I chose *walk* instead, because I wanted to draw your eye to the loop. Each turn is not spontaneous. It is controlled. The model propels itself — foot down, push — then waits to be granted the next one.
 
-Such models carry not just a mind, but a latent trajectory — a designed behavior, a loop, a plan. Like Link setting out on a quest: sometimes with a clear map, sometimes just with boots and instinct. You don’t always see the path, but you feel it in how the model acts. It remembers the tools it’s meant to use. It keeps the thread moving. It knows how to walk the town.
+Focus is set on the pushing motion to reveal that a model is often more than just a mind.  It may also include a latent trajectory — a designed behavior that loops over a plan. Like Link setting out on a quest map in hand: sometimes with a clearly marked path, sometimes just with boots and instinct. You discover which by watching how the model acts. How it uses the tools. How it keeps the thread moving foward.
 
 This is where the fiction gives way — because something more is afoot.
 
-Because when you pick a model you may be picking more than just a brain. You might be picking a gait. A rhythm. A choreography of steps already known, ready to unfold the moment the first prompt is spoken aloud.
-
-Some models follow trails — narrow ones, like ChatGPT's Deep Research. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
+Some models stick to the path — narrow ones, like ChatGPT’s Deep Research. Others can wander through towns, darting from shop to shop. Some are given full autonomy, others are kept on a leash. The difference isn’t always visible in the interface. But it lives in the wiring. It shows up in the loop.
 
 That’s why this isn’t only a question of intelligence. It’s a question of motion.
 
 Some models move a bead, take a single step.
 
-Some models walk. And how far we're willing to let them go is a matter of weighing in on the risks.
+Some models walk. And how far we’re willing to let them go is a matter of weighing in on the risks.
 
 ## Risk Categories
 
