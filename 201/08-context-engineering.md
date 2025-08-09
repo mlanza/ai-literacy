@@ -23,7 +23,7 @@ But serious workloads are different. You might need a large window if you're:
 * Feeding in entire meeting transcripts or application logs
 * Editing or responding to longform writing
 
-If you're not eventually moving toward problems of this scale, you are leaving value on the table. Large language models shine when they're allowed to hold, process, and reason through dense, layered information. If you’ve only used them to one shot small tasks, it’s worth asking: **how can I leverage these tools to tackle serious projects?**
+If you're not eventually moving toward problems of this scale, you are leaving value on the table. Large language models shine when they're allowed to hold, process, and reason through dense, layered information. If you’ve only used them to one shot small tasks, it’s worth asking: **how can I leverage these tools to tackle projects?**
 
 The more content and complexity you bring in, the more intentional you’ll need to be with structure, scope, and summarization.
 
