@@ -273,7 +273,7 @@ We’ve been treating models like minds in jars — snapshots of the minds of gr
 
 Most models do one thing. You give them a payload — a question, a prompt, a bit of text to chew on — and they reply. One toss, one echo. A single bead moved from one cup to the next. They're one-trick ponies. They don’t walk. They don’t push. They don’t unfold a plan across time.
 
-But others — they’re exposed by name in chatbot and app dropdowns — come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop. And how it moves depends on the route it was given.
+But others — they’re exposed by name in chatbot and app dropdowns — come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop and a developer. It’s an app as much as a model. And how it moves depends on the route it was given.
 
 Model vendors have a word for this kind of motion. They call it **thinking** — the internal act of stepping deliberately, taking turns, moving forward with intent. I chose *walk* instead, because I wanted to draw your eye to the loop. Each turn is not spontaneous. It is controlled. The model propels itself — foot down, push — then waits to be granted the next one.
 
