@@ -57,4 +57,4 @@ Your job is to periodically **wipe the slate and refocus the task**. When a conv
 
 Think of it like giving the AI a good night’s rest. You’re giving it a clean desk, a fresh briefing, and a focused assignment. And just like a well-rested colleague, it often returns with sharper insight.
 
-**That’s what the next section is all about: how to reset intentionally, and carry forward only what matters.**
+That’s what the next section covers: how to reset intentionally, and carry forward only what matters.
