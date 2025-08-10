@@ -140,7 +140,7 @@ Why get hung up on whether AI was involved? It’s not the headline. It’s the 
 
 You’re in London. £20,000 on the line. Eighty days to circumnavigate the globe. Any route, any mode of travel.
 
-*Why would you refuse the plane?*
+*Why refuse the plane?*
 
 ## 🎯 Nothing Automatic About It
 
