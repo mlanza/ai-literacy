@@ -144,7 +144,13 @@ You’re still working one volley at a time. But this time, you’re doing it *w
 
 That’s the hybrid move: not pure hand-holding, not pure command. You’re delegating the structure, but steering the pace. It’s especially useful when you’re not ready to go deep yet — but you want to see how the path might unfold before you commit.
 
-And once the path is laid out, the model can help you walk it — step by step, one decision at a time. Each turn remains lightweight. Intentional. Aligned with how you think.
+And once the path is laid out, the model can help you walk it — step by step, one decision at a time. Even if the model offers a full outline all at once, there’s value in slowing it down. You can say,
+
+> “Let’s focus on Step 1.”
+
+This keeps you close to the work. Keeps turns lightweight. Intentional. Aligned with how you think.
+
+It gives the model a chance to refine its understanding based on your early reactions — and gives you more chances to course-correct before decisions snowball.
 
 And that’s still the core habit.
 
