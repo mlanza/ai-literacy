@@ -137,7 +137,7 @@ Five framings. Five headlines. Five ways to structure the same summary. You’re
 
 This is about **retaining control**. Even as you let the AI do some of the thinking, you’re still steering. Saying “give me five,” isn’t relinquishing authorship. You’re just not wishfully hoping the model, when put to task, will nail it. You’re, instead, using it to map the space.
 
-It works at the structural level, too. You can ask it for a plan, to lay out a process for tackling a problem and just as you could elicit its brainstorming muscle at one cup for one task, you can elicit its help in deconstructing project-sized objectives.  Ask for 5 options for attacking a problem from different angles. **So variation isn’t only about what to put in a cup at a given waypoint — it sometimes involves *choosing the cups*.** You’re asking the model to act as a guide — asking it expose the terrain and working with it to size up the best route.
+It works at the structural level, too. You can ask it for a plan, to lay out a process for tackling a problem and just as you could elicit its brainstorming muscle at one cup for one task, you can elicit its help in deconstructing project-sized objectives.  Ask for 5 options for attacking a problem from different angles. **So variation isn’t only about choosing what to put in a cup at a given waypoint — it sometimes involves *choosing the cups*.** You’re asking the model to act as a guide — asking it expose the terrain and working with it to size up the best route.
 
 That’s wayfinding.
 
