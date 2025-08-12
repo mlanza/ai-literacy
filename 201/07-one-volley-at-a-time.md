@@ -150,7 +150,7 @@ And that’s still the core habit.
 
 > One task. One prompt. One meaningful outcome.
 
-Even when what you’re prompting for… is a plan.
+Whether what you’re prompting for is a plan or one of questions needing answered.
 
 Small prompts don’t mean small thinking.
 
@@ -160,4 +160,4 @@ You’re not just typing.
 
 You’re guiding.
 
-One step at a time, even if sometimes you’re responding, not choreographing.
+One step at a time.  Sometimes you’re the one choreographing the moves and other times just responding to them.
