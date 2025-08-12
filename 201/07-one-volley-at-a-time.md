@@ -152,11 +152,11 @@ This keeps you close to the work. Keeps turns lightweight. Intentional. Aligned 
 
 It gives the model a chance to refine its understanding based on your early reactions — and gives you more chances to course-correct before decisions snowball.
 
-And that’s still the core habit.
+That’s the core habit.
 
 > One task. One prompt. One meaningful outcome.
 
-Whether what you’re prompting for is a plan or one of questions needing answered.
+Whether what you’re prompting for is a plan or the next question needing answered.
 
 Small prompts don’t mean small thinking.
 
