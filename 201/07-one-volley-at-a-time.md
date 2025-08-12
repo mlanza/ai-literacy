@@ -72,7 +72,7 @@ But sometimes, you flip the script.
 
 Instead of writing the perfect prompt yourself, you *ask the model to help you get there*. You admit you’re not sure what belongs in the input. You want the AI to do something — but you’re unclear what it needs to know, or how best to ask for it. So you change roles. You say:
 
-> “I want to give you the right prompt for this, but I’m not sure what to include. Can you help me figure that out?”
+> “I want to give you the right prompt for a creative writing assignment for my students.  I want to encourage originality, but give enough scaffolding for students who get stuck easily, but I’m not sure how much to specify or how open-ended to keep it. Can you help me figure that out?”
 
 That’s **meta-prompting** — prompting about prompting. It’s still a collaboration, but this time, the AI leads. It starts asking questions. You answer. It refines. You clarify. And together, you unearth what matters — the constraints, the preferences, the intended outcome — in the same one-volley-at-a-time rhythm.
 
