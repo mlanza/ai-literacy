@@ -88,7 +88,7 @@ That’s another version of flipping the script. You’re not starting over. You
 
 So while meta-prompting may feel like the AI is steering for a moment, you’re not handing over the wheel. You’re inviting it to help you shape the ask — *so that you can lead more effectively from there*. The work still happens in volleys. The clarity still comes in pieces.
 
-### Gameplan, Please
+### Charting the Unknown
 
 Meta-prompting is one way to get unstuck. You ask the model to help shape the right prompt, and it leads you through the unknowns, volley by volley. But there’s another option — one that keeps the initiative in your hands, while still working through the fog.
 
