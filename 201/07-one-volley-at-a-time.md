@@ -100,7 +100,7 @@ So instead of asking the model to hold your hand through each unknown…
 
 You ask it to lay out a plan for tackling the unknowns.
 
-Remember the earlier prompt about the creative writing assignment?
+Remember the earlier prompt about the creative writing assignment.
 
 > *“I want to give you the right prompt for a creative writing assignment for my students.  I want to encourage originality, but give enough scaffolding for students who get stuck easily, but I’m not sure how much to specify or how open-ended to keep it...”*
 
