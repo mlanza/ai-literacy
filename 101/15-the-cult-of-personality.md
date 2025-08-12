@@ -13,7 +13,7 @@ The pushback clustered around a few points:
 * **Loss of control eroded trust.** Even if routing was smarter in theory, hiding the choice removed transparency.
 * **Companionship mattered more than expected.** For some, the “personality” wasn’t just nice to have; it was part of their routine.
 
-That last point gets to the heart of it. That feeling you get when you walk into your regular coffee shop and the barista greets you by name, already starting your usual order. It’s a small thing, but it says *you matter*. You could get coffee anywhere, but you come back for that connection.
+That last point gets to the heart of it. The personalities felt *vivid*, the kind you could remember like a favorite regular at your coffee shop — the barista who greets you by name, already starting your usual order. It’s a small thing, but it says *you matter*. You could get coffee anywhere, but you come back for that connection.
 
 People don’t only want precision or speed from AI — they want *presence*. They enjoy the small human-like cues — warmth, humor, curiosity — even when they know full well it’s just simulated. We already accept this with fictional characters. C-3PO was a droid, but also a personality you could miss if he were replaced. The same thing happens with LLMs.
 
