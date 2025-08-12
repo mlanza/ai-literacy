@@ -61,7 +61,32 @@ The longer the session, the more you’re assembling. Prompt by prompt, output b
 And that’s what makes step-by-step prompting so powerful.
 
 Each step sharpens the payload.
+
 Each payload sharpens the outcome.
+
+### Flipping the Script
+
+Most of the time, you lead. You set the direction. You build the payload, one turn at a time — refining the task, layering in details, and shaping what the model sees until you reach something useful.
+
+But sometimes, you flip the script.
+
+Instead of writing the perfect prompt yourself, you *ask the model to help you get there*. You admit you’re not sure what belongs in the input. You want the AI to do something — but you’re unclear what it needs to know, or how best to ask for it. So you change roles. You say:
+
+> “I want to give you the right prompt for this, but I’m not sure what to include. Can you help me figure that out?”
+
+That’s **meta-prompting** — prompting about prompting. It’s still a collaboration, but this time, the AI leads. It starts asking questions. You answer. It refines. You clarify. And together, you unearth what matters — the constraints, the preferences, the intended outcome — in the same one-volley-at-a-time rhythm.
+
+That’s what’s easy to miss. Meta-prompting *feels* like a different move, but it plays out the same way. The model doesn’t immediately generate a finished prompt. It works through the gaps, turn by turn, helping you surface the key elements until it has enough to frame the task with clarity and precision — your way, not just a generic one.
+
+This technique is especially helpful when your output is meant to be passed along — to another model, another tool, another chat. Maybe you’re writing a scene prompt for an image generator. Or crafting a music description. Or building a one-shot prompt you plan to reuse. But even if you loop the prompt right back into this same conversation — or paste it into a clean window — the value holds. You’re using the model to help you write a better ask than you might’ve written alone.
+
+Sometimes this happens at the start, when the path is still foggy. Other times it happens retroactively — after you’ve gone back and forth with the model to figure out what you needed. The task has finally come into focus. And now you want to distill the whole thing into a single clean prompt.
+
+> “Can you write the prompt I *should* have given you, based on everything we just figured out?”
+
+That’s another version of flipping the script. You’re not starting over. You’re packaging what you’ve built. It gives you a reusable starting point — something you can feed into a new chat, or copy into a saved prompt library. It also gives you a way to explore creative variation. Since ChatGPT is intentionally nondeterministic, you can run the same prompt in multiple threads and get different, interesting takes — without losing the structure that made the first one work.
+
+So while meta-prompting may feel like the AI is steering for a moment, you’re not handing over the wheel. You’re inviting it to help you shape the ask — *so that you can lead more effectively from there*. The work still happens in volleys. The clarity still comes in pieces.
 
 ### Looking Ahead
 
