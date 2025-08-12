@@ -125,9 +125,33 @@ They’re not just scraps along the way. They’re the evidence of thinking. The
 
 You’re not outsourcing the work. You’re sharing it—and gaining visibility in return.
 
+### Wayfinding: Surfacing and Navigating Options
+
+Sometimes the next move isn’t deciding — it’s *surfacing more options*. And AI is unusually good at that.
+
+One of the most effective ways to surface useful waypoints is to ask:
+
+> “Give me five different takes.”
+
+Five framings. Five headlines. Five ways to structure the same summary. You’re not asking for perfection. You’re asking for **possibilities** — early, fast, and wide — so you can scan what’s on the table and start exercising judgment.
+
+This is about **retaining control**. Even as you let the AI do some of the thinking, you’re still steering. Saying “give me five,” isn’t relinquishing authorship. You’re just not wishfully hoping the model, when put to task, will nail it. You’re, instead, using it to map the space.
+
+It works at the structural level, too. You can ask it for a plan, to lay out a process for tackling a problem and just as you could elicit its brainstorming muscle at one cup for one task, you can elicit its help in deconstructing project-sized objectives.  Ask for 5 options for attacking a problem from different angles. **So variation isn’t only about the content at a given waypoint — it’s sometimes involves *choosing the cups*.** You’re asking the model to act as a guide — asking it expose the terrain and working with it to size up the best route.
+
+That’s wayfinding.
+
+You surface options and make the call. Pick the strong one. Mix and match. Or say, “None of these quite work — but now I know what’s missing.” AI is fast at filling the space. But you decide the cups, and what fills them.
+
+That’s what good prompting looks like in the middle of real work. You don’t wait for the right answer to appear. You ask for breadth, and then **exercise discernment**. Because if you're collaborating well, you're not just reacting — you're shaping. You're choosing. You're owning the outcome.
+
+That’s the role of the human in the loop.
+
+Not to write every word — but to know what good looks like when they see it.
+
 ### Surfacing the Facts
 
-Not all artifacts emerge naturally. Some have to be *surfaced*.
+We've seen that not all artifacts emerge naturally. Some have to be *surfaced*.  The AI has to be jostled into giving you what you need.
 
 Think about filling out a form. The form doesn’t just gather info — it *makes* you articulate it. You can’t get the license until you write your name. You can’t get a quote until you specify what you’re buying. The form isn’t decoration. It’s a forcing function.
 
