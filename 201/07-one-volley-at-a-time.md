@@ -100,13 +100,13 @@ So instead of asking the model to hold your hand through each unknown…
 
 You ask it to lay out a plan for tackling the unknowns.
 
-Let’s go back to that earlier prompt:
+Remember how the earlier prompt about the creative writing assignment ended:
 
-> *“I want to give you the right prompt for a creative writing assignment for my students. I want to encourage originality, but give enough scaffolding for students who get stuck easily, but I’m not sure how much to specify or how open-ended to keep it. Can you help me figure that out?”*
+> *“Can you help me figure that out?”*
 
-That prompt sets the model up to walk you through the tradeoffs — a slow uncovering. That’s useful. But here’s what a gameplan-style pivot might look like instead:
+That sets the model up to walk you through the tradeoffs — a slow uncovering. That’s useful. But a gameplan-style pivot might ended like this instead:
 
-> *“I want to design a creative writing assignment that encourages originality but still provides enough scaffolding for students who get stuck easily. I’m unsure how much to specify versus how open-ended to keep it. Before we decide anything, map out a clear plan for how we could approach this — what questions to answer, what decisions to make, and in what order. I’ll weigh in as we go.”*
+> *“Before we decide anything, map out a clear plan for how we could approach this — what questions to answer, what decisions to make, and in what order. I’ll weigh in as we go.”*
 
 That’s a different move. You’re still working through the details one at a time — but this time, the model lays out a roadmap first. You get to see the thinking upfront. You can revise it, skip steps, add your own, or go straight to the part that matters most.
 
