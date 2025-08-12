@@ -28,7 +28,7 @@ This approach forces the model to **materialize its thinking**. When you break t
 
 That’s not just about output — it’s about collaboration. Once a thought is materialized, you can *see* it. You can react to it. You can change its tone, clarify its message, or add missing context before moving on to the next stage. This is what makes working with an LLM a true back-and-forth. You’re not just issuing commands — you’re shaping the work together.
 
-Let’s look more closely at why this step-by-step approach works so well.
+Let’s look more closely at why this step-by-step approach, sometimes called **prompt chaining**, works so well.
 
 **Smaller prompts yield sharper results.**
 When you give the model one focused task at a time, it doesn’t have to guess what matters most. There’s less ambiguity, which leads to more specific, polished output. Each instruction is like a spotlight, helping the model zero in and deliver exactly what you asked for.
