@@ -148,9 +148,7 @@ And once the path is laid out, the model can help you walk it — step by step, 
 
 > “Let’s focus on Step 1.”
 
-This keeps you close to the work. Keeps turns lightweight. Intentional. Aligned with how you think.
-
-It gives the model a chance to refine its understanding based on your early reactions — and gives you more chances to course-correct before decisions snowball.
+This keeps you close to the work. Keeps turns lightweight. Intentional. Aligned with how you think. It gives the model a chance to refine its understanding based on your early reactions — and gives you more chances to course-correct before decisions snowball.
 
 That’s the core habit.
 
