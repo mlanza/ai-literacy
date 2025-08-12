@@ -88,14 +88,72 @@ That’s another version of flipping the script. You’re not starting over. You
 
 So while meta-prompting may feel like the AI is steering for a moment, you’re not handing over the wheel. You’re inviting it to help you shape the ask — *so that you can lead more effectively from there*. The work still happens in volleys. The clarity still comes in pieces.
 
-### Looking Ahead
+### Gameplan, Please
 
-Later in this book, you’ll learn how to decompose big projects into coordinated steps using chaining and multi-prompt workflows (in Section 301). But for now, keep your focus here:
+Meta-prompting is one way to get unstuck. You ask the model to help shape the right prompt, and it leads you through the unknowns, volley by volley. But there’s another option — one that keeps the initiative in your hands, while still working through the fog.
+
+Ask for the **gameplan**, not the answer.
+
+Sometimes the problem isn’t that you need hand-holding. It’s that the problem itself is underbaked. You know you want help with a creative writing assignment, or a hiring rubric, or a workshop plan — but you haven’t clarified the success criteria, the variables, the tradeoffs. You need help figuring out what *figuring it out* looks like.
+
+So instead of asking the model to hold your hand through each unknown…
+
+You ask it to lay out a plan for tackling the unknowns.
+
+Let’s go back to that earlier prompt:
+
+> *“I want to give you the right prompt for a creative writing assignment for my students. I want to encourage originality, but give enough scaffolding for students who get stuck easily, but I’m not sure how much to specify or how open-ended to keep it. Can you help me figure that out?”*
+
+That prompt sets the model up to walk you through the tradeoffs — a slow uncovering. That’s useful. But here’s what a gameplan-style pivot might look like instead:
+
+> *“I want to design a creative writing assignment that encourages originality but still provides enough scaffolding for students who get stuck easily. I’m unsure how much to specify versus how open-ended to keep it. Before we decide anything, map out a clear plan for how we could approach this — what questions to answer, what decisions to make, and in what order. I’ll weigh in as we go.”*
+
+That’s a different move. You’re still working through the details one at a time — but this time, the model lays out a roadmap first. You get to see the thinking upfront. You can revise it, skip steps, add your own, or go straight to the part that matters most.
+
+Here’s a sample response you might get:
+
+> **Sure — here’s one way we could approach designing the assignment:**
+>
+> **Step 1: Define the goals.**<br>
+> – Are we emphasizing creativity, structure, skill development, or engagement?<br>
+> – What do you want students to walk away with?
+>
+> **Step 2: Clarify constraints.**<br>
+> – Are there length limits, genre restrictions, or required elements?<br>
+> – How much time will students have?
+>
+> **Step 3: Decide on scaffolding.**<br>
+> – Should we provide a prompt, a story starter, or a set of questions?<br>
+> – Should we offer examples or mentor texts?
+>
+> **Step 4: Calibrate openness.**<br>
+> – How much flexibility should students have in topic, tone, or format?<br>
+> – Should we include optional “challenge” layers for advanced students?
+>
+> **Step 5: Establish evaluation criteria.**<br>
+> – Are we grading for originality, structure, grammar, effort, or something else?<br>
+> – How transparent should we be with those criteria?
+>
+> Let me know which step you’d like to start with — or what to change in the plan.
+
+You’re still working one volley at a time. But this time, you’re doing it *with a map in front of you*.
+
+That’s the hybrid move: not pure hand-holding, not pure command. You’re delegating the structure, but steering the pace. It’s especially useful when you’re not ready to go deep yet — but you want to see how the path might unfold before you commit.
+
+And once the path is laid out, the model can help you walk it — step by step, one decision at a time. Each turn remains lightweight. Intentional. Aligned with how you think.
+
+And that’s still the core habit.
 
 > One task. One prompt. One meaningful outcome.
 
+Even when what you’re prompting for… is a plan.
+
 Small prompts don’t mean small thinking.
+
 They mean **clearer reasoning, better results, and more control.**
+
 You’re not just typing.
+
 You’re guiding.
-One step at a time.
+
+One step at a time, even if sometimes you’re responding, not choreographing.
