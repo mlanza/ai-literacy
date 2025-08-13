@@ -19,7 +19,7 @@ Our goal now is to build a clear, human-friendly itinerary — one that reflects
 
 * 📄 **Confirmed Bookings Summary** — All the purchased tickets and reservations: flights, hotels, and a handful of timed activities.
 * 📄 **Experience Bucket List** — A set of interesting activities the family picked earlier in the planning process.
-* 🤖 **Activity Formatting Rules** — A simple process artifact describing how each day should be written up (clarity, structure, helpful travel cues).
+* 🛠️ **Activity Formatting Rules** — A simple process artifact describing how each day should be written up (clarity, structure, helpful travel cues).
 
 ### Output
 
@@ -52,7 +52,7 @@ By capturing coordinates, you give the AI the spatial information it needs to re
 
 This isn’t decoration. It’s what makes routing, clustering, and prioritizing feasible.
 
-#### 🤖 Aside: Designing for AX
+#### 🛠️ Aside: Designing for AX
 
 UX is for humans. AX is for AI.
 
@@ -68,7 +68,7 @@ Adding small details like coordinates, booking references, or even travel time e
 
 The result? Better output, less back-and-forth, and a process that starts to feel like a system.
 
-### 🤖 Activity Formatting Rules
+### 🛠️ Activity Formatting Rules
 
 This lightweight guide set the tone for how each day should be written. It covered things like:
 *Structure the day chronologically. Use bold headers for key events. Clearly separate fixed bookings from optional add-ons.*
@@ -104,7 +104,7 @@ Let’s break it down:
 
 1. 📄 **Confirmed Bookings Summary** — a **product artifact** listing what’s locked in.
 2. 📄 **Experience Bucket List** — a **product artifact** listing what’s desired.
-3. 🤖 **Activity Formatting Rules** — a **process artifact** describing how the result should be shaped.
+3. 🛠️ **Activity Formatting Rules** — a **process artifact** describing how the result should be shaped.
 
 Together, these formed the full context. Not in the model’s memory. Not implied in conversation.
 
