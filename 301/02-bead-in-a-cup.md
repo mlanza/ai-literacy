@@ -278,6 +278,6 @@ Not off to the side, waiting for you to intervene. Not in a chatbot thread you h
 
 **Right there in the cup.**
 
-The intelligence is already there — but the tools aren’t. The brain is still in a jar, sealed off from the work. It can see what you give it, reason about it, even tell you what should happen next — but it can’t reach out and make it happen. The bead only moves when you pick it up and hand it over.
+The intelligence is already there — but the tools aren’t. The brain is still in a jar, sealed off from the work. It can see what you give it, reason about it, even tell you what should happen next — but it can’t reach out and make it happen. If only it could pick up and move the bead itself, without your hand off.
 
-The next frontier is accessing infrastructure that equips the model with reach — the ability to move the bead itself. No extra prompt, no manual hand off.
+That's the next frontier.
