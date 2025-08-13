@@ -62,7 +62,7 @@ It’s not about writing in JSON. You’re still writing for people.
 
 But you’re also **writing with machines in mind**.
 
-That’s the shift. We’re not the only reader anymore.
+Human beings aren’t the only reader anymore.
 
 Adding small details like coordinates, booking references, or even travel time estimates isn’t overhead. It’s part of **context engineering** — crafting inputs that a machine can actually use to reason through the next step.
 
@@ -250,7 +250,7 @@ It’s **prompt + artifacts** — the instruction *and* the materials.
 
 It’s recognizing that AI can’t pull from your mind — it can only work with what’s in view.
 
-**Context engineering is putting enough integrity into what's been captured and communicated in your prompt and payload that one can reasonably anticipate a good output.**
+**Context engineering is putting enough integrity into what's been captured and communicated in your prompt and payload that one reasonably anticipates a good output.**
 
 The more visible your process becomes, the better you get at exposing the necessary information, the more likely your AI will be able to assist.
 
