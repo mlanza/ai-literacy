@@ -74,18 +74,18 @@ In the case of planning an international trip, those artifacts are easy to imagi
 6. **Trip Review Notes**
    A short write-up of what worked and what you’d change.
 
-7. **Reusable Templates or Prompts** 🤖
+7. **Reusable Templates or Prompts** 📦
    Prompts, checklists, or patterns that worked well enough to save.
 
-8. **Booking Windows Guide** 🤖
+8. **Booking Windows Guide** 📦
    Reference sheet that outlines when to book flights, trains, lodging, and activities for optimal pricing and availability.
 
-9. **Readiness Criteria** 🤖
+9. **Readiness Criteria** 📦
    A repeatable checklist to confirm logistical, personal, and administrative preparedness before departure.
 
 Some artifacts — like personal preferences or logistics — are now treated as structured fields within larger artifacts (e.g. Trip Brief, Final Itinerary). This makes the SOP more compact, while keeping process clarity intact.
 
-Artifacts marked with 🤖 are **process artifacts**: reusable elements that describe *how* the work is done, not just what was done.
+Artifacts marked with 📦 are **process artifacts**: reusable elements that describe *how* the work is done, not just what was done.
 
 ## 🧳 SOP: Plan an International Trip
 
@@ -95,7 +95,7 @@ Each step below describes a phase of planning and follows it with its **artifact
 * ⬅️ = output from this step<br>
   And either:<br>
 * 📄 = product artifact (specific to this trip)<br>
-* 🤖 = process artifact (generic or reusable)<br>
+* 📦 = process artifact (generic or reusable)<br>
 
 ### 1. **Define the trip**
 
@@ -130,7 +130,7 @@ Secure the elements that are time-sensitive or supply-limited.
 * ➡️ 📄 Budget Sketch
 * ⬅️ 📄 Booking Tracker
 * ⬅️ 📄 Confirmed Bookings Summary
-* ➡️ 🤖 Booking Windows Guide
+* ➡️ 📦 Booking Windows Guide
 
 ### 5. **Fill in the details**
 
@@ -145,7 +145,7 @@ Build the full itinerary with logistics and backup planning built-in.
 Make sure you’re document-ready, physically prepped, and packed.
 
 * ➡️ 📄 Final Daily Itinerary
-* ➡️ 🤖 Readiness Criteria
+* ➡️ 📦 Readiness Criteria
 * ⬅️ 📄 Travel Document Packet
 * ⬅️ 📄 Pre-Trip Checklist
 
@@ -155,7 +155,7 @@ Reflect on what worked and capture reusable patterns.
 
 * ➡️ 📄 Final Daily Itinerary
 * ⬅️ 📄 Trip Review Notes
-* ⬅️ 🤖 Reusable Templates or Prompts
+* ⬅️ 📦 Reusable Templates or Prompts
 
 ## Zoomed Out, It’s a Machine
 
