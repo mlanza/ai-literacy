@@ -250,7 +250,7 @@ It’s **prompt + artifacts** — the instruction *and* the materials.
 
 It’s recognizing that AI can’t pull from your mind — it can only work with what’s in view.
 
-**Context engineering is putting enough integrity into what's been captured and communicated in your prompt and payload that one reasonably anticipates a good output.**
+**Context engineering is putting enough integrity into what's been captured and communicated in your prompt and payload that it’s reasonable to anticipate a good output.**
 
 The more visible your process becomes, the better you get at exposing the necessary information, the more likely your AI will be able to assist.
 
