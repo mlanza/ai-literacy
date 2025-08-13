@@ -125,6 +125,8 @@ They’re not just scraps along the way. They’re the evidence of thinking. The
 
 You’re not outsourcing the work. You’re sharing it—and gaining visibility in return.
 
+So to leverage your efforts you need to develop a habit of capturing and curating these artifacts. That’s what **artifact curation** is about. It’s the ongoing practice of creating, refining, and restructuring so all the effort poured into systemizing work can be harvested and reused. The process doesn’t stop when the immediate job is done—it continues in the background, quietly building a library you can draw from.
+
 ### Wayfinding: Surfacing and Navigating Options
 
 Sometimes the next move isn’t deciding — it’s *surfacing more options*. And AI is unusually good at that.
