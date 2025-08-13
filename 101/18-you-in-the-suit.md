@@ -22,7 +22,7 @@ So the question isn’t “Will AI take my job?”
 
 It’s “What can I do in the suit?”
 
-Don’t lose track of this: the suit doesn’t amplify you by accident. To really make it part of who you are, you have to learn its ins and outs. You have to fly it around, try the gadgets, push it to its limits, and make a habit of bringing it into your real work. The abilities are there — but they’re latent. They emerge only when you’ve put in the hours, tested the edges, and decided to suit up regularly.
+Don’t lose track of this: **the suit doesn’t amplify you by accident.** To really make it part of who you are, you have to learn its ins and outs. You have to fly it around, try the gadgets, push it to its limits, and make a habit of bringing it into your real work. The abilities are there — but they’re latent. They emerge only when you’ve put in the hours, tested the edges, and decided to suit up regularly.
 
 That same pattern will hold for every step ahead. Later, you’ll see the AI not just as an amplifier, but as a teammate. Later still, you’ll see it as a way to assemble and coordinate whole teams. Each stage is a learned skill — a capability that only shows up because you invested the energy to develop it.
 
