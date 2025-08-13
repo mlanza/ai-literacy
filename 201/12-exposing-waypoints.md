@@ -93,7 +93,7 @@ Waypoints make that possible. They’re not just detours. They’re deposits of 
 
 ## Why Waypoints Appear
 
-Imagine producing a deliverable as process, a set of cups lined up.  A bead is dropped in the first and flows cup by cup through stages along a path. That's work unfolding. The more distinct stages—cups—you introduce the more paths emerge between them. When you stretch a process, you force connections into being and move past treating work as a single bound. Adding checkpoints is about creating opportunities to engage the process, to examine the work.
+Imagine producing a deliverable as process, a set of cups lined up.  A bead is dropped in the first and flows cup by cup through stages along a path. That's work unfolding. The more distinct stages—cups—you introduce the more paths emerge between them. When you stretch a process, you force connections into being and move past treating work as a single bound. Adding checkpoints is about creating opportunities to engage the process, each cup’s inputs and outputs.
 
 Any project-sized ask, including ChatGPT's *deep research*, has at its heart always meant decomposing the work. The chain-of-thought effect—where you watch the model reason out loud—is a UI parlor trick that only seems impressive.
 
