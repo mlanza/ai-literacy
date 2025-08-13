@@ -197,13 +197,11 @@ Every time you invest in building context, it’s not just for now. You’re lay
 
 The trick is to treat those moments—where you intervene, steer, or clarify—as more than one-off events. They’re often signals worth preserving.
 
-You’ll only see them if you’re looking. But once you do, you can start boxing them up: the reusable prompt that calibrated the right tone, the checklist you surfaced while refining structure, the “note to self” that turned into a house rule for future projects.
+You’ll only see them if you’re looking. But once you do, you can start boxing them up: the reusable prompt that calibrated the right tone, the checklist you surfaced while refining structure, the “note to self” that turned into a house rule for future projects. This is artifact curation in action—keeping the pieces of judgment you’ve already paid for in time and attention.
 
 In this particular run, maybe you realized you were constantly correcting for overly abstract intros—so you wrote a note about grounding content in user context. Maybe you came up with a better way to frame feedback for stakeholder summaries. Maybe the AI helped you generate a style checklist that will save you half an hour next time.
 
-Those pieces aren’t just leftovers. They’re **fuel** for your next project—modular, portable specs that let your past effort compound over time.
-
-That’s the shift. You’re no longer starting from scratch. You’re building a system.
+Those pieces aren’t just leftovers. They’re fuel for your next project—modular, portable specs that let your past effort compound over time.
 
 ### This Is Not a Shortcut—It’s Training in Disguise
 
@@ -217,12 +215,11 @@ This isn’t just process visibility—it’s systems thinking. You’re creatin
 
 ### The Boon of Byproducts
 
-So let’s be clear: the real win isn’t just that you produced useful artifacts along the way. The deeper value is that you gained **access** to them—because you stretched the process and made it visible.
+So let’s be clear: the real win isn’t just that you produced useful artifacts along the way. The deeper value is that you gained access to them—because you stretched the process and made it visible.
 
 Instead of hiding the mess, you walked through it. Instead of skipping to the end, you paused at the waypoints. And in doing so, you created space for meaningful collaboration.
 
-The artifacts weren’t the goal. They were the *consequence* of involving yourself—of reacting, refining, and redirecting as the work evolved. The AI handled the structure and speed. You brought the discernment. And together, you didn’t just get it done—you got it *right*.
-
+That’s the dividend of artifact curation—not simply generating byproducts, but deliberately capturing, labeling, and preserving them so the thinking behind today’s output becomes tomorrow’s starting point. The artifacts weren’t the goal. They were the consequence of involving yourself—of reacting, refining, and redirecting as the work evolved.
 That’s why the final product feels worthy of your standards.
 
 Because you *saw how it came to be*. You stayed in the loop. You caught drift early. You reinforced what worked. You treated the interaction not as a transaction, but as a working relationship.
