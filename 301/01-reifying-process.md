@@ -229,7 +229,7 @@ Because what used to take a full dev team, a custom backend, and months of plann
 
 ## The Bead and the Cups
 
-Zoom out. Imagine the entire SOP as a series of cups laid out in a path representing the workflow. The “ticket” — your client’s request, your planning brief — is the bead. It moves from one cup to the next as each step is completed.
+Zoom out. Imagine the entire SOP as a series of cups laid out in a path representing the flow of work. The “ticket” — your client’s request, your planning brief — is the bead. It moves from one cup to the next as each step is completed.
 
 That bead is the thing you’re actually tracking. It’s the locus of progress. The artifacts, the decisions, the handoffs — all of it exists to help that bead move. And that’s the game we’re playing: **get the bead to the next cup**.
 
