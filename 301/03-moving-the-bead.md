@@ -129,7 +129,7 @@ That’s the anatomy of the moment. Two inputs. One ask. And if you’ve framed 
 
 Let’s walk through what each artifact needs to look like.
 
-### 📄 Traveler Profile (Process Artifact)
+### 🛠️ Traveler Profile (Process Artifact)
 
 This is the cheat sheet — a way to help the AI see how *you* think about flights.
 
@@ -197,19 +197,13 @@ You’re not grading a student. You’re training a teammate.
 
 This is what “moving the bead” really means. Not just issuing a prompt, but engineering the moment so a smart tool can act meaningfully.
 
-And if you can do it in ChatGPT, you can do it anywhere.
+And if you can do it in ChatGPT, you can do it anywhere — embedded in a Power Automate flow, running inside a browser extension, wrapped in a console app, or built into a shared team tool. Because once you know what the moment *requires*, building the environment is just infrastructure work. Your moving the bead was the actual domain problem. Never mind you used sample data. It’s rehearsal. Swapping in a live feed of flight data doesn’t change the reality of the lift.
 
-Picture the same logic embedded in a Power Automate flow — traveler profile and flight results piped in as variables. The LLM evaluates and outputs a shortlist. Now that same bead moves in Microsoft land.
-
-Or maybe it lives in a browser extension. Or a console app. Or a shared team tool.
-
-The form doesn’t matter. The inputs do.
-
-Because once you know what the moment *requires*, building the environment is just infrastructure work.
+The work transfers. The same payload that moves the bead in one setting will move it in another.
 
 ### 🧭 Thinking About Context
 
-This whole exercise wasn’t about flights. It was about **context engineering**.
+This exercise wasn’t about flights. It was about **context engineering**.
 
 You built a prompt, yes — but more importantly, you built the **payload**. You isolated the exact inputs that shape a good decision, and you wrapped them in a frame the AI could act on.
 
