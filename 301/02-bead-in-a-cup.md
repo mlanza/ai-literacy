@@ -258,7 +258,7 @@ That’s the handoff.
 
 That’s how you move the bead.
 
-## 👀 What’s Next
+## Shifting Things Right
 
 We all know what it’s like to lean left. To bring in AI when we’re stuck, or when a task feels small and self-contained. We paste in a bit of context, talk through the shape of what we want, maybe try a few rewrites. The help is real — but so is the overhead.
 
