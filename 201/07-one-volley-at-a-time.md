@@ -8,15 +8,15 @@ LLMs perform best when each instruction is focused on a single, specific outcome
 
 Say you paste in an article and write:
 
-> “Read this article, summarize it, rewrite it for leadership, and suggest a catchy title.”
+> 🗣️ “Read this article, summarize it, rewrite it for leadership, and suggest a catchy title.”
 
 That might feel efficient — like getting everything done at once. But more often than not, the result will be vague, rushed, or forgettable. Why? Because the model is trying to juggle too many tasks without fully engaging with any of them.
 
 Try this instead:
 
-* “Summarize this article.”
-* “Rewrite it for a leadership audience.”
-* “Give me three headline options.”
+> 🗣️ “Summarize this article.”<br>
+> 🗣️ “Rewrite it for a leadership audience.”<br>
+> 🗣️ “Give me three headline options.”<br>
 
 Each step is simple. Focused. Clear. And what you get is sharper at every stage — because the model isn’t just skipping to the end. It’s being asked to think, write, and commit to an output before moving on.
 

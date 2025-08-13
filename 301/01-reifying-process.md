@@ -227,9 +227,9 @@ That’s where things get interesting.
 
 Because what used to take a full dev team, a custom backend, and months of planning… starts to look tractable. If you know what seat needs filling — and how to hand it the work.
 
-## The Bead and the Petri Net
+## The Bead and the Cups
 
-Zoom out. Imagine the entire SOP as a **petri net** — a series of cups, each holding a portion of the work. The “ticket” — your client’s request, your planning brief — is the bead. It moves from one cup to the next as each step is completed.
+Zoom out. Imagine the entire SOP as a series of cups, each holding a portion of the work. The “ticket” — your client’s request, your planning brief — is the bead. It moves from one cup to the next as each step is completed.
 
 That bead is the thing you’re actually tracking. It’s the locus of progress. The artifacts, the decisions, the handoffs — all of it exists to help that bead move. And that’s the game we’re playing: **get the bead to the next cup**.
 

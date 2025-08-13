@@ -60,7 +60,7 @@ When you turn on a calendar tool, you’re not just enabling scheduling. You’r
 
 Take
 
-> “How do I update the formatting on every slide in this PowerPoint?”
+> 🗣️ “How do I update the formatting on every slide in this PowerPoint?”
 
 You ask ChatGPT, and it walks you through the steps. Click this, go here, apply that. Super helpful. But it can’t open your file or make the change. You have to follow the instructions line by line — like reading from a page torn out of a manual.
 
@@ -72,7 +72,7 @@ That’s the limit of pure prompting: the AI thinks with you, but it doesn’t a
 
 Now give the chatbot tools.
 
-> “Update this slide deck so every title is 36pt bold and aligned left.”
+> 🗣️ “Update this slide deck so every title is 36pt bold and aligned left.”
 
 The AI opens the file, scans the slides, and makes the edits directly. It shows you a before-and-after view. You give a thumbs up. Done.
 

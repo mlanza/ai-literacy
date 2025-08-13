@@ -165,7 +165,7 @@ You ask the AI to play C-3PO.
 
 Here’s the move:
 
-> “Pretend I’m searching for roundtrip flights from BWI to Kyoto (with outliers like IAD or JFK allowed). Use the Skyscanner API format as a guide. I need realistic mock data — at least 200 itineraries, in JSON. Include carrier, price, layover details, total travel time, etc.”
+> 🗣️ “Pretend I’m searching for roundtrip flights from BWI to Kyoto (with outliers like IAD or JFK allowed). Use the Skyscanner API format as a guide. I need realistic mock data — at least 200 itineraries, in JSON. Include carrier, price, layover details, total travel time, etc.”
 
 That’s it. You’re not looking for real data — you’re modeling the shape of it. Because the shape is enough to practice the moment.
 
@@ -177,7 +177,7 @@ Once you’ve got that mock data, you’re ready to move the bead.
 
 The setup is done. Now comes the ask:
 
-> “Given our traveler profile (attached) and this list of flight options (attached), recommend the best flight. List two alternates for comparison.”
+> 🗣️ “Given our traveler profile (attached) and this list of flight options (attached), recommend the best flight. List two alternates for comparison.”
 
 The AI doesn’t need memory. It doesn’t need backstory. It just needs these two artifacts — dropped cleanly in the cup.
 
