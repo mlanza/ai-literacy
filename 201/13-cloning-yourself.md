@@ -40,13 +40,13 @@ You start with the Service Desk Guide. This is your prototype. At first, the mod
 
 So you step in. You start coaching the AI—in ChatGPT:
 
-> Rewrite this intro to show how the ticketing system supports *their actual work*. Less about the tech, more about the user reality: volume, multitasking, time pressure.
+> 🗣️ Rewrite this intro to show how the ticketing system supports *their actual work*. Less about the tech, more about the user reality: volume, multitasking, time pressure.
 
 That helps. Later you say:
 
-> Use second person (“you”) instead of talking about the user in the abstract.
-> Call out default settings explicitly—don’t assume they know what’s preconfigured.
-> Make escalation criteria easy to skim—use bold.
+> 🗣️ Use second person (“you”) instead of talking about the user in the abstract.<br>
+> 🗣️ Call out default settings explicitly—don’t assume they know what’s preconfigured.<br>
+> 🗣️ Make escalation criteria easy to skim—use bold.<br>
 
 But just when things seem smooth, the model misfires:
 
@@ -54,7 +54,7 @@ But just when things seem smooth, the model misfires:
 
 You stop and clarify:
 
-> That sounds like marketing copy. Make it sound like something I’d say to a peer. Focus on *what they’re actually doing*.
+> 🗣️That sounds like marketing copy. Make it sound like something I’d say to a peer. Focus on *what they’re actually doing*.
 
 That moment of friction matters. It reminds you: cloning isn’t “paste and go.” It’s a coaching process. That’s how your guidance gets sharper.
 
@@ -62,7 +62,7 @@ Little by little, you’re transferring your editorial instincts. The draft gets
 
 Instead of starting over, you capture it. You ask:
 
-> Can you summarize the main guidance I gave you while we were working on this guide? Think of it as a checklist or style reference for future role-specific documentation.
+> 🗣️ Can you summarize the main guidance I gave you while we were working on this guide? Think of it as a checklist or style reference for future role-specific documentation.
 
 And the model replies:
 
@@ -85,7 +85,7 @@ You copy that list into a markdown file:
 
 Now, when you start the Triage Lead Guide next week, you don’t have to re-coach the model from scratch. You drop that file into your prompt in ChatGPT:
 
-> Here’s the style guide we used for the Service Desk role. Use this as your baseline when drafting for the Triage Lead.
+> 🗣️ Here’s the style guide we used for the Service Desk role. Use this as your baseline when drafting for the Triage Lead.
 
 The AI picks up where you left off. Your guidance becomes portable. Your standards become repeatable.
 
@@ -101,13 +101,13 @@ The checklist the model produced isn’t just a summary. It’s an artifact. A p
 
 Cloning isn’t about getting perfect results in one prompt. It’s about building **teammates from your preferences**, then deploying those teammates again and again.
 
-> Good prompting is reactive.
-> Cloning is cumulative.
+Good prompting is reactive.
+
+Cloning is cumulative.
 
 You’re not just adjusting responses—you’re **building a system of thought** the model can carry forward.
 
-> Not sure if something’s worth saving? Here’s a test:
-> *If it made this task easier—and you wish you’d had it earlier—it’s probably a good artifact.*
+Not sure if something’s worth saving? Here’s a test: *If it made this task easier—and you wish you’d had it earlier—it’s probably a good artifact.*
 
 ## Yes, You’re Still in the Loop—And That’s the Point
 

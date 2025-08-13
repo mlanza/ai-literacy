@@ -92,7 +92,7 @@ This wasn’t a vibe check. It wasn’t magic. It was a **command** — supporte
 
 The prompt that drove things forward:
 
-> “Use these three documents — the Confirmed Bookings Summary, the Experience Bucket List, and the Activity Formatting Rules — to generate a final daily itinerary for the Japan trip, formatted as requested.”
+> 🗣️ “Use these three documents — the Confirmed Bookings Summary, the Experience Bucket List, and the Activity Formatting Rules — to generate a final daily itinerary for the Japan trip, formatted as requested.”
 
 That’s the bead moving from one cup to the next.
 

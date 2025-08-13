@@ -110,7 +110,7 @@ Let’s ground that in a real example.
 
 Imagine you start a story with:
 
-> “Once upon a time, there was a very hungry…”
+> 🗣️ “Once upon a time, there was a very hungry…”
 
 Internally, the model might assign these probabilities to the next word:
 

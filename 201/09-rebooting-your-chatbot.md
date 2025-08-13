@@ -19,7 +19,7 @@ Let’s zoom in on a real scenario.
 
 You’re tasked with creating an 8–10 minute onboarding presentation for a new cohort of entry-level systems engineers. It needs to be welcoming, practical, and ideally give these new hires a sense that they belong. You’re not totally sure about the structure yet, or how deep to go technically. You open ChatGPT and type:
 
-> “I need to build a short onboarding presentation for our new cohort of entry-level systems engineers. Can you help me structure it?”
+> 🗣️ “I need to build a short onboarding presentation for our new cohort of entry-level systems engineers. Can you help me structure it?”
 
 You’re hoping the AI can help you find a tone, format, and narrative that works.
 
@@ -29,7 +29,7 @@ You’re hoping the AI can help you find a tone, format, and narrative that work
 
 The AI replies with familiar onboarding categories: team structure, tooling, IT policies. You quickly push back:
 
-> “That’s too much like a handbook. I want this to feel more human.”
+> 🗣️ “That’s too much like a handbook. I want this to feel more human.”
 
 #### Turns 4–6: Metaphor Brainstorming
 
@@ -41,13 +41,13 @@ You're figuring out what doesn’t work by trial and error.
 
 You're more direct now:
 
-> “Stop giving me long paragraphs. Use bullet points so I can shape this.”<br>
-> “Don’t use clipart or jokes. This is IT—not a marketing deck.”<br>
-> “Tone should be plainspoken and optimistic.”<br>
+> 🗣️ “Stop giving me long paragraphs. Use bullet points so I can shape this.”<br>
+> 🗣️ “Don’t use clipart or jokes. This is IT—not a marketing deck.”<br>
+> 🗣️“Tone should be plainspoken and optimistic.”<br>
 
 You land on a framing that resonates:
 
-> “I like the ‘What You’ll Be Doing, Why It Matters, and How We Work Here’ approach. Let’s build on that.”
+> 🗣️“I like the ‘What You’ll Be Doing, Why It Matters, and How We Work Here’ approach. Let’s build on that.”
 
 It’s taken several zigzags, but you’ve clarified the tone, structure, and formatting preferences.
 
@@ -55,7 +55,7 @@ It’s taken several zigzags, but you’ve clarified the tone, structure, and fo
 
 The AI starts reintroducing previously rejected ideas. The thread is getting long and repetitive. Decisions are buried. You think:
 
-> “This is bloated. I want a clean slate—but I don’t want to lose the work.”
+> 🗣️ “This is bloated. I want a clean slate—but I don’t want to lose the work.”
 
 ## Wiping the Slate—Without Losing the Progress
 
@@ -63,7 +63,7 @@ This is where the real skill shows up.
 
 Instead of scrolling back through the thread or starting from scratch, you ask the AI to create a structured summary—something like:
 
-> “Can you summarize this entire conversation? Include:
+> 🗣️ “Can you summarize this entire conversation? Include:
 >
 > * What the presentation is for
 > * What ideas we accepted or rejected (and why)
@@ -97,7 +97,7 @@ Before jumping into a new chat, take a moment to think strategically:
 2. **Does the summary contain anything you don’t need?**
    You might trim rejected metaphors or open questions. Say:
 
-   > “Trim this down to just the purpose, structure, and tone preferences. Leave out anything we’ve ruled out or haven’t decided.”
+   > 🗣️ “Trim this down to just the purpose, structure, and tone preferences. Leave out anything we’ve ruled out or haven’t decided.”
 
    You’re not just managing space—you’re managing clarity. Too much information can dilute the model’s focus, making it harder for the AI to prioritize what matters most. When everything is included, nothing stands out. Trimming helps sharpen the AI’s attention so it zeroes in on the work you actually want to do next.
 

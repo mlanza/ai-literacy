@@ -50,8 +50,7 @@ You save this summary as a standalone artifact. Not just for reference—but to 
 
 #### 📘 Lens 2: *The Power of Moments* Summary Artifact
 
-**Prompt:**
-*"Summarize* The Power of Moments *in 300 words. Focus on insights that help team leads create more memorable or meaningful experiences."*
+> 🗣️ *"Summarize* The Power of Moments *in 300 words. Focus on insights that help team leads create more memorable or meaningful experiences."*
 
 You run the exact same pattern here—same prompt shape, different book. The result is another clean, focused summary. It gives you ideas around elevation, insight, pride, and connection. Again, you save it as an artifact.
 
@@ -59,8 +58,7 @@ These two summaries now live as their own files—small enough to feed back into
 
 #### 📄 Lens 3: Internal Guide Summary Artifact
 
-**Prompt:**
-*"From this team norms document, extract only the sections related to psychological safety and early warning signs of misalignment. Summarize them in bullet points with examples where possible."*
+> 🗣️ *"From this team norms document, extract only the sections related to psychological safety and early warning signs of misalignment. Summarize them in bullet points with examples where possible."*
 
 You don’t need the whole 70-page policy doc. You need the pieces that will help a manager spot when a new hire is silently struggling. This prompt gives you exactly that—tight bullet points, targeted insights, no fluff. You compress selectively.
 
@@ -70,8 +68,7 @@ You upload all three artifacts—your summary of *Atomic Habits*, your summary o
 
 Then you ask:
 
-**Prompt:**
-*"Based on these three documents, what are five concrete practices a team lead could use in their first 30 days to build trust, encourage productive habits, and create meaningful early experiences for a new hire? Keep the advice actionable and tie each practice back to its source."*
+> 🗣️ *"Based on these three documents, what are five concrete practices a team lead could use in their first 30 days to build trust, encourage productive habits, and create meaningful early experiences for a new hire? Keep the advice actionable and tie each practice back to its source."*
 
 This is where it all pays off.
 
@@ -89,8 +86,7 @@ That’s not a compromise—that’s craft.
 
 ### 🧭 Another Use Case: Designing for Better Defaults
 
-**Prompt:**
-*"Extract all mentions of environment design from* Atomic Habits. *Summarize how surroundings—digital or physical—can be shaped to encourage better behavior. Include examples, and focus on practical applications relevant to workplace settings."*
+> 🗣️ *"Extract all mentions of environment design from* Atomic Habits. *Summarize how surroundings—digital or physical—can be shaped to encourage better behavior. Include examples, and focus on practical applications relevant to workplace settings."*
 
 Your department didn’t expect it—but you got a surprise surplus budget this quarter. Not enough to renovate the building, but enough to do something meaningful. The directive from above is clear: **invest in your people.** Specifically, find ways to improve the working environment and promote healthier habits across the team.
 
@@ -112,8 +108,7 @@ That becomes your foundation.
 
 You use that compressed artifact as the raw material for a second prompt:
 
-**Prompt:**
-*"Given these environment design principles, what are five low-cost, high-impact changes we could make in an office setting to encourage healthier work habits? Focus on defaults—calendar changes, layout tweaks, visual cues, etc."*
+> 🗣️ *"Given these environment design principles, what are five low-cost, high-impact changes we could make in an office setting to encourage healthier work habits? Focus on defaults—calendar changes, layout tweaks, visual cues, etc."*
 
 Now the model can actually reason. You’ve cut away the noise and handed it only the pieces that matter. The camera’s in focus, the shot is framed, and the output feels relevant and actionable.
 

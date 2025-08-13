@@ -70,8 +70,7 @@ But because **you know how to pilot a chatbot well**.
 
 You begin the session by pasting in the SOP:
 
-> **Prompt:**<br>
-> *Here’s our SOP for drafting product docs. You’re to follow it with me as I build documentation for our identity platform. Wait for my cue before each step. Let me know once you’ve read it.*<br>
+> 🗣️*Here’s our SOP for drafting product docs. You’re to follow it with me as I build documentation for our identity platform. Wait for my cue before each step. Let me know once you’ve read it.*<br>
 > \[uploads SOP]<br>
 
 ChatGPT replies:
@@ -80,7 +79,7 @@ ChatGPT replies:
 
 You reply:
 
-> Start with Step 1. The audience is new IT hires onboarding this quarter.
+> 🗣️ Start with Step 1. The audience is new IT hires onboarding this quarter.
 
 ### 🛠️ Step 1 Output: Identify the Target Audience
 
@@ -99,7 +98,7 @@ You review the output and realize something’s missing.
 
 You respond:
 
-> Add: “What happens if I leave a team or project?” That’s often overlooked.
+> 🗣️ Add: “What happens if I leave a team or project?” That’s often overlooked.
 
 ChatGPT updates the list.
 
@@ -107,7 +106,7 @@ ChatGPT updates the list.
 
 You move on:
 
-> Let’s do Step 2.
+> 🗣️ Let’s do Step 2.
 
 ### 🛠️ Step 2 Output: Topic Outline
 
@@ -127,8 +126,7 @@ You decide it’s time to update the process.
 
 You prompt:
 
-> Insert this line into Step 1:
-> “Prompt for common confusions around lifecycle events (e.g. team transfers, departures) that affect access.”
+> 🗣️ Insert this line into Step 1: “Prompt for common confusions around lifecycle events (e.g. team transfers, departures) that affect access.”
 
 ChatGPT returns the updated markdown. You save it to:
 
@@ -172,7 +170,7 @@ And if one slips up? Another catches it. Because your waypoints are designed to 
 
 Even better, the same bot can switch roles midstream. With just a prompt, it changes hats:
 
-> "Now review that summary for unsupported claims. Highlight anything that might require citation."
+> 🗣️ "Now review that summary for unsupported claims. Highlight anything that might require citation."
 
 It can even run a web search to confirm facts—if you ask it to.
 

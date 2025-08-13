@@ -12,7 +12,7 @@ That’s when the need for *structure* became clear—not to lock things down, b
 
 Mid-conversation, the user asked:
 
-> Can you create a running list that separates ideas into 'Accepted So Far' and 'Rejected (with notes why)'? Let’s keep adding to it as we go.
+> 🗣️ Can you create a running list that separates ideas into 'Accepted So Far' and 'Rejected (with notes why)'? Let’s keep adding to it as we go.
 
 And just like that, the buckets appeared—not from a grand plan, but from necessity.
 
@@ -37,15 +37,13 @@ Now imagine continuing the project without those groupings. You’d be stuck scr
 
 Buckets fix that. They give your thinking shape. They let you point, command, and build.
 
-> **New Prompt:**
-> Take just the accepted ideas and turn them into an outline for a 5-slide intro presentation. One bullet per slide.
+> 🗣️ Take just the accepted ideas and turn them into an outline for a 5-slide intro presentation. One bullet per slide.
 
 Now the model knows *what* to use—and *what to leave behind*. Because the ideas have been sorted.
 
 And if the user changes their mind?
 
-> **Follow-up Prompt:**
-> Actually, can you bring back the airport metaphor idea and revise it based on what we said didn’t work?
+> 🗣️ Actually, can you bring back the airport metaphor idea and revise it based on what we said didn’t work?
 
 They’re not guessing—they’re reaching into a labeled bin, and adjusting with precision.
 
