@@ -280,4 +280,4 @@ Not off to the side, waiting for you to intervene. Not in a chatbot thread you h
 
 The intelligence is already there — but the tools aren’t. The brain is still in a jar, sealed off from the work. It can see what you give it, reason about it, even tell you what should happen next — but it can’t reach out and make it happen. If only it could pick up and move the bead itself, without your hand off.
 
-That's the next frontier.
+That’s where we’re heading.
