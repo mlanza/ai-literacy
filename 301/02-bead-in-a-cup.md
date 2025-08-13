@@ -268,7 +268,7 @@ So we don’t do it often. We stick to using AI for isolated tasks — things we
 
 **That’s why we want to shift things to the right.**
 
-To do that, to make the whole projects tractable, you need to build scaffolding to carry memory, structure, and priorities forward — not just to make the next prompt easier.  The goal is to **build systems where thinking happens inside the loop**.
+To do that, to make the whole projects tractable, you need to build scaffolding to carry memory, structure, and priorities forward — not just to make the next prompt easier. The goal is to **build systems where thinking happens inside the loop**.
 
 You’ve seen what happens when a brain joins the process — when it has the right inputs, at the right time, and can reason from them.
 
@@ -278,14 +278,6 @@ Not off to the side, waiting for you to intervene. Not in a chatbot thread you h
 
 **Right there in the cup.**
 
-That’s what’s starting to happen.
+The intelligence is already there — but the tools aren’t. The brain is still in a jar, sealed off from the work. It can see what you give it, reason about it, even tell you what should happen next — but it can’t reach out and make it happen. The bead only moves when you pick it up and hand it over.
 
-Tools are emerging that don’t just carry the data — they carry the *intelligence*. Agents that can spot what's missing, fill in gaps, reformat, restructure, even route artifacts downstream.
-
-The bead doesn’t just move because you told it to.
-
-It moves because you engineered a system that knows what to do with it.
-
-The next frontier isn’t just asking AI to assist — it’s designing environments where its contribution is built in.
-
-Where moving the bead doesn’t require a prompt, because the system already knows what matters.
+The next frontier is building the infrastructure that gives the model that reach — the ability to move the bead itself. No extra prompt.  The system already knows what matters.  It just needs the means to act on it.
