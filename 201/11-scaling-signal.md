@@ -42,7 +42,7 @@ So instead, you compress them. One by one. And you treat each compression as an 
 #### 📕 Lens 1: *Atomic Habits* Summary Artifact
 
 **Prompt:**
-*"Summarize* Atomic Habits *in under 300 words. Focus on the key takeaways and practical coaching insights."*
+*"Summarize* Atomic Habits *in 300 words. Focus on the key takeaways and practical coaching insights."*
 
 This gives you a compressed view of James Clear’s most important ideas—identity-based habits, the Four Laws, and examples that are perfect for a manager trying to help someone nudge a new behavior into place.
 
@@ -51,7 +51,7 @@ You save this summary as a standalone artifact. Not just for reference—but to 
 #### 📘 Lens 2: *The Power of Moments* Summary Artifact
 
 **Prompt:**
-*"Summarize* The Power of Moments *in under 300 words. Focus on insights that help team leads create more memorable or meaningful experiences."*
+*"Summarize* The Power of Moments *in 300 words. Focus on insights that help team leads create more memorable or meaningful experiences."*
 
 You run the exact same pattern here—same prompt shape, different book. The result is another clean, focused summary. It gives you ideas around elevation, insight, pride, and connection. Again, you save it as an artifact.
 
