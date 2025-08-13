@@ -20,7 +20,7 @@ It’s not here to replace human intelligence. It’s here to **amplify** it —
 
 So the question isn’t “Will AI take my job?”
 
-It’s “How do I leverage Will Hunting’s mind?” or “What can I do in the suit?”
+It’s “What can I do in the suit?”
 
 Don’t lose track of this: the suit doesn’t amplify you by accident. To really make it part of who you are, you have to learn its ins and outs. You have to fly it around, try the gadgets, push it to its limits, and make a habit of bringing it into your real work. The abilities are there — but they’re latent. They emerge only when you’ve put in the hours, tested the edges, and decided to suit up regularly.
 
