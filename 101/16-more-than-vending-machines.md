@@ -6,7 +6,7 @@ It’s tempting to believe you can simply “shop” your prompt around — past
 
 These models can be slotted into jobs just like coworkers — given a defined role, a set of expectations, and the right materials to succeed. And just like coworkers, they’re more than vending machines. You don’t get consistent, high-quality work by pushing a button and expecting something flawless to land in the slot, shrink-wrapped and ready to go. You get it by understanding how they operate, giving them the right context, and shaping your requests so they can deliver the result you actually need.
 
-One process tuned for one model might stumble when you swap in another. That doesn’t mean the new one is worse — in fact, it might be sharper if you meet it on its own terms. The trick is to notice those terms, adapt your inputs, and capture what works so you can reuse it.
+One process tuned for one model might stumble when you swap in another. That doesn’t mean the new one is worse — in fact, it might be sharper if you meet it on its terms. The trick is to notice those terms, adapt your inputs, and capture what works so you can reuse it.
 
 The pitfalls of skipping that learning curve show up fast:
 
