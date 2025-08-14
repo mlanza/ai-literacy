@@ -20,13 +20,13 @@ If you think of AI as cheap labor that scales endlessly, you might miss the real
 
 ## Mentoring Is Specifying Is Training
 
-This is why working with an LLM matters.
+This is why working with an AI matters.
 
 When you shape a clone using clear, specific artifacts—examples, templates, tone guides, annotated drafts—you’re not just asking for help. You’re mentoring. You’re handing down judgment.
 
 Every prompt becomes a training moment. Every correction becomes a code update. Your specs *are* the way you scale your standards. That’s what makes them powerful—not just as instructions, but as **systems of thought**.
 
-You can’t learn an LLM’s strengths by skimming a capabilities list. You have to experience them. Prompt by prompt, across different parts of a real project—**often across different turns in the same chat**—you’ll start to absorb what it’s genuinely good at, and where it needs structure or oversight.
+You can’t learn an model’s strengths by skimming a capabilities list. You have to experience them. Prompt by prompt, across different parts of a real project—**often across different turns in the same chat**—you’ll start to absorb what it’s genuinely good at, and where it needs structure or oversight.
 
 That growing familiarity pays off. It’s how you build judgment into your clones. It’s how you guide their behavior without micromanaging every line. It’s how you clone not just your outputs, but your **standards**.
 

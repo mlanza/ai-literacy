@@ -1,6 +1,6 @@
 # Feet on the Ground
 
-In the last chapter, we described the LLM’s world as a kind of text adventure — a Zork-style simulation where the AI navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. When wired into the app’s glue code (ahem, architecture), they become portals to the real world — turning fictional acts into consequential ones.
+In the last chapter, we described the world from an AI’s perspective as a kind of text adventure — a Zork-style simulation where it navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. When wired into the app’s glue code (ahem, architecture), they become portals to the real world — turning fictional acts into consequential ones.
 
 If there’s a phone in the room, someone built it. If there’s a laptop with a browser open, someone made sure it knows how to behave. And if there’s a travel agency with an NPC outside, someone encoded its rules of engagement. Behind every meaningful object is a developer who breathed life into it — not to simulate reality, but to expose capabilities.
 
@@ -45,7 +45,7 @@ To notify the attendees, I need to check the user’s calendar for the 2:00 PM m
 }
 ```
 
-This response has two layers: the natural-language explanation for the human and the structured tool call for the system. That duality is exactly what makes the LLM a **universal mediator** — one foot in each world, translating human intention into machine action.
+This response has two layers: the natural-language explanation for the human and the structured tool call for the system. That duality is exactly what makes a model a **universal mediator** — one foot in each world, translating human intention into machine action.
 
 The developer extracts the structured request and relays it to the **MCP calendar service**, which responds:
 
@@ -172,13 +172,13 @@ We didn’t plan for this ask. But the system held up anyway. And that, more tha
 
 ## Feet Spur the Loop
 
-Each loop was a single LLM turn. Every tool call was surfaced explicitly:
+Each loop was a single turn. Every tool call was surfaced explicitly:
 
 * First, the model queried the calendar
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-For the model to propel itself forward in the story, picture Link (the LLM) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's **control loop**.
+For the model to propel itself forward in the story, picture Link (the AI) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's **control loop**.
 
 That's where the developer is, right there — with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made.  When the surgeon (the model) requests "scalpel," the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 

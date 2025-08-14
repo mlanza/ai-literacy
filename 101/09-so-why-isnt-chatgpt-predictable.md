@@ -28,7 +28,7 @@ Now simulate that same Plinko board in a computer. Suddenly, all those tiny vari
 
 In *Angry Birds*, you pick your bird, pull back the slingshot at a precise angle and strength. The game’s physics engine can predict everything: the arc, the impact, the damage. No guessing — just simulation. That’s **determinism**.
 
-It's also LLMs. They simulate likely next steps with precision. You give it an input (“drop the puck”), and it calculates the probability of every possible next word (“slot”). The model given the same input, yields the same output.
+It's also models. They simulate likely next steps with precision. You give it an input (“drop the puck”), and it calculates the probability of every possible next word (“slot”). The model given the same input, yields the same output.
 
 The variation comes not from the model. It's introduced after sampling its probabilities. That’s ChatGPT introducing randomness to make its responses feel more natural or surprising. They don’t always pick the highest-probability word. Instead, they control the sampling algorithm to give you variety.
 

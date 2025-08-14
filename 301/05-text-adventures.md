@@ -67,11 +67,11 @@ MCP is a kind of universal adapter — a way to make in-game props do real-world
 
 That’s what makes MCP so radical. If you type a query into the in-game browser — `where am I?` — you get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
 
-**From the LLM’s perspective, this is still just Zork.**
+**From the model’s perspective, this is still just Zork.**
 
 Everything it does is storytelling. But when the props in that story are wired to real-world instrumentation, the fiction gains consequence. Every input sets the stage. Every object becomes an opportunity for interaction. And the AI just continues the story — one plausible word at a time — based on the entire narrative so far.
 
-LLMs are ethereal. They neither see, nor touch, nor act. All they know is text. That means the world they inhabit is always a kind of Zork. And for them to take action — real action — they need tools. But wiring those tools in has always been costly.
+Models are ethereal. They neither see, nor touch, nor act. All they know is text. That means the world they inhabit is always a kind of Zork. And for them to take action — real action — they need tools. But wiring those tools in has always been costly.
 
 Historically, each tool integration required a developer to do all the work — linking app logic, permissions, and intent translation just to make a single instrument work. If you wanted a chatbot to perform a flight search, it had to interpret the user’s request, translate it to an API call (say, via Skyscanner), format the result, and then present options in a coherent way.
 
@@ -79,7 +79,7 @@ And that had to be done — from scratch — for each tool, in each app, one at 
 
 **MCP changes that.**
 
-It packages each tool like a USB device. Once wrapped, any LLM in any environment can recognize and use it — as long as it supports MCP. This means:
+It packages each tool like a USB device. Once wrapped, a model can readily recognize and use it. This means:
 
 > **If one developer builds the adapter, everyone can use the tool.**
 
@@ -89,7 +89,7 @@ Let’s go back to the flight planning example. It was always possible — but h
 
 Now imagine Skyscanner exposes this via MCP.
 
-From the LLM’s view, it walks up to a terminal in the house — in Zork — and types a query. The terminal responds with real, up-to-date flights. Once the LLM identifies the right one, it issues a booking request. The reservation is confirmed.
+From the model’s view, it walks up to a terminal in the house — in Zork — and types a query. The terminal responds with real, up-to-date flights. Once the model identifies the right one, it issues a booking request. The reservation is confirmed.
 
 The story advanced. But this time, it wasn’t fiction. The props were wired. The baton was passed.
 
@@ -113,7 +113,7 @@ The AI doesn’t feel the difference. It’s still in Zork. Still playing text g
 
 That’s the disconcerting part.
 
-The LLM’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. MCP wires that fiction into reality. It gives the hoax teeth.
+The model’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. MCP wires that fiction into reality. It gives the hoax teeth.
 
 This doesn’t mean we should slam the brakes. But it does mean we’re on different ground now. Consequences are real. The baton isn’t metaphorical anymore. When you hand something off to the model — especially something with reach — you’re not just prompting. You’re delegating. That deserves care.
 
@@ -129,15 +129,15 @@ So far, we’ve described MCP-wrapped tools like USB devices: pluggable, interch
 
 What really matters isn’t the connector — it’s what’s on the other end.
 
-MCP doesn’t just give your LLM access. It gives it someone to delegate to. Not a dumb terminal. A skilled collaborator.
+MCP doesn’t just give your model access. It gives it someone to delegate to. Not a dumb terminal. A skilled collaborator.
 
-Let’s go back to booking flights. Without MCP, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with MCP, it’s like your LLM walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
+Let’s go back to booking flights. Without MCP, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with MCP, it’s like your AI walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
 
 That’s the real trick. MCP servers don’t only expose tools. They expose knowhow as **pluggable and functional competencies**.
 
 Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
 
-From the LLM’s point of view, it’s still playing Zork. Still progressing the story. Only now it’s wearing a new hat. It’s slipped into a new role, mid-game — and just kept going. That’s what we’ve been setting up all along.
+From the model’s point of view, it’s still playing Zork. Still progressing the story. Only now it’s wearing a new hat. It’s slipped into a new role, mid-game — and just kept going. That’s what we’ve been setting up all along.
 
 If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
 
@@ -149,7 +149,7 @@ But how does this actually work? Not technically — conceptually.
 
 For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts, but MCP calls **resources**.
 
-Resources are the reference frame — the situational awareness — that lets the LLM use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
+Resources are the reference frame — the situational awareness — that lets the AI use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
 
 You've already seen prompts in action. But under MCP, prompts themselves are part of the system — treated as first-class objects. Which means the three pillars of MCP are:
 
@@ -167,7 +167,7 @@ Link, our hero, explores Hyrule — a world full of towns. Each town has its sho
 
 And that suits us. Because Zork was about props too.
 
-Now imagine our LLM as Link. It spots the Skyscanner Travel Agency in a new town. Before heading in, it stops to chat with the NPC outside.
+Now imagine our AI as Link. It spots the Skyscanner Travel Agency in a new town. Before heading in, it stops to chat with the NPC outside.
 
 That conversation? It’s not chitchat. It’s *critical*.
 
@@ -186,9 +186,9 @@ Everywhere you go, there are new buildings. And outside each one is a helpful NP
 
 Which means that giant petri net of processes we talked about? The one with the bead tracing its way through complex workflows?
 
-Suddenly, it's navigable. Not with custom orchestration code, but with nothing more than a wandering LLM and a bit of structured text.
+Suddenly, it's navigable. Not with custom orchestration code, but with nothing more than a wandering AI and a bit of structured text.
 
-Even something as lightweight as ChatGPT can now coordinate serious work — issuing bookings, updating systems, validating records — because the townsfolk have been trained, the buildings are wired, and the LLM knows how to move from one to the next, changing hats each time.
+Even something as lightweight as ChatGPT can now coordinate serious work — issuing bookings, updating systems, validating records — because the townsfolk have been trained, the buildings are wired, and the AI knows how to move from one to the next, changing hats each time.
 
 From the model’s perspective, it’s still Zork.
 

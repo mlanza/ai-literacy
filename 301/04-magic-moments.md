@@ -74,9 +74,9 @@ That’s not intelligence. It’s prediction.
 
 Let’s look closer at what that means.
 
-## 🔮 LLMs Are Just Prediction Machines
+## 🔮 Models Are Prediction Machines
 
-Large language models don’t plan. They don’t remember what they said. They don’t know what they’re going to say next.
+Models don’t plan. They don’t remember what they said. They don’t know what they’re going to say next.
 
 They work one token at a time.
 
@@ -210,7 +210,7 @@ They write the glue code. Inject the prompts. Stitch together services. They mak
 
 And let’s be clear: if there’s a program, there’s a programmer.
 
-LLMs can help — they can assist with handoffs, suggest actions, even fill in gaps — in programs, but they can’t own the whole process. Not yet. The human has to handle the parts the model isn’t ready to manage.
+AI can help — it can assist with handoffs, suggest actions, even fill in gaps — in programs, but the model can’t own the whole process. Not yet. The human has to handle the parts the model isn’t ready to manage.
 
 It works. But it’s fragile. Expensive. High-overhead.
 

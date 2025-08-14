@@ -2,7 +2,7 @@
 
 If the model is the brain, then memory is the surrounding context that helps the brain do its job. But it’s important to be clear about what memory *is* — and what it isn’t.
 
-The LLM itself doesn’t have memory. It doesn’t remember your name, your previous session, or what you asked it last week. Each time you interact with it, it starts fresh — a new, stateless moment. But what makes it feel conversational is the **scaffolding provided by the app**. That scaffolding stitches together your recent messages, the model’s past responses, and anything else the interface decides to include in the prompt. From your perspective, it feels like a chat. But under the hood, it’s just building a longer and longer payload.
+The model doesn’t have a memory. It doesn’t remember your name, your previous session, or what you asked it last week. Each time you interact with it, it starts fresh — a new, stateless moment. But what makes it feel conversational is the **scaffolding provided by the app**. That scaffolding stitches together your recent messages, the model’s past responses, and anything else the interface decides to include in the prompt. From your perspective, it feels like a chat. But under the hood, it’s just building a longer and longer payload.
 
 That’s one kind of memory — **temporary, automatic, app-provided memory**. It holds just long enough to support a single turn. Think of it as the app’s clipboard.
 

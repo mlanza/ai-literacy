@@ -191,7 +191,7 @@ That’s the limiting factor — not intelligence, but *infrastructure*.
 
 Today’s tools still leave you turning the wrench manually. They don’t carry memory forward well. They don’t hold state across steps. They don’t trigger one another. Which means that as soon as you expose a process this large, it collapses under its own weight. Not because the work is impossible, but because the logistics are.
 
-## LLMs Change the Math
+## AI Changes the Math
 
 That’s what’s shifting. Not because we’re suddenly building virtual travel agents — we’re not — but because we now have a machine that can *read*, *reason*, and *act* with words. That changes how we think about tasks like this.
 
