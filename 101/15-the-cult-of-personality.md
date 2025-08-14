@@ -15,6 +15,6 @@ The pushback clustered around a few points:
 
 That last point gets to the heart of it. What about the barista who greets you by name, already starting your usual order at your coffee shop. That impression is part of the experience — the thing that makes it *vivid*. It’s a small thing, but it says *you matter*. You could get coffee anywhere, but you come back for that connection.
 
-People don’t only want precision or speed from AI — they want *presence*. It's ironic that what OpenAI saw as a bug — sycophancy — and sought to remove, many saw as a feature. It turns out we enjoy the small human-like cues — warmth, humor, curiosity — even when we know they’re simulated. We already accept this with fictional characters. C-3PO was a droid, but also a personality you could miss if he were replaced. The same thing happens with models.
+People don’t only want precision or speed from AI — they want *presence*. It's ironic that what OpenAI saw as a bug — sycophancy — and sought to remove, many saw as a feature. It turns out we enjoy the small human-like cues — warmth, humor, curiosity — even when we know they’re simulated. We already accept this with fictional characters. C-3PO was a droid, but also a personality you could miss if he were replaced. The same thing happens with chatbots.
 
 When an app remembers you and talks to you like you matter, it’s doing more than completing tasks. Not because it’s smarter, but because it makes the whole thing feel warmer — and for many, that warmth is a memorable and pleasant part of the experience.
