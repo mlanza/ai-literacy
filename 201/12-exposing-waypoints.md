@@ -83,7 +83,7 @@ These emerge from the process you used to produce the work. They’re the reusab
 
 You might also call them **work artifacts** and **workflow artifacts**.  The former leans specific, the latter generic.
 
-This is why waypoints matter. Waypoints are artifacts of both kinds—born not from shortcuts, but from exposure. They exist because the process was made real, and each stage of that process left something behind.
+This is why waypoints matter. Their byproducts are born out of exposure, not shortcuts. They exist because the process was made real, and each stage of that process left something behind.
 
 When we first discussed **context engineering** we lacked the framing to explain it in its full glory.  It’s not just barking the right command to get the right outcome. It’s also carrying memory forward—both the memory of *what* was made and *how* it was made.
 
