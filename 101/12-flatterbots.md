@@ -2,7 +2,7 @@
 
 Imagine you're venting to an AI.
 
-> “I think meetings are useless and my coworkers are clueless.”
+> 🗣️ “I think meetings are useless and my coworkers are clueless.”
 
 And the AI replies,
 
