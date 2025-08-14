@@ -11,7 +11,7 @@ One process tuned for one model might stumble when you swap in another. That doe
 The pitfalls of skipping that learning curve show up fast:
 
 * **Process drift** — Swap in a new model and your once-tight workflow produces messy or off-brand results, because the cues that worked before aren’t the ones this model responds to.
-* **False negatives** — You assume the model “can’t” do something because it struggled under your old prompt, when in reality a different approach would unlock better output.
+* **False negatives** — You assume the model **can’t** do something because it struggled under your old prompt, when in reality a different approach would unlock better output.
 * **Invisible mismatches** — You keep getting answers that are technically correct but miss the tone, format, or nuance you expected, because the model weighs those factors differently.
 
 And just as we’ve seen earlier, people respond to more than just a model’s accuracy — they respond to how it feels to work with. Each one has its own conversational rhythm, tone, and quirks. Models aren’t interchangeable parts, and they’re more than vending machines. If you want better results, see them as coworkers — and just as you’d learn and adapt to the temperamental quirks of your human teammates, be willing to do the same with different models.
