@@ -10,8 +10,8 @@ It’s like writing a sentence out of old grammar. A song you’ve never heard, 
 
 That’s why ChatGPT can help write a haiku about black holes or explain how a coffee maker works, even if no one’s ever asked those exact questions before. It’s “seeing the board,” in a language-based way — scanning the position, spotting the patterns, and predicting the next move.
 
-But memorization still plays a role. Sometimes, the model repeats things too exactly — especially if a phrase is common or was seen often in training. Ask it to summarize *Hamlet*, and you might get a line that reads more like SparkNotes than Shakespeare. Occasionally, it even reproduces something it shouldn’t. Like a student who memorized the homework but can’t adapt on the test, LLMs can falter when faced with something unfamiliar or phrased in an unexpected way.
+But memorization still plays a role. Sometimes, the model repeats things too exactly — especially if a phrase is common or was seen often in training. Ask it to summarize *Hamlet*, and you might get a line that reads more like SparkNotes than Shakespeare. Occasionally, it even reproduces something it shouldn’t. Like a student who memorized the homework but can’t adapt on the test, a model can falter when faced with something unfamiliar or phrased in an unexpected way.
 
-So the line between memorization and generalization matters. Generalization is what makes these models feel smart. Memorization is what makes them occasionally feel hollow, repetitive, or oddly specific. Understanding the difference helps set realistic expectations. LLMs aren’t thinking — they’re predicting, based on patterns they’ve seen.
+So the line between memorization and generalization matters. Generalization is what makes these models feel smart. Memorization is what makes them occasionally feel hollow, repetitive, or oddly specific. Understanding the difference helps set realistic expectations. Models aren’t thinking — they’re predicting, based on patterns they’ve seen.
 
 Sometimes, that looks like insight. Other times, it’s dressed-up guesswork. But always, it’s prediction — nothing more, and nothing less.

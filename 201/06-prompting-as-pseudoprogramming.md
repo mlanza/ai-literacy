@@ -4,7 +4,7 @@ Let’s name the elephant in the room: we’ve made it this far into a chapter a
 
 That’s not an accident.
 
-Before you can use prompts well, you need a feel for what you’re actually prompting. That’s why we introduced the **anatomy of a chatbot** earlier — the idea that when you talk to something like ChatGPT, you’re interacting with a system composed of a **brain** (the LLM), **memory** (the context window, your prompts, and any persistent recall), and, sometimes, **tools** (calculators, file uploads, web access, etc.).
+Before you can use prompts well, you need a feel for what you’re actually prompting. That’s why we introduced the **anatomy of a chatbot** earlier — the idea that when you talk to something like ChatGPT, you’re interacting with a system composed of a **brain** (the model), **memory** (the context window, your prompts, and any persistent recall), and, sometimes, **tools** (calculators, file uploads, web access, etc.).
 
 Those components are not just trivia — they’re essential. Because prompting isn’t just “asking questions.” Prompting is **commanding a machine.** And to command a machine well, you have to understand what parts are doing the work.
 

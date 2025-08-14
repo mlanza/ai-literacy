@@ -1,6 +1,6 @@
 # Brain 🧠
 
-At the heart of every chatbot is a model — a large language model, or LLM. This is the brain. It doesn’t store memories. It doesn’t update with time. It doesn’t know who you are or what you’re trying to do. It simply responds to the input it receives, based on patterns it learned during training.
+At the heart of every chatbot is the model. This is the brain. It doesn’t store memories. It doesn’t update with time. It doesn’t know who you are or what you’re trying to do. It simply responds to the input it receives, based on patterns it learned during training.
 
 That’s important to understand: **the model is stateless**. Each time you interact with it, it has no idea what came before — unless that information is included in the payload. From its point of view, every request is a one-time job. No history, no assumptions. Just a single, isolated input stream.
 
@@ -8,7 +8,7 @@ And that stream — the **payload** — is everything.
 
 You may think you’re just sending a sentence when you press Enter, but in reality, the app around the model (like ChatGPT) is assembling much more: your recent conversation, your past clarifications, even relevant documents or tools you’ve activated. That full bundle is handed to the model as one long string of text. It’s that bundle — not the interface, not the chat history — that the model actually sees.
 
-This is why the *quality* of the payload matters. It’s the sole input the model uses to generate its response. If key context is missing, the model won’t “know” to ask. If the prompt is vague, the answer will be vague. The LLM doesn’t intuit your needs — it computes based on what’s there.
+This is why the *quality* of the payload matters. It’s the sole input the model uses to generate its response. If key context is missing, the model won’t “know” to ask. If the prompt is vague, the answer will be vague. The model doesn’t intuit your needs — it computes based on what’s there.
 
 Now, there are two common ways to arrive at a strong payload:
 

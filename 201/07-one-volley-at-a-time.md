@@ -4,7 +4,7 @@ Here’s one of the most important habits you can build when working with ChatGP
 
 > **Don’t cram multiple requests into one prompt.**
 
-LLMs perform best when each instruction is focused on a single, specific outcome.
+Models perform best when each instruction is focused on a single, specific outcome.
 
 Say you paste in an article and write:
 
@@ -26,7 +26,7 @@ Think of this as **controlled ascent** — guiding the model one level at a time
 
 This approach forces the model to **materialize its thinking**. When you break the task into steps, the model must actually generate and express intermediate ideas, rather than glossing over them in pursuit of the final deliverable.
 
-That’s not just about output — it’s about collaboration. Once a thought is materialized, you can *see* it. You can react to it. You can change its tone, clarify its message, or add missing context before moving on to the next stage. This is what makes working with an LLM a true back-and-forth. You’re not just issuing commands — you’re shaping the work together.
+That’s not just about output — it’s about collaboration. Once a thought is materialized, you can *see* it. You can react to it. You can change its tone, clarify its message, or add missing context before moving on to the next stage. This is what makes working with AI a true back-and-forth. You’re not just issuing commands — you’re shaping the work together.
 
 Let’s look more closely at why this step-by-step approach, sometimes called **prompt chaining**, works so well.
 

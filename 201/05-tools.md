@@ -137,7 +137,7 @@ That’s why tools feel like “giving the AI hands” — but they’re also �
 
 Let's look at what a single tool — integrated **file handling** — enables.  You upload a spreadsheet, ask a question, and the AI sifts through rows, charts, and formulas with ease. But that’s just scratching the surface.
 
-What makes it so useful is that just by permitting it to open files, the LLM can interpreter, understand, and manipulate their contents. Docs, decks, logs, CSVs, Markdown, PDFs, JSON configs — even machine languages like HTML, YAML, or SQL. It reads them like text, parses them like code, and talks about them like a teammate.
+What makes it so useful is that just by permitting it to open files, the model can interpreter, understand, and manipulate their contents. Docs, decks, logs, CSVs, Markdown, PDFs, JSON configs — even machine languages like HTML, YAML, or SQL. It reads them like text, parses them like code, and talks about them like a teammate.
 
 Today’s large language models don’t just speak English or code — they translate one into the other. They sit between human intent and machine syntax, mediating requests, generating structure, and turning goals into action.
 
@@ -168,11 +168,11 @@ Each tool you enable expands what the AI can do *for you* — and together, they
 
 There’s one wrinkle worth clearing up.
 
-So far, we’ve described tools as **invisible hands** — optional extensions that let a chatbot act on your behalf. In ChatGPT, this is literally true: the model (the “brain”) lives at the center, and tools are bolted on around it. The LLM hosts the tools.
+So far, we’ve described tools as **invisible hands** — optional extensions that let a chatbot act on your behalf. In ChatGPT, this is literally true: the model (the “brain”) lives at the center, and tools are bolted on around it.
 
 But the reverse is happening too.
 
-You’ve probably seen LLMs showing up *inside* apps — in Word, Excel, Notion, or even airline websites. In those cases, the tool is the host. The LLM is embedded, often invisibly, to power a smart feature or chat-based assistant.
+You’ve probably seen models and chatbots showing up *inside* apps — in Word, Excel, Notion, or even airline websites. In those cases, the tool is the host. The AI is embedded, often invisibly, to power a smart feature or chat-based assistant.
 
 This can seem like a contradiction — but it’s really a matter of perspective.
 
@@ -180,8 +180,8 @@ Whether the tool hosts the brain or the brain hosts the tools, the outcome is th
 
 The difference is just who’s in charge of the environment.
 
-* In ChatGPT, the LLM is the main actor. Tools extend its reach.
-* In Office or Notion, the app is the main actor. The LLM supports its features.
+* In ChatGPT, the model is the main actor. Tools extend its reach.
+* In Office or Notion, the app is the main actor. The model supports its features.
 
 Brains are the new kid on the block — and they’re showing up everywhere. Sometimes they’re center stage. Sometimes they’re backstage. But they’re still shaping the performance.
 

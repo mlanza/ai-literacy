@@ -6,7 +6,7 @@ But that memory? It’s not the model.
 
 It’s the **app**.
 
-The large language model — the LLM — doesn’t remember anything. It doesn’t store what you said or learn from past exchanges. Every time you press enter, it compiles its inputs, generates a single output, and forgets everything. The server that hosts the LLM which handles your requests is **stateless**.
+The model doesn’t remember anything. It doesn’t store what you said or learn from past exchanges. Every time you press enter, it compiles its inputs, generates a single output, and forgets everything. The server that hosts the model which handles your requests is **stateless**.
 
 Each prompt is a one-time “think,” like a timeshare on a synthetic brain — just for you, just for that moment. It takes whatever you send, makes sense of it, and gives you an answer based on patterns it saw during training. Then it’s gone. No memory, no context, no follow-up plan.
 
@@ -14,9 +14,9 @@ So how does ChatGPT keep a conversation going? Or bring in new facts?
 
 That’s the app at work — the client, not the model.
 
-It doesn't hand the prompt as you keyed to the LLM. Rather, it goes much further. It stitches the full exchange together, searches the web mid-conversation and adds in those results too. It quietly includes this added context to the prompt it actually passes to the LLM. This is all done on your behalf to facilitate better responses.
+It doesn't hand the prompt as you keyed to the model. Rather, it goes much further. It stitches the full exchange together, searches the web mid-conversation and adds in those results too. It quietly includes this added context to the prompt it actually passes to the model. This is all done on your behalf to facilitate better responses.
 
-The app mediates between you and the LLM making things look conversational. In reality, LLMs haven't the faintest idea they're conversing. They reingest the entire thread, everything you said and it did to that point, along with its every response, every time.
+The app mediates between you and the model making things look conversational. In reality, these models haven't the faintest idea they're conversing. They reingest the entire thread, everything you said and it did to that point, along with its every response, every time.
 
 This matters. Because to work well with AI, it helps to have a clear mental model of what's happening behind the curtain.
 

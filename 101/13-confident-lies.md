@@ -16,4 +16,4 @@ So even when the model feels like Will — sharp, brilliant, maybe even right 99
 
 Unless you’re paying attention, you might not even notice.
 
-But that’s where **you** come in. LLMs are tools. They're stronger than people in some areas, but weaker in others. You're necessary. It's people and AI in partnership, not one or the other.
+But that’s where **you** come in. Models are tools. They're stronger than people in some areas, but weaker in others. You're necessary. It's people and AI in partnership, not one or the other.

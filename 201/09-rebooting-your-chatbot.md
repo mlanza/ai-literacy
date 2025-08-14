@@ -79,7 +79,7 @@ You didn’t have to do it that way. You could’ve just said, “Give me a reca
 
 You choose the granularity of your control. The more intentional you are, the more you get things your way. In this instance, you organized it in a way that suited how you wanted to carry things forward, continue the work.
 
-That same idea—how you *frame* the ask—also determines how much information the AI gives back. This is where **compression** comes in. You can ask for an outline instead of a full summary. You can distill a 300-page book into a one-page list of takeaways. When you’re working with oversized inputs, a well-shaped summary can delivery meaning in a compressed format. It scales the signal.  It gives you a way to relay the *gist* without overwhelming the LLM.
+That same idea—how you *frame* the ask—also determines how much information the AI gives back. This is where **compression** comes in. You can ask for an outline instead of a full summary. You can distill a 300-page book into a one-page list of takeaways. When you’re working with oversized inputs, a well-shaped summary can delivery meaning in a compressed format. It scales the signal.  It gives you a way to relay the *gist* without overwhelming the AI.
 
 That’s not just helpful for reflection—it’s also strategic.
 

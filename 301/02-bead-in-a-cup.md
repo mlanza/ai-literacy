@@ -164,7 +164,7 @@ And once it is? You’re not asking it to plan the whole trip.
 
 You’re asking it to move the bead.
 
-And this is what LLMs make possible — not because they’re guessing, but because they can now act on a command *if* the right information is already in view. That’s the real shift:
+And this is what AI is making possible — not because it’s guessing, but because it can now act on a command *if* the right information is already in view. That’s the real shift:
 
 AIs can write deliverables. They can recommend actions. They can reason through a situation. But only when the inputs are there — right there, piped into the cup at the moment of execution.
 
@@ -202,7 +202,7 @@ Everything we’ve seen so far — the way the bead moves, the way the model per
 
 That’s not new. Systems have always worked this way.
 
-Long before LLMs, developers were already building the infrastructure for continuity.
+Long before AI, developers were already building the infrastructure for continuity.
 
 *Databases held decisions.*
 
