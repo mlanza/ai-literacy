@@ -13,8 +13,8 @@ The pushback clustered around a few points:
 * **Loss of control eroded trust.** Even if routing was smarter in theory, hiding the choice removed transparency.
 * **Companionship mattered more than expected.** For some, the “personality” wasn’t just nice to have; it was part of their routine.
 
-That last point gets to the heart of it. The personalities felt *vivid*, the kind you could remember like a favorite regular at your coffee shop — the barista who greets you by name, already starting your usual order. It’s a small thing, but it says *you matter*. You could get coffee anywhere, but you come back for that connection.
+That last point gets to the heart of it. What about the barista who greets you by name, already starting your usual order at your coffee shop. That impression is part of the experience — the thing that makes it *vivid*. It’s a small thing, but it says *you matter*. You could get coffee anywhere, but you come back for that connection.
 
 People don’t only want precision or speed from AI — they want *presence*. It's ironic that what OpenAI saw as a bug — sycophancy — and sought to remove, many saw as a feature. It turns out we enjoy the small human-like cues — warmth, humor, curiosity — even when we know they’re simulated. We already accept this with fictional characters. C-3PO was a droid, but also a personality you could miss if he were replaced. The same thing happens with LLMs.
 
-When an app remembers you, speaks in a way that feels like it’s *yours*, and talks to you like you matter, it’s doing more than completing tasks. Not because it’s smarter, but because it makes the whole thing feel warmer — and for many, that warmth is a memorable and pleasant part of the experience.
+When an app remembers you and talks to you like you matter, it’s doing more than completing tasks. Not because it’s smarter, but because it makes the whole thing feel warmer — and for many, that warmth is a memorable and pleasant part of the experience.
