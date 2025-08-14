@@ -4,7 +4,11 @@ Here’s where things get interesting.
 
 You can attempt to have the same conversation with ChatGPT, but it'll surprise you. It won’t answer the same prompt the same way. Its uncanny ability to respond differently to the same prompt is engineered.
 
-In a deterministic world, when prompted “Write a greeting for a welcome email,” it responds:
+In a deterministic world, when prompted
+
+> 🗣️ “Write a greeting for a welcome email,”
+
+it responds:
 
 > Welcome to our service. We’re excited to have you on board.
 
