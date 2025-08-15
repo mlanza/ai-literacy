@@ -207,7 +207,7 @@ When you work with AI this way—directly, repeatedly, with feedback at every st
 
 In fact, what you’re really doing is **mentoring your collaborator**.
 
-Each time you push back on phrasing, explain why one outline is clearer than another, or mark a tone as off-brand, you’re shaping the model’s next move. It may not learn across sessions, but *within* a session, it responds and adapts to the standards you set. You’re treating it the same way you would treat a newly onboarded teammate: giving it early tasks, reviewing its output, offering correction, and gradually entrusting it with more responsibility.
+Each time you push back on phrasing, explain why one outline is clearer than another, or mark a tone as off-brand, you’re shaping the model’s next move. It may not learn across sessions, but *within* a session, it responds and adapts to the standards you set. Want to carry those standards forward? Ask for a recap. When you treat it like a newly onboarded teammate—giving it early tasks, reviewing its output, offering correction, and capturing your guidance—you're on a path to entrusting it with more responsibility.
 
 This isn’t just process visibility—it’s systems thinking. You’re creating feedback loops that don’t just improve the work, but *carry your judgment forward*.
 
