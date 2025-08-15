@@ -22,13 +22,13 @@ So the question isn’t “Will AI take my job?”
 
 It’s “What can I do in the suit?”
 
-Don’t lose track of this: **the suit doesn’t amplify you by accident.** To really make it part of who you are, you have to learn its ins and outs. You have to fly it around, try the gadgets, push it to its limits, and make a habit of bringing it into your real work. The abilities are there — but they’re latent. They emerge only when you’ve put in the hours, tested the edges, and decided to suit up regularly.
+Don’t lose track of this: **the suit doesn’t amplify you by accident.** To harness it’s power, you have to learn its ins and outs. You have to fly it around, try the gadgets, push it to its limits, and make a habit of bringing it into your real work. The abilities are there — but they’re latent. They emerge only when you’ve put in the hours, tested the edges, and decided to suit up regularly.
 
 That same pattern will hold for every step ahead. Later, you’ll see the AI not just as an amplifier, but as a teammate. Later still, you’ll see it as a way to assemble and coordinate whole teams. Each stage is a learned skill — a capability that only shows up because you invested the energy to develop it.
 
-It’s no different than learning the piano or advancing in karate. The power isn’t in owning the instrument — it’s in the hours you’ve spent with it, the comfort that comes from daily use, the confidence that comes from knowing what it can do in your hands.
+It’s like learning an instrument. The power isn’t in owning it — it’s in the hours you’ve spent with it, the comfort that comes from daily use, the confidence that comes from knowing what it can do in your hands.
 
-AI won’t much amplify those who treat it casually. But for those who put in the effort to harness it by training with it, learning from it, and making it part of their muscle memory — the gains can be extraordinary.
+AI won’t much amplify those who treat it casually. But for those who train with it, learn from it, and finding creative ways to apply it to real work, the gains can be extraordinary.
 
 The suit will take you farther.
 
