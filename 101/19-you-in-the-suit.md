@@ -28,7 +28,7 @@ That same pattern will hold for every step ahead. Later, you’ll see the AI not
 
 It’s no different than learning the piano or advancing in karate. The power isn’t in owning the instrument — it’s in the hours you’ve spent with it, the comfort that comes from daily use, the confidence that comes from knowing what it can do in your hands.
 
-AI won’t much amplify the work of those who treat it casually. But for those willing to treat it like any serious craft — to train with it, learn from it, and make it part of their muscle memory — the gains can be extraordinary.
+AI won’t much amplify those who treat it casually. But for those who put in the effort to harness it by training with it, learning from it, and making it part of their muscle memory — the gains can be extraordinary.
 
 The suit will take you farther.
 
