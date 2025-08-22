@@ -7,7 +7,7 @@ People say it all the time:
 
 They’re not wrong.
 
-If you treat a book like a task—like something a model can generate from a single prompt—you’ll get something that reads like it.  Shortchanged in too many ways to count.
+If you treat a book like a task—like something a model can generate from a single prompt—you’ll get something that reads like it. Shortchanged in too many ways to count.
 
 That’s what they scoff at.  They *know*, instinctively, it won’t work.  Not well anyway.
 
@@ -31,13 +31,15 @@ Not “AI writes the book.”
 
 *AI helps you write the book.*
 
-That’s what you’ve been learning to do.
+The same holds for apps and for vibe coding.  You won’t one-shot an impressive app whose foundation is worth building on.  It won’t end well.  So don’t task the AI with heroic leaps. Aim for controlled ones.
 
-You’ve practiced rebooting when things get murky.
+That’s what you’re learning to do.
 
-You’ve started naming ideas, bucketing decisions, boxing what’s worth keeping.
+You’re rebooting when things get murky.
 
-You’ve learned how to compress large inputs and scale signal.
+You’re naming ideas, bucketing decisions, boxing what’s worth keeping.
+
+You’re learning to compress large inputs and scale signal.
 
 Those are more than clever tricks.
 
