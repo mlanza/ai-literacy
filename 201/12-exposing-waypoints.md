@@ -83,7 +83,7 @@ These are tied directly to the project at hand—the specific content you're try
 
 These emerge from the process you used to produce the work. They’re the reusable parts: the checklist you made after coaching the AI, the tone guide you wrote for future drafts, the SOP you updated after seeing what was missing. These are meta-level artifacts—reflections of how you work, not just what you’re working on.
 
-You might also call them **work artifacts** and **workflow artifacts**.  The former leans specific, the latter generic.
+You might also call them **work artifacts** and **workflow artifacts**.  The former leans specific, the latter generic in the same way a **prompt** and **system prompt** straddle that fence.
 
 This is why waypoints matter. Their byproducts are born out of exposure, not shortcuts. They exist because the process was made real, and each stage of that process left something behind.
 
