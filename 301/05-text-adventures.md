@@ -59,21 +59,25 @@ This wasn’t just a line of text. Your real wife — in the real world — got 
 
 Somehow, the phone in the game had **teeth**.  That's what tools offer.  Text-based affordances which map to real-world capabilities.
 
----
-
 ## Pluggable Tooling
 
-We talked about tools before — said how important they were to endowing an agent with capabilities which allow it to do work on your behalf.
+We talked before about tools — how they give an agent real leverage, the means to act on your behalf instead of just talking about what could be done.
 
-It was suggested a developer was needed to implement **baked-in tools**.  But what if tools were more readily available?  Something which, like a thumb drive, you just reached for and plugged in: **pluggable tools**.
+Earlier, we implied that a developer had to hardwire those tools into the agent — **baked-in tools**. But what if tools were designed to be more like thumb drives? Something you could just reach for and plug in — **pluggable tools**.
 
-The developer, instead of wiring tools directly into programs/agents implements them as standalone components.  That's the way to making them freely available to a world of agents, and not just the one.
+In that model, a developer builds each tool as a standalone component, not as an internal appendage. That’s what makes them reusable — any agent can discover and use them, not just the one they were built for.
 
-There are ways to achieve this including CLIs, the Module Context Protocol and Skills, to name a few, but without getting into the particulars of any one it's best to think of "pluggable," for now, as exhibting 3 key *instant* properties:
+There are several ways this idea shows up in practice — from command-line interfaces (CLIs) that expose discrete operations, to the Model Context Protocol that lets agents negotiate access to external resources, to Skills frameworks that package specialized behaviors. Each of these embodies the same design philosophy: tools that can be recognized, explored, and mastered on demand. They make capability modular, composable, and readily accessible.
 
-* **Instant identifiability.** The tool is identified to the agent as an affordance which serves some purpose.  The agent instantly understands the general utility, what capabilities are on offer and what kinds of problems it helps solve.
-* **Instant discoverability.**  The tool exposes the full gamut of its capabilities. It's like reading the table of contents to the owner's manual and getting a clearer sense of the specific ways the tool can be used.
-* **Instant grokkability.** The agent can, whenever it chooses to utilize a capability, instantly absorb the owner's manual, and hone in on a select capability.  That is, putting on the expertise to perform some task is as easy as putting on a hat.
+The deeper principle at play, what actually makes pluggability possible, is **progressive disclosure**. The agent doesn’t perceive the full depth of every tool it could use all at once; it starts with the first rung of a ladder. But it knows the ladder is there. When the moment calls for it, it can ascend — uncovering more detail and capability as needed. That’s how it keeps its context lean while still having depth on demand.
+
+In practice, readily accessible is 3 rungs on a ladder:
+
+* **Instant identifiability.** The agent immediately recognizes the tool as an affordance — something that can *do* — and understands, at a glance, what class of problem it’s meant to solve.
+* **Instant discoverability.** When asked, the tool reveals its table of contents — the set of things it can do, with enough shape for the agent to reason about which one to use.
+* **Instant grokkability.** Once the agent chooses a capability, it can instantly absorb the know-how it needs — like flipping open to the right page and putting on the skill like a hat.
+
+Progressive disclosure is a technique for preserving the context window, allowing the agent proper focus, while pluggability ensure it has access to the on-demand capabilities it requires to get a job done.
 
 ## Text-base smartphone, real-world consequence
 
