@@ -1,12 +1,14 @@
 # Feet on the Ground
 
-In the last chapter, we described the world from an AI’s perspective as a kind of text adventure — a Zork-style simulation where it navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. When wired into the app’s glue code (ahem, architecture), they become portals to the real world — turning fictional acts into consequential ones.
+In the last chapter, we described the world from an AI’s perspective as a kind of text adventure — a Zork-style simulation where it navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. When wired into an **app’s architecture** — the scaffolding of an **agent** — they become portals to the real world, turning fictional acts into consequential ones.
 
 If there’s a phone in the room, someone built it. If there’s a laptop with a browser open, someone made sure it knows how to behave. And if there’s a travel agency with an NPC outside, someone encoded its rules of engagement. Behind every meaningful object is a developer who breathed life into it — not to simulate reality, but to expose capabilities.
 
-This isn’t light work. Every virtual prop that does something real represents an integration lift. That’s why we aim to reuse them, wrap them, and distribute them as *pluggables*. The goal is to let the model move fluidly through a world and employ tools, and hopefully not have to implement them all ourselves.
+This isn’t light work. Every virtual prop that does something real represents an integration lift. The goal is to let the **agent** move fluidly through a world and employ tools without having to hand-wire each one. That’s why we aim for reuse — to distribute *pluggable tools*.
 
-So let’s see that in action. Not as a concept, but as a moment.
+Before we go further, it’s worth clarifying how these words are being used. The **app** is the program a developer builds — the orchestration layer, the code that routes messages, manages tools, and decides how the model is invoked. The **agent** is what the user experiences — the behavior that emerges when the app gives the model goals, context, and the means to act. They’re the same system seen from opposite sides: the app is the machinery; the agent is the mind it enables.
+
+What we’re about to see isn’t a pluggable demo. It’s a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work pluggability is meant to make unnecessary.
 
 ## 🚗 The Scenario: “Let the 2pm Meeting Know I’m Running Late”
 
@@ -16,13 +18,16 @@ It’s 1:52 PM. The executive is stuck in traffic. He says:
 
 That’s the intention. It’s not a full plan, not a sequence of steps — just a quick human ask.
 
-From there, the baton passes to the app. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
+From there, the baton passes to the **app**, the program that hosts the **agent**. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
+
+From the user’s perspective, the **agent** is alive. From the developer’s perspective, the **app** is the system that mediates — translating words into structured requests and routing them through real APIs.
+
 
 ### 🌀 Loop 1 — Calendar Query
 
-The first prompt includes the user’s request, transcribed from voice and sent into the app. The current time and available tools are in scope.
+The first prompt includes the user’s request, transcribed from voice and sent into the system. The current time and available tools are in scope.
 
-The **app** delivers this prompt to the model:
+The **app** packages the prompt and delivers it to the **model**, the thinking core of the agent:
 
 ```
 You are an assistant. The user just said:
@@ -31,7 +36,7 @@ It is currently 1:52 PM.
 There is a calendar shop, contact booth, and messaging kiosk in sight.
 ```
 
-The **model** anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2pm meeting is — and who’s attending.
+The **model** anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2 pm meeting is — and who’s attending.
 
 ```
 To notify the attendees, I need to check the user’s calendar for the 2:00 PM meeting.
@@ -45,7 +50,7 @@ To notify the attendees, I need to check the user’s calendar for the 2:00 PM m
 }
 ```
 
-This response has two layers: the natural-language explanation for the human and the structured tool call for the system. That duality is exactly what makes a model a **universal mediator** — one foot in each world, translating human intention into machine action.
+This response has two layers: the natural-language explanation for the human and the structured tool call for the app. That duality is exactly what makes an **agent** a universal mediator — one foot in each world, translating human intention into machine action.
 
 The developer extracts the structured request and relays it to the **MCP calendar service**, which responds:
 
@@ -74,10 +79,10 @@ The developer extracts the structured request and relays it to the **MCP calenda
 The app injects that fact into the next prompt:
 
 ```
-The 2pm meeting is titled “Control Layer Governance”. The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
+The 2pm meeting is titled “Control Layer Governance.” The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
 ```
 
-No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the model to keep the thread going.
+No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the agent to keep the thread going.
 
 ### 🌀 Loop 2 — Address Book Lookup
 
@@ -121,7 +126,7 @@ The app relays the request to the MCP contact service, which replies:
 }
 ```
 
-As before, we don’t extract or interpret — just pass it along. The model continues the chain.
+As before, the app doesn’t extract or interpret — just passes it along. The model continues the chain.
 
 ### 🌀 Loop 3 — Text Message Delivery
 
@@ -156,13 +161,13 @@ The app routes that to the MCP texting service, which replies:
 }
 ```
 
-And finally, the app confirms:
+And finally, the **agent** confirms:
 
 > “Message sent to your 2pm meeting.”
 
 And that was that.
 
-Not because we gave the AI a playbook. We didn’t. The developer just set the stage on which the model would perform.  The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
+Not because we gave the AI a playbook. We didn’t. The developer just set the stage on which the model would perform. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
 
 What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The model saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
 
@@ -178,13 +183,13 @@ Each loop was a single turn. Every tool call was surfaced explicitly:
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-For the model to propel itself forward in the story, picture Link (the AI) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a model turn, happening inside the app's **control loop**.
+For the model to propel itself forward in the story, picture Link (the AI) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That’s a model turn, happening inside the app’s **control loop** — the heartbeat of the agent.
 
-That's where the developer is, right there — with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made.  When the surgeon (the model) requests "scalpel," the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
+That’s where the developer is — right there, with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made. When the surgeon (the model) requests “scalpel,” the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
-Yes, that happened with code, but the developer decides how fine grained to be about checking and granting access.  Since the AI is a brain in a jar, all it can do is speak in text.  Some of those requests will be for tools.  The developer has to vet and enable them, not in the actual moment, but when he's wiring the app together.
+Yes, that happens with code. But the developer decides how fine-grained to be about checking and granting access. Since the AI is a brain in a jar, all it can do is speak in text. Some of those requests will be for tools. The developer has to vet and enable them — not in the actual moment, but when wiring the **app** together.
 
-While there, he's not necessarily thinking about “let them know I’m running late.”  It's more opaque than that.  He just knows having designed the set and laying out the props the kinds of things the AI will attempt in response to the user's demands.  So, from his perspective, the Zork adventure might unfold something like:
+While there, he’s not necessarily thinking about “let them know I’m running late.” It’s more opaque than that. He just knows, having designed the set and laid out the props, the kinds of things the AI will attempt in response to user demands. So, from his perspective, the Zork adventure might unfold something like:
 
 ```
 > check calendar between ... and ...
@@ -193,26 +198,24 @@ While there, he's not necessarily thinking about “let them know I’m running 
 > send group text: “...”
 ```
 
-And, as we saw, each discrete action was a turn. A push of the foot. That’s what the app sees. That’s what the developer vets, because he can't necessarily anticipate the intent, but he does have final say over how to handle what is permitted inside the control loop.
+And, as we saw, each discrete action was a turn — a push of the foot. That’s what the app sees. That’s what the developer vets. Because he can’t anticipate every intent, but he does have final say over what’s permitted inside the control loop.
 
 He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.
 
 Some developers choose to make the model’s steps visible. They show its thoughts mid-move, using chain-of-thought as a UI convention — a running log of reasoning that users can watch unfold.
 
-But I wanted to imagine something a little more fun to watch.  The developer could, if he wanted, render a town for the model — Link — to inhabit.  It has a calendar shop, a contact booth, and a messaging kiosk. Link darts from place to place, completing tasks. You see where it goes. You see what’s in bounds. This way, the work becomes legible.
+But I wanted to imagine something a little more fun to watch. The developer could, if he wanted, render a town for the model — Link — to inhabit. It has a calendar shop, a contact booth, and a messaging kiosk. Link darts from place to place, completing tasks. You see where it goes. You see what’s in bounds. This way, the work becomes legible.
 
 Most workflows aren’t like that. They’re not towns. They’re trails. Directed. Linear. A bead moving cup to cup.
 
-Some of those trails are hand-designed. Others are walked freely. What matters is that the bead advances through stages — and that each stage creates context for the next. That's what were talking about now.  How the model gets traction, feet to on the ground, pushing. Then pushing again. Each push, shaped by what’s come before.
+Some of those trails are hand-designed. Others are walked freely. What matters is that the bead advances through stages — and that each stage creates context for the next. That’s what we’re talking about now. How the model gets traction, feet on the ground, pushing. Then pushing again. Each push, shaped by what’s come before.
 
 Because real work doesn’t happen in a single turn. The facts don’t arrive all at once. The structure doesn’t spring up whole. It’s layered. Step by step.
 
 That’s why developers build systems. Why they expose waypoints. Why they separate concerns across turns.
 
 Because structure improves output.
-
 Because each step leaves behind byproducts.
-
 Because serious work is iterative.
 
 But here’s what changes once the model starts pushing — when it keeps moving, turn after turn. We’re no longer just talking about intelligence.
@@ -222,9 +225,7 @@ We’re talking about **trust**.
 And that raises the question: how far do we want it to go?
 
 Is this a guided trail — tightly bounded, low-risk?
-
 Is it a town — open-ended, permissive, built for discovery?
-
 Or is it something else?
 
 The answer depends on what we’re willing to hand off — and how much we want to be kept in the loop.
@@ -235,7 +236,7 @@ With **human out of the loop**, everything has already been decided. The stage i
 
 With a **human on the loop**, the stage looks the same, but there’s a window into the play. The imagined town becomes visible. Link darts from shop to kiosk, nimble and fast — and the system might even slow him down on purpose, introducing a delay before each service interaction. Maybe 10 seconds. Enough time for someone to intervene if needed. A **stop** button appears. The adventure is still his, but it can be halted at any time. That’s medium trust.
 
-With a **human in the loop**, Link’s freedom narrows. He must knock before entering. Each time he attempts something, the simulation pauses. The system reveals not just what he's doing, but what he intends to do. The human sees the request, evaluates it, and must explicitly approve it — clicking **proceed** before the story moves on. That’s minimal trust.
+With a **human in the loop**, Link’s freedom narrows. He must knock before entering. Each time he attempts something, the simulation pauses. The system reveals not just what he’s doing, but what he intends to do. The human sees the request, evaluates it, and must explicitly approve it — clicking **proceed** before the story moves on. That’s minimal trust.
 
 The scale varies, but the question underneath is steady: how much freedom does the system get before someone steps in?
 
@@ -246,18 +247,17 @@ This kind of trust isn’t about sentiment. Machines don’t deserve it. They do
 So trust, here, means something narrower and heavier. It’s confidence in outcome.
 
 That the system will do what was meant, not just what was said.
-
 That it won’t cause damage — not because it understands the stakes, but because the scaffolding holds.
 
 Deciding how close a human must stay — in, on, or out of the loop — is a design question. And that design is shaped by risk.
 
-## Agency is a Path, Autonomy a Town
+## Agency Is a Path, Autonomy a Town
 
 To give a model “feet on the ground” is to let it act, not just reason.
 
 It means giving it **agency** — the ability to push forward, to keep momentum, to lift the bead and drop it in the next cup. The goal is already known. The direction is clear. The work unfolds across turns.
 
-That was the 2pm message — the “let them know I’m late” ask. The bead was placed. The trail was laid. The model moved forward step by step.
+That was the 2 pm message — the “let them know I’m late” ask. The bead was placed. The trail was laid. The model moved forward step by step.
 
 Agency makes that possible.
 
@@ -265,19 +265,19 @@ But **autonomy** is looser. It’s not just about movement — it’s about deci
 
 Autonomy opens more doors. And with that freedom comes more uncertainty.
 
-So trust expands to meet the risks.  We'll get into these risks momentarily; however, let's first correct a former generalization about models.
+So trust expands to meet the risks. We’ll get into these risks momentarily; however, let’s first correct a former generalization about models.
 
 ## Some Models Walk
 
 We’ve been treating models like minds in jars — snapshots of the minds of great thinkers. And that’s mostly true. A model is a fixed thing. It doesn’t grow. It doesn’t remember. It doesn’t roam the world collecting facts. It stays where it was trained, answering from a single point in time.
 
-Most models do one thing. You give them a payload — a question, a prompt, a bit of text to chew on — and they reply. One toss, one echo. A single bead moved from one cup to the next. They're one-trick ponies. They don’t walk. They don’t push. They don’t unfold a plan across time.
+Most models do one thing. You give them a payload — a question, a prompt, a bit of text to chew on — and they reply. One toss, one echo. A single bead moved from one cup to the next. They’re one-trick ponies. They don’t walk. They don’t push. They don’t unfold a plan across time.
 
 Still others come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop and a developer. It’s an app as much as a model. And how it moves depends on the route it was given.
 
-Model vendors have called this deliberate turn taking, forward motion **thinking** and **reasoning** where I chose **walking** to draw the eye to the loop. Turns are not conclusive. They're partial efforts. The model propels itself — foot down, push — then repeats en route to completing the task at hand.
+Model vendors have called this deliberate turn taking, forward motion **thinking** and **reasoning** where I chose **walking** to draw the eye to the loop. Turns are not conclusive. They’re partial efforts. The model propels itself — foot down, push — then repeats en route to completing the task at hand.
 
-The focus on the pushing motion reveals a model is often more than just a mind.  It may also include a latent trajectory — a designed behavior that loops over a plan. Like Link setting out on a quest map in hand: sometimes with a clearly marked path, sometimes just with boots and instinct. You discover which by watching how the model acts. How it uses the tools. How it keeps the thread moving foward.
+The focus on the pushing motion reveals a model is often more than just a mind. It may also include a latent trajectory — a designed behavior that loops over a plan. Like Link setting out on a quest map in hand: sometimes with a clearly marked path, sometimes just with boots and instinct. You discover which by watching how the model acts. How it uses the tools. How it keeps the thread moving forward.
 
 This is where the fiction gives way — because something more is afoot.
 
@@ -286,8 +286,8 @@ Some walking models stick to the path — narrow ones, like ChatGPT’s Deep Res
 That’s why this isn’t only a question of intelligence. It’s a question of motion.
 
 Some models move a bead, take a single step.
-
-Some models walk. And how far we’re willing to let them go is a matter of weighing in on the risks.
+Some models walk.
+And how far we’re willing to let them go is a matter of weighing in on the risks.
 
 ## Risk Categories
 
@@ -318,32 +318,35 @@ So the final question is:
 
 ## The Weight of the Lever
 
-To give Link feet on the ground is to build a lever of unusual size—a way to move more than we otherwise could. And it’s easy to feel the promise. A system that can respond to human intent, operate tools, complete tasks, even carry work forward without needing to be told what to do at each step.
+To give Link feet on the ground is to build a lever of unusual size — a way to move more than we otherwise could. And it’s easy to feel the promise. A system that can respond to human intent, operate tools, complete tasks, even carry work forward without needing to be told what to do at each step.
 
 That’s not science fiction. That’s the present tense.
 
-The ask is small—“Let them know I’m running late.” The output is precise: the right people, the right message, the right time. And the lift? Offloaded entirely. That’s the lever.
+The ask is small — “Let them know I’m running late.”
+The output is precise: the right people, the right message, the right time.
+And the lift? Offloaded entirely.
+That’s the lever.
 
-Of course we want this. Of course we’re trying. Because if a machine can help shoulder our knowledge work—lighten it, speed it, hand it off—the value is enormous.
+Of course we want this. Of course we’re trying. Because if a machine can help shoulder our knowledge work — lighten it, speed it, hand it off — the value is enormous.
 
 But the lever cuts both ways.
 
 The same momentum that lets Link glide from shop to kiosk, taking the next step and the next, can also carry him into places we didn’t mean to go. The same fluency that lets him bridge gaps in planning or knowledge can, just as easily, fill them with fiction.
 
-We’ve already seen what machines can do: self-driving cars. But sometimes they fail—and the weight of the error is real. Not a mistyped word. A broken body. A life.
+We’ve already seen what machines can do: self-driving cars. But sometimes they fail — and the weight of the error is real. Not a mistyped word. A broken body. A life.
 
 And while knowledge work may seem safer, its effects aren’t soft. A misfiled claim. A biased loan decision. A hallucinated treatment plan. When software does the work, the risk rides with it.
 
-So while the lever is impressive—and it is—the fulcrum must be strong. That’s where trust comes in. And trust, as we said, is not a feeling. It’s a system design.
+So while the lever is impressive — and it is — the fulcrum must be strong. That’s where trust comes in. And trust, as we said, is not a feeling. It’s a system design.
 
-One that demands **transparency**—can you see what it’s doing?
+One that demands **transparency** — can you see what it’s doing?
 
-One that allows for **auditability**—can you trace how it got there?
+One that allows for **auditability** — can you trace how it got there?
 
-One that offers **control**—can you intervene or shut it down?
+One that offers **control** — can you intervene or shut it down?
 
-One that secures **alignment**—does it pursue human intent, not just human input?
+One that secures **alignment** — does it pursue human intent, not just human input?
 
-These qualities don’t emerge on their own. They’re engineered. They’re governed. And they show up in the details—in what props are placed, in how tightly loops are held, in who gets to click *proceed*.
+These qualities don’t emerge on their own. They’re engineered. They’re governed. And they show up in the details — in what props are placed, in how tightly loops are held, in who gets to click *proceed*.
 
-Because AI doesn’t care. It never will. That burden, and that promise, rests with the people who build it—the ones who put feet on the ground.
+Because AI doesn’t care. It never will. That burden, and that promise, rests with the people who build it — the ones who put feet on the ground.
