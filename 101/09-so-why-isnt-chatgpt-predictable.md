@@ -34,7 +34,7 @@ In *Angry Birds*, you pick your bird, pull back the slingshot at a precise angle
 
 It's also models. They simulate likely next steps with precision. You give it an input (“drop the puck”), and it calculates the probability of every possible next word (“slot”). The model given the same input, yields the same output.
 
-The variation comes not from the model. It's introduced after sampling its probabilities. That’s ChatGPT introducing randomness to make its responses feel more natural or surprising. They don’t always pick the highest-probability word. Instead, they control the sampling algorithm to give you variety.
+The variation comes not from the model. It's introduced after sampling its probabilities. That’s ChatGPT's developers deliberately introducing randomness to make its responses feel more natural or surprising. They don’t always pick the highest-probability word. Instead, they control the sampling algorithm to give you variety.
 
 What if the GPS didn't always choose the fastest route home. Instead, it finds six good ones and rolls a die. Wouldn't that be more interesting? Determinism with a dose of randomness thrown in.
 
