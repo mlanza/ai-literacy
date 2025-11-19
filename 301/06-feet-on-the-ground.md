@@ -4,7 +4,7 @@ In the last chapter, we described the world from an AI’s perspective as a kind
 
 If there’s a phone in the room, someone built it. If there’s a laptop with a browser open, someone made sure it knows how to behave. And if there’s a travel agency with an NPC outside, someone encoded its rules of engagement. Behind every meaningful object is a developer who breathed life into it — not to simulate reality, but to expose capabilities.
 
-This isn’t light work. Every virtual prop that does something real represents an integration lift. That’s why we aim to reuse them, wrap them, and distribute them in ways that make them easy to plug in — often using something like MCP. The goal is to let the model move fluidly through a world and employ tools, and hopefully not have to implement them all ourselves.
+This isn’t light work. Every virtual prop that does something real represents an integration lift. That’s why we aim to reuse them, wrap them, and distribute them as *pluggables*. The goal is to let the model move fluidly through a world and employ tools, and hopefully not have to implement them all ourselves.
 
 So let’s see that in action. Not as a concept, but as a moment.
 

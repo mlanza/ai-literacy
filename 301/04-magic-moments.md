@@ -216,7 +216,7 @@ They write the glue code. Inject the prompts. Stitch together the tools. They bu
 
 While every agent *can* be a custom job — a hand-built program with its tools baked in — that approach is costly. Every new capability or tool means wiring more APIs and writing more glue code, which makes integration, not intelligence, the bottleneck.
 
-The future is one where agents don’t have their tools baked in, but can reach for them as needed. Tools are external facilities — modular, reusable. The agent just picks them up when the task calls for it.
+The future is one where agents don’t have their tools baked in, but can reach for them as needed. Tools are external facilities — modular, reusable, and **pluggable**. The agent just plugs into them up when a task calls for it.
 
 It’s cheaper. Simpler. More flexible.
 
@@ -226,7 +226,7 @@ That’s where we’re headed: toward agents that can do the same.
 
 We’re standing at the edge of something big — a future where the baton can be passed *without* a developer in the loop. Where the AI isn’t just reading the guidebook, but knows when and how to act on it. Where the infrastructure exists to let a brain in a jar take action *safely*, *modularly*, *on brand.*
 
-That’s what the next chapter explores: a generic infrastructure that exposes reusable, external tools agents can utilize as needed.
+That’s what the next chapter explores: a generic infrastructure that exposes pluggable tools agents can utilize as needed.
 
 We’re not there yet.
 

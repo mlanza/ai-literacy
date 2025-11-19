@@ -57,15 +57,29 @@ Wait — what?
 
 This wasn’t just a line of text. Your real wife — in the real world — got that message.
 
-Somehow, the phone in the game had **teeth**.
+Somehow, the phone in the game had **teeth**.  That's what tools offer.  Text-based affordances which map to real-world capabilities.
 
 ---
 
-This is the promise of **Model Context Protocol (MCP)**.
+## Pluggable Tooling
 
-MCP is a kind of universal adapter — a way to make in-game props do real-world things. With MCP, a smartphone inside a text adventure can piggyback on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
+We talked about tools before — said how important they were to endowing an agent with capabilities which allow it to do work on your behalf.
 
-That’s what makes MCP so radical. If you type a query into the in-game browser — `where am I?` — you get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
+It was suggested a developer was needed to implement **baked-in tools**.  But what if tools were more readily available?  Something which, like a thumb drive, you just reached for and plugged in: **pluggable tools**.
+
+The developer, instead of wiring tools directly into programs/agents implements them as standalone components.  That's the way to making them freely available to a world of agents, and not just the one.
+
+There are ways to achieve this including CLIs, the Module Context Protocol and Skills, to name a few, but without getting into the particulars of any one it's best to think of "pluggable," for now, as exhibting 3 key *instant* properties:
+
+* **Instant identifiability.** The tool is identified to the agent as an affordance which serves some purpose.  The agent instantly understands the general utility, what capabilities are on offer and what kinds of problems it helps solve.
+* **Instant discoverability.**  The tool exposes the full gamut of its capabilities. It's like reading the table of contents to the owner's manual and getting a clearer sense of the specific ways the tool can be used.
+* **Instant grokkability.** The agent can, whenever it chooses to utilize a capability, instantly absorb the owner's manual, and hone in on a select capability.  That is, putting on the expertise to perform some task is as easy as putting on a hat.
+
+## Text-base smartphone, real-world consequence
+
+Take the smartphone in our Zork.  It is an in-game prop that does real-world things.  That's because that that text adventure prop piggybacks on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
+
+That’s what makes tools so radical. If you type a query into the in-game browser — `where am I?` — you get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
 
 **From the model’s perspective, this is still just Zork.**
 
@@ -77,17 +91,17 @@ Historically, each tool integration required a developer to do all the work — 
 
 And that had to be done — from scratch — for each tool, in each app, one at a time. Across environments like Slack, Microsoft Teams, customer portals, CRMs, you name it. Tooling integration was fragmented. Repetitive. High-lift.
 
-**MCP changes that.**
+**Pluggability changes that.**
 
-It packages each tool like a USB device. Once wrapped, a model can readily recognize and use it. This means:
+It packages each tool like a USB device.  Makes them modular. Once wrapped, a model can readily recognize and use it. This means:
 
-> **If one developer builds the adapter, everyone can use the tool.**
+> **If a developer builds with pluggability in mind, the tool becomes readily available to everyone.**
 
 Zero lift on your end. The integration becomes a shared asset. The more tools come online, the more props in your text adventure gain consequence.
 
 Let’s go back to the flight planning example. It was always possible — but hard. A developer had to wire up a Skyscanner search, allow filtering by user preferences, surface the best option, and structure the booking interaction.
 
-Now imagine Skyscanner exposes this via MCP.
+Now imagine Skyscanner exposes its capabilities in a pluggable tool.
 
 From the model’s view, it walks up to a terminal in the house — in Zork — and types a query. The terminal responds with real, up-to-date flights. Once the model identifies the right one, it issues a booking request. The reservation is confirmed.
 
@@ -95,25 +109,25 @@ The story advanced. But this time, it wasn’t fiction. The props were wired. Th
 
 That’s the promise.
 
-As more tools come online through MCP, the processes you care about get easier to build. Tool exposure has always been the bottleneck. The integration was the serious work.
+As more pluggables are made available, the processes you care about become easier to build. Tool exposure has always been the bottleneck. The integration was the serious work.
 
 Now it’s in your back pocket.
 
-You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. MCP is what lets you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
+You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. Accessible tools let you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
 
-MCP is the answer to the brains-in-jars dilemma.
+Accessible tools are the answer to the brains-in-jars dilemma.
 
 ## Zork with a Credit Card
 
 **It’s thrilling. And unnerving.**
 
-With MCP, tools become props. Plug them in like peripherals and the brain just—knows what to do. One moment it’s parsing story logic. The next, it’s booking a real flight.
+At this level, tools become props. Plug them in like peripherals and the brain just—knows what to do. One moment it’s parsing story logic. The next, it’s booking a real flight.
 
 The AI doesn’t feel the difference. It’s still in Zork. Still playing text games. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
 
 That’s the disconcerting part.
 
-The model’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. MCP wires that fiction into reality. It gives the hoax teeth.
+The model’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. Tools wire that fiction into reality. They give the hoax teeth.
 
 This doesn’t mean we should slam the brakes. But it does mean we’re on different ground now. Consequences are real. The baton isn’t metaphorical anymore. When you hand something off to the model — especially something with reach — you’re not just prompting. You’re delegating. That deserves care.
 
@@ -125,15 +139,13 @@ And the window is already open.
 
 ## Not Just a USB Stick — A Skyscanner Agent
 
-So far, we’ve described MCP-wrapped tools like USB devices: pluggable, interchangeable, no need to hardwire them every time. That’s still true. But it’s only half the story.
+So far, we’ve described pluggable tools like USB devices. That’s true, but it’s only half the story.  What really matters isn’t how easy they are to plugin in — it’s the expertise that comes along with them.
 
-What really matters isn’t the connector — it’s what’s on the other end.
+Pluggables don't just give a model access to capabilities. It gives you someone to delegate to. Not a dumb terminal. A skilled collaborator.
 
-MCP doesn’t just give your model access. It gives it someone to delegate to. Not a dumb terminal. A skilled collaborator.
+Let’s go back to booking flights. Without readily-available pluggables, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with them, it’s like your AI walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
 
-Let’s go back to booking flights. Without MCP, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with MCP, it’s like your AI walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
-
-That’s the real trick. MCP servers don’t only expose tools. They expose knowhow as **pluggable and functional competencies**.
+That’s the real trick. Pluggables are not just the capabilities, they're also the necessary **functional competencies**.  That is, done well, role expertise is baked in.
 
 Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
 
@@ -147,17 +159,21 @@ This is what we wanted. Not tools, but **competencies**.
 
 But how does this actually work? Not technically — conceptually.
 
-For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts, but MCP calls **resources**.
+For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts and some call **resources**.
 
 Resources are the reference frame — the situational awareness — that lets the AI use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
 
-You've already seen prompts in action. But under MCP, prompts themselves are part of the system — treated as first-class objects. Which means the three pillars of MCP are:
+You've already seen prompts in action. But with pluggables, prompts themselves are part of the system, a key part of what makes them tick. Remember, tools were mentioned in section 201.
 
 * **Tools = verbs** (what the model can do)
+
+That kept things simple enough, but pluggable tools go farther, and bake in more:
+
+
 * **Resources = nouns** (what the model should know)
 * **Prompts = goals** (what you’re asking it to accomplish)
 
-In short: MCP gives your model hands, memory, and mission.
+In short: pluggables add memory and mission to hands.
 
 ## Link in Hyrule, but with Teeth
 
@@ -182,7 +198,7 @@ The whole exchange lasts seconds. But when Link walks through the door, he’s n
 
 Now zoom out. Hyrule isn’t one town. It’s a kingdom.
 
-Everywhere you go, there are new buildings. And outside each one is a helpful NPC, ready to brief you. Every agency, shop, or office you visit becomes a new venue for meaningful work. With MCP, the whole world is explorable. And actionable.
+Everywhere you go, there are new buildings. And outside each one is a helpful NPC, ready to brief you. Every agency, shop, or office you visit becomes a new venue for meaningful work. When affordances are hardwired, the whole world is explorable. And actionable.
 
 Which means that giant petri net of processes we talked about? The one with the bead tracing its way through complex workflows?
 
@@ -193,4 +209,3 @@ Even something as lightweight as ChatGPT can now coordinate serious work — iss
 From the model’s perspective, it’s still Zork.
 
 Only now, the props have teeth. The baton is real. And the kingdom is alive.
-
