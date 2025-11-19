@@ -202,21 +202,21 @@ Why? Because tools — like flight APIs — aren’t built into its brain. They 
 
 That’s where **agents** come in.
 
-An agent is a **program that employs an LLM to get work done**. The LLM provides the reasoning — the know-how — but the program gives it hands.
+An agent is a **program that employs an LLM and some set of tools for getting work done**. The LLM provides the reasoning — the know-how — but the program gives it hands.
 
 On its own, the model can describe how to book a flight. With tools, it can actually *book* the flight.
 
-Those tools — APIs, databases, browsers, scripts — are what let an agent act in the world instead of just talking about it. Without them, a model can make a plan, but it can’t execute it.
+Those tools — APIs, databases, browsers, scripts — are what let an agent act in the world instead of just talking about it. Without them, a model can make a plan, but it can’t execute.
 
 And right now, it’s developers who make execution possible.
 
-They write the glue code. Inject the prompts. Stitch together the tools. They build the bridge between the model’s intent and the services that carry it out.
+They write the glue code. Inject the prompts. Stitch together the tools. They build the bridge between the model’s intent and the services necessary to carry out tasks.
 
 ## 🤖 Toward Agentic Infrastructure
 
-While every agent *can* be a custom job — a hand-built program with its tools baked in — that approach is too costly. Every new capability or tool means wiring more APIs and writing more glue code, which means the costly part is integration, not intelligence.
+While every agent *can* be a custom job — a hand-built program with its tools baked in — that approach is costly. Every new capability or tool means wiring more APIs and writing more glue code, which makes integration, not intelligence, the bottleneck.
 
-The future is one where agents doesn’t have their tools built in, but can reach for them when needed. Tools become external facilities — modular, reusable. The agent just picks them up when the task calls for it.
+The future is one where agents don’t have their tools baked in, but can reach for them as needed. Tools are external facilities — modular, reusable. The agent just picks them up when the task calls for it.
 
 It’s cheaper. Simpler. More flexible.
 
