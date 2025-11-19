@@ -186,15 +186,11 @@ But this is only half the story.
 
 Picking a flight is useful. But not amazing. Why? Because it’s still static. Still stuck in the artifact layer.
 
-Flight data changes minute by minute. If the model picked a great option, but the price jumped two hours later, that work has already gone stale.
+Flight data changes minute by minute. If the model picked a great option but the price jumped two hours later, that work has already gone stale.
 
-The real power — the next frontier — is letting AI *act*, treating it as an agent.
+The real power — the next frontier — is letting AI *act* on our behalf. It’s one thing to recommend a flight. It’s another to book it.
 
-> **Agent**: a system that can leverage or emulate reasoning to make dynamic decisions in an application flow.[^1]
-
-It’s one thing to recommend a flight. It’s another to book it.
-
-That’s not bead-moving. That’s baton-passing.
+That’s not bead-moving. It’s baton-passing.
 
 And batons are harder. They require trust. Handoff. Real-world consequences.
 
@@ -202,28 +198,36 @@ To pass the baton, the model has to do more than make a choice. It needs to *run
 
 But the model can’t do that on its own.
 
-Why? Because tools — like flight APIs — aren’t built into its brain. They're separate. And using them takes coordination. Someone has to wire things up so that what the model *says* it wants to do can actually be *done*.
+Why? Because tools — like flight APIs — aren’t built into its brain. They live outside it. And using them takes coordination. Someone has to connect what the model *knows* with what it can *do.*
 
-Right now, that someone is a developer.
+That’s where **agents** come in.
 
-They write the glue code. Inject the prompts. Stitch together services. They make sure the system can act on the model’s intent — not just in the story it’s telling, but in the real world.
+An agent is a **program that employs an LLM to get work done**. The LLM provides the reasoning — the know-how — but the program gives it hands.
 
-And let’s be clear: if there’s a program, there’s a programmer.
+On its own, the model can describe how to book a flight. With tools, it can actually *book* the flight.
 
-AI can help — it can assist with handoffs, suggest actions, even fill in gaps — in programs, but the model can’t own the whole process. Not yet. The human has to handle the parts the model isn’t ready to manage.
+Those tools — APIs, databases, browsers, scripts — are what let an agent act in the world instead of just talking about it. Without them, a model can make a plan, but it can’t execute it.
 
-It works. But it’s fragile. Expensive. High-overhead.
+And right now, it’s developers who make execution possible.
+
+They write the glue code. Inject the prompts. Stitch together the tools. They build the bridge between the model’s intent and the services that carry it out.
 
 ## 🤖 Toward Agentic Infrastructure
 
-This is where we’re heading next.
+While every agent *can* be a custom job — a hand-built program with its tools baked in — that approach is too costly. Every new capability or tool means wiring more APIs and writing more glue code, which means the costly part is integration, not intelligence.
 
-We’re standing at the edge of something big — a future where the baton can be passed *without* a developer in the loop. Where the AI isn’t just reading the guidebook, but knows when and how to act on it. Where the infrastructure exists to let a brain in a jar take action *safely*, *modularly*, *on brand*.
+The future is one where agents doesn’t have their tools built in, but can reach for them when needed. Tools become external facilities — modular, reusable. The agent just picks them up when the task calls for it.
 
-That’s what the next chapter explores: a generic infrastructure that exposes reusable tools that the model can employ directly on our behalf.
+It’s cheaper. Simpler. More flexible.
+
+A person doesn’t have scissor hands. Unless, of course, his name is Edward. He just grabs the scissors when he needs them. Same with a smartphone. It's not built into your arm — you just pick it up, use it, and put it down again.
+
+That’s where we’re headed: toward agents that can do the same.
+
+We’re standing at the edge of something big — a future where the baton can be passed *without* a developer in the loop. Where the AI isn’t just reading the guidebook, but knows when and how to act on it. Where the infrastructure exists to let a brain in a jar take action *safely*, *modularly*, *on brand.*
+
+That’s what the next chapter explores: a generic infrastructure that exposes reusable, external tools agents can utilize as needed.
 
 We’re not there yet.
 
-But the right facilities make possible what has long been far fetched.
-
-[^1]: This definition is brought to you by [AI Makerspace](https://www.youtube.com/watch?v=lfEbzQFyS9U), with light edits.
+But the right facilities make possible what has long been far-fetched.
