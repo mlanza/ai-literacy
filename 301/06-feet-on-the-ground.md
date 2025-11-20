@@ -106,7 +106,7 @@ The **MCP calendar service** replies:
 The app asks the model to translate those raw facts into something intelligible:
 
 ```
-The 2pm meeting is titled “Control Layer Governance.” The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
+Your 2pm meeting is “Control Layer Governance.” The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
 ```
 
 Neither side gets the raw exchange. Every message is adjusted — expanded, filtered, or framed — so it lands in the right shape for its audience. The model gets enriched messages; humans get edited ones. That layer of mediation keeps the loop coherent and frames both sides of the exchange for a good experience.
