@@ -63,25 +63,25 @@ Somehow, the phone in the game had **teeth**.  That's what tools offer.  Text-ba
 
 We talked before about tools — how they give an agent real leverage, the means to act on your behalf instead of just talking about what could be done.
 
-Earlier, we implied that a developer had to hardwire those tools into the agent — **baked-in tools**. But what if tools were designed to be more like thumb drives? Something you could just reach for and plug in — **pluggable tools**.
+Earlier, the discussion was how developers hardwired **internal tools** into the agent. But what if **external tools** were designed to be more like thumb drives? Something you could just reach for and plug in — **pluggable**.
 
 In that model, a developer builds each tool as a standalone component, not as an internal appendage. That’s what makes them reusable — any agent can discover and use them, not just the one they were built for.
 
 There are several ways this idea shows up in practice — from command-line interfaces (CLIs) that expose discrete operations, to the Model Context Protocol that lets agents negotiate access to external resources, to Skills frameworks that package specialized behaviors. Each of these embodies the same design philosophy: tools that can be recognized, explored, and mastered on demand. They make capability modular, composable, and readily accessible.
 
-The deeper principle at play, what actually makes pluggability possible, is **progressive disclosure**. The agent doesn’t perceive the full depth of every tool it could use all at once; it starts with the first rung of a ladder. But it knows the ladder is there. When the moment calls for it, it can ascend — uncovering more detail and capability as needed. That’s how it keeps its context lean while still having depth on demand.
+The deeper principle at play, what actually promotes the pluggability, is **progressive disclosure**. The agent doesn’t perceive the full depth of every tool it could use all at once; it starts with the first rung of a ladder. But it knows the ladder is there. When the moment calls for it, it can ascend — uncovering more detail and capability as needed. That’s how it keeps its context lean while still having depth on demand.
 
 In practice, readily accessible is 3 rungs on a ladder:
 
 * **Instant identifiability.** The agent immediately recognizes the tool as an affordance — something that can *do* — and understands, at a glance, what class of problem it’s meant to solve.
-* **Instant discoverability.** When asked, the tool reveals its table of contents — the set of things it can do, with enough shape for the agent to reason about which one to use.
+* **Instant discoverability.** When asked, the tool reveals its table of contents — the api for what it can do.  This allows the agent to think about the particular feature(s) it wants to use.
 * **Instant grokkability.** Once the agent chooses a capability, it can instantly absorb the know-how it needs — like flipping open to the right page and putting on the skill like a hat.
 
 Progressive disclosure is a technique for preserving the context window, allowing the agent proper focus, while pluggability ensure it has access to the on-demand capabilities it requires to get a job done.
 
 ## Text-base smartphone, real-world consequence
 
-Take the smartphone in our Zork.  It is an in-game prop that does real-world things.  That's because that that text adventure prop piggybacks on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
+Take the smartphone in our Zork.  It is an in-game prop that does real-world things.  That's because the text adventure prop piggybacks on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
 
 That’s what makes tools so radical. If you type a query into the in-game browser — `where am I?` — you get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
 
@@ -97,9 +97,7 @@ And that had to be done — from scratch — for each tool, in each app, one at 
 
 **Pluggability changes that.**
 
-It packages each tool like a USB device.  Makes them modular. Once wrapped, a model can readily recognize and use it. This means:
-
-> **If a developer builds with pluggability in mind, the tool becomes readily available to everyone.**
+It packages each tool like a USB device.  Makes them modular. Once wrapped, a model can readily recognize and use it.
 
 Zero lift on your end. The integration becomes a shared asset. The more tools come online, the more props in your text adventure gain consequence.
 
@@ -137,19 +135,19 @@ This doesn’t mean we should slam the brakes. But it does mean we’re on diffe
 
 As we move from the left side of the spectrum toward the right — from manual nudging to full AI-driven action — we carry more risk. That’s not a reason to stop. It’s a reason to design thoughtfully.
 
-Because in this new kind of text adventure, your Visa card is in the room.
+Because in this new kind of text adventure, your credit card is in the room.
 
 And the window is already open.
 
 ## Not Just a USB Stick — A Skyscanner Agent
 
-So far, we’ve described pluggable tools like USB devices. That’s true, but it’s only half the story.  What really matters isn’t how easy they are to plugin in — it’s the expertise that comes along with them.
+Pluggable tools have been compared to USB devices. That’s true, but it’s only half the story.  What really matters isn’t how easy they are to plugin in — it’s the expertise that comes along with them.
 
 Pluggables don't just give a model access to capabilities. It gives you someone to delegate to. Not a dumb terminal. A skilled collaborator.
 
 Let’s go back to booking flights. Without readily-available pluggables, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with them, it’s like your AI walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
 
-That’s the real trick. Pluggables are not just the capabilities, they're also the necessary **functional competencies**.  That is, done well, role expertise is baked in.
+That’s the real trick. Pluggables are not just capabilities, they're also **competencies**.  That is, done well, baked-in expertise.
 
 Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
 
@@ -157,7 +155,7 @@ From the model’s point of view, it’s still playing Zork. Still progressing t
 
 If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
 
-This is what we wanted. Not tools, but **competencies**.
+This is what you want. Not tools, but **competencies**.
 
 ## Booting Brains
 
@@ -167,12 +165,11 @@ For the model to decide *what* to do, *when*, and *how*, it needs the right back
 
 Resources are the reference frame — the situational awareness — that lets the AI use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
 
-You've already seen prompts in action. But with pluggables, prompts themselves are part of the system, a key part of what makes them tick. Remember, tools were mentioned in section 201.
+You've already seen prompts in action. But with pluggables, prompts themselves are part of the system, a key part of what makes them tick. Remember, tools got mention in section 201.
 
 * **Tools = verbs** (what the model can do)
 
 That kept things simple enough, but pluggable tools go farther, and bake in more:
-
 
 * **Resources = nouns** (what the model should know)
 * **Prompts = goals** (what you’re asking it to accomplish)
