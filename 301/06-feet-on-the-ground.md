@@ -111,14 +111,13 @@ The 2pm meeting is titled “Control Layer Governance.” The attendees are Aver
 
 Neither side gets the raw exchange. Every message is adjusted — expanded, filtered, or framed — so it lands in the right shape for its audience. The model gets enriched messages; humans get edited ones. That layer of mediation keeps the loop coherent and frames both sides of the exchange for a good experience.
 
-The latest step moved the user closer to the goal. The model senses the task isn’t finished, not intuitively.  Because the developer has built a progress check into the loop. After each turn, the app asks the model to review the transcript and answer:
+The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check into the loop. After each turn, the app prompts the model:
 
-> Have you delivered the anticipated outcome?
+> Review the transcript. Have you delivered the anticipated outcome?
 
-That’s autonomy — the essence of an agent: a model governing its own loop.
+Depending on its response, the loop either concludes or continues. That’s autonomy — the essence of an agent: a model governing its own progress.
 
-Once the world is set with tools and a goal, the model doesn’t need step-by-step instructions. With minimal guidance in its system prompt, it knows how to use what’s available.
-The app just keeps feeding it facts — as a user conversing with ChatGPT continues to feed it additional context — and trusts it to carry the work through to completion.
+The model, in a world set with tools and a goal and system-prompt guidance, doesn’t need step-by-step instructions. It uses what’s available.  And the app facilitates by exposing tools and feeding it turns.
 
 ### 🌀 Address Book Lookup
 
@@ -191,7 +190,7 @@ And finally, the **agent** confirms:
 
 And that was that.
 
-Not because we gave the agent a playbook. We didn’t. The developer just set the stage on which the model would perform. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent and the ability to assess the status of its own work.
+Not because the agent was handed a playbook. It wasn’t. The developer just set the stage on which the model performed. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent and the uncanny ability to assess its own work.
 
 What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The agent saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
 
