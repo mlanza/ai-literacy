@@ -6,9 +6,9 @@ If there’s a phone in the room, someone built it. If there’s a laptop with a
 
 This isn’t light work. Every virtual prop that does something real represents an integration lift. The goal is to let the **agent** move fluidly through a world and employ tools without having to hand-wire each one. That’s why we aim for reuse — to distribute *pluggable tools*.
 
-Before we go further, it’s worth clarifying how these words are being used. The **app** is the program a developer builds — the orchestration layer, the code that routes messages, manages tools, and decides how the model is invoked. The **agent** is what the user experiences — the behavior that emerges when the app gives the model goals, context, and the means to act. They’re the same system seen from opposite sides: the app is the machinery; the agent is the mind it enables.
+Before we go further, it’s worth clarifying the distinction between app and agent. The **app** is the program a developer builds — the orchestration layer, the code that routes messages, manages tools, and decides how the model is invoked. The **agent** is what the user experiences — the behavior that emerges when the app gives the model goals, context, and the means to act. The app is the machinery and/or residence; the agent is the mind which inhabits it.
 
-What we’re about to see isn’t a pluggable demo. It’s a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work pluggability is meant to make unnecessary.
+What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work that goes into enabling tools.  This is meant to help you see the kind of work pluggability reduces, even eliminates.
 
 ## 🚗 The Scenario: “Let the 2pm Meeting Know I’m Running Late”
 
@@ -20,14 +20,15 @@ That’s the intention. It’s not a full plan, not a sequence of steps — just
 
 From there, the baton passes to the **app**, the program that hosts the **agent**. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
 
-From the user’s perspective, the **agent** is alive. From the developer’s perspective, the **app** is the system that mediates — translating words into structured requests and routing them through real APIs.
+From the user’s perspective, the **agent** feels alive. From the developer’s perspective, the **app** is the real system — a translator that turns words into structured requests and routes them through actual APIs.
 
+Everything unfolds within the app’s **control loop**.
 
-### 🌀 Loop 1 — Calendar Query
+### 🌀 Calendar Query
 
-The first prompt includes the user’s request, transcribed from voice and sent into the system. The current time and available tools are in scope.
+The first prompt carries the user’s voice, transcribed and injected into the system. The current time and available tools are in scope.
 
-The **app** packages the prompt and delivers it to the **model**, the thinking core of the agent:
+The **app** packages that prompt and delivers it to the **model**, the agent’s reasoning core:
 
 ```
 You are an assistant. The user just said:
@@ -36,7 +37,19 @@ It is currently 1:52 PM.
 There is a calendar shop, contact booth, and messaging kiosk in sight.
 ```
 
-The **model** anchors immediately on the calendar. To notify anyone, it first needs to understand what the 2 pm meeting is — and who’s attending.
+The **model** immediately locks onto the calendar shop. To notify anyone, it first needs to know what the 2:00 PM meeting is — and who’s attending.
+
+A model has deep knowledge of the world. It knows what a calendar is for. What it lacks is **agency** — the ability to act. That’s why it can tell you *how* to solve a problem, but can’t solve it itself.
+
+**An agent is a model given tools and placed inside a loop.** The tools let it take small, concrete actions. The loop lets it break down bigger goals into manageable steps and pursue them one at a time.
+
+Both are essential. Tools make work *possible*. The loop makes work *progressive* — because most goals can’t be reached in a single leap.
+
+In our text adventure, when the “calendar shop” appeared on the horizon, it wasn’t by chance. The developer who built the world defined it as an affordance — a thing with capabilities — and gave the model a dialect for using it: a simple JSON-based DSL.
+
+This entire exchange takes place in the orchestration layer of the app — the layer that mediates between model and user, filtering out noise.
+
+When the app receives the model’s next response — part narrative, part structured command — it splits them cleanly:
 
 ```
 To notify the attendees, I need to check the user’s calendar for the 2:00 PM meeting.
@@ -50,9 +63,19 @@ To notify the attendees, I need to check the user’s calendar for the 2:00 PM m
 }
 ```
 
-This response has two layers: the natural-language explanation for the human and the structured tool call for the app. That duality is exactly what makes an **agent** a universal mediator — one foot in each world, translating human intention into machine action.
+The narrative goes to the user interface.
+The structured request goes to the calendar service.
 
-The developer extracts the structured request and relays it to the **MCP calendar service**, which responds:
+That structure didn’t appear by accident. The developer defined the **shape** of a valid tool call — the rules of engagement for the calendar shop.
+
+The model does what it always does: reads the stage, considers what’s available, and fabricates a plausible next move.
+That it includes a meaningful, structured request — a concrete step toward solving a real-world problem — is extraordinary.
+
+This dual response reveals the model’s true gift: it’s a **universal mediator**. It can speak fluently to both humans and machines.
+
+The app, expecting such structured tool calls, parses them from the conversation, routes them to the right service, and passes results back in context — to the model, the user, or both.
+
+The **MCP calendar service** replies:
 
 ```json
 {
@@ -76,20 +99,31 @@ The developer extracts the structured request and relays it to the **MCP calenda
 }
 ```
 
-The app injects that fact into the next prompt:
+The app asks the model to translate those raw facts into something intelligible:
 
 ```
 The 2pm meeting is titled “Control Layer Governance.” The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
 ```
 
-No instructions needed. The model already knows what tools are available and how to use them. That’s baked into the system prompt. The app just supplies new facts — like a user feeding context to ChatGPT — trusting the agent to keep the thread going.
+What the user sees may be more — or less — than what the model actually received. Models get enriched messages; humans get edited ones.
 
-### 🌀 Loop 2 — Address Book Lookup
+That exchange moves the user closer to their goal. The model senses the task isn’t finished — and doesn’t need to be told.
 
-The model immediately advances with the next logical step: resolve names into numbers.
+The loop checks progress, the model takes another turn, and after each iteration, the app asks the model:
+
+> Have you delivered the anticipated outcome?
+
+That’s autonomy — the essence of an agent: a model governing its own loop.
+
+Once the world is set with tools and a goal, the model doesn’t need step-by-step instructions. With minimal guidance in its system prompt, it knows how to use what’s available.
+The app just keeps feeding it facts — as a user coversing with ChatGPT continues to feeds it additional context — and trusts it to carry the work through to completion.
+
+### 🌀 Address Book Lookup
+
+Next, the model logically advances the work: mapping names to phone numbers.
 
 ```
-To send a message, I need their mobile numbers.
+To send a message, I need their phone numbers.
 
 {
   "tool_request": {
@@ -99,36 +133,24 @@ To send a message, I need their mobile numbers.
 }
 ```
 
-The app relays the request to the MCP contact service, which replies:
+The app relays the request to the MCP contact service, which responds:
 
 ```json
 {
   "tool_response": {
     "tool": "address_book.lookup",
     "results": [
-      {
-        "name": "Avery Lucas",
-        "phone": "+1-555-123-0192",
-        "email": "avery@charlottesville.com"
-      },
-      {
-        "name": "Grant Denny",
-        "phone": "+1-555-388-4421",
-        "email": "gdenny@militia.com"
-      },
-      {
-        "name": "Eliza Goulding",
-        "phone": "+1-555-207-3988",
-        "email": "egoulding@hayepark.com"
-      }
+      { "name": "Avery Lucas", "phone": "+1-555-123-0192", "email": "avery@charlottesville.com" },
+      { "name": "Grant Denny", "phone": "+1-555-388-4421", "email": "gdenny@militia.com" },
+      { "name": "Eliza Goulding", "phone": "+1-555-207-3988", "email": "egoulding@hayepark.com" }
     ]
   }
 }
 ```
 
-As before, the app doesn’t extract or interpret — just passes it along. The model continues the chain.
+As before, the app doesn’t interpret or decide — it just passes the baton. The model keeps the chain alive.
 
-### 🌀 Loop 3 — Text Message Delivery
+### 🌀 Text Message Delivery
 
 With everything in hand, the model responds:
 
@@ -167,9 +189,9 @@ And finally, the **agent** confirms:
 
 And that was that.
 
-Not because we gave the AI a playbook. We didn’t. The developer just set the stage on which the model would perform. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
+Not because we gave the agent a playbook. We didn’t. The developer just set the stage on which the model would perform. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
 
-What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The model saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
+What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The agent saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
 
 That’s not how programs behave. That’s how interns behave — the good ones, the kind who look around, understand the tools, and move. The kind who don’t need constant instruction, because they can reason from the materials at hand.
 
@@ -183,13 +205,13 @@ Each loop was a single turn. Every tool call was surfaced explicitly:
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-For the model to propel itself forward in the story, picture Link (the AI) on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That’s a model turn, happening inside the app’s **control loop** — the heartbeat of the agent.
+For the agent to propel itself forward in the story, picture Link on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That’s a turn, happening inside the app’s **control loop** — the heartbeat of the agent.
 
 That’s where the developer is — right there, with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made. When the surgeon (the model) requests “scalpel,” the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
 Yes, that happens with code. But the developer decides how fine-grained to be about checking and granting access. Since the AI is a brain in a jar, all it can do is speak in text. Some of those requests will be for tools. The developer has to vet and enable them — not in the actual moment, but when wiring the **app** together.
 
-While there, he’s not necessarily thinking about “let them know I’m running late.” It’s more opaque than that. He just knows, having designed the set and laid out the props, the kinds of things the AI will attempt in response to user demands. So, from his perspective, the Zork adventure might unfold something like:
+While there, he’s not necessarily thinking about “let them know I’m running late.” It’s more opaque than that. He just knows, having designed the set and laid out the props, the kinds of things the agent may attempt in response to user demands. So, from his perspective, the Zork adventure might unfold something like:
 
 ```
 > check calendar between ... and ...
@@ -198,7 +220,7 @@ While there, he’s not necessarily thinking about “let them know I’m runnin
 > send group text: “...”
 ```
 
-And, as we saw, each discrete action was a turn — a push of the foot. That’s what the app sees. That’s what the developer vets. Because he can’t anticipate every intent, but he does have final say over what’s permitted inside the control loop.
+And, as we saw, each discrete action was a turn — a push of the foot. That’s what the app sees. That’s what the developer vets. Because he can’t anticipate every intent, but he does have absolute control over what’s permitted inside the loop.
 
 He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.
 
@@ -214,9 +236,7 @@ Because real work doesn’t happen in a single turn. The facts don’t arrive al
 
 That’s why developers build systems. Why they expose waypoints. Why they separate concerns across turns.
 
-Because structure improves output.
-Because each step leaves behind byproducts.
-Because serious work is iterative.
+Because structure improves output. Because each step leaves behind byproducts. Because serious work is iterative.
 
 But here’s what changes once the model starts pushing — when it keeps moving, turn after turn. We’re no longer just talking about intelligence.
 
@@ -225,7 +245,9 @@ We’re talking about **trust**.
 And that raises the question: how far do we want it to go?
 
 Is this a guided trail — tightly bounded, low-risk?
+
 Is it a town — open-ended, permissive, built for discovery?
+
 Or is it something else?
 
 The answer depends on what we’re willing to hand off — and how much we want to be kept in the loop.
