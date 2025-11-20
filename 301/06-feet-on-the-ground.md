@@ -296,21 +296,19 @@ We’ve been treating models like minds in jars — snapshots of the minds of gr
 
 Most models do one thing. You give them a payload — a question, a prompt, a bit of text to chew on — and they reply. One toss, one echo. A single bead moved from one cup to the next. They’re one-trick ponies. They don’t walk. They don’t push. They don’t unfold a plan across time.
 
-Still others come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants, too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop and a developer. It’s an app as much as a model. And how it moves depends on the route it was given.
+Still others come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants — too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. And that implies, whether or not you see it, a control loop and a developer. It’s an app as much as a model. And how it moves depends on the route it was given.
 
-Model vendors have called this deliberate turn taking, forward motion **thinking** and **reasoning** where I chose **walking** to draw the eye to the loop. Turns are not conclusive. They’re partial efforts. The model propels itself — foot down, push — then repeats en route to completing the task at hand.
+Model vendors have called this deliberate turn-taking, forward motion **thinking** and **reasoning**, where I chose **walking** to draw the eye to the loop. Turns are not conclusive. They’re partial efforts. The model propels itself — foot down, push — then repeats en route to completing the task at hand.
 
-The focus on the pushing motion reveals a model is often more than just a mind. It may also include a latent trajectory — a designed behavior that loops over a plan. Like Link setting out on a quest map in hand: sometimes with a clearly marked path, sometimes just with boots and instinct. You discover which by watching how the model acts. How it uses the tools. How it keeps the thread moving forward.
+The focus on the pushing motion reveals a model is often more than just a mind. It may also include a latent trajectory — a designed behavior that loops over a plan. Like Link setting out on a quest map in hand: sometimes with a clearly marked path, sometimes just with boots and instinct. You discover which by watching how the model acts, how it uses the tools, how it keeps the thread moving forward.
 
 This is where the fiction gives way — because something more is afoot.
 
-Some walking models stick to the path — narrow ones, like ChatGPT’s Deep Research — where others wander through towns, darting from shop to shop. That is, some are kept on a leash, while others have greater autonomy. The difference isn’t always visible in the interface. It lives in the wiring, shows up in the loop.
+Some walking models stick to the path — narrow ones, like ChatGPT’s Deep Research — where others wander through towns, darting from shop to shop. That is, some are kept on a leash, while others have greater autonomy.
 
-That’s why this isn’t only a question of intelligence. It’s a question of motion.
+The difference isn’t always visible in the interface. It lives in the wiring, shows up in the loop. A walking model is already **agentic** by nature — a program with its own legs and rhythm. Whether we call it a *model* or an *agent* depends less on behavior than on the **boundary of the glass**. When everything happens inside the model’s own window — its prompt, its process — we call it a model. When that glass widens and the model steps into a larger environment — your loop, your workflow — it becomes an agent. One lives behind the glass; the other walks through it.
 
-Some models move a bead, take a single step.
-Some models walk.
-And how far we’re willing to let them go is a matter of weighing in on the risks.
+The focus is the motion. The model moves a bead.  Another lifts it cup to cup to cup, and how far we’re willing to let it go is a matter of weighing in on the risks.
 
 ## Risk Categories
 
