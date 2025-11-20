@@ -304,9 +304,9 @@ The focus on the pushing motion reveals a model is often more than just a mind. 
 
 This is where the fiction gives way — because something more is afoot.
 
-Some walking models stick to the path — narrow ones, like ChatGPT’s Deep Research — where others wander through towns, darting from shop to shop. That is, some are kept on a leash, while others have greater autonomy.
+Some walking models stick to the path — narrow ones, like ChatGPT’s Deep Research — where others wander through towns, darting from shop to shop. That is, some are kept on a leash, while others have greater autonomy. The difference isn’t always visible in the interface. It lives in the wiring, shows up in the loop. A walking model is already **agentic** by nature — a program with its own legs and rhythm.
 
-The difference isn’t always visible in the interface. It lives in the wiring, shows up in the loop. A walking model is already **agentic** by nature — a program with its own legs and rhythm. Whether we call it a *model* or an *agent* depends less on behavior than on the **boundary of the glass**. When everything happens inside the model’s own window — its prompt, its process — we call it a model. When that glass widens and the model steps into a larger environment — your loop, your workflow — it becomes an agent. One lives behind the glass; the other walks through it.
+Whether we call it a *model* or an *agent* depends less on behavior than on the **boundary of the glass**. When everything happens inside the model’s own window — its prompt, its process — we call it a model. When that glass widens and the model steps into a larger environment — your loop, your workflow — it becomes an agent. One lives behind the glass; the other walks through it.
 
 The focus is the motion. The model moves a bead.  Another lifts it cup to cup to cup, and how far we’re willing to let it go is a matter of weighing in on the risks.
 
