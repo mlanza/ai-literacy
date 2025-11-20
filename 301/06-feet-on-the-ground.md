@@ -8,11 +8,15 @@ This isn’t light work. Every virtual prop that does something real represents 
 
 Before we go further, it’s worth clarifying the distinction between app and agent. The **app** is the program a developer builds — the orchestration layer, the code that routes messages, manages tools, and decides how the model is invoked. The **agent** is what the user experiences — the behavior that emerges when the app gives the model goals, context, and the means to act. The app is the machinery and/or residence; the agent is the mind which inhabits it.
 
-What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work that goes into enabling tools.  This is meant to help you see the kind of work pluggability reduces, even eliminates.
+What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work that goes into enabling tools.  This is meant to help you see the kind of work pluggability reduces, even eliminates — not through magic, but through standardization.
+
+Pluggability comes in many forms. Some systems rely on **protocols** like the Model Context Protocol (MCP), which provides a shared handshake between client and tool. Others lean on **command-line interfaces**, which expose their own dialect for structured calls. Still others wrap APIs, SDKs, or webhooks under a unified schema. Each is a different shape of plug — MCP might be USB, CLI might be USB-C — but the principle is the same: once you build the port, everything that fits that shape can connect. The lift becomes a one-time cost.
+
+The orchestration example below models one such handshake — a close cousin to an MCP exchange — not because the protocol itself matters, but because it shows what the first connection entails. Once a client and a service speak the same dialect, the same handshake can enable countless tools thereafter.
 
 ## 🚗 The Scenario: “Let the 2pm Meeting Know I’m Running Late”
 
-It’s 1:52 PM. The executive is stuck in traffic. He says:
+It’s 1:52 PM in San Francisco. Terry, a VP of Platform Experience at a large tech company, is stuck in traffic, inching toward campus. He says:
 
 > 🗣️ “Hey Quirk, let the 2pm meeting know I’m running 10 minutes late.”
 
@@ -105,18 +109,16 @@ The app asks the model to translate those raw facts into something intelligible:
 The 2pm meeting is titled “Control Layer Governance.” The attendees are Avery Lucas, Grant Denny, and Eliza Goulding.
 ```
 
-What the user sees may be more — or less — than what the model actually received. Models get enriched messages; humans get edited ones.
+Neither side gets the raw exchange. Every message is adjusted — expanded, filtered, or framed — so it lands in the right shape for its audience. The model gets enriched messages; humans get edited ones. That layer of mediation keeps the loop coherent and frames both sides of the exchange for a good experience.
 
-That exchange moves the user closer to their goal. The model senses the task isn’t finished — and doesn’t need to be told.
-
-The loop checks progress, the model takes another turn, and after each iteration, the app asks the model:
+The latest step moved the user closer to the goal. The model senses the task isn’t finished, not intuitively.  Because the developer has built a progress check into the loop. After each turn, the app asks the model to review the transcript and answer:
 
 > Have you delivered the anticipated outcome?
 
 That’s autonomy — the essence of an agent: a model governing its own loop.
 
 Once the world is set with tools and a goal, the model doesn’t need step-by-step instructions. With minimal guidance in its system prompt, it knows how to use what’s available.
-The app just keeps feeding it facts — as a user coversing with ChatGPT continues to feeds it additional context — and trusts it to carry the work through to completion.
+The app just keeps feeding it facts — as a user conversing with ChatGPT continues to feed it additional context — and trusts it to carry the work through to completion.
 
 ### 🌀 Address Book Lookup
 
@@ -189,7 +191,7 @@ And finally, the **agent** confirms:
 
 And that was that.
 
-Not because we gave the agent a playbook. We didn’t. The developer just set the stage on which the model would perform. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent.
+Not because we gave the agent a playbook. We didn’t. The developer just set the stage on which the model would perform. The prompt, when it arrived, was human and loose. No steps, no scaffolding — just intent and the ability to assess the status of its own work.
 
 What happened next — the querying, the lookup, the delivery — emerged not from rules, but from recognition. The agent saw what was on the table and reached for what it needed. No one had to blaze the trail. No one had to choreograph the steps.
 
