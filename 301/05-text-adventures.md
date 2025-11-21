@@ -137,13 +137,13 @@ And the window is already open.
 
 ## Not Just a USB Stick — A Skyscanner Agent
 
-Pluggable tools are as convenient USB devices. True.  But that’s only half the story.  There’s more.
+That a tool plugged in exposes real-world levers is true, but it’s only half the story.
 
-These tools come with intelligence, teach the model how to execute.  So when you interact with it, delegate to it, it's not a dumb terminal. It's skilled.
+They include know-how, teach the model how to think and execute.  So when you interact with it, delegate to it, it's not a dumb terminal. It's skilled.
 
 Let’s go back to booking flights. Without tools, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with them, you're interacting with a long-time agent of Skyscanner Travel Agency.  It knows the forms, the lingo, the workflow.
 
-That’s the trick. Tools are not just capabilities, they're also **competencies**.  That is, done well, baked-in expertise.
+That’s the trick. Tools are not just capabilities, they're also **competencies**.  That is, done well: baked-in expertise.
 
 Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
 
@@ -151,13 +151,11 @@ From the model’s point of view, it’s still playing Zork. Still progressing t
 
 If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
 
-That’s what you’ve wanted all along: **competencies**.
-
 ## Booting Brains
 
 But how does this actually work? Conceptually.
 
-For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts and some call **resources**.
+For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs process artifacts: **resources**.
 
 Resources are the reference frame — the situational awareness — that lets the AI use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
 
@@ -165,7 +163,7 @@ You've already seen prompts in action. But with pluggables, prompts themselves a
 
 * **Tools = verbs** (what the model can do)
 
-That kept things simple enough, but pluggable tools go farther, and bake in more:
+That kept things simple enough, but many tools go farther, bake in more:
 
 * **Resources = nouns** (what the model should know)
 * **Prompts = goals** (what you’re asking it to accomplish)
