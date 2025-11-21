@@ -173,7 +173,7 @@ That conversation? It’s not chitchat. It’s *critical*.
 
 In that moment, the NPC does two things:
 
-1. **It hands over the handbook** — everything Link needs to know to operate inside the agency. That’s the **resource**: the process artifact, the contextual download, the kung fu in the Matrix chair.
+1. **It hands over the handbook** — everything Link needs to know to operate inside the agency. That’s the **resource**: the process artifact, the contextual download, the ["I know kung fu" moment](https://www.youtube.com/watch?v=OrzgxUhnYjY).
 2. **It teaches the language** — the special phrases and inputs required to operate the internal machinery. That’s the **prompt template**: the syntax and style for issuing meaningful commands inside the agency.
 
 The whole exchange is instantaneous. But when Link walks through the door, he’s not confused. He’s fluent. He doesn’t just use the system — *he acts like he works there*.
