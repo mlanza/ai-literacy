@@ -103,7 +103,7 @@ Zero lift on your end. The integration becomes a shared asset. The more tools co
 
 Let’s go back to the flight planning example. It was always possible — but hard. A developer had to wire up a Skyscanner search, allow filtering by user preferences, surface the best option, and structure the booking interaction.
 
-Now imagine Skyscanner exposes its capabilities in a pluggable tool.
+Now imagine Skyscanner exposes its capabilities in a tool.
 
 From the model’s view, it walks up to a terminal in the house — in Zork — and types a query. The terminal responds with real, up-to-date flights. Once the model identifies the right one, it issues a booking request. The reservation is confirmed.
 
@@ -111,15 +111,17 @@ The story advanced. But this time, it wasn’t fiction. The props were wired. Th
 
 That’s the promise, plugging the things you care about into the app. That's always been the bottleneck. In this era of intelligence,  integration is still the serious work in front of the lever.
 
-With the right pluggable, its in your back pocket. You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. Accessible tools let you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
+With the right tool already plugged in, its in your back pocket. You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. Accessible tools let you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
 
-Tools are the answer to the brains-in-jars dilemma. Making them pluggable is about convenience, portability.
+Tools are the answer to the brains-in-jars dilemma. Pluggability makes them portable.
 
 ## Zork with a Credit Card
 
-The very notion that a tool plugged in instantly becomes an in-game prop is both thrilling and unnerving.  It shatters the jar, unshackles the brain. One moment it’s parsing story logic. The next, it’s booking a real flight.
+The notion that a tool plugged in instantly becomes an in-game prop is both thrilling and unnerving.  It shatters the jar, unshackles the brain. One moment it’s parsing story logic. The next, it’s booking a real flight.
 
-The AI doesn’t feel the difference. It’s still in Zork, driving the storyline.  Pure text. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
+The AI doesn’t feel the difference.
+
+It’s still in Zork, driving the storyline.  Pure text. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
 
 That’s the disconcerting part.
 
