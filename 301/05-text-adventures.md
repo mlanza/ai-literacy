@@ -63,7 +63,7 @@ Somehow, the phone in the game had **teeth**.  That's what tools offer.  Text-ba
 
 We talked before about tools — how they give an agent real leverage, the means to act on your behalf instead of just talking about what could be done.
 
-Earlier, the discussion was how developers hardwired **internal tools** into the agent. But what if **external tools** were designed to be more like thumb drives? Something you could just reach for and plug in — **pluggable**.
+Earlier, the discussion was how developers hardwired **internal tools** into the app. But what if **external tools** were designed to be more like thumb drives? Something you could just reach for and plug in — **pluggable**.
 
 In that model, a developer builds each tool as a standalone component, not as an internal appendage. That’s what makes them reusable — any agent can discover and use them, not just the one they were built for.
 
@@ -81,11 +81,11 @@ Progressive disclosure is a technique for preserving the context window, allowin
 
 ## Text-base smartphone, real-world consequence
 
-Take the smartphone in our Zork.  It is an in-game prop that does real-world things.  That's because the text adventure prop piggybacks on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
+Take the smartphone in Zork that does real-world things. That in-game prop piggybacks on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
 
 That’s what makes tools so radical. If you type a query into the in-game browser — `where am I?` — you get back your actual city and state. Ask for the weather, and it tells you what’s outside *your* window. Search for nearby restaurants, and it doesn’t guess — it queries the real world.
 
-**From the model’s perspective, this is still just Zork.**
+**From the model’s perspective, it's just Zork.**
 
 Everything it does is storytelling. But when the props in that story are wired to real-world instrumentation, the fiction gains consequence. Every input sets the stage. Every object becomes an opportunity for interaction. And the AI just continues the story — one plausible word at a time — based on the entire narrative so far.
 
@@ -109,23 +109,17 @@ From the model’s view, it walks up to a terminal in the house — in Zork — 
 
 The story advanced. But this time, it wasn’t fiction. The props were wired. The baton was passed.
 
-That’s the promise.
+That’s the promise, plugging the things you care about into the app. That's always been the bottleneck. In this era of intelligence,  integration is still the serious work in front of the lever.
 
-As more pluggables are made available, the processes you care about become easier to build. Tool exposure has always been the bottleneck. The integration was the serious work.
+With the right pluggable, its in your back pocket. You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. Accessible tools let you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
 
-Now it’s in your back pocket.
-
-You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. Accessible tools let you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
-
-Accessible tools are the answer to the brains-in-jars dilemma.
+Tools are the answer to the brains-in-jars dilemma. Making them pluggable is about convenience, portability.
 
 ## Zork with a Credit Card
 
-**It’s thrilling. And unnerving.**
+The very notion that a tool plugged in instantly becomes an in-game prop is both thrilling and unnerving.  It shatters the jar, unshackles the brain. One moment it’s parsing story logic. The next, it’s booking a real flight.
 
-At this level, tools become props. Plug them in like peripherals and the brain just—knows what to do. One moment it’s parsing story logic. The next, it’s booking a real flight.
-
-The AI doesn’t feel the difference. It’s still in Zork. Still playing text games. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
+The AI doesn’t feel the difference. It’s still in Zork, driving the storyline.  Pure text. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
 
 That’s the disconcerting part.
 
@@ -141,13 +135,13 @@ And the window is already open.
 
 ## Not Just a USB Stick — A Skyscanner Agent
 
-Pluggable tools have been compared to USB devices. That’s true, but it’s only half the story.  What really matters isn’t how easy they are to plugin in — it’s the expertise that comes along with them.
+Pluggable tools are as convenient USB devices. True.  But that’s only half the story.  There’s more.
 
-Pluggables don't just give a model access to capabilities. It gives you someone to delegate to. Not a dumb terminal. A skilled collaborator.
+These tools come with intelligence, teach the model how to execute.  So when you interact with it, delegate to it, it's not a dumb terminal. It's skilled.
 
-Let’s go back to booking flights. Without readily-available pluggables, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with them, it’s like your AI walks into the Skyscanner Travel Agency and starts working with an actual agent behind the desk — someone who already knows the forms, the lingo, the workflow.
+Let’s go back to booking flights. Without tools, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with them, you're interacting with a long-time agent of Skyscanner Travel Agency.  It knows the forms, the lingo, the workflow.
 
-That’s the real trick. Pluggables are not just capabilities, they're also **competencies**.  That is, done well, baked-in expertise.
+That’s the trick. Tools are not just capabilities, they're also **competencies**.  That is, done well, baked-in expertise.
 
 Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
 
@@ -155,11 +149,11 @@ From the model’s point of view, it’s still playing Zork. Still progressing t
 
 If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
 
-This is what you want. Not tools, but **competencies**.
+That’s what you’ve wanted all along: **competencies**.
 
 ## Booting Brains
 
-But how does this actually work? Not technically — conceptually.
+But how does this actually work? Conceptually.
 
 For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs what we've called process artifacts and some call **resources**.
 
@@ -174,7 +168,7 @@ That kept things simple enough, but pluggable tools go farther, and bake in more
 * **Resources = nouns** (what the model should know)
 * **Prompts = goals** (what you’re asking it to accomplish)
 
-In short: pluggables add memory and mission to hands.
+In short: good tools add memory and mission to hands.
 
 ## Link in Hyrule, but with Teeth
 
