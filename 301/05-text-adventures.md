@@ -113,11 +113,11 @@ That’s the promise, plugging the things you care about into the app. That's al
 
 With the right tool already plugged in, its in your back pocket. You don’t have to orchestrate the whole thing yourself. You don’t have to turn the wrench every time. Accessible tools let you finally lean hard right — where the AI doesn’t just help you think, but helps you act.
 
-Tools are the answer to the brains-in-jars dilemma. Pluggability makes them portable.
+Tools are the answer to the brains-in-jars dilemma. Pluggability makes them portable.  In this world, buidling a good experience is a matter of plugging in the right tools and defining a good process.
 
 ## Zork with a Credit Card
 
-The notion that a tool plugged in instantly becomes an in-game prop is both thrilling and unnerving.  It shatters the jar, unshackles the brain. One moment it’s parsing story logic. The next, it’s booking a real flight.
+But the notion that a tool plugged in instantly becomes an in-game prop is both thrilling and unnerving.  It shatters the jar, unshackles the brain. One moment it’s parsing story logic. The next, it’s booking a real flight.
 
 The AI doesn’t feel the difference.
 
@@ -125,7 +125,7 @@ It’s still in Zork, driving the storyline.  Pure text. Only now the mailbox is
 
 That’s the disconcerting part.
 
-The model’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. Tools wire that fiction into reality. They give the hoax teeth.
+The model’s whole story has always been an elaborate hoax — a useful one, often brilliant, but fundamentally a high-speed act of make-believe. Tools wire that fiction into reality, give it teeth.
 
 This doesn’t mean we should slam the brakes. But it does mean we’re on different ground now. Consequences are real. The baton isn’t metaphorical anymore. When you hand something off to the model — especially something with reach — you’re not just prompting. You’re delegating. That deserves care.
 
