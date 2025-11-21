@@ -67,7 +67,7 @@ Earlier, the discussion was how developers hardwired **internal tools** into the
 
 In that model, a developer builds each tool as a standalone component, not as an internal appendage. That’s what makes them reusable — any agent can discover and use them, not just the one they were built for.
 
-There are several ways this idea shows up in practice — from command-line interfaces (CLIs) that expose discrete operations, to the Model Context Protocol that lets agents negotiate access to external resources, to Skills frameworks that package specialized behaviors. Each of these embodies the same design philosophy: tools that can be recognized, explored, and mastered on demand. They make capability modular, composable, and readily accessible.
+There are several ways this idea shows up in practice — from command-line interfaces (CLIs) that expose discrete operations, to [the Model Context Protocol](https://www.anthropic.com/engineering/code-execution-with-mcp) that lets agents negotiate access to external resources, to [Skills frameworks](https://claude.com/blog/skills) that package specialized behaviors. Each of these embodies the same design philosophy: tools that can be recognized, explored, and mastered on demand. They make capability modular, composable, and readily accessible.
 
 The deeper principle at play, what actually promotes the pluggability, is **progressive disclosure**. The agent doesn’t perceive the full depth of every tool it could use all at once; it starts with the first rung of a ladder. But it knows the ladder is there. When the moment calls for it, it can ascend — uncovering more detail and capability as needed. That’s how it keeps its context lean while still having depth on demand.
 
