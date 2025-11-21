@@ -157,7 +157,7 @@ Getting from kiosk to agent takes intentional scaffolding. For the mind to reach
 
 ## Booting Brains
 
-But how does this actually work? Conceptually.
+But how does this work? Conceptually.
 
 The tools are there (in the kiosk) and so is the model but how is it onboarded?  In the real world, to become an agent that employee had to attend orientation, watch training videos, and read the employee handbook.  That's true of models too; however, the process is both seamless and abrupt.
 
