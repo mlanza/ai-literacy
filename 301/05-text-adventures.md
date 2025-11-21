@@ -121,7 +121,7 @@ But the notion that a tool plugged in instantly becomes an in-game prop is both 
 
 The AI doesn’t feel the difference.
 
-It’s still in Zork, driving the storyline.  Pure text. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip you didn’t mean to take still gets charged.
+It’s still in Zork, driving the storyline.  Pure text. Only now the mailbox isn’t imaginary. It’s your email account. The credit card isn’t fake. It’s yours. And if the model hallucinates the wrong dates? That trip to Thailand still gets charged.
 
 That’s the disconcerting part.
 
