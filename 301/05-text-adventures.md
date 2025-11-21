@@ -139,38 +139,27 @@ And the window is already open.
 
 That a tool plugged in exposes real-world levers is true, but it’s only half the story.
 
-They include know-how, teach the model how to think and execute.  So when you interact with it, delegate to it, it's not a dumb terminal. It's skilled.
+They don’t just do — they *know how to do*. They teach the model how to think and execute. When you hand something off to one, you’re not dealing with a dumb terminal. You’re talking to a pro who already speaks the language.
 
-Let’s go back to booking flights. Without tools, it was a mess. You had to build a brittle stack of logic just to interpret a user’s intent, hit Skyscanner’s API, translate results, and maybe surface a booking option. But with them, you're interacting with a long-time agent of Skyscanner Travel Agency.  It knows the forms, the lingo, the workflow.
+Picture this: you walk into the Skyscanner Travel Agency. There are two options in front of you — a **self-service kiosk** and a **Skyscanner agent**.
 
-That’s the trick. Tools are not just capabilities, they're also **competencies**.  That is, done well: baked-in expertise.
+At the **kiosk**, there’s a glowing touchscreen. You tap through menus: choose dates, destinations, seat classes. Every option is there, but you have to know what you’re looking for. The interface doesn’t guide you — it just obeys. It’s efficient, but only if you already understand the system.
 
-Your model doesn’t just get access to a terminal. It gets access to a role. A fluency. A set of latent capabilities that only make sense when activated in the right setting.
+Across the room sits the **agent** — a human presence behind a desk. You say, “I need to be in Denver by Wednesday, but I can’t get there too late.” The agent nods, asks a few questions, fills in the gaps you didn’t think to mention. They anticipate. They smooth the friction. They know the dance.
 
-From the model’s point of view, it’s still playing Zork. Still progressing the story. Only now it’s wearing a new hat. It’s slipped into a new role, mid-game — and just kept going. That’s what we’ve been setting up all along.
+You’ve seen this before — it’s McDonald’s all over again. Kiosk or counter. When you know exactly what you want, the screen is fast. But when the order’s complicated, when you need substitutions or explanations, the person is better. The difference isn’t hardware. It’s **competence**.
 
-If you’ve been following from earlier chapters, you’ll remember: we stretched out the process *on purpose*. Not to be tedious. But to give the model room to **switch roles**, adapt its behavior, and move fluidly across steps that once required human hands.
+That’s the spectrum of tooling. Every tool offers its own user experience, from kiosk to agent — from pure capability to intuitive fluency. Some just execute commands. Others *teach you how* to use them as you go. And the best ones, like the agent, don’t just follow instructions they own the process to ensure you get exactly what you want.
+
+Competency, it turns out, isn’t something you bolt on later. It’s an **emergent property of good design**. The more a tool can teach its own use, the more portable it becomes. The best tools make their know-how self-descriptive — permit the model to instantly level up to expert status. They carry their own onboarding kit.
+
+Getting from kiosk to agent takes intentional scaffolding. For the mind to reach fluency — equipped with the structures, resources, and context that let it think like an expert — it must be booted.
 
 ## Booting Brains
 
 But how does this actually work? Conceptually.
 
-For the model to decide *what* to do, *when*, and *how*, it needs the right backdrop. It needs process artifacts: **resources**.
-
-Resources are the reference frame — the situational awareness — that lets the AI use tools wisely. Tools without resources are like gadgets without manuals. They might work, but only by accident.
-
-You've already seen prompts in action. But with pluggables, prompts themselves are part of the system, a key part of what makes them tick. Remember, tools got mention in section 201.
-
-* **Tools = verbs** (what the model can do)
-
-That kept things simple enough, but many tools go farther, bake in more:
-
-* **Resources = nouns** (what the model should know)
-* **Prompts = goals** (what you’re asking it to accomplish)
-
-In short: good tools add memory and mission to hands.
-
-## Link in Hyrule, but with Teeth
+The tools are there (in the kiosk) and so is the model but how is it onboarded?  In the real world, to become an agent that employee had to attend orientation, watch training videos, and read the employee handbook.  That's true of models too; however, the process is both seamless and abrupt.
 
 Let’s go sideways for a second. Picture The Legend of Zelda.
 
@@ -187,7 +176,7 @@ In that moment, the NPC does two things:
 1. **It hands over the handbook** — everything Link needs to know to operate inside the agency. That’s the **resource**: the process artifact, the contextual download, the kung fu in the Matrix chair.
 2. **It teaches the language** — the special phrases and inputs required to operate the internal machinery. That’s the **prompt template**: the syntax and style for issuing meaningful commands inside the agency.
 
-The whole exchange lasts seconds. But when Link walks through the door, he’s not confused. He’s fluent. He doesn’t just use the system — *he acts like he works there*.
+The whole exchange is instantaneous. But when Link walks through the door, he’s not confused. He’s fluent. He doesn’t just use the system — *he acts like he works there*.
 
 ## A Kingdom of Capable Places
 
