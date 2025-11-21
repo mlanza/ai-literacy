@@ -79,7 +79,7 @@ In practice, readily accessible is 3 rungs on a ladder:
 
 Progressive disclosure is a technique for preserving the context window, allowing the agent proper focus, while pluggability ensure it has access to the on-demand capabilities it requires to get a job done.
 
-## Text-base smartphone, real-world consequence
+## Text-based prop, real-world consequence
 
 Take the smartphone in Zork that does real-world things. That in-game prop piggybacks on a real API. When you type `text 555-394-8812`, it isn’t just imagined. The instruction passes through a pipe, hits the real message service, and the message actually gets sent.
 
