@@ -141,17 +141,17 @@ That a tool plugged in exposes real-world levers is true, but it’s only half t
 
 They don’t just do — they *know how to do*. They teach the model how to think and execute. When you hand something off to one, you’re not dealing with a dumb terminal. You’re talking to a pro who already speaks the language.
 
-Picture this: you walk into the Skyscanner Travel Agency. There are two options in front of you — a **self-service kiosk** and a **Skyscanner agent**.
+Picture this: you walk into the Skyscanner Travel Agency. There are two options in front of you — a self-service kiosk and a Skyscanner agent.
 
 At the **kiosk**, there’s a glowing touchscreen. You tap through menus: choose dates, destinations, seat classes. Every option is there, but you have to know what you’re looking for. The interface doesn’t guide you — it just obeys. It’s efficient, but only if you already understand the system.
 
 Across the room sits the **agent** — a human presence behind a desk. You say, “I need to be in Denver by Wednesday, but I can’t get there too late.” The agent nods, asks a few questions, fills in the gaps you didn’t think to mention. They anticipate. They smooth the friction. They know the dance.
 
-You’ve seen this before — it’s McDonald’s all over again. Kiosk or counter. When you know exactly what you want, the screen is fast. But when the order’s complicated, when you need substitutions or explanations, the person is better. The difference isn’t hardware. It’s **competence**.
+You’ve seen this before — it’s McDonald’s all over again. Kiosk or counter. When you know exactly what you want, the screen is fast. But when the order’s complicated, when you need substitutions or explanations, the person is better. The difference isn’t hardware. It’s competence.
 
 That’s the spectrum of tooling. Every tool offers its own user experience, from kiosk to agent — from pure capability to intuitive fluency. Some just execute commands. Others *teach you how* to use them as you go. And the best ones, like the agent, don’t just follow instructions they own the process to ensure you get exactly what you want.
 
-Competency, it turns out, isn’t something you bolt on later. It’s an **emergent property of good design**. The more a tool can teach its own use, the more portable it becomes. The best tools make their know-how self-descriptive — permit the model to instantly level up to expert status. They carry their own onboarding kit.
+Competency, it turns out, isn’t something you bolt on later. It’s an emergent property of good design. The more a tool can teach its own use, the more portable it becomes. The best tools make their know-how self-descriptive — permit the model to instantly level up to expert status. They carry their own onboarding kit.
 
 Getting from kiosk to agent takes intentional scaffolding. For the mind to reach fluency — equipped with the structures, resources, and context that let it think like an expert — it must be booted.
 
