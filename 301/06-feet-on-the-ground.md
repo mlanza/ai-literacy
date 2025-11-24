@@ -45,7 +45,7 @@ The **model** immediately locks onto the calendar shop. To notify anyone, it fir
 
 A model has deep knowledge of the world. It knows what a calendar is for. What it lacks is **agency** — the ability to act. That’s why it can tell you *how* to solve a problem, but can’t solve it itself.
 
-**An agent is a model given tools and placed inside a loop.** The tools let it take small, concrete actions. The loop lets it break down bigger goals into manageable steps and pursue them one at a time.
+**An agent is a model given tools and placed inside a loop to reach a goal.** The tools let it take small, concrete actions. The loop lets it break down the goal into bite-sized tasks and pursue them one at a time.
 
 Both are essential. Tools make work *possible*. The loop makes work *progressive* — because most goals can’t be reached in a single leap.
 
