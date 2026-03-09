@@ -59,11 +59,11 @@ This wasn’t just a line of text. Your real wife — in the real world — got 
 
 Somehow, the phone in the game had **teeth**.  That's what tools offer.  Text-based affordances which map to real-world capabilities.
 
-## Pluggable Tooling
+## Plug-In Tooling
 
 We talked before about tools — how they give an agent real leverage, the means to act on your behalf instead of just talking about what could be done.
 
-Earlier, the discussion was how developers hardwired **internal tools** into the app. But what if **external tools** were designed to be more like thumb drives? Something you could just reach for and plug in — **pluggable**.
+Earlier, the discussion was how developers wrote **internal tools** directly into the app. But what if **external tools** were designed to be more like thumb drives? Something you could just reach for and plug in.
 
 In that model, a developer builds each tool as a standalone component, not as an internal appendage. That’s what makes them reusable — any agent can discover and use them, not just the one they were built for.
 
