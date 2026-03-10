@@ -221,7 +221,7 @@ While there, he’s not necessarily thinking about “let them know I’m runnin
 
 And, as we saw, each discrete action was a turn — a push of the foot. That’s what the app sees. That’s what the developer vets. Because he can’t anticipate every intent, but he does have absolute control over what’s permitted inside the loop.
 
-He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.
+He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.  Or to pass that decision along, in a prompt, to the human operator.
 
 Some developers choose to make the model’s steps visible. They show its thoughts mid-move, using chain-of-thought as a UI convention — a running log of reasoning that users can watch unfold.
 
@@ -302,11 +302,11 @@ The focus on the pushing motion reveals a model is often more than just a mind. 
 
 This is where the fiction gives way — because something more is afoot.
 
-Some walking models stick to the path — narrow ones, like ChatGPT’s Deep Research — where others wander through towns, darting from shop to shop. That is, some are kept on a leash, while others have greater autonomy. The difference isn’t always visible in the interface. It lives in the wiring, shows up in the loop. A walking model is already **agentic** by nature — a program with its own legs and rhythm.
+Whether we call it a *model* or an *agent* is really about the loop. A single turn, no loop — that's a model. But give it a loop and it can take turn after turn after turn. That's what enables tool use. No loop, no tools. The same model, depending on its wiring, can feel like a chatbot or an intern. With a loop and tools, the work changes — from a task to a project. That's what makes eating an elephant one bite at a time possible.
 
-Whether we call it a *model* or an *agent* depends less on behavior than on the **boundary of the glass**. When everything happens inside the model’s own window — its prompt, its process — we call it a model. When that glass widens and the model steps into a larger environment — your loop, your workflow — it becomes an agent. One lives behind the glass; the other walks through it.
+The more turns an agent takes, the further it can wander. A long leash lets it drift — off the path, past the town, into places no one intended. Every additional turn is another step into uncertainty. That's where trust enters: how much ground is the agent allowed to cover before someone checks the work? This is the design question behind every agent — not just whether it has a loop, but how far that loop is allowed to run.
 
-The focus is the motion. The model moves a bead.  Another lifts it cup to cup to cup, and how far we’re willing to let it go is a matter of weighing in on the risks.
+The focus is the motion. The model moves a bead. Another lifts it cup to cup to cup, and how far we’re willing to let it go is a matter of weighing in on the risks.
 
 ## Risk Categories
 
