@@ -4,15 +4,13 @@ In the last chapter, we described the world from an AI’s perspective as a kind
 
 If there’s a phone in the room, someone built it. If there’s a laptop with a browser open, someone made sure it knows how to behave. And if there’s a travel agency with an NPC outside, someone encoded its rules of engagement. Behind every meaningful object is a developer who breathed life into it — not to simulate reality, but to expose capabilities.
 
-This isn’t light work. Every virtual prop that does something real represents an integration lift. The goal is to let the **agent** move fluidly through a world and employ tools without having to hand-wire each one. That’s why we aim for reuse — to distribute *pluggable tools*.
+This isn’t light work. Every virtual prop that does something real represents an integration lift. The goal is to let the **agent** move fluidly through a world and employ tools.  The **app** — which must be laboriously constructed — is the world where the agent performs.  In it, the agent's utility can be measured by the jobs it's able to complete. For that, the tools must be built and integrated.
 
-Before we go further, it’s worth clarifying the distinction between app and agent. The **app** is the program a developer builds — the orchestration layer, the code that routes messages, manages tools, and decides how the model is invoked. The **agent** is what the user experiences — the behavior that emerges when the app gives the model goals, context, and the means to act. The app is the machinery and/or residence; the agent is the mind which inhabits it.
+What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work that goes into enabling tools.
 
-What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work that goes into enabling tools.  This is meant to help you see the kind of work pluggability reduces, even eliminates — not through magic, but through standardization.
+Under the hood, the agent inside this app uses a simple protocol (represented abstractly herein) to denote its intention to use tools. It's the special dialect by which an agent operates affordances in Zork. We’re abstracting over that protocol so you can understand what appears as a seamless Zork improv depends on a mechanism.  It puts the knob on the door, so to speak. It gives an agent the ability to spot affordances and to act.
 
-Pluggability comes in many forms. Some systems rely on **protocols** like the Model Context Protocol (MCP), which provides a shared handshake between client and tool. Others lean on **command-line interfaces**, which expose their own dialect for structured calls. Still others wrap APIs, SDKs, or webhooks under a unified schema. Each is a different shape of plug — MCP might be USB, CLI might be USB-C — but the principle is the same: once you build the port, everything that fits that shape can connect. The lift becomes a one-time cost.
-
-The orchestration example below models one such handshake — a close cousin to an MCP exchange — not because the protocol itself matters, but because it shows what the first connection entails. Once a client and a service speak the same dialect, the same handshake can enable countless tools thereafter.
+The orchestration example below models one such exchange — not because the protocol itself matters, but because it shows what the handshake entails.
 
 ## 🚗 The Scenario: “Let the 2pm Meeting Know I’m Running Late”
 
@@ -22,9 +20,9 @@ It’s 1:52 PM in San Francisco. Terry, a VP of Platform Experience at a large t
 
 That’s the intention. It’s not a full plan, not a sequence of steps — just a quick human ask.
 
-From there, the baton passes to the **app**, the program that hosts the **agent**. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
+From there, the baton passes to agent inhabiting the app. It spins up the model, hands it a few consequential props — a calendar, an address book, a texting interface — and lets the model take the first step.
 
-From the user’s perspective, the **agent** feels alive. From the developer’s perspective, the **app** is the real system — a translator that turns words into structured requests and routes them through actual APIs.
+From the user’s perspective, the agent feels alive. From the developer’s perspective, the app is the real system — a translator that turns words into structured requests and routes them through actual APIs.
 
 Everything unfolds within the app’s **control loop**.
 
@@ -32,7 +30,7 @@ Everything unfolds within the app’s **control loop**.
 
 The first prompt carries the user’s voice, transcribed and injected into the system. The current time and available tools are in scope.
 
-The **app** packages that prompt and delivers it to the **model**, the agent’s reasoning core:
+The app packages that prompt and delivers it to the **model**, the agent’s reasoning core:
 
 ```
 You are an assistant. The user just said:
@@ -43,9 +41,9 @@ There is a calendar shop, contact booth, and messaging kiosk in sight.
 
 The **model** immediately locks onto the calendar shop. To notify anyone, it first needs to know what the 2:00 PM meeting is — and who’s attending.
 
-A model has deep knowledge of the world. It knows what a calendar is for. What it lacks is **agency** — the ability to act. That’s why it can tell you *how* to solve a problem, but can’t solve it itself.
+A model has deep knowledge of the world. It knows what a calendar is for, but apart from props (tools) and a stage (app) on which it can perform it lacks **agency** — the ability to act. That’s why it can tell you *how* to solve a problem, but can’t solve it itself.
 
-**An agent is a model given tools and placed inside a loop to reach a goal.** The tools let it take small, concrete actions. The loop lets it break down the goal into bite-sized tasks and pursue them one at a time.
+**An agent is a model given tools and placed inside a loop and told to achieve a goal.** The tools let it take small, concrete actions. The loop lets it break down the goal into bite-sized tasks and pursue them one at a time.
 
 Both are essential. Tools make work *possible*. The loop makes work *progressive* — because most goals can’t be reached in a single leap.
 
@@ -75,11 +73,11 @@ That structure didn’t appear by accident. The developer defined the **shape** 
 The model does what it always does: reads the stage, considers what’s available, and fabricates a plausible next move.
 That it includes a meaningful, structured request — a concrete step toward solving a real-world problem — is extraordinary.
 
-This dual response reveals the model’s true gift: it’s a **universal mediator**. It can speak fluently to both humans and machines.
+This dual response reveals the model’s gift as a **universal mediator**. It can speak fluently to both humans and machines.
 
 The app, expecting such structured tool calls, parses them from the conversation, routes them to the right service, and passes results back in context — to the model, the user, or both.
 
-The **MCP calendar service** replies:
+The **calendar service** replies:
 
 ```json
 {
@@ -111,7 +109,7 @@ Your 2pm meeting is “Control Layer Governance.” The attendees are Avery Luca
 
 Neither side gets the raw exchange. Every message is adjusted — expanded, filtered, or framed — so it lands in the right shape for its audience. The model gets enriched messages; humans get edited ones. That layer of mediation keeps the loop coherent and frames both sides of the exchange for a good experience.
 
-The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check into the loop. After each turn, the app prompts the model:
+The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check, an **evaluation**, into the loop. After each turn, the app prompts the model:
 
 > Review the transcript. Have you delivered the anticipated outcome?
 
@@ -134,7 +132,7 @@ To send a message, I need their phone numbers.
 }
 ```
 
-The app relays the request to the MCP contact service, which responds:
+The app relays the request to the contact service, which responds:
 
 ```json
 {
@@ -171,7 +169,7 @@ Notifying the team.
 }
 ```
 
-The app routes that to the MCP texting service, which replies:
+The app routes that to the texting service, which replies:
 
 ```json
 {
