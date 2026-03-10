@@ -48,8 +48,11 @@ You stare.
 Taken.
 > text 555-394-8812 "Pizza for dinner tonight?"
 Message sent.
+```
 
-A moment later, the phone buzzes. A reply appears:
+A moment later:
+```
+The phone buzzes. A reply appears:
 "Sounds good."
 ```
 
@@ -68,16 +71,6 @@ Earlier, the discussion was how developers wrote **internal tools** directly int
 In that model, a developer builds each tool as a standalone component, not as an internal appendage. That’s what makes them reusable — any agent can discover and use them, not just the one they were built for.
 
 There are several ways this idea shows up in practice — from [command-line interfaces](https://mariozechner.at/posts/2025-08-15-mcp-vs-cli/) (CLIs) [that expose discrete operations](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/), to [the Model Context Protocol](https://www.anthropic.com/engineering/code-execution-with-mcp) that lets agents negotiate access to external resources, to [Skills frameworks](https://claude.com/blog/skills) that package specialized behaviors. Each of these embodies the same design philosophy: tools that can be recognized, explored, and mastered on demand. They make capability modular, composable, and readily accessible.
-
-The deeper principle at play, what actually promotes the pluggability, is [progressive disclosure](https://www.anthropic.com/engineering/code-execution-with-mcp#progressive-disclosure). The agent doesn’t perceive the full depth of every tool it could use all at once; it starts with the first rung of a ladder. But it knows the ladder is there. When the moment calls for it, it can ascend — uncovering more detail and capability as needed. That’s how it keeps its context lean while still having depth on demand.
-
-In practice, readily accessible is 3 rungs on a ladder:
-
-* **Instant identifiability.** The agent immediately recognizes the tool as an affordance — something that can *do* — and understands, at a glance, what class of problem it’s meant to solve.
-* **Instant discoverability.** When asked, the tool reveals its table of contents — the api for what it can do.  This allows the agent to think about the particular feature(s) it wants to use.
-* **Instant grokkability.** Once the agent chooses a capability, it can instantly absorb the know-how it needs — like flipping open to the right page and putting on the skill like a hat.
-
-Progressive disclosure is a technique for preserving the context window, allowing the agent proper focus, while pluggability ensure it has access to the on-demand capabilities it requires to get a job done.
 
 ## Text-based prop, real-world consequence
 
@@ -159,15 +152,21 @@ Getting from kiosk to agent takes intentional scaffolding. For the mind to reach
 
 But how does this work? Conceptually.
 
-The tools are there (in the kiosk) and so is the model, but how is it onboarded?  In the real world, to become an agent the employee attends orientation, watches training videos, and reads the handbook.  That's true of models too; however, the process is more seamless — and abrupt.
+Think of it like meeting someone new. At first you know only that they exist — a face in the crowd, a name you might catch. You could stop there, acknowledge them, and move on. But if you want to work together, you need more. You learn their role, what they're good at, how to ask for what you need. Over time, you absorb the details that matter — their preferences, their quirks, the fastest way to get things done. You move from knowing about them to knowing them intimately, but you only take in what you need, when you need it. Anything more would crowd your mind.
 
-Let’s go sideways for a second. Picture The Legend of Zelda.
+That's [progressive disclosure](https://www.anthropic.com/engineering/code-execution-with-mcp#progressive-disclosure) — a context management strategy for how the agent learns. It doesn't swallow the entire manual upfront. It absorbs only what it needs to act, to avoid becoming needlessly distracted. When the moment calls, when it needs more, it reachs for the next rung of the ladder. But it climbs no further than necessary.
 
-Link, our hero, explores Hyrule — a world full of towns. Each town has its shops: weapon stores, potion sellers, inns. Outside these buildings are NPCs — non-player characters — who mostly stand still, repeating the same line forever. They’re decorative. Props.
+The agent is aware of NPCs — characters in its world — because it sees them. But how does that figurative initial handshake take place? How is the agent onboarded?
 
-And that suits us. Because Zork was about props too.
+In the real world, to become an agent the employee attends orientation, watches training videos, and reads the handbook.  That's true of models too; however, the process is more seamless — and abrupt.
 
-Now imagine our AI as Link. It spots the Skyscanner Travel Agency in a new town. Before heading in, it stops to chat with the NPC outside.
+Let's see this in action — in Legend of Zelda.
+
+Link, our hero, explores Hyrule — a world full of towns. Each town has its shops: weapon stores, potion sellers, inns. Outside these buildings are NPCs — non-player characters — who mostly stand still, repeating the same line forever. Props.  They’re not merely decorative. Each is a cue that a new capability is in reach.
+
+This is convenient. Because Zork was always about its props.
+
+Our AI is Link. It spots the Skyscanner Travel Agency in a new town. At first, it simply knows the NPC is there — the first rung of understanding, just awareness that a helpful presence exists. Before heading in, it stops to chat with the NPC outside.
 
 That conversation? It’s not chitchat. It’s *critical*.
 
