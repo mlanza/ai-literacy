@@ -299,6 +299,6 @@ The more turns it takes, the further it can wander. A long leash lets it drift �
 
 These newfound freedoms comes with uncertainty and risks, but those are the topic of another discussion.
 
-Giving the model hands was about *agency*. Putting its **feet on the ground** gave it mobility, the ability to choose which tool to use and when. That was about *autonomy*. That's Link freely moving through Hyrule on the quests you delegate.
+Giving the model hands was about *agency*. Putting its **feet on the ground** about mobility, the ability to choose which tool to use and when. That was about *autonomy*. That's Link freely moving through Hyrule on the quests you delegate.
 
 When all the components are in play — model, loop, tools — the destination arrives. Not just an agent. An **assistant**. The thing you always wanted. A mind out of the jar, with feet on the ground, ready to roam.
