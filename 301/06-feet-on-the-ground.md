@@ -291,12 +291,12 @@ Picture him scurrying around Hyrule on your behalf — ducking into shops, chatt
 
 A mind no longer shackled by the jar. A brain freed, with hands to grasp, feet to walk, and the wit to decide where to go. He's not just an agent anymore — he's an **assistant**.
 
-This progression — **model**, then **loop**, then **tools** — is the story of this chapter. You took a model. You wrapped it in an app to get a loop. You added tools. And with each step, capability grew. A brain in a jar with a loop is better than a one-turn model. But it's nowhere near as good as the one which gets the hands.
+The progression — **model**, then **loop**, then **tools** — tells the whole story. Take a model. Wrap it in an app to get a loop. Add tools. With each step, capability grows. A brain in a jar with a loop is better than a one-turn model. But it's nowhere near as good as the one which gets the hands.
 
 The more turns an agent takes, the further it can wander. A long leash lets it drift — off the path, past the town, into places no one intended. Every additional turn is another step into uncertainty. That's where trust enters: how much ground is the agent allowed to cover before someone checks the work? This is the design question behind every agent — not just whether it has a loop and tools, but how far that loop is allowed to run.
 
 And although his newfound freedom comes with uncertainty and risks, those are the topic of another discussion.
 
-The chapter is called what it is for a reason. You wanted to give the model the ability to move — to act, not just reason. To have hands. To walk. To choose which tool to use when. That's autonomy in motion. That's Link freely moving through Hyrule on the quests you assign him.
+Giving the model hands was about *agency*.  Putting its **feet on the ground** gave it mobility, the ability to choose which tool to use and when. That was about *autonomy*. That's Link freely moving through Hyrule on the quests you delegate.
 
-When all the components are in play — model, loop, tools — that's when you finally get what you've been driving toward. Not just an agent. An **assistant**. The thing you've always wanted. A mind out of the jar, with feet on the ground, ready to roam.
+When all the components are in play — model, loop, tools — the destination arrives. Not just an agent. An **assistant**. The thing you always wanted. A mind out of the jar, with feet on the ground, ready to roam.
