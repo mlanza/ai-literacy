@@ -227,7 +227,7 @@ And, as we saw, each discrete action was a turn — a push of the foot. That's w
 
 He doesn't have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.  Or to pass that decision along, in a prompt, to the human operator.
 
-## Wiring Up v. Plugging In
+## Fastening the Hands
 
 When the surgeon calls for "scalpel," the scrub nurse plucks it from the tray and places it squarely in the hand. That handover isn't magic. It was designed. Someone had to decide what instruments would be on the tray, what each one does, and how to hand it over. That's the developer. He's the unseen middleman between the model and reality. He defines the rules of engagement not in the moment, but when making the app.
 
