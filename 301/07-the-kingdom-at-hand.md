@@ -122,7 +122,7 @@ An agent bound to a single app — The Inkwell (Word), Ledger Hall (Excel), your
 
 We're moving into an era where Link can take on project-sized work, not just simple tasks. Not one shop. Not one room. The whole castle. The whole kingdom. Link becomes your champion — someone you send to handle complex, multi-step work while you focus on something else.
 
-This is made possible in environments where towns and shops come online. Link doesn't exist apart from Hyrule. The runtime is the land. The shops are the capabilities. Without towns to visit, Link has nowhere to go. Without tools to use, Link has nothing to work with. The promise is only as massive as the land that gets developed.
+This is made possible in environments where towns and shops come online. Link doesn't exist apart from Hyrule. The runtime is the land. The shops are the capabilities. Without towns to visit, Link has nowhere to go. Without tools to use, Link has nothing to work with. The value add is proportionate to the land that gets developed.
 
 That's the distinction. A blacksmith operates a forge. A champion on horseback commands the whole realm. But that kingdom? It only exists if you build it.
 
@@ -140,7 +140,7 @@ You stay in your lane — build the tools.  You fill Hyrule with towns and shops
 
 Those are the connectors. They're what activates the runtime and lets it reach your data.  They're how the phone in Zork got wired into the real world.
 
-That's the part that won't exist unless you build it. And the dangers are many. Safety and security must be woven in — this is a foundation that, done right, takes years to build. The tools let Link walk into each shop and actually do something. The walls keep the dragons at bay.
+That's the part that won't exist unless you build it. And the dangers are many. Safety and security must be woven in — this is a foundation that, done right, takes years to build. The tools let Link walk into each shop and actually do something. The strongholds that keep out dragons.
 
 Picture it this way. Your work has jobs to do — things you do every day, things your team does, things the organization depends on. Each one is a capability. Each one, in the real world, requires going to a place, using a tool, talking to someone, accessing a system. Now imagine building the digital counterpart. The virtual shop. The CLI or MCP endpoint that gives an agent the same ability you have when you walk into that office, open that application, pull that file.
 
@@ -148,17 +148,17 @@ Your calendar. Your email. Your file stores. Your ticketing system. Your CRM. Yo
 
 The magic is that it happens incrementally. You don't build the whole kingdom before loosing Link. You start with one town: Kokiri Village. Enough to get started. Then set him exploring.
 
-Build a town with one shop. Let Link visit it. Let him use it. Then build the next shop. Then the next. Each new one expands what's possible. Then found new towns and lay roads between them.  Each road expands where he can go.
+Build a town with one shop. Let Link visit it. Let him use it. Then build the next shop. Then the next. Each new one expands what's possible. Then found new towns and lay roads between them.  Expand where he can go.
 
 ## Towncrafting
 
 Hyrule is a kingdom bustling with capabilities — it is the sum of all jobs across your organization. Every town in that kingdom represents a team, a place where a particular category of work comes to life. The Finance Town handles budgets and ledgers. The Marketing Town handles campaigns and copy. Each town is purpose-built to run a set of jobs.
 
-It's useful that towns share features. You don't build a writing shop from scratch for every team. Both The Inkwell (Word) and The Red Quill can access the same Word application. But each town wraps it in a different artifact — a different style guide, a different set of expectations for how that team works. The tool is the same. The guidance is bespoke.
+It's useful that towns share features. You don't build a writing shop from scratch for every team. Both The Inkwell and The Red Quill use the Word app. But each town pairs it in a different artifact — a different style guide, a different set of expectations for how that team works. The tool is the same. The guidance is bespoke.
 
-That means once you build a capability — a writing tool, a data connector, a file reader — you can drop it into any town in the kingdom with a custom Skill to steer how it behaves. The same Word app becomes a formal document writer in one town and a conversational blurb writer in another. Common features, reconfigured. The kingdom doesn't need one writing shop. It needs towns configured for how each team works.
+That means once you build a capability — a writing tool, a data connector, a file reader — you can drop it into any town in the kingdom with a custom skill to steer how it behaves. The same Word app becomes a formal document writer in one town and a conversational blurb writer in another. Common features, reconfigured. The kingdom doesn't need one writing shop. It needs towns configured for how each team works.
 
-That's the lens. Towns are like teams — purpose-built assemblies of shops and NPCs (tools and artifacts), each configured for the work that team does.
+That's the lens. Towns are like teams — purpose-built assemblies of shops and NPCs, each configured for the work that team does.
 
 There are no turnkey kingdoms. They take great effort to build. It takes building the tools, building the security, building the environment where the power can be exercised safely. That's what it takes to build Hyrule.
 
@@ -176,9 +176,7 @@ An agent needs the same capability. And that comes from having the right tools.
 
 Tools aren't just connections to data. They're resources that expand and improve context. They're what make it possible to get work done *correctly*. A CLI that runs a syntax checker. An artifact like an SOP that defines what "done" looks like. A datastore that lets the agent query the source to verify its answer. These aren't optional extras. They're how the agent evaluates its work against the goal.
 
-Your data is your differentiator. Your organization is effectively the data it owns. Without ports to your data that value lies dormant. Link cannot help in parts of the kingdom that haven't come online. He can only work with what exists. That's why Hyrule must be built — piece by piece, tool by tool, until the whole kingdom is connected.
-
-> ⛩️ Link can't help in areas of the realm which don't yet exist.
+Your organization is effectively the data it owns. Its data what differentiates it. Without ports to your data that value lies dormant. Link can't help in parts of the kingdom that haven't come online. He can't help in areas of the realm which don't yet exist. That's why Hyrule must be built — piece by piece, tool by tool, until the whole kingdom is connected.
 
 Here's what that looks like in practice. Say the agent builds a report. Without the right tools, it hands it to you and waits. You read it. You check it. You find errors. You send it back. That's the bottleneck. Every turn requires you in the loop, playing quality assurance.
 
@@ -192,7 +190,7 @@ When the agent has what it needs to check its own work, you step out of the loop
 
 That's what loosing Link in Hyrule is actually about.
 
-It's an engineering feat. The developer — the architect of Hyrule — ensures the agent has everything it needs. Every tool added increases the probability of a good outcome. You're building towns that serve noble purposes, but whose purposes only become possible at a tipping point in the tools brought online. Some towns can only do their jobs when other towns exist. A trading route needs a market in one town and a supplier in another. A quest needs a map in one place and a guide in another.
+It's an engineering feat. The developer — the architect of Hyrule — ensures the agent has everything it needs. Every tool added increases the probability of a good outcome. You build towns that serve noble purposes, but whose purposes only become possible when all the right shops and NPCs are there. Some towns can only do their jobs when other towns exist. A trading route needs a market in one town and a supplier in another. A quest needs a map in one place and a guide in another.
 
 The agent fills its context window with information gathered from these tools — from files and artifacts, from apps, from datastores. The more resources it has, the more it can learn, the more it can verify, the better it can do the job. At some point, capabilities emerge that weren't possible before. Link does something magical. And suddenly some job, which always had to be done manually, disappears.
 
