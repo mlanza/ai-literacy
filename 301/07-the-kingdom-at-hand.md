@@ -222,6 +222,6 @@ And where one can go, many will follow. These companions are not bound by flesh.
 
 Imagine that.
 
-One by one, you send them out — Navi to scout what's ahead, Tatl to chase down the details, Midna to slip through the places you cannot reach. They clear the path, prepare the way, identify and circumvent the obstacles. You remain in your tower, relishing the quiet.  It's not the silence of idleness, but the peace of knowing your companions — ever operating under your watchful gaze — will return with the answers you need. Your load is lighter. Link rallies the party, pulls the pieces together, and carries the quest across the finish line.
+One by one, you send them out — Navi to scout what's ahead, Tatl to chase down the details, Midna to slip through the places you cannot reach. They clear the path, prepare the way, identify and circumvent the obstacles. You remain in your tower, relishing the quiet.  It's not the silence of idleness, but the peace of knowing your companions — ever operating under your watchful gaze — will return with the answers you need. Your load is lighter. Link mounts epona, rallies the party, and carries the quest across the finish line.
 
 > ⛩️ The kingdom is not given. It is built.
