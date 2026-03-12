@@ -12,23 +12,23 @@ Hyrule isn't a village. It's a landmass. It has towns and forests, rivers and mo
 
 This is the image you should carry forward.
 
-The **agentic runtime** is Hyrule. It's the environment where the agent operates. Not a single app. Not a single tool. A *place* where all the capabilities exist at once. Where Link can decide for himself which shop to visit, in what order, to accomplish what you asked.
+Hyrule is the environment where Link operates. Not a single app. Not a single tool. A *place* where all the capabilities exist at once. Where he can decide for himself which shop to visit, in what order, to accomplish what you asked.
 
-These already exist. OpenCode. Codex. Claude Code. Claude Cowork. OpenClaw. Gemini CLI. More will come. You don't build them. You extend them. They're appliances — available off the shelf, improving daily, shipping faster than any single team could match. You don't compete on the runtime. That's not your lane. Your job is to construct the towns and shops (**tools**), the features that inhabit that world and connect your data to it.
+These environments — OpenCode, Codex, Claude Code, Claude Cowork, OpenClaw, Gemini CLI — already exist. Call them **agentic runtimes**. More will come. You don't build them. You extend them. They're appliances — available off the shelf, improving daily, shipping faster than any single team could match. You don't compete on the runtime. That's not your lane. Your job is to construct the towns and shops (**tools**), the features that inhabit that world and connect your data to it.
 
-> ⛩️ The agentic runtime is Hyrule. The agent, Link. What's conspicuously missing are the towns and shops.
+> ⛩️ Link exist and so do sprawling lands.  What's conspicuously missing are the towns, shops and NPCs that make it Hyrule.
 
-In the last chapter, you saw an app with a few tools, a town with a few shops. The wider world is in view.
+In the last chapter, you saw an app with a few tools, a town with a few shops. But the wider world is now in view.
 
 In chapter 5, you saw that agents live everywhere — in The Inkwell (Word), in Ledger Hall (Excel). Each one is a model in a loop, a small brain given legs. And those agents are useful. They really are. But they're constrained. An agent inside Word can help you write. An agent inside Excel can help you calculate. An agent inside your email can help you sort messages.
 
 Each one is skilled at what it does. But each one is confined to its dwelling. An agent stuck in The Inkwell is good, not great.
 
-Now imagine an agent with *license* to Hyrule. Not The Inkwell. Not Ledger Hall. The whole kingdom. The **agentic runtime** is the place where all those shops exist simultaneously. That's what makes it possible for Link to decide how to get the work done. He sees the bead. He doesn't wait for someone to move it cup to cup in a prescribed way. He blazes his own trail.
+Now imagine an agent with *license* to Hyrule. Not The Inkwell. Not Ledger Hall. The whole kingdom. The place where all those shops exist simultaneously. That's what makes it possible for Link to decide how to get the work done. He sees the bead. He doesn't wait for someone to move it cup to cup in a prescribed way. He blazes his own trail.
 
-**The lever** of the era is the agentic runtime replete with thoughtfully constructed towns. Not a chatbot. Not an agent confined to a dwelling. The whole kingdom, all at once. That's what turns a helpful assistant into something transformative — something that can do the job end to end, without you in the loop, at a scale and speed that was never before possible.
+Getting the game-changing lever depends on populating the kingdom. Not a lone chatbot. Not an model confined to a dwelling. The whole kingdom, all at once. That's what turns that runtime into something transformative — something where the assistant can do a job end to end, without you in the loop, at a scale and speed that was never before possible.
 
-That's the leap from agency to autonomy.
+Because agency and autonomy don't matter to a worker who can't reach the work. Let's reflect on what's been covered and how that gets leveraged.
 
 ## On Rails vs. Off
 
@@ -42,13 +42,13 @@ That's what agents do. They're clever. They're resourceful. They're not stymied 
 
 So when you talk about setting Link free in Hyrule, you're talking about giving the agent the whole kingdom. Not a single room. Not a single shop. The whole land — with all its tools, all its capabilities, all its NPCs waiting to help.
 
-And here's what that looks like in practice.
+Here's what that looks like in practice.
 
 ## The Travel Job
 
 Let's say you need to plan a business trip. Not just book a flight — plan the whole thing. Find flights that fit your schedule. Check hotel availability. Review your calendar for conflicts. Draft an itinerary. Email it to your team.
 
-In the old world — the world of workflows, of beads and cups — this would be broken into steps. Someone would design the process. Each step would be a separate automation. And you'd orchestrate the whole thing yourself, moving data from one cup to the next, holding the bead the whole way.
+In the old world — the world of workflows, of beads and cups — this would be broken into steps. Someone would design the process. Each step would be a separate automation. Or, going analog, you'd orchestrate the whole thing yourself, moving data from one cup to the next, holding the bead the whole way.
 
 In Hyrule, Link does it differently.
 
@@ -58,13 +58,13 @@ Each of those is a different tool. Each tool is a different shop. And Link — g
 
 That's what an agent can do that a workflow cannot. It doesn't need the path pre-designed. It doesn't need someone to move the bead. It looks at the job, surveys what's available, and figures it out.
 
-And here's what makes it possible: bringing Hyrule online. Construct the shops. Set up the NPCs. Hand them the handbook. As that comes into existence Link gains capabilities.  The **agentic runtime** is the place that makes this possible. It's not a single shop, a single NPC, a single capability. It's a place where all of them come together. The shops and NPCs make Link dangerous in the best possible way.
+And here's what makes it possible: bringing Hyrule online. Construct the shops. Set up the NPCs. Hand them the handbook. As that comes into existence Link gains capabilities. The agentic runtime is the place where this possible. It's not a single shop, a single NPC, a single capability. It's where they all come together. And that make Link dangerous in the best possible way.
 
 ## Features of the Realm
 
-Shops (**tools**) and NPCs are resources. Ports into your data. That's the core idea. But in Hyrule, these are the dots in the landscape — the source of information the agent can draw from, interact with.
+Shops and NPCs are resources, kinds of **tools**. Ports into your data. That's the core idea. But in Hyrule, they're dots in the landscape — the source of information the agent can draw from, interact with.
 
-It's most baren.  Sensing what it could be, you develop it gradually, constructing one town, then another, feature by varied feature.
+But a land undeveloped is mostly baren. It's only when you sense what it could be, you develop it, gradually. Construct one town, then another, feature by varied feature.
 
 That includes:
 
