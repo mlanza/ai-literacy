@@ -176,7 +176,7 @@ An agent needs the same capability. And that comes from having the right tools.
 
 Tools aren't just connections to data. They're resources that expand and improve context. They're what make it possible to get work done *correctly*. A CLI that runs a syntax checker. An artifact like an SOP that defines what "done" looks like. A datastore that lets the agent query the source to verify its answer. These aren't optional extras. They're how the agent evaluates its work against the goal.
 
-Your organization is effectively the data it owns. Its data what differentiates it. Without ports to your data that value lies dormant. Link can't help in parts of the kingdom that haven't come online. He can't help in areas of the realm which don't yet exist. That's why Hyrule must be built — piece by piece, tool by tool, until the whole kingdom is connected.
+Your organization is effectively the data it owns. Its data what differentiates it. Without ports to your data that value lies dormant. Link can't help in parts of the kingdom that haven't come online. He can't help in areas of the realm which don't yet exist. That's why Hyrule must be built — town by town, shop by shop, NPC by NPC, until the whole kingdom is connected.
 
 Here's what that looks like in practice. Say the agent builds a report. Without the right tools, it hands it to you and waits. You read it. You check it. You find errors. You send it back. That's the bottleneck. Every turn requires you in the loop, playing quality assurance.
 
