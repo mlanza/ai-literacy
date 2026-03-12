@@ -116,15 +116,15 @@ Now imagine that in knowledge work.
 
 For most of history, using software meant doing the work yourself. You opened the app. You clicked the buttons. You moved the data. The tool was there, but you were still the one doing the lifting. The capability existed in the software, but you were the one applying it.
 
-Then came helpers. ChatGPT is useful. It mustn't be dismissed. But even a chatbot is still a helper who needs you to orchestrate. If you're dragging files, pushing buttons, explaining context repeatedly — you're still putting the IKEA shelves together. You got the package delivered, but the assembly is on you.
+Then came chatbots. They're useful. ChatGPT mustn't be dismissed. But even with a chatbot you orchestrate. If you're dragging files, copying text, and pushing buttons — the IKEA shelf assembly is still on you.
 
 An agent bound to a single app — The Inkwell (Word), Ledger Hall (Excel), your email — is like a servant who can only work in one room of your castle. Brilliant at what they do in that room. But walk them down the hall to a different room and they're lost. They can't see beyond the walls of their dwelling.
 
 We're moving into an era where Link can take on project-sized work, not just simple tasks. Not one shop. Not one room. The whole castle. The whole kingdom. Link becomes your champion — someone you send to handle complex, multi-step work while you focus on something else.
 
-This is possible because the **agentic runtime** is the environment where towns and shops come online. Link doesn't exist apart from Hyrule. The runtime is the land. The shops are the capabilities. Without towns to visit, Link has nowhere to go. Without tools to use, Link has nothing to work with. The promise is massive — but it only lives in the places we've built.
+This is made possible in environments where towns and shops come online. Link doesn't exist apart from Hyrule. The runtime is the land. The shops are the capabilities. Without towns to visit, Link has nowhere to go. Without tools to use, Link has nothing to work with. The promise is only as massive as the land that gets developed.
 
-That's the distinction. A helper works in one room. A champion works across the whole kingdom. And the kingdom only exists when you build it.
+That's the distinction. A blacksmith operates a forge. A champion on horseback commands the whole realm. But that kingdom? It only exists if you build it.
 
 ## There Is No Button
 
