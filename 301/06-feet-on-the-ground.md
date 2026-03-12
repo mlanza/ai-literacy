@@ -26,7 +26,7 @@ From the user’s perspective, the agent feels alive. From the developer’s per
 
 Everything unfolds within the app’s control loop.
 
-> ⛩️ The **loop** is the crucial foundation for agency. It's what makes tool use possible.
+> ⛩️ The **loop** is the crucial foundation for agency. It makes tool use possible.
 
 ### 🌀 Calendar Query
 
@@ -47,7 +47,7 @@ A model has deep knowledge of the world. It knows what a calendar is for, but ap
 
 > ⛩️ An **agent** is a model placed inside a loop and handed tools and a goal.
 
-Tools permit the model to take small, concrete actions. The loop lets it break the goal into bite-sized tasks and pursue them one at a time.
+Tools permit the model to take small, concrete actions. The loop lets it *reason*, lets it break the goal into bite-sized tasks and pursue them one at a time.
 
 Both are essential. Tools make work *possible*. The loop makes work *progressive* — because most goals can’t be reached in a single leap.
 
@@ -77,7 +77,7 @@ That structure didn’t appear by accident. The developer defined the **shape** 
 The model does what it always does: reads the stage, considers what’s available, and fabricates a plausible next move.
 That it includes a meaningful, structured request — a concrete step toward solving a real-world problem — is extraordinary.
 
-This dual response reveals the model’s gift as a **universal mediator**, a true-to-life C-3P0. It can speak fluently to both humans and machines.
+This dual response reveals the model’s gift as a **universal mediator**, a true-to-life C-3P0. Like the well-loved android, it can speak fluently in any dialect, to humans and machines.
 
 The app, expecting such structured tool calls, parses them from the conversation, routes them to the right service, and passes results back in context — to the model, the user, or both.
 
@@ -113,11 +113,11 @@ Your 2pm meeting is “Control Layer Governance.” The attendees are Avery Luca
 
 Neither side gets the raw exchange. Every message is adjusted — expanded, filtered, or framed — so it lands in the right shape for its audience. The model gets enriched messages; humans get edited ones. That layer of mediation keeps the loop coherent and frames both sides of the exchange for a good experience.
 
-The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check, an **evaluation**, into the loop. This is essential for tracking the goal. After each turn, the app prompts the model:
+The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check, an **evaluation**, into the loop. Tracking the goal is essential. After each turn, the app prompts the model:
 
 > Review the transcript. Have you delivered the anticipated outcome?
 
-Depending on its response, the loop either concludes or continues. That’s autonomy — the essence of an agent: a model governing its own progress.
+Depending on its response, the loop either concludes or continues. The essence of **agency** is the ability to move toward a goal.
 
 The model, in a world set with tools and a goal and system-prompt guidance, doesn’t need step-by-step instructions. It uses what’s available.  And the app facilitates by exposing tools and feeding it turns.
 
@@ -212,7 +212,7 @@ For the agent to propel itself forward in the story, picture Link on a skateboar
 
 That’s where the developer is — right there, with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made. When the surgeon (the model) requests “scalpel,” the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
-Yes, that happens with code. But the developer decides how fine-grained to be about checking and granting access. Since the AI is a brain in a jar, all it can do is speak in text. Some of those requests will be for tools. The developer has to vet and enable them — not in the actual moment, but when wiring the **app** together.
+Yes, that happens with code. But the developer decides how fine-grained to be about checking and granting access. Since the AI is a brain in a jar, all it can do is speak in text. Some of those requests will be for tools. The developer has to vet and enable them — not in the actual moment, but when wiring the app together.
 
 While there, he’s not necessarily thinking about “let them know I’m running late.” It’s more opaque than that. He just knows, having designed the set and laid out the props, the kinds of things the agent may attempt in response to user demands. So, from his perspective, the Zork adventure might unfold something like:
 
@@ -223,13 +223,13 @@ While there, he’s not necessarily thinking about “let them know I’m runnin
 > send group text: “...”
 ```
 
-And, as we saw, each discrete action was a turn — a push of the foot. That’s what the app sees. That’s what the developer vets. Because he can’t anticipate every intent, but he does have absolute control over what’s permitted inside the loop.
+And, as we saw, each discrete action was a turn — a push of the foot. That’s what the app sees. That’s what the developer vets. Because he can’t anticipate every intent, but he does govern what can and can't happen inside the loop.
 
 He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.  Or to pass that decision along, in a prompt, to the human operator.
 
 ## Wiring Up v. Plugging In
 
-When the surgeon calls for "scalpel," the scrub nurse plucks it from the tray and places it squarely in the hand. That handover isn't magic. It was designed. Someone had to decide what instruments would be on the tray, what each one does, and how to hand it over. That's the developer's job — not in the moment, but in the building.
+When the surgeon calls for "scalpel," the scrub nurse plucks it from the tray and places it squarely in the hand. That handover isn't magic. It was designed. Someone had to decide what instruments would be on the tray, what each one does, and how to hand it over. That's the developer. He's the unseen middleman between the model and reality. He defines the rules of engagement not in the moment, but when making the app.
 
 Every tool the agent uses represents a bridge the developer had to construct: code that translates the model's intent into an actual API call, code that shapes the response into something the model can reason about, code that vets permissions and handles errors. This is the **orchestration layer** — the backstage where the agent's world comes alive. The props from our text adventure? They're not just scenery. They're the "fictional props with teeth" we mentioned earlier — and someone has to give them those teeth.
 
