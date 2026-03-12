@@ -112,7 +112,7 @@ Organizations that figure this out will have something powerful. The lever. The 
 
 Imagine you had someone working for you. Not in the same room — across the kingdom. Someone you could send on a quest and trust they'd come back with results. Someone who could cook your meals, do your laundry, run your errands — not one thing, but everything. In the old world, you did it all yourself. Every meal, every chore, every task. You were the worker and the boss, the doer and the planner.
 
-Now imagine what this can do for the common knowledge worker. Not a developer. A normy in a cube at a computer.
+Now imagine what getting a personal helper could do for you. Not a developer. A normy in a cube at a computer.
 
 For most of history, using software meant doing the work yourself. You opened the app. You clicked the buttons. You moved the data. The tool was there, but you were still the one doing the lifting. The capability existed in the software, but you were the one applying it.
 
