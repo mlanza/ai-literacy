@@ -68,7 +68,9 @@ But a land undeveloped is mostly baren. It's only when you sense what it could b
 
 That includes:
 
-**Applications** are the programs you use every day — Word, Excel, Outlook, Notion, your CRM, your ticketing system. Each one is a door. Each door leads to a category of data. The app is the means of access, and the data is what's behind the door. In Hyrule, these are like The Inkwell (Word), The Ledger Hall (Excel), The Post Office (email), The Guild Registry (CRM) — each building a different kind of capability.
+**Apps** are the programs you use every day — Word, Excel, Outlook, Notion, your CRM, your ticketing system. Each one is a door. Each door leads to a category of data in a file or datastore or behind an API. The app is the means of access, and the data is what's behind the door. In Hyrule, these are like The Inkwell (Word), The Ledger Hall (Excel), The Post Office (email), The Guild Registry (CRM) — each building a different kind of capability.
+
+A model uses its own flavor of apps. They speak plain text — its native tongue — and like their graphical counterparts,the ones you're familiar with, can act on a wide range of commands. They're either integrated directly or, as discussed in the last chapter, plugged in USB-style. These are the most common kind of "tools" and what is ordinarily meant when the term is used.
 
 **Files** are the documents, spreadsheets, images, and data you have scattered across your drives. A Word doc, an Excel spreadsheet, a PDF, a CSV, a JSON file — these are all files. They're containers where people store information. In Hyrule, a file is like a scroll sitting on a shelf in a shop. The NPC hands it to Link when asked. It contains information. The file itself a digit ware discoverable somewhere in the realm. A report sitting in a shared drive is an NPC named who will share from the "Quarterly Report" what happened of significance.
 
@@ -78,11 +80,9 @@ Understand that the sales figures in a spreadsheet apart from the file that expl
 
 > ⛩️ Data is useful only when intelligible.
 
-**[Skills](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills)** combine artifacts with applications. The artifact tells the agent *how* to do something. The app lets the agent *do* it. A Skill bundles the instruction and the capability. In Hyrule, the NPC hands Link a scroll explaining how to use a sword along with the sword. The knowing and doing capability imparted in a single exchange.
+**[Skills](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills)** combine artifacts with applications. The artifact tells the agent *how* to do something. The app lets the agent *do* it. A Skill bundles the instruction and the capability. In Hyrule, the NPC explains swordsmanship to Link on his way into the armory to get the sword. The knowing and doing imparted in a single exchange.
 
-**CLIs** (Command-Line Interfaces) and **MCP** (Model Context Protocol) services are to Link what an app is to a human. They're the programs an agent uses to gain a capability. Where a human might use a graphical app (like Word) an agent prefers ones that speak in plain text — its native tongue — and can act on a wide range of commands. While people don't use MCP services directly, they can and do use CLIs.
-
-**Datastores** and **Instrumentation** are the backing stores and the conduits to transmitting real time facts. Everything you've ever created, every record ever saved, every piece of information ever captured — it all lives somewhere. On a local drive. On a server. In the cloud. Behind an API. Instrumentation refers to your device's built-in capabilities — browser, geolocation, camera, microphone, sensors. These are the sources. The apps, files, and artifacts are what the agent uses to reach them.
+**Instrumentation** are transmitted as real time facts from a device or a browser.  Those built-in capabilities include geolocation, camera, microphone, sensors. Things like that, but useful information nonetheless.
 
 That's the landscape Link sees. And it's magnificent. But there's another side.
 

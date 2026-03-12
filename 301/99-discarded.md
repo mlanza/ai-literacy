@@ -296,3 +296,7 @@ One that secures **alignment** — does it pursue human intent, not just human i
 These qualities don't emerge on their own. They're engineered. They're governed. And they show up in the details — in what props are placed, in how tightly loops are held, in who gets to click *proceed*.
 
 Because AI doesn't care. It never will. That burden, and that promise, rests with the people who build it — the ones who put feet on the ground.
+
+---
+
+**CLIs** (Command-Line Interfaces) and **MCP** (Model Context Protocol) services are to Link what an app is to a human. They're the programs an agent uses to gain a capability. Where a human might use a graphical app (like Word) an agent prefers ones that speak in plain text — its native tongue — and can act on a wide range of commands. While people don't use MCP services directly, they can and do use CLIs.
