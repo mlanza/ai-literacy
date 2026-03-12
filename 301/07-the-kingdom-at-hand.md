@@ -28,7 +28,7 @@ Now imagine an agent with *license* to Hyrule. Not The Inkwell. Not Ledger Hall.
 
 Getting the game-changing lever depends on populating the kingdom. Not a lone chatbot. Not an model confined to a dwelling. The whole kingdom, all at once. That's what turns that runtime into something transformative — something where the assistant can do a job end to end, without you in the loop, at a scale and speed that was never before possible.
 
-Because agency and autonomy don't matter to a worker who can't reach the work. Let's reflect on what's been covered and how that gets leveraged.
+But neither agency nor autonomy matter to a worker who can't reach the work. Let's reflect on what's important and then delve into what enables reach.
 
 ## On Rails vs. Off
 
