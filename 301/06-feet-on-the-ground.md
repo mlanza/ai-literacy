@@ -1,4 +1,4 @@
-# Feet on the Ground
+﻿# Feet on the Ground
 
 In the last chapter, we described the world from an AI’s perspective as a kind of text adventure — a Zork-style simulation where it navigates rooms, encounters objects, and performs actions by typing verbs. But we also explained from a practical perspective: those objects aren’t just fictional. They're props with wiring. When wired into an **app’s architecture** — the scaffolding of an **agent** — they become portals to the real world, turning fictional acts into consequential ones.
 
@@ -227,7 +227,29 @@ And, as we saw, each discrete action was a turn — a push of the foot. That’s
 
 He doesn’t have to know where the story is going. He just has to decide whether this particular combination of verbs — on this particular stage — seems reasonable enough to let the action proceed.  Or to pass that decision along, in a prompt, to the human operator.
 
-Some developers choose to make the model’s steps visible. They show its thoughts mid-move, using chain-of-thought as a UI convention — a running log of reasoning that users can watch unfold.
+## Wiring Up v. Plugging In
+
+When the surgeon calls for "scalpel," the scrub nurse plucks it from the tray and places it squarely in the hand. That handover isn't magic. It was designed. Someone had to decide what instruments would be on the tray, what each one does, and how to hand it over. That's the developer's job — not in the moment, but in the building.
+
+Every tool the agent uses represents a bridge the developer had to construct: code that translates the model's intent into an actual API call, code that shapes the response into something the model can reason about, code that vets permissions and handles errors. This is the **orchestration layer** — the backstage where the agent's world comes alive. The props from our text adventure? They're not just scenery. They're the "fictional props with teeth" we mentioned earlier — and someone has to give them those teeth.
+
+That means writing code for each one. Every new tool requires the same heavy lift: define the shape of a valid request, wire in the actual service, handle the response, feed it back to the model. It's work. Important, necessary work — but repetitive.
+
+Here's the thing: there's a better way. The abstract protocol we used in the exchange above? That's essentially what **MCP (Model Context Protocol)** is. It exists because the industry hit the same wall we just walked through. Instead of building every tool into every app — calendar, contacts, messaging, and so on — it made sense to standardize. To make tools modular. To make them into what are effectively USB drives: build them once, plug them in, reuse them everywhere.
+
+It's the pivot from **wiring up** to **plugging in**.
+
+Wiring up means baking each tool directly into your app — custom code for every integration, bespoke connections that live and die with that application. Plugging in means building a generic scaffold that speaks the protocol. You adapt your app to support MCP once, and then any tool that speaks MCP can be plugged in. The effort becomes portable. The shop that builds the tool can use it — but so can anyone else. These tools become commodities, ready to deploy.
+
+So the developer doesn't wire up each individual tool. He wires up a scaffolding that supports an entire category of tools. He builds the port. The tools are the devices.
+
+This idea — reuse through modularity — shows up in other forms too. The principle is the same: rather than custom-orchestrating every capability, have apps support plug-in components. It's not that wiring is wrong. If there's an app, there's a loop. It wants a tool.  The integration lift is necessary. But how it get there is a choice. It can be wired up individually — building all the code that makes it come alive — or it can be authored as a pluggable component that lets the protocol do the heavy lifting.
+
+One builds a feature. The other builds a platform.
+
+## Watching The Show
+
+Some developers choose to make the model's steps visible. They show its thoughts mid-move, using chain-of-thought as a UI convention — a running log of reasoning that users can watch unfold.
 
 But I wanted to imagine something a little more fun to watch. The developer could, if he wanted, render a town for the model — Link — to inhabit. It has a calendar shop, a contact booth, and a messaging kiosk. Link darts from place to place, completing tasks. You see where it goes. You see what’s in bounds. This way, the work becomes legible.
 
