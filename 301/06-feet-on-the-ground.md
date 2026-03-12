@@ -200,7 +200,7 @@ That's not how programs behave. That's how interns behave — the good ones, the
 
 No one planned for this ask. But the system held up anyway. The loop enabled it. And the fact it reached its goal without step-by-step guidance is what made it a [magic moment](./04-magic-moments.md).
 
-## Feet Spur the Loop
+## Finding a Foothold
 
 Each loop was a single turn. Every tool call was surfaced explicitly:
 
