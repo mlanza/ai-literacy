@@ -72,7 +72,7 @@ That includes:
 
 A model uses its own flavor of apps. They speak plain text — its native tongue — and like their graphical counterparts,the ones you're familiar with, can act on a wide range of commands. They're either integrated directly or, as discussed in the last chapter, plugged in USB-style. These are the most common kind of "tools" and what is ordinarily meant when the term is used.
 
-**Files** are the documents, spreadsheets, images, and data you have scattered across your drives. A Word doc, an Excel spreadsheet, a PDF, a CSV, a JSON file — these are all files. They're containers where people store information. In Hyrule, a file is like a scroll sitting on a shelf in a shop. The NPC hands it to Link when asked. It contains information. The file itself a digit ware discoverable somewhere in the realm. A report sitting in a shared drive is an NPC named who will share from the "Quarterly Report" what happened of significance.
+**Files** are the documents, spreadsheets, images, and data you have scattered across your drives. A Word doc, an Excel spreadsheet, a PDF, a CSV, a JSON file — these are all files. They're containers where people store information. In Hyrule, a file is like a scroll sitting on a shelf in a shop. The NPC hands it to Link when asked. It contains information. The file itself a digital ware discoverable somewhere in the realm. A report sitting in a shared drive is an NPC named who will share from the "Quarterly Report" what happened of significance.
 
 **Artifacts** are also files, but they're a special kind. They're files *about* how work gets done — not the work product itself, but the guidance that shapes it. An SOP describes the process. A style guide defines the tone and format. An employee handbook explains how the organization operates. A set of examples shows what "good" looks like. These are meta-files — they don't contain the work, they contain the instructions for doing the work. In Hyrule, an artifact is like a wise elder standing by the road — an NPC named "Town Historian" who hands Link a scroll explaining how things are done in these parts. When consulted, it shapes how Link approaches the job.
 
@@ -80,9 +80,9 @@ Understand that the sales figures in a spreadsheet apart from the file that expl
 
 > ⛩️ Data is useful only when intelligible.
 
-**[Skills](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills)** combine artifacts with applications. The artifact tells the agent *how* to do something. The app lets the agent *do* it. A Skill bundles the instruction and the capability. In Hyrule, the NPC explains swordsmanship to Link on his way into the armory to get the sword. The knowing and doing imparted in a single exchange.
+**[Skills](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills)** combine artifacts with files and apps. The artifact tells the agent *how* to do something. The files and apps the means to *do* it. A Skill bundles the instruction and the capability. In Hyrule, the NPC explains swordsmanship to Link on his way into the armory to get the sword. The knowing and doing imparted in a single exchange.
 
-**Instrumentation** are transmitted as real time facts from a device or a browser.  Those built-in capabilities include geolocation, camera, microphone, sensors. Things like that, but useful information nonetheless.
+**Instrumentation** trasmit real time facts from the device. Its built-in capabilities include geolocation, camera, microphone, sensors — things like that, but useful information nonetheless.
 
 That's the landscape Link sees. And it's magnificent. But there's another side.
 
