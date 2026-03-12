@@ -1,4 +1,4 @@
-# The Kingdom is at Hand
+# The Kingdom at Hand
 
 In the last chapter, you gave Link feet. You watched him push off from the ground, move from shop to kiosk, and carry a task across multiple turns — querying a calendar, looking up contacts, sending a message. Each push was a step. Each step was a decision. And the stage on which he moved was what you called the **app** — the scaffolding that let a model act.
 
