@@ -247,57 +247,6 @@ This idea — reuse through modularity — shows up in other forms too. The prin
 
 One builds a feature. The other builds a platform.
 
-## Watching The Show
-
-Some developers choose to make the model's steps visible. They show its thoughts mid-move, using chain-of-thought as a UI convention — a running log of reasoning that users can watch unfold.
-
-But I wanted to imagine something a little more fun to watch. The developer could, if he wanted, render a town for the model — Link — to inhabit. It has a calendar shop, a contact booth, and a messaging kiosk. Link darts from place to place, completing tasks. You see where it goes. You see what’s in bounds. This way, the work becomes legible.
-
-Most workflows aren’t like that. They’re not towns. They’re trails. Directed. Linear. A bead moving cup to cup.
-
-Some of those trails are hand-designed. Others are walked freely. What matters is that the bead advances through stages — and that each stage creates context for the next. That’s what we’re talking about now. How the model gets traction, feet on the ground, pushing. Then pushing again. Each push, shaped by what’s come before.
-
-Because real work doesn’t happen in a single turn. The facts don’t arrive all at once. The structure doesn’t spring up whole. It’s layered. Step by step.
-
-That’s why developers build systems. Why they expose waypoints. Why they separate concerns across turns.
-
-Because structure improves output. Because each step leaves behind byproducts. Because serious work is iterative.
-
-But here’s what changes once the model starts pushing — when it keeps moving, turn after turn. We’re no longer just talking about intelligence.
-
-We’re talking about **trust**.
-
-And that raises the question: how far do we want it to go?
-
-Is this a guided trail — tightly bounded, low-risk?
-
-Is it a town — open-ended, permissive, built for discovery?
-
-Or is it something else?
-
-The answer depends on what we’re willing to hand off — and how much we want to be kept in the loop.
-
-## Proximity Reflects Trust
-
-With **human out of the loop**, everything has already been decided. The stage is set, the props pre-approved, and Link moves through the world freely. The user offers the quest, and Link takes it from there — pushing forward, making decisions, carrying out the task with no interruptions. No one watches. No one interferes. There may not even be a visible interface showing what he’s doing. That’s maximum trust.
-
-With a **human on the loop**, the stage looks the same, but there’s a window into the play. The imagined town becomes visible. Link darts from shop to kiosk, nimble and fast — and the system might even slow him down on purpose, introducing a delay before each service interaction. Maybe 10 seconds. Enough time for someone to intervene if needed. A **stop** button appears. The adventure is still his, but it can be halted at any time. That’s medium trust.
-
-With a **human in the loop**, Link’s freedom narrows. He must knock before entering. Each time he attempts something, the simulation pauses. The system reveals not just what he’s doing, but what he intends to do. The human sees the request, evaluates it, and must explicitly approve it — clicking **proceed** before the story moves on. That’s minimal trust.
-
-The scale varies, but the question underneath is steady: how much freedom does the system get before someone steps in?
-
-## The Hippocratic Oath
-
-This kind of trust isn’t about sentiment. Machines don’t deserve it. They don’t earn it. They don’t feel responsible. The only oath in play is ours: **first, do no harm.**
-
-So trust, here, means something narrower and heavier. It’s confidence in outcome.
-
-That the system will do what was meant, not just what was said.
-That it won’t cause damage — not because it understands the stakes, but because the scaffolding holds.
-
-Deciding how close a human must stay — in, on, or out of the loop — is a design question. And that design is shaped by risk.
-
 ## Agency Is a Path, Autonomy a Town
 
 To give a model “feet on the ground” is to let it act, not just reason.
@@ -310,9 +259,9 @@ Agency makes that possible.
 
 But **autonomy** is looser. It’s not just about movement — it’s about deciding where to go. Sometimes that means letting the model decide the goal entirely. More often, it means giving it a purpose but not a path. You hand Link the quest but not the instructions. He chooses how to proceed.
 
-Autonomy opens more doors. And with that freedom comes more uncertainty.
+Autonomy opens more doors. And with that freedom comes more uncertainty. Risks.
 
-So trust expands to meet the risks. We’ll get into these risks momentarily; however, let’s first correct a former generalization about models.
+Risks are a topic to be covered later. In the meantime, let’s correct a former generalization about models.
 
 ## Some Models Walk
 
@@ -333,65 +282,3 @@ Whether we call it a *model* or an *agent* is really about the loop. A single tu
 The more turns an agent takes, the further it can wander. A long leash lets it drift — off the path, past the town, into places no one intended. Every additional turn is another step into uncertainty. That's where trust enters: how much ground is the agent allowed to cover before someone checks the work? This is the design question behind every agent — not just whether it has a loop, but how far that loop is allowed to run.
 
 The focus is the motion. The model moves a bead. Another lifts it cup to cup to cup, and how far we’re willing to let it go is a matter of weighing in on the risks.
-
-## Risk Categories
-
-### Mistakes
-
-Language models are predictive machines. They don’t reason like people. They don’t understand. So they guess — and sometimes they guess wrong. Small errors might just be cosmetic. Larger ones can do real harm. They might misstate facts, mislabel diagnoses, or fabricate something that was never true.
-
-And they sound confident while doing it.
-
-So the first question is simple:
-*Can this be trusted to behave as expected — and will anyone notice when it doesn’t?*
-
-### Misalignment
-
-Not every system serves your goals. Some optimize for attention. Some quietly serve the priorities of whoever built them. They follow instructions, yes — but they might pursue outcomes you didn’t ask for, or don’t want.
-
-So another question emerges:
-*Does this system behave in ways that reflect human values — and whose values does it follow?*
-
-As autonomy increases, so does this risk. A helpful agent is one thing. An autonomous one pursuing the wrong objective is something else entirely.
-
-### Unintended Consequences
-
-Sometimes the damage doesn’t come from one wrong answer. It builds. A small flaw compounds. A small nudge shifts the path. A harmless tool, used at scale, drives outcomes no one intended. Maybe it reinforces bias. Maybe it deepens polarization. Maybe it makes the wrong call and acts on it, fast.
-
-So the final question is:
-*Can we see where this might lead — and stop it if it goes too far?*
-
-## The Weight of the Lever
-
-To give Link feet on the ground is to build a lever of unusual size — a way to move more than we otherwise could. And it’s easy to feel the promise. A system that can respond to human intent, operate tools, complete tasks, even carry work forward without needing to be told what to do at each step.
-
-That’s not science fiction. That’s the present tense.
-
-The ask is small — “Let them know I’m running late.”
-The output is precise: the right people, the right message, the right time.
-And the lift? Offloaded entirely.
-That’s the lever.
-
-Of course we want this. Of course we’re trying. Because if a machine can help shoulder our knowledge work — lighten it, speed it, hand it off — the value is enormous.
-
-But the lever cuts both ways.
-
-The same momentum that lets Link glide from shop to kiosk, taking the next step and the next, can also carry him into places we didn’t mean to go. The same fluency that lets him bridge gaps in planning or knowledge can, just as easily, fill them with fiction.
-
-We’ve already seen what machines can do: self-driving cars. But sometimes they fail — and the weight of the error is real. Not a mistyped word. A broken body. A life.
-
-And while knowledge work may seem safer, its effects aren’t soft. A misfiled claim. A biased loan decision. A hallucinated treatment plan. When software does the work, the risk rides with it.
-
-So while the lever is impressive — and it is — the fulcrum must be strong. That’s where trust comes in. And trust, as we said, is not a feeling. It’s a system design.
-
-One that demands **transparency** — can you see what it’s doing?
-
-One that allows for **auditability** — can you trace how it got there?
-
-One that offers **control** — can you intervene or shut it down?
-
-One that secures **alignment** — does it pursue human intent, not just human input?
-
-These qualities don’t emerge on their own. They’re engineered. They’re governed. And they show up in the details — in what props are placed, in how tightly loops are held, in who gets to click *proceed*.
-
-Because AI doesn’t care. It never will. That burden, and that promise, rests with the people who build it — the ones who put feet on the ground.
