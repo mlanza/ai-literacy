@@ -8,7 +8,7 @@ This isn’t light work. Every virtual prop that does something real represents 
 
 What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It’s the kind of orchestration work that goes into enabling tools.
 
-Under the hood, the agent inside this app uses a simple protocol (represented abstractly herein) to denote its intention to use tools. It's the special dialect by which an agent operates affordances in Zork. We’re abstracting over that protocol so you can understand what appears as a seamless Zork improv depends on a mechanism.  It puts the knob on the door, so to speak. It gives an agent the ability to spot affordances and to act.
+Under the hood, the agent inside this app uses a simple protocol (represented abstractly herein) to denote its intention to use tools. Think of it as the dialect by which the agent operates affordances in Zork. We’re abstracting over that protocol so you can understand what appears as a seamless Zork improv depends on a mechanism.  It puts the knob on the door, so to speak. It gives an agent the ability to spot affordances and to act.
 
 The orchestration example below models one such exchange — not because the protocol itself matters, but because it shows what the handshake entails.
 
@@ -24,7 +24,9 @@ From there, the baton passes to agent inhabiting the app. It spins up the model,
 
 From the user’s perspective, the agent feels alive. From the developer’s perspective, the app is the real system — a translator that turns words into structured requests and routes them through actual APIs.
 
-Everything unfolds within the app’s **control loop**.
+Everything unfolds within the app’s control loop.
+
+> ⛩️ The **loop** is the crucial foundation for agency. It's what makes tool use possible.
 
 ### 🌀 Calendar Query
 
@@ -41,9 +43,11 @@ There is a calendar shop, contact booth, and messaging kiosk in sight.
 
 The **model** immediately locks onto the calendar shop. To notify anyone, it first needs to know what the 2:00 PM meeting is — and who’s attending.
 
-A model has deep knowledge of the world. It knows what a calendar is for, but apart from props (tools) and a stage (app) on which it can perform it lacks **agency** — the ability to act. That’s why it can tell you *how* to solve a problem, but can’t solve it itself.
+A model has deep knowledge of the world. It knows what a calendar is for, but apart from props (tools) and a stage (app) on which it can perform it lacks **agency** — the ability to act. That’s why it can tell you *how* to solve a problem, but can’t solve it itself.  But when you drop a model into a loop and give it tools and goal, that's a recipe for magic.
 
-**An agent is a model given tools and placed inside a loop and told to achieve a goal.** The tools let it take small, concrete actions. The loop lets it break down the goal into bite-sized tasks and pursue them one at a time.
+> ⛩️ An **agent** is a model placed inside a loop and handed tools and a goal.
+
+Tools permit the model to take small, concrete actions. The loop lets it break the goal into bite-sized tasks and pursue them one at a time.
 
 Both are essential. Tools make work *possible*. The loop makes work *progressive* — because most goals can’t be reached in a single leap.
 
@@ -73,7 +77,7 @@ That structure didn’t appear by accident. The developer defined the **shape** 
 The model does what it always does: reads the stage, considers what’s available, and fabricates a plausible next move.
 That it includes a meaningful, structured request — a concrete step toward solving a real-world problem — is extraordinary.
 
-This dual response reveals the model’s gift as a **universal mediator**. It can speak fluently to both humans and machines.
+This dual response reveals the model’s gift as a **universal mediator**, a true-to-life C-3P0. It can speak fluently to both humans and machines.
 
 The app, expecting such structured tool calls, parses them from the conversation, routes them to the right service, and passes results back in context — to the model, the user, or both.
 
@@ -109,7 +113,7 @@ Your 2pm meeting is “Control Layer Governance.” The attendees are Avery Luca
 
 Neither side gets the raw exchange. Every message is adjusted — expanded, filtered, or framed — so it lands in the right shape for its audience. The model gets enriched messages; humans get edited ones. That layer of mediation keeps the loop coherent and frames both sides of the exchange for a good experience.
 
-The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check, an **evaluation**, into the loop. After each turn, the app prompts the model:
+The latest step moved the user closer to the goal. The model senses the task isn’t finished — not by intuition, but because the developer built a progress check, an **evaluation**, into the loop. This is essential for tracking the goal. After each turn, the app prompts the model:
 
 > Review the transcript. Have you delivered the anticipated outcome?
 
@@ -194,7 +198,7 @@ What happened next — the querying, the lookup, the delivery — emerged not fr
 
 That’s not how programs behave. That’s how interns behave — the good ones, the kind who look around, understand the tools, and move. The kind who don’t need constant instruction, because they can reason from the materials at hand.
 
-We didn’t plan for this ask. But the system held up anyway. And that, more than any single move, is what made it feel like a [moment](./04-magic-moments.md).
+We didn’t plan for this ask. But the system held up anyway. The loop enabled it. And the fact it reached its goal without step-by-step guidance is what made it a [magic moment](./04-magic-moments.md).
 
 ## Feet Spur the Loop
 
@@ -204,7 +208,7 @@ Each loop was a single turn. Every tool call was surfaced explicitly:
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-For the agent to propel itself forward in the story, picture Link on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That’s a turn, happening inside the app’s **control loop** — the heartbeat of the agent.
+For the agent to propel itself forward in the story, picture Link on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That’s a turn, happening inside the app’s control **loop** — the heartbeat of the agent.
 
 That’s where the developer is — right there, with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made. When the surgeon (the model) requests “scalpel,” the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
