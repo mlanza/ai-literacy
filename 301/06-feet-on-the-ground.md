@@ -235,7 +235,7 @@ Every **tool** the agent uses represents a bridge the developer had to construct
 
 > ⛩️ Tools are hands. Without them, the model can think but not do. It can advise but not act.
 
-That means writing code for each one. Every new tool* requires the same heavy lift: define the shape of a valid request, wire in the actual service, handle the response, feed it back to the model. It's work. Important, necessary work — but repetitive.
+That means writing code for each one. Every new tool requires the same heavy lift: define the shape of a valid request, wire in the actual service, handle the response, feed it back to the model. It's work. Important, necessary work — but repetitive.
 
 Here's the thing: there's a better way. The abstract protocol we used in the exchange above? That's essentially what **MCP (Model Context Protocol)** is. It exists because the industry hit the same wall we just walked through. Instead of building every tool into every app — calendar, contacts, messaging, and so on — it made sense to standardize. To make tools modular. To make them into what are effectively USB drives: build them once, plug them in, reuse them everywhere.
 
@@ -251,7 +251,7 @@ One builds a feature. The other builds a platform.
 
 Minus tools you get chatbots, conversational partners, pleasant enough, but powerless. Add tools and the **agent** becomes an **assistant** — able to reach into the world and do things.
 
-## Breaking the Jar
+## Smashing the Jar
 
 Take a step back and trace the journey. You've been treating models like minds in jars — snapshots of the minds of great thinkers. And that's mostly true. A model is a fixed thing. It doesn't grow. It doesn't remember. It doesn't roam the world collecting facts. It stays where it was trained, answering from a single point in time. A brain in a jar. Suspended. Static.
 
@@ -263,27 +263,27 @@ A model without hands has no agency. It can think but not do. It can advise but 
 
 **First, you had a model.**
 
-Still others come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants — too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. Model vendors have called this deliberate turn-taking, forward motion **thinking** and **reasoning**, where I chose **walking** to draw the eye to the loop. Turns are not conclusive. They're partial efforts. The model propels itself — foot down, push — then repeats en route to completing the task at hand.
+Still others come with more beneath the surface. They may not look like it, but some walk paths. Because, in practice, some problems are elephants — too big to eat in a bite. They involve steps as a matter of necessity. So the model must move. Model vendors have called this deliberate turn-taking, forward motion **thinking** and **reasoning**, where I chose walking to draw the eye to the loop. Turns are not conclusive. They're partial efforts. The model propels itself — foot down, push — then repeats en route to completing the task at hand.
 
 **Then, you added a loop.**
 
-A loop changes everything. It gives the model a chance to reason across time — to hold a problem in mind, break it into steps, and pursue those steps one after another. The loop carries the conversation forward. It builds a kind of journal, a running account of what the model has thought and done so far. Without that memory, the loop would be useless — each turn would forget the last. So think of your agent as carrying and keeping a journal of its thoughts and actions.
+A loop changes everything. It gives the model a chance to reason across time — to hold a problem in mind, break it into steps, and pursue those steps one after another. The loop carries the conversation forward. It builds a kind of journal, a running account of what the model has thought and done so far. Without that memory, the loop would be useless — each turn would forget the last. So think of apps like ChatGPT as a model carrying and keeping a journal of its thoughts and actions.
 
-With a loop, a model becomes a **reasoning model**. It can think about a problem. It can determine and lay out a plan, as steps. Then start acting on and fleshing out each. All of this can happen inside a chat, even a chat with limited tooling. A loop without tools is still just a brain in a jar — better than a one-turn model, yes, but only thinking, never doing.
+With a loop, a model becomes a **reasoning model**. It can think about a problem. It can determine and lay out a plan, as steps. Then start acting on and fleshing out each. A chat is a back-and-forth involving you and a model.  A reasoning model operates an off-screen chat with itself. And apart from tools it's still just a brain in a jar — better than a one-turn model in that it can think and plan.
 
 **Then, you added tools.**
 
-Tools are hands. Without them, the model can think but not do. It can advise but not act. The moment you hand that reasoning model a suite of tools — real capabilities, real reach into the world — that's the moment of **agency**. You gave it feet on the ground. The goal is known. The direction is clear. The work unfolds across turns.
+Tools are hands. Without them, the model can think and plan but not do. It can advise but not act. The moment you hand that reasoning model a suite of tools — real capabilities, real reach into the world — that's the moment of **agency**, the moment it gains hands. The goal is known. The direction is clear. The work unfolds across turns.
 
 That was the 2 pm message — the "let them know I'm late" ask. The bead was placed. The trail was laid. The model moved forward step by step.
 
-That's what enables an **agent**. Not the loop alone, not the tools alone — but the loop **and** the tools together. A model with no hands has no agency. Only when you add tools to the loop do you get real agents.
+That's what enables an **agent**. Not the model alone, not the loop alone, not the tools alone — but the three fused together. A model with no hands has no agency. Only when you add tools to the loop do you get real agents.
 
 ## Loosing Link
 
 **Autonomy** is what happens when agency meets freedom. It's not just about moving toward a goal — it's about deciding where to go. The feet on the ground, the hands, the ability to act — all of that is just the beginning. Autonomy is when you hand Link the quest but not the instructions. You give him a purpose but not a path. He chooses how to proceed. He chooses which tool to use when. He wanders.
 
-That's **feet on the ground** — the heart of what autonomy is. The freedom to move. To choose the direction. To wander town to town, overcoming obstacles. That's the vision.
+That's **feet on the ground** — the heart of autonomy. The freedom to move. To choose the direction. To wander town to town, overcoming obstacles. That's the vision.
 
 That's Link.
 
@@ -291,12 +291,12 @@ Picture him scurrying around Hyrule on your behalf — ducking into shops, chatt
 
 A mind no longer shackled by the jar. A brain freed, with hands to grasp, feet to walk, and the wit to decide where to go. He's not just an agent anymore — he's an **assistant**.
 
-The progression — **model**, then **loop**, then **tools** — tells the whole story. Take a model. Wrap it in an app to get a loop. Add tools. With each step, capability grows. A brain in a jar with a loop is better than a one-turn model. But it's nowhere near as good as the one which gets the hands.
+The progression — **model**, then **loop**, then **tools** — tells the whole story. Take a model. Wrap it in an app to get a loop. Add tools. With each step, capability grows.
 
-The more turns an agent takes, the further it can wander. A long leash lets it drift — off the path, past the town, into places no one intended. Every additional turn is another step into uncertainty. That's where trust enters: how much ground is the agent allowed to cover before someone checks the work? This is the design question behind every agent — not just whether it has a loop and tools, but how far that loop is allowed to run.
+The more turns it takes, the further it can wander. A long leash lets it drift — off the path, past the town, into places no one intended. Every additional turn is another step into uncertainty. That's where trust enters: how much ground is the agent allowed to cover before someone checks the work? How far can it go?  These are design decisions.
 
-And although his newfound freedom comes with uncertainty and risks, those are the topic of another discussion.
+These newfound freedoms comes with uncertainty and risks, but those are the topic of another discussion.
 
-Giving the model hands was about *agency*.  Putting its **feet on the ground** gave it mobility, the ability to choose which tool to use and when. That was about *autonomy*. That's Link freely moving through Hyrule on the quests you delegate.
+Giving the model hands was about *agency*. Putting its **feet on the ground** gave it mobility, the ability to choose which tool to use and when. That was about *autonomy*. That's Link freely moving through Hyrule on the quests you delegate.
 
 When all the components are in play — model, loop, tools — the destination arrives. Not just an agent. An **assistant**. The thing you always wanted. A mind out of the jar, with feet on the ground, ready to roam.
