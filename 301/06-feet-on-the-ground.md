@@ -8,7 +8,7 @@ This isn't light work. Every virtual prop that does something real represents an
 
 What follows is a look under the hood at how developers give an app — and the agent inside it — real-world consequence. It's the kind of orchestration work that goes into enabling tools.
 
-Under the hood, the agent inside this app uses a simple protocol (represented abstractly herein) to denote its intention to use tools. Think of it as the dialect by which the agent operates affordances in Zork. We're abstracting over that protocol so you can understand what appears as a seamless Zork improv depends on a mechanism.  It puts the knob on the door, so to speak. It gives an agent the ability to spot affordances and to act.
+Under the hood, the agent inside this app uses a simple protocol (represented abstractly herein) to denote its intention to use tools. Think of it as the dialect by which the agent operates affordances in Zork. That protocol is the mechanism by which text adventure props are used. It puts the knob on the door, so to speak. It gives an agent the ability to spot affordances and to act.
 
 The orchestration example below models one such exchange — not because the protocol itself matters, but because it shows what the handshake entails.
 
@@ -198,7 +198,7 @@ What happened next — the querying, the lookup, the delivery — emerged not fr
 
 That's not how programs behave. That's how interns behave — the good ones, the kind who look around, understand the tools, and move. The kind who don't need constant instruction, because they can reason from the materials at hand.
 
-We didn't plan for this ask. But the system held up anyway. The loop enabled it. And the fact it reached its goal without step-by-step guidance is what made it a [magic moment](./04-magic-moments.md).
+No one planned for this ask. But the system held up anyway. The loop enabled it. And the fact it reached its goal without step-by-step guidance is what made it a [magic moment](./04-magic-moments.md).
 
 ## Feet Spur the Loop
 
