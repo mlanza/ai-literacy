@@ -202,13 +202,15 @@ No one planned for this ask. But the system held up anyway. The loop enabled it.
 
 ## Finding a Foothold
 
-Each loop was a single turn. Every tool call was surfaced explicitly:
+This wasn't a one-shot job. It took a series of steps — a chain of tool calls spanning turns, each one flowing into the next:
 
 * First, the model queried the calendar
 * Then, it got attendee contact info
 * Finally, it sent a message
 
-For the agent to propel itself forward in the story, picture Link on a skateboard. He puts his foot down and pushes off, propelling himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a turn, happening inside the app's control **loop** — the heartbeat of the agent.
+For the agent to propel itself forward in the story, picture Link on a skateboard. He puts his foot down and pushes off, spurring himself forward — but losing momentum quickly. So he has to push again. And again. Each of those pushes? That's a turn. And where there's a turn something else must already be present: the app's control loop.
+
+> ⛩️ A **loop** is the prerequisite to motion and, in turn, agency.
 
 That's where the developer is — right there, with the bead. Not choreographing the motion, but present in the loop. Watching each push. In charge of the environment and passing control as demands are made. When the surgeon (the model) requests "scalpel," the scrub nurse (the developer) plucks it from the tray and places it squarely in the hand.
 
