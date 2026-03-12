@@ -88,7 +88,7 @@ That's the landscape Link sees. And it's magnificent. But there's another side.
 
 ## There Be Dragons
 
-The last chapter talked about trust. It talked about risk. But it was mostly talking about reliability — about whether the agent would do what you asked, whether it would push the bead forward, whether it would make mistakes in execution.
+The last chapter talked about trust. It talked about risk. But the focus was reliability — about whether the agent would do what you asked, whether it would push the bead forward, whether it would make mistakes in execution.
 
 That's not the only risk.
 
@@ -98,9 +98,9 @@ The more powerful the agent, the more dangerous it becomes. Not because it might
 
 > ⛩️ The bigger the lever, the more carefully it must be handled.
 
-This isn't the chapter to get into every way that can happen. But it's worth the mention, because it's real. There's inherent danger in this land. Monsters in the woods. And you have to afford a certain amount of care to mitigate that.
+This isn't the chapter to get into every way that can happen. But it's worth the mention, because it's real. There's inherent danger in this land. Goblins in the woods. And you have to afford a certain amount of care to mitigate that.
 
-The prior chapter hinted at this, but it was predominantly about your ability to steer an agent to do work with reliability. It wasn't about malicious actions. It wasn't about threats from bad actors. That's the more serious concern — and it's the one you have to take seriously as you build.
+The prior chapter hinted at this, but it was predominantly about your ability to steer an agent to do work with reliability. It wasn't about malicious actions. It wasn't about threats from bad actors. That's the more serious concern — and it must be taken seriously in whatever you build.
 
 You want to set Link free. But you also need to build the castle walls.
 
@@ -110,9 +110,9 @@ Organizations that figure this out will have something powerful. The lever. The 
 
 ## From Helper to Champion
 
-Imagine you had a person who worked for you. Not in the same room — across the kingdom. Someone you could send on a quest and trust they'd come back with results. Someone who could cook your meals, do your laundry, run your errands — not one thing, but everything. In the old world, you did it all yourself. Every meal, every chore, every task. You were the worker and the boss, the doer and the planner.
+Imagine you had someone working for you. Not in the same room — across the kingdom. Someone you could send on a quest and trust they'd come back with results. Someone who could cook your meals, do your laundry, run your errands — not one thing, but everything. In the old world, you did it all yourself. Every meal, every chore, every task. You were the worker and the boss, the doer and the planner.
 
-Now imagine that in knowledge work.
+Now imagine what this can do for the common knowledge worker. Not a developer. A normy in a cube at a computer.
 
 For most of history, using software meant doing the work yourself. You opened the app. You clicked the buttons. You moved the data. The tool was there, but you were still the one doing the lifting. The capability existed in the software, but you were the one applying it.
 
