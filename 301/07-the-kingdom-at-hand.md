@@ -206,7 +206,7 @@ They'll compete because they laid the infrastructure. Because their Link can wal
 
 You can get work done by hand. It works. But you'll never be able to compete the worker who is directing one (and maybe even many) agents.
 
-## The Path Forward
+## If You Build It...
 
 This is not a chapter about safety, though safety matters. It's not a chapter about tools, though tools are essential. It's about the opportunity — and what it takes to seize it.
 
